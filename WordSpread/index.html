@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="assets/img/favicon.ico">
+
+    <title>Salvini Vs Di Maio</title>
+
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
+    
+    
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Di Maio VS Salvini</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li> -->
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container theme-showcase" role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>@lugidimaio vs @matteosalvinimi</h1>
+        <p>Parole più significative estratte dai tweet pubblicati dalle due pagine</p>
+        <label for="slider">Date:</label>
+        <input type="text" id="slider" style="border: 0; background: none; color: black; font-weight: bold;" size="0"/>
+        <div id="slider-range"></div>
+    
+    </div>
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6" id="salvini-wc"></div>
+              <div class="col-md-6" id="dimaio-wc"></div>
+          </div>
+      </div>    
+    </div> <!-- /container -->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+    <script src="assets/js/d3.layout.cloud.js"></script>
+    <script src="assets/js/word-cloud.js"></script>
+    <script src="assets/js/graph.js"></script>
+        
+  
+    <script>
+      var q = d3.queue()
+        .defer(d3.json, "data/matteosalvinimi-tfid.json")
+        .defer(d3.json, "data/luigidimaio-tfid.json")
+        .awaitAll(function(error, results) {
+          if (error) throw error;
+
+          m_data = results[0]
+          l_data = results[1]
+
+      
+          
+      m_data = formate_data(m_data)
+      l_data = formate_data(l_data)
+
+      var [min_date, max_date, date_list] = extract_ordered_datelist(m_data)
+    
+      // console.log(min_date, max_date, date_list)    
+      // Istance of world-cloud chart 
+      var m_Cloud = wordCloud('#salvini-wc', ['#006600', '#b2ffb2']); 
+      var m_words = select_words_by_date(m_data, min_date);
+
+      m_Cloud = update_word_cloud(m_words, m_Cloud); 
+      
+      var l_Cloud = wordCloud('#dimaio-wc', ['#800000', '#F4C2C2']); 
+      console.log(min_date, l_data)
+      var l_words = select_words_by_date(l_data, min_date);
+      l_Cloud = update_word_cloud(l_words, l_Cloud); 
+      
+      
+      function slider_handler(event, ui){
+          console.log(date_list)
+          $( "#slider" ).val(date_list[ui.value].toDateString());
+          var m_words = select_words_by_date(m_data, date_list[ui.value])
+          m_Cloud = update_word_cloud(m_words, m_Cloud)
+          var l_words = select_words_by_date(l_data, date_list[ui.value])
+          l_Cloud = update_word_cloud(l_words, l_Cloud)
+      }
+    
+        generate_control_slider("#slider-range", m_data.length-1, slider_handler)
+      });      
+
+    </script>
+
+  </body>
+</html>
+
+
