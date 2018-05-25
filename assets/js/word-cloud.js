@@ -1,4 +1,4 @@
-function wordCloud(selector, color_range) {
+function wordCloud(selector, color_range, onclick=null) {
 
     var fill = d3.scale.category20();
     
@@ -6,7 +6,7 @@ function wordCloud(selector, color_range) {
     //Construct the word cloud's SVG element
     var svg = d3.select(selector).append("svg")
         .attr("width", $(selector).width())
-        .attr("height", 500)
+        .attr("height", 450)
         .append("g")
         .attr("transform", "translate("+$(selector).width()/2+",250)");
 
@@ -19,7 +19,7 @@ function wordCloud(selector, color_range) {
         .domain([
             d3.min(words, function(d){return d.value}),
             d3.max(words, function(d){return d.value})])
-        .range([20,50]);
+        .range([15,50]);
 
 
         var color_counter_scale = d3.scale.linear()
@@ -43,13 +43,18 @@ function wordCloud(selector, color_range) {
         cloud.enter()
             .append("text")
             .attr("text-anchor", "middle")
-            .attr('font-size', 1)
-            .attr('font-family', "Impact")
-            .text(function(d) { 
-                return d.text; });
+            .attr("font-size", 1)
+            .attr("font-family", "Impact")
+            .style("fill", "#fff" )
+            .on("click", onclick)
+            .transition()
+            .duration(1000)
+            .text(function(d) { return d.text; });
 
         //Entering and existing words
         cloud
+        .transition()
+        .duration(500)
             .style("font-size", function(d) { 
                 return d.size + "px"; })
                 .style("fill", function(d, i) { 
@@ -58,6 +63,7 @@ function wordCloud(selector, color_range) {
                 return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
             })
             .style("fill-opacity", 1);
+
 
         //Exiting words
         cloud.exit()
@@ -90,11 +96,11 @@ function wordCloud(selector, color_range) {
             d3.layout.cloud().size([$(selector).width(), 500])
                 .words(words)
                 .padding(5)
-                .rotate(function() { return ~~(Math.random() * 2) * 90; })
+                // .rotate(function() { return ~~(Math.random() * 2) * 90; })
+                .rotate(0)
                 .fontSize(function(d) { 
                     return d.size; 
-                })
-                .on("end", draw)
+                }).on("end", draw)
                 .start();
 
             

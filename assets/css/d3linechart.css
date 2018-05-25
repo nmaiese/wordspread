@@ -1,0 +1,45 @@
+#vis-timeline .data-line {
+	stroke: #5bd643;
+	stroke-width: 2;
+	fill: none;
+	stroke-dasharray: 0;
+}
+
+#vis-timeline .data-line2 {
+	stroke: red;
+	stroke-width: 2;
+	fill: none;
+	stroke-dasharray: 0;
+}
+
+
+#vis-timeline path{
+	stroke: #eee;
+	stroke-width: 2;
+	stroke-dasharray: 0;
+	fill: none;
+}
+
+#vis-timeline .area {
+  	fill: #bcecb2;
+}
+
+#vis-timeline text {
+	font-family: Arial;
+	font-size: 8pt;
+	fill: #787878;
+}
+
+#vis-timeline .line {
+	stroke: #CDCDCD;
+	stroke-width: 0.5;
+	/* stroke-dasharray: 3 3; */
+	fill: none;
+}
+
+.data-point {
+	stroke: #5bd643;
+	stroke-width: 2;
+	fill: #FFF;
+}
+

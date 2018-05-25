@@ -14,7 +14,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
-    
+    <link href="assets/css/d3linechart.css" rel="stylesheet">    
     
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -53,16 +53,19 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <h1>@lugidimaio vs @matteosalvinimi</h1>
-        <p>Parole più significative estratte dai tweet pubblicati dalle due pagine</p>
-        <label for="slider">Date:</label>
-        <input type="text" id="slider" style="border: 0; background: none; color: black; font-weight: bold;" size="0"/>
-        <div id="slider-range"></div>
-    
+        <p>Parole più significative estratte dai tweet pubblicati dalle due pagine</p>    
     </div>
       <div class="container">
           <div class="row">
               <div class="col-md-6" id="salvini-wc"></div>
               <div class="col-md-6" id="dimaio-wc"></div>
+              <div class="col-md-12" id="vis-timeline">
+                  <label for="slider">Date:</label>
+                  <input type="text" id="slider" style="border: 0; background: none; color: black; font-weight: bold;" size="0"/>
+                  <div id="slider-range"></div>
+          
+              </div>
+              
           </div>
       </div>    
     </div> <!-- /container -->
@@ -74,49 +77,89 @@
     <script src="https://d3js.org/d3-queue.v3.min.js"></script>
     <script src="assets/js/d3.layout.cloud.js"></script>
     <script src="assets/js/word-cloud.js"></script>
+    <script src="assets/js/d3linechart.js"></script>    
     <script src="assets/js/graph.js"></script>
         
   
     <script>
+      var datum 
+
       var q = d3.queue()
         .defer(d3.json, "data/matteosalvinimi-tfid.json")
         .defer(d3.json, "data/luigidimaio-tfid.json")
         .awaitAll(function(error, results) {
           if (error) throw error;
 
-          m_data = results[0]
-          l_data = results[1]
-
-      
+          m_data = format_data(results[0]);
+          l_data = format_data(results[1]);
           
-      m_data = formate_data(m_data)
-      l_data = formate_data(l_data)
+          datum = l_data;
 
-      var [min_date, max_date, date_list] = extract_ordered_datelist(m_data)
-    
-      // console.log(min_date, max_date, date_list)    
-      // Istance of world-cloud chart 
-      var m_Cloud = wordCloud('#salvini-wc', ['#006600', '#b2ffb2']); 
-      var m_words = select_words_by_date(m_data, min_date);
+          var [min_date, max_date, date_list] = extract_ordered_datelist(m_data)
+          l_data = l_data.filter(function(d){return d.date.getTime()>=min_date.getTime()})
 
-      m_Cloud = update_word_cloud(m_words, m_Cloud); 
-      
-      var l_Cloud = wordCloud('#dimaio-wc', ['#800000', '#F4C2C2']); 
-      console.log(min_date, l_data)
-      var l_words = select_words_by_date(l_data, min_date);
-      l_Cloud = update_word_cloud(l_words, l_Cloud); 
-      
-      
-      function slider_handler(event, ui){
-          console.log(date_list)
-          $( "#slider" ).val(date_list[ui.value].toDateString());
-          var m_words = select_words_by_date(m_data, date_list[ui.value])
-          m_Cloud = update_word_cloud(m_words, m_Cloud)
-          var l_words = select_words_by_date(l_data, date_list[ui.value])
-          l_Cloud = update_word_cloud(l_words, l_Cloud)
-      }
-    
-        generate_control_slider("#slider-range", m_data.length-1, slider_handler)
+          // console.log(min_date, max_date, date_list)    
+          // Istance of world-cloud chart 
+          var m_Cloud = wordCloud('#salvini-wc', ['#006600', '#b2ffb2'], onclick); 
+          var m_words = select_words_by_date(m_data, min_date);
+          m_Cloud = update_word_cloud(m_words, m_Cloud); 
+          
+          var l_Cloud = wordCloud('#dimaio-wc', ['#800000', '#F4C2C2'], onclick); 
+          var l_words = select_words_by_date(l_data, min_date);
+          l_Cloud = update_word_cloud(l_words, l_Cloud); 
+          
+          lineChart(m_data, l_data, "#vis-timeline")          
+
+          // d3.select('#vis-timeline').select('svg').append("g")
+          //   .append("text")
+          //   .attr("class", "x label")
+          //   .attr("text-anchor", "end")
+          //   .attr("x", w/2)
+          //   .attr("y", h-40+20)
+          //   .text("Days");
+
+          // d3.select('#vis-timeline').select('svg').append("g")
+          //   .append("text")
+          //   .attr("class", "y label")
+          //   .attr("text-anchor", "end")
+          //   .attr("dy", ".75em")
+          //   .attr("transform", "rotate(-90)")
+          //   .attr("x", -h/3)
+          //   .text("Total Interactions"); 
+          
+          function onclick(e){
+            //console.log(this, e)
+
+              m_data.forEach(function(d){ 
+                
+                var words = d.score.filter(function(c){return c.text == e.text})
+                console.log(words, e.text)
+                d.count_total = count_words(words) 
+
+              });
+              l_data.forEach(function(d){ 
+                
+                var words = d.score.filter(function(c){return c.text == e.text})
+                console.log(words, e.text)
+                d.count_total = count_words(words) 
+
+              }); 
+
+              lineChart(m_data, l_data, "#vis-timeline")
+          }
+            
+          
+          function slider_handler(event, ui){
+              $( "#slider" ).val(date_list[ui.value].toDateString());
+              var m_words = select_words_by_date(m_data, date_list[ui.value]);
+              m_Cloud = update_word_cloud(m_words, m_Cloud);
+              var l_words = select_words_by_date(l_data, date_list[ui.value]);
+              l_Cloud = update_word_cloud(l_words, l_Cloud);
+              //lineChart(dataset.tags_by_time, '#vis-timeline');
+          }
+        
+            generate_control_slider("#slider-range", m_data.length-1, slider_handler);
+
       });      
 
     </script>
