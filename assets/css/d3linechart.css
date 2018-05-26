@@ -14,7 +14,7 @@
 
 
 #vis-timeline path{
-	stroke: #eee;
+	stroke:none;
 	stroke-width: 2;
 	stroke-dasharray: 0;
 	fill: none;

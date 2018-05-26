@@ -3,8 +3,8 @@
  */
 
 
-var monthNames = [ "January", "February", "March", "April", "May", "June",
-    "July", "August", "September", "October", "November", "December" ];
+var monthNames = [ "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
+    "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre" ];
 
 var maxDataPointsForDots = 50,
 	transitionDuration = 1000;
@@ -19,6 +19,7 @@ var svg = null,
 
 function lineChart(data, data_two, selector) {
 
+	console.log(data, data_two)
 	var w = $(selector).width();
     h = 250;
 
@@ -46,7 +47,7 @@ function lineChart(data, data_two, selector) {
 	data = data.sort(sortByDateAscending);
 	data_two = data_two.sort(sortByDateAscending);
 
-	var margin_left = 40;
+	var margin_left = 50;
 	var margin_top = 20;
 	var margin_bottom = 40;
 	var margin_right = 10; 
@@ -62,7 +63,7 @@ function lineChart(data, data_two, selector) {
 	var y = d3.scale.linear().range([h - margin_bottom * 2, 0]).domain([min, max]);
 
 	var xAxis = d3.svg.axis().scale(x).tickSize(h - margin_bottom * 2).tickPadding(10).ticks(7);
-	var yAxis = d3.svg.axis().scale(y).orient('left').tickSize(-w + margin_left * 2).tickPadding(10);
+	var yAxis = d3.svg.axis().scale(y).orient('left').tickSize(-w + margin_left * 2).tickPadding(15).ticks(3).tickFormat(d3.format(".0f"));
 	var t = null;
 
 	svg = d3.select(selector).select('svg').select('g');

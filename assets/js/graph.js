@@ -1,12 +1,11 @@
-function generate_control_slider(selector, slide_max, handler){ 
+function generate_control_slider(selector, slide_max, start, handler){ 
     $(selector).slider({
       min: 0,
       max: slide_max,
       step: 1,
-      value: 0,
+      value: start,
       slide: handler
       })
-    //$( "#slider" ).val((date_list[$(selector).slider("value")]).toDateString());
   }
 
   
@@ -19,12 +18,13 @@ function generate_control_slider(selector, slide_max, handler){
   };
 
 
-  function format_data(data){
+  function format_data(data, username){
       var iso = d3.time.format.utc("%Y-%m-%dT%H:%M:%S.%LZ");
       
       data.forEach(function(d) { 
           d["date"] = iso.parse(d["created_at"]);
           d["count_total"] = count_words(d.score);
+          d["username"] = username;
       });
       return data;
   };
@@ -58,7 +58,6 @@ function generate_control_slider(selector, slide_max, handler){
     var dataset; 
     d3.json(path, function(data){ 
             dataset = data
-            console.log(dataset)
         })
     
     return dataset

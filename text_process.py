@@ -10,7 +10,6 @@ from gensim import models, corpora
 from custom_stopword_tokens import custom_stopwords, specific_stop_words
 from collections import Counter
 
-
 OUT_FOLDER = 'data/'
 if not os.path.exists(OUT_FOLDER):
     os.makedirs(OUT_FOLDER)
@@ -25,7 +24,7 @@ def remove_url_https(text):
 def extract_dataset(json_file):
     dataset = pd.read_json(json_file)
     dataset['text'] = dataset['text'].apply(lambda x: remove_url_https(x))
-    return dataset[['id', 'created_at', 'text']]
+    return dataset
 
 
 def clean_text(text, stop_words):
@@ -115,9 +114,20 @@ def group_tweets_by_month(dataframe):
 
 
 def concatenate_tweets_by_month(dataframe):
-    dataframe.created_at = dataframe.created_at.apply(lambda x:  x.replace(day=1, hour=00, minute=00, second=00))
-    return dataframe.groupby([dataframe.created_at])['text'].apply(concatenate_text).rename('text').reset_index()
+    dataframe['original_date'] = dataframe.created_at
+    dataframe.created_at = dataframe.original_date.apply(lambda x: x.replace(day=1, hour=00, minute=00, second=00))
+    merged = dataframe.groupby([dataframe.created_at])['text'].apply(lambda x: x.sum()).rename('text').reset_index()
+    messages = dataframe.groupby([dataframe.created_at])['text'].apply(lambda x: list(x)).rename('messages').reset_index()
+    messages['text_count'] = messages['messages'].apply(lambda x: len(x))
+    return pd.merge(messages, merged, left_on=['created_at'], right_on=['created_at']).reset_index()
 
+
+def concat_df(a, b):
+    return pd.concat([a, b])
+
+
+def return_empty_df():
+    return pd.DataFrame()
 
 
 # http://billchambers.me/tutorials/2014/12/21/tf-idf-explained-in-python.html

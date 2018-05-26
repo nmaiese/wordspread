@@ -14,7 +14,11 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.16/b-1.5.1/b-colvis-1.5.1/b-html5-1.5.1/fh-3.1.3/r-2.2.1/sc-1.4.4/datatables.min.css"/>
     <link href="assets/css/d3linechart.css" rel="stylesheet">    
+    <link href="assets/css/style.css" rel="stylesheet">    
+    <link href="https://cdn.jsdelivr.net/datatables.mark.js/2.0.0/datatables.mark.min.css">    
+    <link href="https://cdn.datatables.net/plug-ins/1.10.13/features/mark.js/datatables.mark.min.css">    
     
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -55,17 +59,20 @@
         <h1>@lugidimaio vs @matteosalvinimi</h1>
         <p>Parole più significative estratte dai tweet pubblicati dalle due pagine</p>    
     </div>
-      <div class="container">
+      <div class="">
           <div class="row">
               <div class="col-md-6" id="salvini-wc"></div>
               <div class="col-md-6" id="dimaio-wc"></div>
               <div class="col-md-12" id="vis-timeline">
+              <div class="slide-box">
                   <label for="slider">Date:</label>
                   <input type="text" id="slider" style="border: 0; background: none; color: black; font-weight: bold;" size="0"/>
-                  <div id="slider-range"></div>
-          
+                  <div class="flat-slider" id="flat-slider"></div>
+              </div>    
               </div>
-              
+              <div class="col-md-12">
+                  <table id="tweets-table" class="display" width="100%"></table>
+              </div>
           </div>
       </div>    
     </div> <!-- /container -->
@@ -73,39 +80,55 @@
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.16/b-1.5.1/b-colvis-1.5.1/b-html5-1.5.1/fh-3.1.3/r-2.2.1/sc-1.4.4/datatables.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.min.js"></script>    
+    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.16/dataRender/datetime.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.16/sorting/datetime-moment.js"></script>
+    <script type="text/javascript" src= "https://cdn.jsdelivr.net/g/mark.js(jquery.mark.min.js)"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.13/features/mark.js/datatables.mark.js"></script>
+    
+    
+    
+    
+    
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script src="https://d3js.org/d3-queue.v3.min.js"></script>
     <script src="assets/js/d3.layout.cloud.js"></script>
     <script src="assets/js/word-cloud.js"></script>
     <script src="assets/js/d3linechart.js"></script>    
     <script src="assets/js/graph.js"></script>
-        
+      
   
     <script>
       var datum 
 
       var q = d3.queue()
-        .defer(d3.json, "data/matteosalvinimi-tfid.json")
-        .defer(d3.json, "data/luigidimaio-tfid.json")
+        .defer(d3.json, "data/salvini-tfid-fb.json")
+        .defer(d3.json, "data/dimaio-tfid-fb.json")
         .awaitAll(function(error, results) {
           if (error) throw error;
 
-          m_data = format_data(results[0]);
-          l_data = format_data(results[1]);
+          m_data = format_data(results[0], "matteosalvinimi");
+          l_data = format_data(results[1], "luigidimaio");
           
           datum = l_data;
 
-          var [min_date, max_date, date_list] = extract_ordered_datelist(m_data)
+          var [min_date, max_date, date_list] = extract_ordered_datelist(m_data);
+          var start_index = Math.floor((Math.random() * date_list.length));
+          var start_date = date_list[start_index];
           l_data = l_data.filter(function(d){return d.date.getTime()>=min_date.getTime()})
+          var [data_0, data_1] = [clone_array(m_data), clone_array(l_data)];
 
           // console.log(min_date, max_date, date_list)    
           // Istance of world-cloud chart 
-          var m_Cloud = wordCloud('#salvini-wc', ['#006600', '#b2ffb2'], onclick); 
-          var m_words = select_words_by_date(m_data, min_date);
+          var m_Cloud = wordCloud('#salvini-wc', ['#305006', '#74DC36'], onclick); 
+          var m_words = select_words_by_date(m_data, start_date);
           m_Cloud = update_word_cloud(m_words, m_Cloud); 
           
-          var l_Cloud = wordCloud('#dimaio-wc', ['#800000', '#F4C2C2'], onclick); 
-          var l_words = select_words_by_date(l_data, min_date);
+          var l_Cloud = wordCloud('#dimaio-wc', ['#530113', '#F8203A'], onclick); 
+          var l_words = select_words_by_date(l_data, start_date);
           l_Cloud = update_word_cloud(l_words, l_Cloud); 
           
           lineChart(m_data, l_data, "#vis-timeline")          
@@ -129,38 +152,100 @@
           
           function onclick(e){
             //console.log(this, e)
-
-              m_data.forEach(function(d){ 
+              var clicked = d3.select(this).classed("select");
+              var text = d3.select(this.parentNode).selectAll("text");
+              
+              if (clicked) {
+                lineChart(data_0, data_1, "#vis-timeline")
+                reset_words_chart(text)
+              } else {
+                reset_words_chart(text)              
+                text.style("opacity", "0.2");
+                table.columns(2).search(e.text).draw();
+              
+                d3.select(this).style("opacity", "1");
+                d3.select(this).classed("select", true);
                 
-                var words = d.score.filter(function(c){return c.text == e.text})
-                console.log(words, e.text)
-                d.count_total = count_words(words) 
-
-              });
-              l_data.forEach(function(d){ 
+              
                 
-                var words = d.score.filter(function(c){return c.text == e.text})
-                console.log(words, e.text)
-                d.count_total = count_words(words) 
+                m_data.forEach(function(d){ 
+                  
+                  var words = d.score.filter(function(c){return c.text == e.text})
+                  d.count_total = count_words(words) 
 
-              }); 
+                });
+                l_data.forEach(function(d){ 
+                  
+                  var words = d.score.filter(function(c){return c.text == e.text})
+                  d.count_total = count_words(words) 
 
-              lineChart(m_data, l_data, "#vis-timeline")
+                }); 
+                lineChart(m_data, l_data, "#vis-timeline") 
+            }
           }
             
           
           function slider_handler(event, ui){
-              $( "#slider" ).val(date_list[ui.value].toDateString());
+              $( "#slider" ).val(get_ita_month_year(date_list[ui.value]));
               var m_words = select_words_by_date(m_data, date_list[ui.value]);
               m_Cloud = update_word_cloud(m_words, m_Cloud);
               var l_words = select_words_by_date(l_data, date_list[ui.value]);
               l_Cloud = update_word_cloud(l_words, l_Cloud);
               //lineChart(dataset.tags_by_time, '#vis-timeline');
           }
-        
-            generate_control_slider("#slider-range", m_data.length-1, slider_handler);
 
-      });      
+          generate_control_slider("#flat-slider", m_data.length-1, start_index, slider_handler);
+          $( "#slider" ).val(get_ita_month_year(start_date));
+          
+          var tweets = []
+          data = data_0.concat(data_1)
+          data.forEach(function(d){
+            d.messages.forEach(function(c){
+              tweets.push([d.created_at, d.username, c])
+            })
+          })
+          $.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM')
+
+         var table =  $('#tweets-table').DataTable( {
+              "ajax": "data/salvini-dimaio-tfid-fb.json",
+              "mark": true,
+              "createdRow": function( row, data, dataIndex){
+                if( data.username ==  "luigidimaio"){
+                    $(row).addClass('redClass');
+                }
+                else{
+                  $(row).addClass('greenClass');
+                }
+            },              
+              "columns": [
+              { "title": "Ora",
+
+              "data": function(d){ 
+                return new Date(d.original_date)},
+                "render":$.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM'), 
+              }, 
+              { "title": "Username",
+                "data": "by" },
+              { "data": "text" , "title": "Tweet"},
+            ],
+            "order": [[0, 'desc']]
+          } );
+
+});      
+
+      function reset_words_chart(text){
+        text.classed("select", false)
+        text.style("opacity", "1")
+      }
+      function clone_array(array){
+        return array.map(a => Object.assign({}, a));
+      }
+
+      function get_ita_month_year(date){
+        var monthNames = [ "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
+          "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre" ];
+          return monthNames[date.getUTCMonth()]+' '+date.getUTCFullYear();
+      }
 
     </script>
 
