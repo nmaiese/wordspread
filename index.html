@@ -33,10 +33,44 @@
     <div class="container" role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      
-        <h1>@salvini-official vs @LuigiDiMaio </h1>
-        <p>Parole più significative estratte dai messaggi pubblicati dalle due pagine Facebook.</p>    
-    
+        <div class=row>
+          <div class="col-md-8">
+            <h1>@salvini-official vs @LuigiDiMaio </h1>
+            <p>Parole più significative estratte dai messaggi pubblicati dalle due pagine Facebook.</p>    
+            <div class="words-select">
+              <div class="row">
+              <div class="col-md-4">
+                <form action="#">
+                <fieldset>
+                  <label for="w-select">Numero di parole: </label>
+                  <select name="w-select" id="w-select">
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="20">20</option>
+                    <option value="30" selected="selected">30</option>
+                    <option value="50">50</option>
+                    <option value="100">100</option>
+                  </select>
+                </fieldset>
+              </form>
+            </div>
+            <div class="col-md-4">
+              <form action="#">
+                  <fieldset>
+                    <label for="w-type">Dimensione delle parole per: </label>
+                    <select name="w-type" id="w-type">
+                      <option value="counter">Frequenza</option>
+                      <option value="value" selected="selected">Significatività</option>
+                    </select>
+                  </fieldset>
+                </form>
+              </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+          </div>
+        </div>
 
         <div id="ui-slider"></div>
           <div class="row">
@@ -98,6 +132,7 @@
           if (error) throw error;
 
           var w_number = 50;
+          var w_type = 'value'
           
           m_data = format_data(results[0], "matteosalvinimi");
           l_data = format_data(results[1], "luigidimaio");
@@ -128,16 +163,17 @@
               var text = d3.select(this.parentNode).selectAll("text");
               
               if (clicked) {                
+                [m_data, l_data] = [clone_array(data_0), clone_array(data_1)];
                 lineChart(data_0, data_1, "#vis-timeline", start_date)
                 reset_words_chart(text)
                 table.columns(2).search("").draw();
               } else {
                 reset_words_chart(text)              
                 text.style("opacity", "0.2");
-                table.columns(2).search(e.text).draw();        
+                table.columns(2).search( e.text ? e.text : '').draw();        
                 d3.select(this).style("opacity", "1");
                 d3.select(this).classed("select", true);                
-                
+
                 m_data.forEach(function(d){ 
                   
                   var words = d.score.filter(function(c){return c.text == e.text})
@@ -158,9 +194,9 @@
           function slider_handler(event, ui){
             start_date = date_list[+event[0]]
             $( "#slider" ).val(it.timeFormat("%B %Y")(start_date));
-              var m_words = select_words_by_date(m_data, start_date);
+              m_words = select_words_by_date(data_0, start_date);
               m_Cloud = update_word_cloud(m_words, m_Cloud, w_number);
-              var l_words = select_words_by_date(l_data, start_date);
+              l_words = select_words_by_date(data_1, start_date);
               l_Cloud = update_word_cloud(l_words, l_Cloud, w_number);
               lineChart(m_data, l_data, "#vis-timeline", start_date) 
           }
@@ -170,7 +206,24 @@
           
 
           var table = generate_datatable("#message-table", "data/salvini-dimaio-tfid-fb.json");
-
+          
+          $( "#w-select" ).selectmenu({
+            width : "100%",
+            change: function( event, data ) {
+              w_number = data.item.value
+              m_Cloud = update_word_cloud(m_words, m_Cloud, w_number, w_type);
+              l_Cloud = update_word_cloud(l_words, l_Cloud, w_number, w_type);
+            }
+          });
+          $( "#w-type" ).selectmenu({
+            width : "100%",
+            change: function( event, data ) {
+              w_type = data.item.value
+              m_Cloud = update_word_cloud(m_words, m_Cloud, w_number, w_type);
+              l_Cloud = update_word_cloud(l_words, l_Cloud, w_number, w_type);
+            }
+    
+          });
 });      
 
 

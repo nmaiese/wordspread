@@ -101,7 +101,7 @@ for username in usernames:
     df.by = username
     df.post_message = df.post_message.apply(str)
     df['created_at'] = df.post_published_unix.apply(lambda x: datetime.datetime.fromtimestamp(x))
-    df = df.rename(columns={'post_message' : 'text'})
+    df = df.rename(columns={'post_message':'text'})
     df['text'] = df['text'].apply(lambda x: text_process.remove_url_https(str(x)))
     dataframe = text_process.concatenate_tweets_by_month(df)
 
@@ -131,3 +131,8 @@ with open(text_process.OUT_FOLDER+"-".join(usernames)+'-tfid-fb.json', 'r+') as 
 with open(text_process.OUT_FOLDER+"-".join(usernames)+'-tfid-fb.json', 'w') as f:
     data = {"data": data}
     json.dump(data, f, indent=4)
+
+# TODO Compare total words between pages
+# TODO Count emoji 
+# TODO Topic Analysis (Topic per candidate) with K-means and LDA
+#  

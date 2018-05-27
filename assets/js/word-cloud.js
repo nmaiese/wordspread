@@ -83,15 +83,15 @@ function wordCloud(selector, color_range, onclick=null) {
         //The outside world will need to call this function, so make it part
         // of the wordCloud return value.
 
-        update: function(words) {    
+        update: function(words, value) {    
             var font_value_scale = d3.scale.linear()
             .domain([
-                d3.min(words, function(d){return d.value}),
-                d3.max(words, function(d){return d.value})])
+                d3.min(words, function(d){return d[value]}),
+                d3.max(words, function(d){return d[value]})])
             .range([20,50]);
     
             words.forEach(function(d)  {
-                d.size = font_value_scale(d.value)
+                d.size = font_value_scale(d[value])
             });
             
             d3.layout.cloud().size([$(selector).width(), 500])
@@ -128,8 +128,8 @@ function getWords(i) {
 //This method tells the word cloud to redraw with a new set of words.
 //In reality the new words would probably come from a server request,
 // user input or some other source.
-function showNewWords(vis, words) {
-    vis.update(words)
+function showNewWords(vis, words, value) {
+    vis.update(words, value)
     //setTimeout(function() { showNewWords(vis, i + 1)}, 2000)
 }
 

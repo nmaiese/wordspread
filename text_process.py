@@ -29,7 +29,7 @@ def extract_dataset(json_file):
 
 def clean_text(text, stop_words):
     tokenized_text = word_tokenize(text.lower())
-    cleaned_text = [t for t in tokenized_text if t not in stop_words and re.match('[a-zA-Z\-][a-zA-Z\-]{2,}', t)]
+    cleaned_text = [t for t in tokenized_text if t not in stop_words and re.match("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+", t)]
     return cleaned_text
 
 

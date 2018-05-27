@@ -1,7 +1,8 @@
 function generate_datatable(selector, data_url){ 
     $.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM');
+    
 
-    var table =  $(selector).DataTable( {
+    table =  $(selector).DataTable( {
         "ajax": data_url,
         "mark": true,
         "language": {
@@ -130,10 +131,10 @@ function generate_control_slider(selector, slide_max, start, handler){
     return selected[0]["score"]
   }
       
-  function update_word_cloud(words, world_cloud, number=30){
-    words.sort(function(a, b){ return d3.descending(a.value, b.value) })
+  function update_word_cloud(words, world_cloud, number=30, value="value"){
+    words.sort(function(a, b){ return d3.descending(a[value], b[value]) })
     words = words.slice(0, number)
-    showNewWords(world_cloud, words);
+    showNewWords(world_cloud, words, value);
     return world_cloud
   }
 
