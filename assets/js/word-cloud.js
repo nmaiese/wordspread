@@ -6,7 +6,7 @@ function wordCloud(selector, color_range, onclick=null) {
     //Construct the word cloud's SVG element
     var svg = d3.select(selector).append("svg")
         .attr("width", $(selector).width())
-        .attr("height", 450)
+        .attr("height", 420)
         .append("g")
         .attr("transform", "translate("+$(selector).width()/2+",250)");
 
@@ -44,7 +44,7 @@ function wordCloud(selector, color_range, onclick=null) {
             .append("text")
             .attr("text-anchor", "middle")
             .attr("font-size", 1)
-            .attr("font-weight", 800)
+            
             .attr("font-family", "Raleway")
             .style("fill", "#fff" )
             .on("click", onclick)
@@ -99,6 +99,7 @@ function wordCloud(selector, color_range, onclick=null) {
                 .padding(5)
                 // .rotate(function() { return ~~(Math.random() * 2) * 90; })
                 .rotate(0)
+                .spiral("rectangular")
                 .fontSize(function(d) { 
                     return d.size; 
                 }).on("end", draw)

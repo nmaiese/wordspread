@@ -48,7 +48,7 @@ function generate_control_slider(selector, slide_max, start, handler){
       
   function update_word_cloud(words, world_cloud){
     words.sort(function(a, b){ return d3.descending(a.value, b.value) })
-    words = words.slice(0, 20)
+    words = words.slice(0, 30)
     showNewWords(world_cloud, words);
     return world_cloud
   }

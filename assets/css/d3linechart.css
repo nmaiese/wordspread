@@ -1,12 +1,12 @@
 #vis-timeline .data-line {
-	stroke: #5bd643;
+	stroke: #247BA0;
 	stroke-width: 2;
 	fill: none;
 	stroke-dasharray: 0;
 }
 
 #vis-timeline .data-line2 {
-	stroke: red;
+	stroke: #FF1654;
 	stroke-width: 2;
 	fill: none;
 	stroke-dasharray: 0;
@@ -21,7 +21,7 @@
 }
 
 #vis-timeline .area {
-  	fill: #bcecb2;
+  	fill: #247BA0;
 }
 
 #vis-timeline text {
@@ -38,7 +38,7 @@
 }
 
 .data-point {
-	stroke: #5bd643;
+	stroke: #247BA0;
 	stroke-width: 2;
 	fill: #FFF;
 }

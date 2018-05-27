@@ -148,7 +148,7 @@ function lineChart(data, data_two, selector) {
 			return y(d.count_total);
 		})
 
-	line.interpolate("linear");
+	line.interpolate("monotone");
 
 		 /*
 		 .attr("d", d3.svg.line()
@@ -274,7 +274,7 @@ function lineChart(data, data_two, selector) {
 		.duration(transitionDuration)
 			.attr('cx', function(d) { return x(d.date) })
 			.attr('cy', function(d) { return y(d.count_total) })
-			//.attr('r', function() { return (data.length <= maxDataPointsForDots) ? pointRadius : 0 })
+			.attr('r', function() { return (data.length <= maxDataPointsForDots) ? pointRadius : 0 })
 			.attr('r', function() { return 10 })
 			.style('opacity', 0);
 
@@ -284,7 +284,7 @@ function lineChart(data, data_two, selector) {
 		.duration(transitionDuration)
 			.attr('cx', function(d) { return x(d.date) })
 			.attr('cy', function(d) { return y(d.count_total) })
-			//.attr('r', function() { return (data.length <= maxDataPointsForDots) ? pointRadius : 0 })
+			.attr('r', function() { return (data.length <= maxDataPointsForDots) ? pointRadius : 0 })
 			.attr('r', function() { return 10 })
 			.style('opacity', 0);
 

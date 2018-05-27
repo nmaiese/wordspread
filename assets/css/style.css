@@ -1,21 +1,28 @@
 /* GENERAL  */
 
 body {
-    background-color: #fafafa;
+    background-color: #e2e2e22e;
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+
 }
 
-svg {
-    background: #fdfdfd;
+.card {
+    background: #fff;
     border-radius: 2px;    
-    margin: 20px 0; 
+    margin-top: 20px;
+    padding-bottom: 20px;
   }
   
 
-svg {
+.card {
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   }
 
-  
+.slide-box{
+    text-align: center;
+}
+
 
 /* FLAT SLIDER  */
 
@@ -26,7 +33,7 @@ svg {
 
 .flat-slider.ui-slider {
   border: 0;
-  background: #313638;
+  background: #d3d3d3;
   border-radius: 7px;
 }
 
@@ -42,7 +49,7 @@ svg {
 .flat-slider .ui-slider-handle {
   width: 20px;
   height: 20px;
-  background: #E0DFD5;
+  background: #5c5c5c;
   border-radius: 50%;
   border: none;
   cursor: pointer;
