@@ -1,12 +1,26 @@
 function generate_control_slider(selector, slide_max, start, handler){ 
-    $(selector).slider({
-      min: 0,
-      max: slide_max,
-      step: 1,
-      value: start,
-      slide: handler
-      })
-  }
+    // $(selector).slider({
+    //   min: 0,
+    //   max: slide_max,
+    //   step: 1,
+    //   value: start,
+    //   slide: handler
+    //   })
+    var slider = document.getElementById(selector);
+    noUiSlider.create(slider, {
+        start: [ start ], // Handle start position
+        step: 1, // Slider moves in increments of '10'
+        margin: 20, // Handles must be more than '20' apart
+        range: { // Slider can select '0' to '100'
+            'min': 0,
+            'max': slide_max
+        },
+
+    });  
+    slider.noUiSlider.on('change', handler);
+
+}
+
 
   
   function count_words(x){

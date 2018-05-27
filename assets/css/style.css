@@ -6,6 +6,9 @@ body {
     font-size: 15px;
 
 }
+text {
+  font-family: "Raleway", sans-serif;
+}
 
 .card {
     background: #fff;
@@ -21,6 +24,7 @@ body {
 
 .slide-box{
     text-align: center;
+    margin: 0 5%;
 }
 
 

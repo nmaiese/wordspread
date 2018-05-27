@@ -13,11 +13,11 @@
 }
 
 
-#vis-timeline path{
-	stroke:none;
-	stroke-width: 2;
-	stroke-dasharray: 0;
-	fill: none;
+#vis-timeline path {
+    stroke: #ececec;
+    stroke-width: 2;
+    stroke-dasharray: 0;
+    fill: none;
 }
 
 #vis-timeline .area {
@@ -25,9 +25,9 @@
 }
 
 #vis-timeline text {
-	font-family: Arial;
-	font-size: 8pt;
-	fill: #787878;
+	font-family: "Raleway", sans-serif;
+	font-size: 10px;
+	fill: black;
 }
 
 #vis-timeline .line {

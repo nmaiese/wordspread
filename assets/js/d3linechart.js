@@ -7,7 +7,7 @@ var monthNames = [ "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
     "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre" ];
 
 var maxDataPointsForDots = 50,
-	transitionDuration = 1000;
+	transitionDuration = 500;
 
 var svg = null,
 	yAxisGroup = null,
@@ -17,9 +17,7 @@ var svg = null,
 
 // var tooltip = floatingTooltip('photo-tooltip', 240);
 
-function lineChart(data, data_two, selector) {
-
-	console.log(data, data_two)
+function lineChart(data, data_two, selector, highilight=null) {
 	var w = $(selector).width();
     h = 250;
 
@@ -47,7 +45,7 @@ function lineChart(data, data_two, selector) {
 	data = data.sort(sortByDateAscending);
 	data_two = data_two.sort(sortByDateAscending);
 
-	var margin_left = 50;
+	var margin_left = (w>500) ? 50 : 40 ;
 	var margin_top = 20;
 	var margin_bottom = 40;
 	var margin_right = 10; 
@@ -132,82 +130,59 @@ function lineChart(data, data_two, selector) {
 		.data([data_two]);
 
 	var line = d3.svg.line()
-		// assign the X function to plot our line as we wish
-		.x(function(d,i) {
-			// verbose logging to show what's actually being done
-			//console.log('Plotting X value for date: ' + d.date + ' using index: ' + i + ' to be at: ' + x(d.date) + ' using our xScale.');
-			// return the X coordinate where we want to plot this datapoint
-			//return x(i);
-			return x(d.date);
-		})
-		.y(function(d) {
-			// verbose logging to show what's actually being done
-			//console.log('Plotting Y value for data value: ' + d.count_total + ' to be at: ' + y(d.count_total) + " using our yScale.");
-			// return the Y coordinate where we want to plot this datapoint
-			//return y(d);
-			return y(d.count_total);
-		})
+		.x(function(d,i) { return x(d.date); })
+		.y(function(d) { return y(d.count_total); })
 
-	line.interpolate("monotone");
-
-		 /*
-		 .attr("d", d3.svg.line()
-		 .x(function(d) { return x(d.date); })
-		 .y(function(d) { return y(0); }))
-		 .transition()
-		 .delay(transitionDuration / 2)
-		 .duration(transitionDuration)
-			.style('opacity', 1)
-                        .attr("transform", function(d) { return "translate(" + x(d.date) + "," + y(d.count_total) + ")"; });
-		  */
-
+	line.interpolate("monotone")
 	var garea = d3.svg.area()
-		.x(function(d) {
-			// verbose logging to show what's actually being done
-			return x(d.date);
-		})
-            	.y0(h - margin_bottom * 2)
-		.y1(function(d) {
-			// verbose logging to show what's actually being done
-			return y(d.count_total);
-		});
+		.x0(x(highilight)-40)
+		.x1(x(highilight)+40)
+        .y0(h - margin_bottom * 2)
+		.y1(function(d) { return y(y.domain()[1]); });
 
-    garea.interpolate("linear")
-
+    garea.interpolate("monotone")
 
 	dataLines.enter().append('path')
 		 .attr('class', 'data-line')
 		 .style('opacity', 0.3)
 		 .attr("d", line(data));
-
+	
 
 	dataLines_two.enter().append('path')
-		.attr('class', 'data-line2')
-		.style('opacity', 0.3)
-		.attr("d", line(data_two));
+		 .attr('class', 'data-line2')
+		 .style('opacity', 0.3)
+		 .attr("d", line(data_two));
 
-		 /*
-		.transition()
-		.delay(transitionDuration / 2)
-		.duration(transitionDuration)
-			.style('opacity', 1)
-			.attr('x1', function(d, i) { return (i > 0) ? xScale(data[i - 1].date) : xScale(d.date); })
-			.attr('y1', function(d, i) { return (i > 0) ? yScale(data[i - 1].value) : yScale(d.count_total); })
-			.attr('x2', function(d) { return xScale(d.date); })
-			.attr('y2', function(d) { return yScale(d.count_total); });
-		*/
+		 
+	dataLines.enter().append('svg:rect')
+		.attr("class", "area")
+		.style("fill", "#dcdcdc")
+		.style("opacity", 0.5)
+		.attr("x", x(highilight)-((x(highilight)-20)>0) ?  x(highilight)-20 : 0)
+		.attr("width", ((x(x.domain()[1])-x(highilight))>0) ?  40 : 0)
+		.attr("y", function(d) { return y(y.domain()[1]); })
+		.attr("height", h - margin_bottom * 2);
+		
 
-	dataLines.transition()
+
+	dataLines
 		.attr("d", line)
-		.duration(transitionDuration)
 			.style('opacity', 1)
-                        //.attr("transform", function(d) { return "translate(" + x(d.date) + "," + y(d.count_total) + ")"; });
+
+
+	d3.selectAll(".area").transition()
+	.style("fill", "#dcdcdc")
+	.style("opacity", 0.5)
+	.attr("x", x(highilight)-((x(highilight)-20)>0) ?  x(highilight)-20 : 0)
+	.attr("width", ((x(x.domain()[1])-x(highilight))>0) ?  40 : 20)
+	.attr("y", function(d) { return y(y.domain()[1]); })
+	.attr("height", h - margin_bottom * 2);
+	
 
 	dataLines_two.transition()
 		.attr("d", line)
 		.duration(transitionDuration)
 			.style('opacity', 1)
-						//.attr("transform", function(d) { return "translate(" + x(d.date) + "," + y(d.count_total) + ")"; });
 				
 	dataLines.exit()
 		.transition()
@@ -216,6 +191,15 @@ function lineChart(data, data_two, selector) {
                         .attr("transform", function(d) { return "translate(" + x(d.date) + "," + y(0) + ")"; })
 			.style('opacity', 1e-6)
 			.remove();
+
+	dataLines.exit()
+		.transition()
+		.attr("d", garea)
+		.duration(transitionDuration)
+						.attr("transform", function(d) { return "translate(" + x(d.date) + "," + y(0) + ")"; })
+			.style('opacity', 1e-6)
+			.remove();
+	
 
 	dataLines_two.exit()
 	.transition()
@@ -307,10 +291,6 @@ function lineChart(data, data_two, selector) {
 				.attr('cy', function() { return y(0) })
 				.style("opacity", 1e-6)
 				.remove();
-
-
-
-
 }
 
 
