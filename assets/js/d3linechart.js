@@ -1,6 +1,7 @@
 /**
  * User: nross
  */
+var it = d3.locale(it_IT);
 
 
 var monthNames = [ "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
@@ -60,8 +61,8 @@ function lineChart(data, data_two, selector, highilight=null) {
 	var x = d3.time.scale().range([0, w - margin_left * 2]).domain([min_date, max_date]);
 	var y = d3.scale.linear().range([h - margin_bottom * 2, 0]).domain([min, max]);
 
-	var xAxis = d3.svg.axis().scale(x).tickSize(h - margin_bottom * 2).tickPadding(10).ticks(7);
-	var yAxis = d3.svg.axis().scale(y).orient('left').tickSize(-w + margin_left * 2).tickPadding(15).ticks(3).tickFormat(d3.format(".0f"));
+	var xAxis = d3.svg.axis().scale(x).tickSize(h - margin_bottom * 2).tickPadding(10).ticks(7).tickFormat(it.timeFormat("%b %Y"));
+	var yAxis = d3.svg.axis().scale(y).orient('left').tickSize(-w + margin_left * 2).tickPadding(15).ticks(3).tickFormat(it.numberFormat(",.0f"));
 	var t = null;
 
 	svg = d3.select(selector).select('svg').select('g');
@@ -169,6 +170,12 @@ function lineChart(data, data_two, selector, highilight=null) {
 		.attr("d", line)
 			.style('opacity', 1)
 
+			
+	dataLines_two.transition()
+	.attr("d", line)
+	.duration(transitionDuration)
+		.style('opacity', 1)
+			
 
 	d3.selectAll(".area").transition()
 	.style("fill", "#dcdcdc")
@@ -178,12 +185,6 @@ function lineChart(data, data_two, selector, highilight=null) {
 	.attr("y", function(d) { return y(y.domain()[1]); })
 	.attr("height", h - margin_bottom * 2);
 	
-
-	dataLines_two.transition()
-		.attr("d", line)
-		.duration(transitionDuration)
-			.style('opacity', 1)
-				
 	dataLines.exit()
 		.transition()
 		.attr("d", line)

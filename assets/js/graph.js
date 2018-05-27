@@ -1,3 +1,4 @@
+
 function generate_control_slider(selector, slide_max, start, handler){ 
     // $(selector).slider({
     //   min: 0,
