@@ -52,14 +52,16 @@
                 </div>    
               </div>
               <div class="col-md-12">
-                  <table id="tweets-table" class="table table-striped table-bordered display" width="100%"></table>
+                  <table id="message-table" class="table table-striped table-bordered display" width="100%"></table>
               </div>
             </div>
           </div>
         </div>
       </div>    
     </div> <!-- /container -->
-
+    
+  <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+  </script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>  
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>    
@@ -81,7 +83,10 @@
     <script src="assets/js/it_IT.js"></script>
     <script src="assets/js/d3linechart.js"></script>    
     <script src="assets/js/graph.js"></script>
-  
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.contentWindow.min.js"></script>  
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.min.js"></script>  
+
+    
 
     <script>
       var datum 
@@ -152,44 +157,22 @@
           
           function slider_handler(event, ui){
             start_date = date_list[+event[0]]
-            $( "#slider" ).val(get_ita_month_year(start_date));
+            $( "#slider" ).val(it.timeFormat("%B %Y")(start_date));
               var m_words = select_words_by_date(m_data, start_date);
               m_Cloud = update_word_cloud(m_words, m_Cloud, w_number);
               var l_words = select_words_by_date(l_data, start_date);
               l_Cloud = update_word_cloud(l_words, l_Cloud, w_number);
-              
               lineChart(m_data, l_data, "#vis-timeline", start_date) 
           }
           
-          generate_control_slider("flat-slider", m_data.length-1, start_index, slider_handler);
-          $( "#slider" ).val(get_ita_month_year(start_date));
+            var slider = generate_control_slider("flat-slider", m_data.length-1, start_index, slider_handler);
+            $( "#slider").val(it.timeFormat("%B %Y")(start_date));
           
-          var tweets = []
-          data = data_0.concat(data_1);
-          data.forEach(function(d){
-            d.messages.forEach(function(c){
-              tweets.push([d.created_at, d.username, c])
-            })
-          })
-          $.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM');
 
-          var table = generate_datatable("#tweets-table", "data/salvini-dimaio-tfid-fb.json");
+          var table = generate_datatable("#message-table", "data/salvini-dimaio-tfid-fb.json");
 
 });      
 
-      function reset_words_chart(text){
-        text.classed("select", false)
-        text.style("opacity", "1")
-      }
-      function clone_array(array){
-        return array.map(a => Object.assign({}, a));
-      }
-
-      function get_ita_month_year(date){
-        var monthNames = [ "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
-          "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre" ];
-          return monthNames[date.getUTCMonth()]+' '+date.getUTCFullYear();
-      }
 
     </script>
 

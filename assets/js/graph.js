@@ -1,4 +1,6 @@
 function generate_datatable(selector, data_url){ 
+    $.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM');
+
     var table =  $(selector).DataTable( {
         "ajax": data_url,
         "mark": true,
@@ -13,31 +15,65 @@ function generate_datatable(selector, data_url){
             $(row).addClass('greenClass');
         }
     },              
-        "columns": [
-        { "title": "Data",
-        "width": "15%", 
-        "data": function(d){ 
-        return new Date(d.original_date)},
-        "render":$.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM'), 
-        }, 
-        { "title": "Autore",
-        "data": "by" },
-        { "data": "text" , "title": "Testo"},
+        "columns": [{ 
+            "title": "Data", 
+            "width": "15%", 
+            "data": function(d){ 
+                return new Date(d.original_date)},
+            "render":$.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM'), 
+        }, {
+            "title": "Autore",
+            "data": "by"
+        }, { 
+            "data": "text" , 
+            "title": "Testo"},
+        {
+            "className":      'details-control',
+            "orderable":      false,
+            "data":           null,
+            "defaultContent": ''
+        },
+    
     ],
     "order": [[0, 'desc']]
     } );
-        return table
+    
+    
+
+    function format ( d ) {
+
+        console.log(d)
+        // `d` is the original data object for the row
+        return '<div class="table-content">'+
+        '<blockquote class="embedly-card data-card-controls="0""><h4><a href="' +
+        d.post_link +'">Post</a></h4><p>' +
+        d.text + '</p></blockquote>'+
+        '</div><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>';
+    }
+
+    $("#message-table").on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( format(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+    
+    
+    return table
 }
 
 
 function generate_control_slider(selector, slide_max, start, handler){ 
-    // $(selector).slider({
-    //   min: 0,
-    //   max: slide_max,
-    //   step: 1,
-    //   value: start,
-    //   slide: handler
-    //   })
+
     var slider = document.getElementById(selector);
     noUiSlider.create(slider, {
         start: [ start ], // Handle start position
@@ -50,7 +86,7 @@ function generate_control_slider(selector, slide_max, start, handler){
 
     });  
     slider.noUiSlider.on('change', handler);
-
+    return slider
 }
 
 
@@ -109,4 +145,16 @@ function generate_control_slider(selector, slide_max, start, handler){
     return dataset
   } 
 
-  
+  function reset_words_chart(text){
+    text.classed("select", false)
+    text.style("opacity", "1")
+  }
+  function clone_array(array){
+    return array.map(a => Object.assign({}, a));
+  }
+
+  function get_ita_month_year(date){
+    var monthNames = [ "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
+      "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre" ];
+      return monthNames[date.getUTCMonth()]+' '+date.getUTCFullYear();
+  }
