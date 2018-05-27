@@ -31,7 +31,7 @@ function generate_datatable(selector, data_url){
             "className":      'details-control',
             "orderable":      false,
             "data":           null,
-            "defaultContent": ''
+            "defaultContent": '<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>'
         },
     
     ],
@@ -45,11 +45,13 @@ function generate_datatable(selector, data_url){
         console.log(d)
         // `d` is the original data object for the row
         return '<div class="table-content">'+
-        '<blockquote class="embedly-card data-card-controls="0""><h4><a href="' +
-        d.post_link +'">Post</a></h4><p>' +
+        '<blockquote class="embedly-card" data-card-controls="0"><h4><a href="' +
+        d.post_link +'"></a></h4><p>' +
         d.text + '</p></blockquote>'+
         '</div><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>';
     }
+
+
 
     $("#message-table").on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
