@@ -1,3 +1,34 @@
+function generate_datatable(selector, data_url){ 
+    var table =  $(selector).DataTable( {
+        "ajax": data_url,
+        "mark": true,
+        "language": {
+        "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Italian.json"
+        },
+        "createdRow": function( row, data, dataIndex){
+        if( data.username ==  "luigidimaio"){
+            $(row).addClass('redClass');
+        }
+        else{
+            $(row).addClass('greenClass');
+        }
+    },              
+        "columns": [
+        { "title": "Data",
+        "width": "15%", 
+        "data": function(d){ 
+        return new Date(d.original_date)},
+        "render":$.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM'), 
+        }, 
+        { "title": "Autore",
+        "data": "by" },
+        { "data": "text" , "title": "Testo"},
+    ],
+    "order": [[0, 'desc']]
+    } );
+        return table
+}
+
 
 function generate_control_slider(selector, slide_max, start, handler){ 
     // $(selector).slider({
@@ -61,9 +92,9 @@ function generate_control_slider(selector, slide_max, start, handler){
     return selected[0]["score"]
   }
       
-  function update_word_cloud(words, world_cloud){
+  function update_word_cloud(words, world_cloud, number=30){
     words.sort(function(a, b){ return d3.descending(a.value, b.value) })
-    words = words.slice(0, 30)
+    words = words.slice(0, number)
     showNewWords(world_cloud, words);
     return world_cloud
   }

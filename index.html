@@ -81,9 +81,8 @@
     <script src="assets/js/it_IT.js"></script>
     <script src="assets/js/d3linechart.js"></script>    
     <script src="assets/js/graph.js"></script>
-    
-
   
+
     <script>
       var datum 
 
@@ -93,6 +92,8 @@
         .awaitAll(function(error, results) {
           if (error) throw error;
 
+          var w_number = 50;
+          
           m_data = format_data(results[0], "matteosalvinimi");
           l_data = format_data(results[1], "luigidimaio");
           
@@ -108,46 +109,27 @@
           // Istance of world-cloud chart 
           var m_Cloud = wordCloud('#salvini-wc', ['#193a4e', '#8db8d5'], onclick); 
           var m_words = select_words_by_date(m_data, start_date);
-          m_Cloud = update_word_cloud(m_words, m_Cloud); 
+          m_Cloud = update_word_cloud(m_words, m_Cloud, w_number); 
           
           var l_Cloud = wordCloud('#dimaio-wc', ['#8b0b25', '#ffa7ab'], onclick); 
           var l_words = select_words_by_date(l_data, start_date);
-          l_Cloud = update_word_cloud(l_words, l_Cloud); 
+          l_Cloud = update_word_cloud(l_words, l_Cloud, w_number); 
           
           lineChart(m_data, l_data, "#vis-timeline", start_date)          
 
-          // d3.select('#vis-timeline').select('svg').append("g")
-          //   .append("text")
-          //   .attr("class", "x label")
-          //   .attr("text-anchor", "end")
-          //   .attr("x", w/2)
-          //   .attr("y", h-40+20)
-          //   .text("Days");
-
-          // d3.select('#vis-timeline').select('svg').append("g")
-          //   .append("text")
-          //   .attr("class", "y label")
-          //   .attr("text-anchor", "end")
-          //   .attr("dy", ".75em")
-          //   .attr("transform", "rotate(-90)")
-          //   .attr("x", -h/3)
-          //   .text("Total Interactions"); 
-          
           function onclick(e){
             //console.log(this, e)
               var clicked = d3.select(this).classed("select");
               var text = d3.select(this.parentNode).selectAll("text");
               
-              if (clicked) {
-                
+              if (clicked) {                
                 lineChart(data_0, data_1, "#vis-timeline", start_date)
                 reset_words_chart(text)
                 table.columns(2).search("").draw();
               } else {
                 reset_words_chart(text)              
                 text.style("opacity", "0.2");
-                table.columns(2).search(e.text).draw();
-              
+                table.columns(2).search(e.text).draw();        
                 d3.select(this).style("opacity", "1");
                 d3.select(this).classed("select", true);                
                 
@@ -172,51 +154,26 @@
             start_date = date_list[+event[0]]
             $( "#slider" ).val(get_ita_month_year(start_date));
               var m_words = select_words_by_date(m_data, start_date);
-              m_Cloud = update_word_cloud(m_words, m_Cloud);
+              m_Cloud = update_word_cloud(m_words, m_Cloud, w_number);
               var l_words = select_words_by_date(l_data, start_date);
-              l_Cloud = update_word_cloud(l_words, l_Cloud);
+              l_Cloud = update_word_cloud(l_words, l_Cloud, w_number);
               
               lineChart(m_data, l_data, "#vis-timeline", start_date) 
           }
+          
           generate_control_slider("flat-slider", m_data.length-1, start_index, slider_handler);
           $( "#slider" ).val(get_ita_month_year(start_date));
           
           var tweets = []
-          data = data_0.concat(data_1)
+          data = data_0.concat(data_1);
           data.forEach(function(d){
             d.messages.forEach(function(c){
               tweets.push([d.created_at, d.username, c])
             })
           })
-          $.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM')
+          $.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM');
 
-         var table =  $('#tweets-table').DataTable( {
-              "ajax": "data/salvini-dimaio-tfid-fb.json",
-              "mark": true,
-              "language": {
-                "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Italian.json"
-              },
-              "createdRow": function( row, data, dataIndex){
-                if( data.username ==  "luigidimaio"){
-                    $(row).addClass('redClass');
-                }
-                else{
-                  $(row).addClass('greenClass');
-                }
-            },              
-              "columns": [
-              { "title": "Data",
-              "width": "15%", 
-              "data": function(d){ 
-                return new Date(d.original_date)},
-                "render":$.fn.dataTable.render.moment( 'DD/MM/YYYY HH:MM'), 
-              }, 
-              { "title": "Autore",
-                "data": "by" },
-              { "data": "text" , "title": "Testo"},
-            ],
-            "order": [[0, 'desc']]
-          } );
+          var table = generate_datatable("#tweets-table", "data/salvini-dimaio-tfid-fb.json");
 
 });      
 
