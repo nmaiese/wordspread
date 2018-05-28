@@ -6,7 +6,7 @@ function generate_datatable(selector, data_url){
         "ajax": data_url,
         "mark": true,
         "language": {
-        "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Italian.json"
+        "url": "assets/i18n/Italian.json"
         },
         "createdRow": function( row, data, dataIndex){
         if( data.username ==  "luigidimaio"){

@@ -88,3 +88,63 @@ text {
   left: 0;
   width: 6px;
 }
+
+
+/******************************  
+  CUSTOM DATATABLES SORT IMAGES 
+*******************************/
+
+table.dataTable thead .sorting {
+  background-image: url(../img/sort_both.png);
+}
+
+table.dataTable thead .sorting_desc {
+  background-image: url(../img/sort_desc.png);
+}
+
+table.dataTable thead .sorting_asc {
+  background-image: url(../img/sorting_asc.png);
+}
+
+table.dataTable thead .sorting_desc_disabled {
+  background-image: url(../img/sorting_desc_disabled.png);
+}
+
+table.dataTable thead .sorting_asc_disabled {
+  background-image: url(../img/sorting_asc_disabled.png);
+}
+
+
+
+/******************************  
+      jQuery UI - Icons
+*******************************/
+
+.ui-icon,
+.ui-widget-content .ui-icon {
+	background-image: url("../img/ui-icons_444444_256x240.png");
+}
+.ui-widget-header .ui-icon {
+	background-image: url("../img/ui-icons_444444_256x240.png");
+}
+.ui-state-hover .ui-icon,
+.ui-state-focus .ui-icon,
+.ui-button:hover .ui-icon,
+.ui-button:focus .ui-icon {
+	background-image: url("..img/ui-icons_555555_256x240.png");
+}
+.ui-state-active .ui-icon,
+.ui-button:active .ui-icon {
+	background-image: url("..img/ui-icons_ffffff_256x240.png");
+}
+.ui-state-highlight .ui-icon,
+.ui-button .ui-state-highlight.ui-icon {
+	background-image: url("../img/ui-icons_777620_256x240.png");
+}
+.ui-state-error .ui-icon,
+.ui-state-error-text .ui-icon {
+	background-image: url("..img//ui-icons_cc0000_256x240.png");
+}
+.ui-button .ui-icon {
+	background-image: url("../img/ui-icons_777777_256x240.png");
+}
