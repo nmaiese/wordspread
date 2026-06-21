@@ -1,0 +1,39 @@
+# --- Parla Mente ---
+# Local data (heavy / regenerable). Fixtures are tracked on purpose (see below).
+data/raw/
+data/processed/
+data/db/
+
+# Secrets & env
+.env
+.env.local
+*.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Node / Next.js
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+npm-debug.log*
+yarn-error.log*
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# --- Exceptions: keep tracked real-source fixtures ---
+!data/fixtures/
+!data/fixtures/**

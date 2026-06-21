@@ -1,0 +1,161 @@
+# Tassonomia controllata dei temi politici (Livello B).
+#
+# Ogni topic ha:
+#   id        : slug stabile (usato nello storage)
+#   name      : etichetta visualizzata
+#   triggers  : termini/locuzioni che, se presenti in un intervento/atto, ne
+#               aumentano il punteggio per quel topic. Sono lemmi indicativi:
+#               il match è su sottostringa di parola (vedi taxonomy.py).
+#
+# La lista è estendibile senza toccare il codice: aggiungere voci qui basta.
+
+macro_areas:
+  - name: Economia
+    topics:
+      - id: eco_fisco
+        name: Fisco
+        triggers: [fisco, fiscale, tasse, irpef, iva, imposta, tributi, evasione, flat tax, cuneo fiscale, detrazioni]
+      - id: eco_imprese
+        name: Imprese
+        triggers: [impresa, imprese, pmi, partite iva, industria, manifattura, competitività, incentivi imprese]
+      - id: eco_debito
+        name: Debito pubblico
+        triggers: [debito pubblico, deficit, spread, manovra, bilancio dello stato, patto di stabilità]
+      - id: eco_inflazione
+        name: Inflazione e prezzi
+        triggers: [inflazione, caro vita, prezzi, bollette, caro energia, potere d'acquisto, carovita]
+
+  - name: Lavoro
+    topics:
+      - id: lav_salario_minimo
+        name: Salario minimo
+        triggers: [salario minimo, paga minima, minimo salariale, salari bassi]
+      - id: lav_occupazione
+        name: Occupazione
+        triggers: [occupazione, disoccupazione, posti di lavoro, assunzioni, mercato del lavoro, precariato]
+      - id: lav_sicurezza
+        name: Sicurezza sul lavoro
+        triggers: [sicurezza sul lavoro, morti sul lavoro, infortuni, infortunio, ispettorato del lavoro]
+      - id: lav_contratti
+        name: Contratti
+        triggers: [contratto, contratti, rinnovo contrattuale, ccnl, contrattazione]
+
+  - name: Sanità
+    topics:
+      - id: san_ospedali
+        name: Ospedali
+        triggers: [ospedale, ospedali, pronto soccorso, posti letto, reparto, reparti]
+      - id: san_liste_attesa
+        name: Liste d'attesa
+        triggers: [liste d'attesa, lista d'attesa, attesa, prenotazioni, cup, tempi di attesa]
+      - id: san_territoriale
+        name: Medicina territoriale
+        triggers: [medicina territoriale, case di comunità, medico di base, medici di base, assistenza territoriale, distretti sanitari]
+      - id: san_personale
+        name: Personale sanitario
+        triggers: [personale sanitario, infermieri, medici, carenza di personale, assunzioni sanità, specializzandi]
+
+  - name: Istruzione
+    topics:
+      - id: ist_scuola
+        name: Scuola
+        triggers: [scuola, scuole, studenti, alunni, edilizia scolastica, dispersione scolastica]
+      - id: ist_universita
+        name: Università
+        triggers: [università, universitario, atenei, studenti universitari, diritto allo studio]
+      - id: ist_ricerca
+        name: Ricerca
+        triggers: [ricerca, ricercatori, innovazione, fondi alla ricerca, brevetti]
+      - id: ist_docenti
+        name: Docenti
+        triggers: [docenti, insegnanti, precari della scuola, reclutamento docenti, supplenti]
+
+  - name: Giustizia
+    topics:
+      - id: giu_magistratura
+        name: Magistratura
+        triggers: [magistratura, magistrati, csm, separazione delle carriere, toghe]
+      - id: giu_carceri
+        name: Carceri
+        triggers: [carcere, carceri, detenuti, sovraffollamento, polizia penitenziaria]
+      - id: giu_penale
+        name: Processo penale
+        triggers: [processo penale, prescrizione, codice penale, intercettazioni, custodia cautelare]
+      - id: giu_civile
+        name: Processo civile
+        triggers: [processo civile, giustizia civile, tribunali, arretrato giudiziario]
+
+  - name: Ambiente
+    topics:
+      - id: amb_clima
+        name: Clima
+        triggers: [clima, cambiamento climatico, emergenza climatica, emissioni, co2, dissesto idrogeologico]
+      - id: amb_energia
+        name: Energia
+        triggers: [energia, gas, nucleare, approvvigionamento, caro energia, indipendenza energetica]
+      - id: amb_rinnovabili
+        name: Rinnovabili
+        triggers: [rinnovabili, fotovoltaico, eolico, transizione energetica, comunità energetiche]
+      - id: amb_rifiuti
+        name: Rifiuti
+        triggers: [rifiuti, raccolta differenziata, economia circolare, discariche, inceneritori, termovalorizzatore]
+
+  - name: Diritti
+    topics:
+      - id: dir_famiglia
+        name: Famiglia
+        triggers: [famiglia, famiglie, natalità, assegno unico, conciliazione vita-lavoro]
+      - id: dir_genere
+        name: Genere
+        triggers: [parità di genere, violenza di genere, femminicidio, discriminazioni, gender gap]
+      - id: dir_disabilita
+        name: Disabilità
+        triggers: [disabilità, disabili, barriere architettoniche, caregiver, inclusione]
+      - id: dir_cittadinanza
+        name: Cittadinanza
+        triggers: [cittadinanza, ius soli, ius scholae, diritti civili, apolidi]
+
+  - name: Sicurezza e immigrazione
+    topics:
+      - id: sic_immigrazione
+        name: Immigrazione
+        triggers: [immigrazione, migranti, sbarchi, accoglienza, flussi migratori, richiedenti asilo, cpr]
+      - id: sic_urbana
+        name: Sicurezza urbana
+        triggers: [sicurezza urbana, criminalità, degrado, baby gang, microcriminalità, decoro urbano]
+      - id: sic_confini
+        name: Confini
+        triggers: [confini, frontiere, frontex, controllo delle frontiere]
+      - id: sic_forze_ordine
+        name: Forze dell'ordine
+        triggers: [forze dell'ordine, polizia, carabinieri, guardia di finanza, divise]
+
+  - name: Digitale
+    topics:
+      - id: dig_ia
+        name: Intelligenza artificiale
+        triggers: [intelligenza artificiale, ia, algoritmi, machine learning, sistemi automatizzati]
+      - id: dig_privacy
+        name: Privacy
+        triggers: [privacy, dati personali, gdpr, protezione dei dati, garante privacy]
+      - id: dig_piattaforme
+        name: Piattaforme digitali
+        triggers: [piattaforme digitali, big tech, social network, gig economy, rider]
+      - id: dig_cyber
+        name: Cybersecurity
+        triggers: [cybersecurity, sicurezza informatica, cyber, attacchi informatici, infrastrutture critiche]
+
+  - name: Media ed editoria
+    topics:
+      - id: med_editoria
+        name: Editoria
+        triggers: [editoria, giornali, quotidiani, contributi editoria, edicole]
+      - id: med_servizio_pubblico
+        name: Servizio pubblico
+        triggers: [servizio pubblico, rai, canone, radiotelevisione]
+      - id: med_pubblicita
+        name: Pubblicità
+        triggers: [pubblicità, spot, raccolta pubblicitaria, sponsorizzazioni]
+      - id: med_informazione
+        name: Informazione
+        triggers: [informazione, libertà di stampa, giornalisti, disinformazione, fake news, querele bavaglio]

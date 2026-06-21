@@ -1,0 +1,50 @@
+[project]
+name = "parlamente"
+version = "0.1.0"
+description = "Parla Mente — capire di cosa parlano davvero deputati e senatori, partendo dalle fonti ufficiali."
+readme = "../README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "nmaiese" }]
+dependencies = [
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "pydantic>=2.6",
+    "pydantic-settings>=2.2",
+    "duckdb>=0.10",
+    "scikit-learn>=1.4",
+    "numpy>=1.26",
+    "PyYAML>=6.0",
+    "typer>=0.12",
+    "rich>=13.7",
+    "python-dotenv>=1.0",
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.29",
+]
+
+[project.optional-dependencies]
+# Livello C (semantica) e NLP avanzato — non richiesti per l'MVP.
+nlp = ["spacy>=3.7", "sentence-transformers>=2.7"]
+dev = ["pytest>=8.0", "ruff>=0.4", "mypy>=1.9", "httpx>=0.27"]
+
+[project.scripts]
+parlamente = "parlamente.cli:app"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["parlamente*"]
+
+[tool.setuptools.package-data]
+parlamente = ["nlp/topics.yaml"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
