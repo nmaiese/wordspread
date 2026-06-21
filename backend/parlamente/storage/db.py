@@ -103,11 +103,15 @@ CREATE TABLE IF NOT EXISTS keywords (
 class Database:
     """Wrapper sottile attorno a una connessione DuckDB."""
 
-    def __init__(self, path: Path | str | None = None) -> None:
+    def __init__(self, path: Path | str | None = None, read_only: bool = False) -> None:
         settings = get_settings()
         self.path = Path(path) if path else settings.db_file
         self.path.parent.mkdir(parents=True, exist_ok=True)
-        self.conn = duckdb.connect(str(self.path))
+        self.read_only = read_only
+        # In read-only più processi/lettori possono aprire lo stesso file senza
+        # conflitti di lock (utile per l'API mentre gira altro). La scrittura
+        # (ingestion/NLP) usa read_only=False.
+        self.conn = duckdb.connect(str(self.path), read_only=read_only)
 
     def init_schema(self) -> None:
         self.conn.execute(SCHEMA)
@@ -136,7 +140,8 @@ class Database:
         self.close()
 
 
-def get_db(path: Path | str | None = None) -> Database:
-    db = Database(path)
-    db.init_schema()
+def get_db(path: Path | str | None = None, read_only: bool = False) -> Database:
+    db = Database(path, read_only=read_only)
+    if not read_only:
+        db.init_schema()
     return db

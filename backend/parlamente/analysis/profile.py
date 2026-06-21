@@ -12,8 +12,19 @@ from ..storage.repositories import Repositories
 from .evidence import build_topic_evidence
 
 
+def _iso(d: Any) -> str | None:
+    """ISO 'YYYY-MM-DD' robusto: accetta date, datetime o stringa (a seconda di
+    come il driver DuckDB restituisce le colonne DATE)."""
+    if not d:
+        return None
+    if isinstance(d, str):
+        return d
+    return d.isoformat()
+
+
 def _month(d: Any) -> str:
-    return d.isoformat()[:7] if d else ""
+    iso = _iso(d)
+    return iso[:7] if iso else ""
 
 
 def build_profile(repo: Repositories, politician_id: str) -> dict[str, Any] | None:
@@ -26,12 +37,11 @@ def build_profile(repo: Repositories, politician_id: str) -> dict[str, Any] | No
     topic_evidence = build_topic_evidence(repo, politician_id)
     keywords = repo.keywords_for("politician", politician_id, limit=40)
 
-    # KPI / periodo coperto
-    dates = [r["date"] for r in interventions] + [r["date"] for r in acts]
-    dates = [d for d in dates if d]
+    # KPI / periodo coperto (ISO ordina lessicograficamente come cronologicamente)
+    isos = sorted(i for i in (_iso(r["date"]) for r in interventions + acts) if i)
     period = {
-        "from": min(dates).isoformat() if dates else None,
-        "to": max(dates).isoformat() if dates else None,
+        "from": isos[0] if isos else None,
+        "to": isos[-1] if isos else None,
     }
 
     # Top temi (quota%) e timeline per macro-aggregato del topic principale per mese
@@ -75,7 +85,7 @@ def build_profile(repo: Repositories, politician_id: str) -> dict[str, Any] | No
         "interventions": [
             {
                 "id": r["id"],
-                "date": r["date"].isoformat() if r["date"] else None,
+                "date": _iso(r["date"]),
                 "context": r["context"],
                 "text": (r["text"] or "")[:400],
                 "source_url": r["source_url"],
@@ -85,7 +95,7 @@ def build_profile(repo: Repositories, politician_id: str) -> dict[str, Any] | No
         "acts": [
             {
                 "id": r["id"],
-                "date": r["date"].isoformat() if r["date"] else None,
+                "date": _iso(r["date"]),
                 "act_type": r["act_type"],
                 "title": r["title"],
                 "status": r["status"],
