@@ -1,138 +1,228 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import { searchPoliticians, compare, PoliticianSummary } from "@/lib/api";
-import { TopicBar } from "@/components/TopicBar";
+import { PageWrap } from "@/components/Shell";
+import { Avatar, Select, Button, Tag, ComparisonRow, StateMessage } from "@/components/ds";
 
-function Picker({
+function PickerColumn({
   label,
+  side,
   value,
   onChange,
+  options,
 }: {
   label: string;
+  side: "a" | "b";
   value: string;
   onChange: (id: string) => void;
+  options: PoliticianSummary[];
 }) {
-  const [q, setQ] = useState("");
-  const [opts, setOpts] = useState<PoliticianSummary[]>([]);
-  useEffect(() => {
-    const t = setTimeout(() => {
-      searchPoliticians({ q: q || undefined, legislature: "19", limit: 20 })
-        .then(setOpts)
-        .catch(() => setOpts([]));
-    }, 250);
-    return () => clearTimeout(t);
-  }, [q]);
+  const sel = options.find((o) => o.id === value);
+  const accent = side === "a" ? "var(--coral-600)" : "var(--violet-600)";
   return (
-    <div className="grow">
-      <div className="muted" style={{ marginBottom: 6 }}>{label}</div>
-      <input
-        placeholder="filtra per nome…"
-        value={q}
-        onChange={(e) => setQ(e.target.value)}
-        style={{ width: "100%", marginBottom: 8 }}
-      />
-      <select
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-        style={{ width: "100%" }}
-        size={6}
-      >
-        {opts.map((o) => (
+    <div
+      style={{
+        background: "var(--surface)",
+        border: "1px solid var(--border)",
+        borderTop: `3px solid ${accent}`,
+        borderRadius: "var(--radius-lg)",
+        padding: 18,
+      }}
+    >
+      <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 12 }}>
+        <span
+          style={{
+            fontFamily: "var(--font-mono)",
+            fontSize: 11,
+            letterSpacing: "0.08em",
+            textTransform: "uppercase",
+            color: accent,
+            fontWeight: 600,
+          }}
+        >
+          Parlamentare {label}
+        </span>
+      </div>
+      <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 12 }}>
+        <Avatar name={sel ? sel.full_name : "?"} tone={side} size={40} />
+        <div style={{ minWidth: 0 }}>
+          <div style={{ fontSize: 16, fontWeight: 600, color: "var(--ink-900)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+            {sel ? sel.full_name : "Seleziona"}
+          </div>
+          <div style={{ fontSize: 13, color: "var(--ink-500)" }}>{sel ? sel.group_name || "—" : "—"}</div>
+        </div>
+      </div>
+      <Select value={value} onChange={(e) => onChange(e.target.value)} containerStyle={{ width: "100%" }} style={{ width: "100%" }}>
+        <option value="">Seleziona un parlamentare…</option>
+        {options.map((o) => (
           <option key={o.id} value={o.id}>
             {o.full_name} — {o.group_name || "—"}
           </option>
         ))}
-      </select>
+      </Select>
     </div>
   );
 }
 
-export default function ComparePage() {
-  const [a, setA] = useState("");
-  const [b, setB] = useState("");
+function CompareInner() {
+  const params = useSearchParams();
+  const [opts, setOpts] = useState<PoliticianSummary[]>([]);
+  const [a, setA] = useState(params.get("a") || "");
+  const [b, setB] = useState(params.get("b") || "");
   const [data, setData] = useState<any>(null);
   const [err, setErr] = useState<string | null>(null);
 
-  async function run() {
-    if (!a || !b) return;
-    try {
-      setErr(null);
-      setData(await compare(a, b));
-    } catch (e: any) {
-      setErr(e.message);
+  useEffect(() => {
+    searchPoliticians({ legislature: "19", limit: 200 })
+      .then(setOpts)
+      .catch(() => setOpts([]));
+  }, []);
+
+  useEffect(() => {
+    if (!a || !b) {
+      setData(null);
+      return;
     }
-  }
+    let cancelled = false;
+    setErr(null);
+    compare(a, b)
+      .then((d) => !cancelled && setData(d))
+      .catch((e) => !cancelled && setErr(e.message));
+    return () => {
+      cancelled = true;
+    };
+  }, [a, b]);
 
   return (
-    <div>
-      <div className="panel">
-        <div className="row">
-          <Picker label="Parlamentare A" value={a} onChange={setA} />
-          <Picker label="Parlamentare B" value={b} onChange={setB} />
+    <main>
+      <PageWrap>
+        <div style={{ padding: "32px 0 8px", maxWidth: 720 }}>
+          <div className="pm-eyebrow" style={{ marginBottom: 8 }}>Confronto</div>
+          <h1 style={{ fontFamily: "var(--font-serif)", fontWeight: 600, fontSize: 36, letterSpacing: "-0.02em", color: "var(--ink-900)", margin: 0 }}>
+            A · vs · B
+          </h1>
+          <p style={{ fontSize: 16, color: "var(--ink-500)", marginTop: 12, lineHeight: 1.55 }}>
+            Confronta due parlamentari per temi comuni e distintivi. Le differenze sono mostrate su scala di quota:{" "}
+            <span style={{ color: "var(--coral-700)", fontWeight: 600 }}>A in corallo</span>,{" "}
+            <span style={{ color: "var(--violet-700)", fontWeight: 600 }}>B in viola</span>.
+          </p>
         </div>
-        <button className="primary" style={{ marginTop: 14 }} onClick={run} disabled={!a || !b}>
-          Confronta
-        </button>
-        {err && <p className="note">Errore: {err}</p>}
-      </div>
 
-      {data && (
-        <>
-          <div className="section-title">
-            {data.a.full_name} vs {data.b.full_name}
-          </div>
-          <div className="row">
-            <div className="panel grow">
-              <strong>Volumi per sede</strong>
-              <p className="muted" style={{ fontSize: 13 }}>
-                {data.a.full_name}: aula {data.venues.a.aula || 0} · commissione{" "}
-                {data.venues.a.commissione || 0} · atti {data.venues.a.atti || 0}
-                <br />
-                {data.b.full_name}: aula {data.venues.b.aula || 0} · commissione{" "}
-                {data.venues.b.commissione || 0} · atti {data.venues.b.atti || 0}
-              </p>
-            </div>
-          </div>
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16, marginTop: 8 }}>
+          <PickerColumn label="A" side="a" value={a} onChange={setA} options={opts} />
+          <PickerColumn label="B" side="b" value={b} onChange={setB} options={opts} />
+        </div>
 
-          <div className="section-title">Temi comuni</div>
-          <div className="panel">
-            {data.common_topics.length === 0 && (
-              <p className="muted">Nessun tema in comune nei dati disponibili.</p>
-            )}
-            {data.common_topics.map((c: any) => (
-              <div key={c.topic_id} style={{ marginBottom: 10 }}>
-                <div className="muted" style={{ fontSize: 13 }}>{c.topic}</div>
-                <TopicBar label={data.a.full_name} share={c.share_a} />
-                <TopicBar label={data.b.full_name} share={c.share_b} />
-              </div>
-            ))}
+        {err && (
+          <div style={{ marginTop: 24 }}>
+            <StateMessage kind="error" title="Confronto non disponibile" description={err} />
           </div>
+        )}
 
-          <div className="row">
-            <div className="panel grow">
-              <strong>Temi distintivi — {data.a.full_name}</strong>
-              <div style={{ marginTop: 8 }}>
-                {data.distinctive_a.map((t: any) => (
-                  <span key={t.topic_id} className="badge">{t.topic}</span>
-                ))}
-                {data.distinctive_a.length === 0 && <span className="muted">—</span>}
-              </div>
-              <div className="note">Keyword: {data.distinctive_keywords_a.join(", ") || "—"}</div>
-            </div>
-            <div className="panel grow">
-              <strong>Temi distintivi — {data.b.full_name}</strong>
-              <div style={{ marginTop: 8 }}>
-                {data.distinctive_b.map((t: any) => (
-                  <span key={t.topic_id} className="badge">{t.topic}</span>
-                ))}
-                {data.distinctive_b.length === 0 && <span className="muted">—</span>}
-              </div>
-              <div className="note">Keyword: {data.distinctive_keywords_b.join(", ") || "—"}</div>
-            </div>
+        {!err && (!a || !b) && (
+          <div style={{ marginTop: 24 }}>
+            <StateMessage kind="empty" title="Seleziona due parlamentari" description="Scegli A e B per vedere temi comuni e distintivi." />
           </div>
-        </>
-      )}
-    </div>
+        )}
+
+        {!err && data && (
+          <>
+            {/* Venues */}
+            <div style={{ marginTop: 24, display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))", gap: 12 }}>
+              {[
+                { k: "Interventi in Aula", a: data.venues?.a?.aula || 0, b: data.venues?.b?.aula || 0 },
+                { k: "Commissione", a: data.venues?.a?.commissione || 0, b: data.venues?.b?.commissione || 0 },
+                { k: "Atti", a: data.venues?.a?.atti || 0, b: data.venues?.b?.atti || 0 },
+              ].map((v) => (
+                <div key={v.k} style={{ background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "var(--radius-md)", padding: "14px 16px" }}>
+                  <div style={{ fontSize: 12, color: "var(--ink-500)", marginBottom: 8 }}>{v.k}</div>
+                  <div style={{ display: "flex", gap: 16, fontFamily: "var(--font-mono)", fontWeight: 600, fontSize: 20 }}>
+                    <span style={{ color: "var(--coral-700)" }}>{v.a}</span>
+                    <span style={{ color: "var(--ink-300)" }}>/</span>
+                    <span style={{ color: "var(--violet-700)" }}>{v.b}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Common topics */}
+            <h2 style={{ fontFamily: "var(--font-serif)", fontWeight: 600, fontSize: 24, margin: "36px 0 6px", letterSpacing: "-0.015em" }}>
+              Temi comuni
+            </h2>
+            <div style={{ background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "var(--radius-lg)", padding: "10px 22px" }}>
+              {data.common_topics?.length ? (
+                data.common_topics.map((c: any) => <ComparisonRow key={c.topic_id} topic={c.topic} shareA={c.share_a} shareB={c.share_b} />)
+              ) : (
+                <div style={{ padding: "16px 0", color: "var(--ink-500)", fontSize: 14, textAlign: "center" }}>
+                  Nessun tema in comune nei dati disponibili.
+                </div>
+              )}
+            </div>
+
+            {/* Distinctive */}
+            <h2 style={{ fontFamily: "var(--font-serif)", fontWeight: 600, fontSize: 24, margin: "36px 0 6px", letterSpacing: "-0.015em" }}>
+              Temi distintivi
+            </h2>
+            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16, paddingBottom: 8 }}>
+              {[
+                {
+                  side: "a" as const,
+                  name: data.a?.full_name,
+                  list: data.distinctive_a || [],
+                  kws: data.distinctive_keywords_a || [],
+                  accent: "var(--coral-600)",
+                },
+                {
+                  side: "b" as const,
+                  name: data.b?.full_name,
+                  list: data.distinctive_b || [],
+                  kws: data.distinctive_keywords_b || [],
+                  accent: "var(--violet-600)",
+                },
+              ].map((col) => (
+                <div
+                  key={col.side}
+                  style={{
+                    background: "var(--surface)",
+                    border: "1px solid var(--border)",
+                    borderLeft: `3px solid ${col.accent}`,
+                    borderRadius: "var(--radius-md)",
+                    padding: 18,
+                  }}
+                >
+                  <div style={{ fontSize: 15, fontWeight: 600, color: "var(--ink-900)", marginBottom: 10 }}>{col.name}</div>
+                  <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginBottom: 12 }}>
+                    {col.list.length ? (
+                      col.list.map((t: any) => (
+                        <Tag key={t.topic_id} tone={col.side}>
+                          {t.topic}
+                        </Tag>
+                      ))
+                    ) : (
+                      <span style={{ color: "var(--ink-400)", fontSize: 13 }}>—</span>
+                    )}
+                  </div>
+                  <div style={{ fontFamily: "var(--font-mono)", fontSize: 12, color: "var(--ink-400)" }}>
+                    Keyword: {col.kws.length ? col.kws.join(" · ") : "—"}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </>
+        )}
+
+        <div style={{ height: 24 }} />
+      </PageWrap>
+    </main>
+  );
+}
+
+export default function ComparePage() {
+  return (
+    <Suspense fallback={<PageWrap><div style={{ padding: "60px 0" }}><StateMessage kind="loading" title="Caricamento…" /></div></PageWrap>}>
+      <CompareInner />
+    </Suspense>
   );
 }
