@@ -45,4 +45,8 @@ def _shared_db():
 
 
 def get_repositories() -> Repositories:
-    return Repositories(_shared_db())
+    # Cursore per-richiesta sulla connessione read-only condivisa: ogni richiesta
+    # (eseguita in un thread del threadpool di FastAPI) ha il proprio cursore,
+    # evitando la corruzione da accesso concorrente a una connessione DuckDB.
+    base = _shared_db()
+    return Repositories(base.conn.cursor())

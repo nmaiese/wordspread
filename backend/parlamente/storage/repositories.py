@@ -26,9 +26,17 @@ def _dumps(d: dict[str, Any]) -> str:
 
 
 class Repositories:
-    def __init__(self, db: Database) -> None:
-        self.db = db
-        self.conn = db.conn
+    def __init__(self, db: "Database | object") -> None:
+        # Accetta un Database oppure direttamente una connessione/cursore DuckDB.
+        # Importante: una connessione DuckDB NON è thread-safe; per l'API si passa
+        # un cursore per-richiesta (db.conn.cursor()), così thread concorrenti non
+        # condividono lo stesso cursore.
+        if hasattr(db, "conn"):
+            self.db = db
+            self.conn = db.conn
+        else:
+            self.db = None
+            self.conn = db
 
     # ---------- politicians ----------
     def upsert_politicians(self, items: Iterable[Politician]) -> int:
