@@ -24,7 +24,9 @@ from parlamente.sources.camera.speeches import CameraSpeechesAdapter
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Costruisce fixtures reali dai resoconti Camera.")
-    parser.add_argument("--sedute", type=int, default=4, help="Numero di sedute recenti da scaricare.")
+    parser.add_argument("--sedute", type=int, default=4, help="Numero di sedute recenti (modalità indice).")
+    parser.add_argument("--from-seduta", type=int, default=None, help="idSeduta iniziale (storico esteso).")
+    parser.add_argument("--to-seduta", type=int, default=None, help="idSeduta finale (storico esteso).")
     parser.add_argument("--legislature", default="19")
     parser.add_argument("--max-int-per-seduta", type=int, default=60)
     args = parser.parse_args()
@@ -33,9 +35,16 @@ def main() -> None:
     out_dir = get_settings().fixtures_dir / "camera"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    adapter = CameraSpeechesAdapter(
-        use_fixtures=False, legislature=args.legislature, max_sedute=args.sedute
-    )
+    if args.from_seduta is not None and args.to_seduta is not None:
+        seduta_ids = list(range(args.to_seduta, args.from_seduta - 1, -1))  # dal più recente
+        adapter = CameraSpeechesAdapter(
+            use_fixtures=False, legislature=args.legislature, seduta_ids=seduta_ids
+        )
+        print(f"Storico esteso: sedute {args.from_seduta}–{args.to_seduta} ({len(seduta_ids)} sedute)")
+    else:
+        adapter = CameraSpeechesAdapter(
+            use_fixtures=False, legislature=args.legislature, max_sedute=args.sedute
+        )
     docs = adapter.fetch_documents()
     interventions = adapter.fetch_interventions()
 
