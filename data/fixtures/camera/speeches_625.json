@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0625",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-03-03",
+    "title": "Assemblea — Seduta n. 625 del 2026-03-03",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 625
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 102, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo alla prima interrogazione all'ordine del giorno Carmina n. 3-02527 (Vedi l' allegato A ) . Il Sottosegretario di Stato per le Infrastrutture e i trasporti, Antonio Iannone, ha facoltà di rispondere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307820_19",
+      "politician_name": "IANNONE Antonio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per le Infrastrutture e i trasporti . Grazie, Presidente. In riferimento ai quesiti posti, si evidenzia quanto segue, sulla base degli elementi forniti dalla società ANAS. In premessa, si evidenzia che l'asse viario Palermo-Agrigento è costituito da due principali arterie: la strada statale n. 121 Catanese e la strada statale n. 189 della Valle dei Platani, dal Bivio Manganaro, al chilometro 0, fino ad Agrigento, al chilometro 65,7. Tale collegamento riveste carattere strategico per la mobilità regionale e per i flussi provenienti dal versante meridionale dell'isola verso il capoluogo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307820",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Salutiamo le ragazze e i ragazzi, le docenti e i docenti dell'Istituto comprensivo 02 “Saval - San Zeno” di Verona, che assistono ai nostri lavori dalle tribune. Grazie di essere qua, benvenuti a Montecitorio (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ringrazio il Sottosegretario Iannone, ma non posso ritenermi soddisfatta della risposta, non tanto e non solo per la disamina fatta, da cui si evince che ancora ci sono tratti in fase di progettazione e che ancora sono incerte le fonti di finanziamento, perché si parla di 1 miliardo di euro che bisogna ancora comprendere da quali risorse attingere. Ma io chiedevo, nell'interrogazione dell'aprile del 2025, di prestare una particolare attenzione a questo asse, che l'ANAS stesso definisce strategico, perché è di collegamento da Agrigento - quindi, dalla zona Sud della Sicilia, una provincia che sconta un particolare isolamento perché non è collegata ad autostrade, non ha un aeroporto, non ha un'adeguata strutturazione ferroviaria -, passa anche per la provincia di Caltanissetta e sulla quale si innesta anche la viabilità di tanti paesi della zona montana dei Monti Sicani eccetera, che scontano una condizione di grave isolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307820_19",
+      "politician_name": "IANNONE Antonio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per le Infrastrutture e i trasporti . Grazie, Presidente. In riferimento al quesito posto, sulla base degli elementi forniti dalla società ANAS, rappresento quanto segue. In premessa si evidenzia che i tratti della strada statale n. 16 “Adriatica” e della strada statale 17 “dell'Appennino Abruzzese ed Appulo-Sannitico”, quest'ultima asse fondamentale di collegamento tra Foggia e Campobasso, costituiscono infrastrutture viarie di primaria rilevanza strategica per l'intera Capitanata. Queste direttrici sostengono flussi di traffico quotidiani e indispensabili, assicurano la connessione tra poli produttivi e centri abitati e rappresentano un fattore determinante per la sicurezza, l'accessibilità e la competitività socio-economica del territorio provinciale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307820",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308811_19",
+      "politician_name": "LA SALANDRA Giandonato",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Sì, grazie, Presidente. Lei ha perfettamente ragione: in questa fase, solitamente, i deputati si dichiarano soddisfatti o insoddisfatti, però generalmente dovremmo anche essere in grado di argomentare se siamo soddisfatti o non siamo soddisfatti. Io mi ritengo oggettivamente soddisfatto. Perché? Perché quanto illustrato dal Sottosegretario è chiaro ed inequivocabile rispetto a quelle che sono le richieste che io ho fatto nella mia interrogazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308811",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308826_19",
+      "politician_name": "COMBA Fabrizio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, onorevole Presidente. Sottosegretario Iannone, la Convenzione delle Alpi contiene l'insieme degli strumenti necessari per facilitare la cooperazione fra le parti aderenti per perseguire una politica che assicuri l'equilibrata crescita economica, il benessere sociale e la tutela del territorio e dell'ambiente in generale. Le Alpi, con il loro capitale di biodiversità, di bacini idrici e risorse uniche, come il legname e i minerali rari, sono un ambiente paesaggistico, naturalistico, culturale, storico e di lavoro per quasi 14 milioni di persone, nonché un'importante destinazione turistica, che attira più di 120 milioni di visitatori ogni anno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308826",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308826_19",
+      "politician_name": "COMBA Fabrizio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Sottosegretario Iannone, non posso che considerarmi più che soddisfatto, in modo particolare per l'inciso, che lei ha poc'anzi riportato, che è quello relativo anche all'impegno che avrà il nostro Paese durante il periodo di presidenza 2025-2026. È un momento molto delicato e importante. È un ambito importante e lo ha dimostrato ovviamente la sua relazione. L'interesse è quello sicuramente di impegnarci maggiormente affinché si possa essere il più performanti possibile, nell'interesse di ambiti territoriali che hanno un'economia molto particolare, perché comunque fare e produrre economia in montagna è sicuramente più impegnativo che non produrla in ambiti territoriali differenti. Quindi, da parte del Governo vi è un'attenzione determinata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308826",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 105, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305880_19",
+      "politician_name": "FRATOIANNI Nicola",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signora Presidente. Intervengo a nome del gruppo di Alleanza Verdi e Sinistra per chiedere che la Presidente del Consiglio, Giorgia Meloni, venga in quest'Aula, nell'Aula del Parlamento della Repubblica, per rendere un'informativa al Parlamento su quello che sta accadendo in Medio Oriente, in Iran, dopo l'attacco unilaterale scatenato dagli Stati Uniti e da Israele qualche giorno fa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305880",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308243_19",
+      "politician_name": "PROVENZANO Giuseppe",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. “Abbiamo munizioni infinite, possiamo fare la guerra per sempre”. Queste sono le parole di Donald Trump di poche ore fa. La guerra infatti dilaga: Iran, Golfo, l'invasione del Libano. Con ogni evidenza, Presidente, è una situazione fuori controllo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308243",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308243_19",
+      "politician_name": "PROVENZANO Giuseppe",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Riguarda il Governo se il Ministro Crosetto dice che i servizi non potevano non sapere e i servizi segreti dicono che non sapevano nulla. Se c'è un problema tra il Ministro della Difesa e l'autorità delegata ai servizi bisogna discuterne in Parlamento. Bisogna farlo con la Presidente Meloni, con serietà, perché essere schiacciati su Trump ci sta facendo (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista)…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308243",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Quindi, noi non accetteremo questi insulti, ma venga in Aula la Meloni. Venga a dirci cosa pensa di questo e non ci parli di comici né reinventi il diritto a sua immagine e somiglianza per una becera propaganda (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Presidente, la ringrazio. Io sinceramente sono combattuto perché, da un lato, mi sento di dover solidarizzare e sostenere la tesi dei colleghi dell'opposizione sulla richiesta di informativa; dall'altro lato, reputo anche, Presidente, che questo Governo - che non sa un tubo di tutto quello che sta accadendo - ma che cosa ci deve venire a dire? Qual è l'informazione che deve rendere al Parlamento, visto che sono totalmente ignoranti di tutto ciò che accade?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 2713-A ​: Proroga del termine per l'esercizio della delega prevista dall'articolo 35 della legge 25 novembre 2024, n. 177.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308870_19",
+      "politician_name": "FRIJIA Maria Grazia",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie, Presidente. Sugli emendamenti 1.1 e 1.36 Iaria il parere è contrario. Sull'emendamento 1.1000 Barbagallo vi è un invito al ritiro, perché poi, in parte, viene assorbito dall'emendamento 1.300 della Commissione, sul quale c'è parere favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308870",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308876_19",
+      "politician_name": "FERRANTE Tullio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per le Infrastrutture e i trasporti . Sull'ordine del giorno n. 9/2713-A/1 Bakkali il parere è contrario. Sull'ordine del giorno n. 9/2713-A/2 Ghio il parere è favorevole relativamente al primo e al quarto impegno, mentre il parere è contrario sul secondo e sul terzo impegno. Sull'ordine del giorno n. 9/2713-A/3 Barbagallo il parere è favorevole, subordinatamente alla seguente riformulazione dell'impegno: “a verificare, compatibilmente con le esigenze di sicurezza, l'attuazione delle disposizioni citate…” (Commenti del deputato Barbagallo) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308876",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308876_19",
+      "politician_name": "FERRANTE Tullio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per le Infrastrutture e i trasporti . Il parere è favorevole subordinatamente alla seguente riformulazione dell'impegno: “a verificare, compatibilmente con le esigenze di sicurezza, l'attuazione delle disposizioni citate in premessa al fine di adottare le iniziative di competenza atte ad evitare ogni tipo di aumento ingiustificato dei costi delle sessioni d'esame per il conseguimento della patente di guida a carico degli utenti anche valutando azioni di contenimento della spesa e riduzione dei costi, ove possibile”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308876",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signora Presidente. Non accettiamo la riformulazione del Governo perché l'argomento è evidente e agli atti, con tre distinti interventi normativi: con il decreto ministeriale n. 191 del 2025, con il nuovo codice della strada e con un decreto interministeriale del 2026; i costi per ottenere il rilascio della patente di guida, anche della patente A, sono aumentati di oltre il 300 per cento in un solo anno. La risposta del Governo è un pannicello caldo, serviva un impegno diverso. Noi abbiamo formulato una serie di emendamenti, abbiamo proposto question time in Commissione, interpellanze urgenti, ma la risposta è sempre quella di una melina insopportabile. È un costo ingiustificato, che grava sulle fasce più deboli della popolazione, su studenti, su studenti universitari, su pensionati. Un aumento indiscriminato del 300 per cento che comporta, per ogni seduta d'esame, un aumento di circa 300 euro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie Presidente. Sinceramente il parere contrario al mio ordine del giorno e il parere favorevole all'ordine del giorno del collega Casu - sono contento per lui - mi creano dubbi e perplessità perché tutti e due riguardano il tema della sicurezza, la gestione e la moderazione del traffico e gli investimenti nel settore delle infrastrutture. Il mio ordine del giorno riguarda espressamente le “zone 30”. Io ricordo che sulle “zone 30” avete fatto una campagna mediatica veramente ridicola e anche pericolosa, demonizzandole…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie. Ricordo che il Governo e la maggioranza sulle “zone 30”, hanno fatto una campagna denigratoria ai limiti del ridicolo e anche del pericoloso. Le “zone 30” sono un fattore che, nelle città, riesce ad aumentare la sicurezza stradale, riesce a rendere più vivibili le zone interessate da questi provvedimenti e, oltre a diminuire l'inquinamento, fa in modo anche che le abitazioni che insistono su tali “zone 30” abbiano un valore economico più alto, creano, quindi, anche una certa economia, un certo aumento della qualità della vita.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie. Se voleva intervenire il presidente, l'avrei ascoltato con attenzione. Voglio però puntualizzare un aspetto, anche perché penso che quello che è appena avvenuto su questi pareri ci possa aiutare nella discussione che stiamo facendo sul codice della strada.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Chiedo scusa. Allora mi unisco alla richiesta del collega Iaria di accantonamento del suo ordine del giorno e mi collego al fatto che lui ha invitato a fare un'ulteriore riflessione, in analogia con l'approvazione del nostro ordine del giorno. Voglio dire cosa diceva il nostro ordine del giorno, il quale invitava il Governo a seguire le indicazioni di una relazione, che è arrivata, della Commissione europea, che, con l'obiettivo di garantire interventi per la gestione della velocità e moderazione del traffico, di proteggere gli utenti vulnerabili, di garantire sicurezza delle infrastrutture stradali, di rafforzare l' enforcement e l'applicazione di norme e di diffondere tecnologie di sicurezza attiva e passiva nei veicoli, indica quelli che sono gli interventi più efficaci.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307219_19",
+      "politician_name": "DEIDDA Salvatore",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Presidente della IX Commissione . Grazie, Presidente. Non voglio entrare in questa disputa fra chi ha scritto meglio, più o meno precisamente l'ordine del giorno tra PD e MoVimento 5 Stelle, solamente che nei loro discorsi sembra che il Governo cattivo abbia vietato ai sindaci di fare le “Zone 30”, quando questo nel codice - né in quello vecchio, né nella riscrittura del nuovo - non c'è. Ciò si lega anche al fatto che il TAR ha accolto un ricorso di Fratelli d'Italia e dei consumatori a Bologna, dicendo chiaramente che non si può imporre una “zona 30” in tutta la città in maniera indiscriminata, tuttavia oggi un sindaco - io abito in una “zona 30” - può decidere, per ragioni di sicurezza o per ragioni di viabilità, di istituire delle “zone 30”. Quindi, se uno sente alcuni discorsi, sembra che per noi un sindaco non abbia il potere di decretare una “Zona 30”, quando oggi un sindaco, in Italia, ha tutti gli strumenti per decidere quali sono le “Zone 30” e quali no. Quindi, per cortesia, almeno raccontiamola tutta, ossia che non si possono istituire “Zone 30” in maniera demagogica e in maniera così propagandistica, ma si possono istituire per le ragioni che il codice prescrive.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307219",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Quest'ordine del giorno chiede una cosa che le Forze armate stanno chiedendo da tempo, cioè la possibilità di convertire le loro patenti militari, in maniera più semplice, in patenti civili. Adesso le Forze armate, i Carabinieri e altre Forze, per esempio, ogni 5 anni devono ridare l'esame per convertire la patente e farla diventare valida come le nostre patenti. Quindi, non capiamo, anche qui, perché il “no” a quest'ordine del giorno presentato dalla mia collega Marianna Ricciardi, che, tra l'altro, è una richiesta che le Forze armate stanno facendo da tempo e che, vado a memoria, avevano fatto anche all'epoca della discussione del codice della strada.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Questo provvedimento è esemplificativo della modalità di procedere del Governo Meloni e del Ministro delle infrastrutture e dei trasporti Salvini. Abbiamo discusso per settimane del nuovo codice della strada, un codice della strada che, appunto, descrive tutte le battaglie storiche del Ministro Salvini prontamente sconfessate alla prova dei fatti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto studenti, studentesse e docenti del consiglio comunale dei ragazzi dell'Istituto comprensivo di “Poggio Rusco”, di Poggio Rusco, in provincia di Mantova, che assistono ai nostri lavori dalle tribune (Applausi) . Salutiamo anche studentesse, studenti e docenti del liceo statale “Pascasino - Giovanni XXIII” di Marsala, in provincia di Trapani, che partecipano oggi alla giornata di formazione a Palazzo Montecitorio (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Onorevoli colleghe e colleghi, signor Sottosegretario. Voglio iniziare questo intervento ringraziando i colleghi dei gruppi di opposizione della Commissione trasporti, per il lavoro svolto e per essere riusciti a evitare che questa proroga potesse trasformarsi in una delega in bianco al Governo per la riscrittura di un nuovo codice della strada. Il gruppo di AVS non ha componenti nella Commissione trasporti, diversamente ci saremmo senz'altro uniti nelle richieste e nelle attività emendative portate avanti dalle opposizioni, volte a definire e circoscrivere i limiti entro cui il Governo potesse esercitare la delega, introducendo criteri direttivi e chiarendo aspetti rilevanti in materia di delegificazione. Presidente, lo abbiamo detto durante l'esame delle modifiche al codice della strada e lo ribadiamo oggi: per noi le modifiche apportate sono un fallimento, l'ennesimo fallimento di questa maggioranza e di questo Governo, di Salvini in modo particolare, come dimostrano, purtroppo, i dati tragici delle vittime che continuano a perdere la vita sulle nostre strade.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Voteremo, dunque, contro questo provvedimento, anche perché non interviene su nessuna delle criticità che avevamo segnalato durante l'esame del testo e che sono state confermate, purtroppo, dalla sua attuazione. Non possiamo non ribadire e richiamare i limiti e le critiche a questa legge, che avrebbe dovuto in primo luogo garantire la sicurezza sulle nostre strade, ma che da subito è stata ribattezzata “codice della strage”. Il nuovo codice sembra, infatti, andare in direzione ostinata e contraria rispetto a quello che servirebbe, disincentivando la mobilità urbana sostenibile a vantaggio dell'utilizzo della cara, vecchia, inquinante e insicura auto privata, a discapito della sicurezza e della salute delle persone e dell'ambiente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. La proroga della delega, già nella formulazione, dà un'ottima indicazione dello stato in cui versa il nostro Paese. Per citare un collega deputato, la solitudine della norma primaria è una malattia del nostro sistema legislativo, per cui troppo spesso ci si trova a rincorrere i decreti attuativi che arrivano mesi, se non anni, dopo le scadenze. Dall'altra parte, siamo un Paese delle proroghe, tanto da aver inventato il concetto di decreto Milleproroghe. Quindi, ci permettiamo un po' di margine di errore - non c'è nulla di più definitivo di quello che è temporaneo - e poi finisce per essere come sempre prorogato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Allora, io comincerei con la giustificazione per arrivare qui in Aula con una proroga dell'articolo che dava le deleghe al Governo per il codice della strada. La giustificazione adottata è la necessità di un'integrale riscrittura del codice della strada per creare un nuovo corpus normativo. Cosa significa? Significa semplicemente che tutto quello che è stato fatto da questo Governo in questo campo, per stessa ammissione del Governo, è fallimentare. Perché, se noi dobbiamo avere una proroga per riscrivere il codice della strada che abbiamo modificato nel 2024, forse, capiamo che, come abbiamo detto allora, quel codice della strada era solo fatto per riuscire a giustificare delle idee e delle ideologie radicali per quanto riguarda la mobilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308807_19",
+      "politician_name": "CAROPPO Andrea",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Oggi con il provvedimento, che ci accingiamo a votare, proseguiamo un'opera che, con determinazione e con decisione, abbiamo già avviato in questa legislatura. È un'opera molto importante, perché è quella di avviare - e di concludere, anzi - una profonda revisione di una norma molto datata, com'è il codice della strada. Un codice del 1992 che certamente, in questi più di trent'anni, ha subito una serie di modifiche, di cambiamenti, ma che mai aveva avuto un approccio organico nel rivedere quello che necessitava per continuare in un'opera di riduzione tanto dell'incidentalità quanto della mortalità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308807",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d302980_19",
+      "politician_name": "MACCANTI Elena",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi e Sottosegretario, oggi rinnoviamo la delega al Governo per la revisione e il riordino del codice della strada, secondo i principi definiti dall'articolo 35 della legge di riforma che il Parlamento ha approvato al termine di un confronto ampio, serio e partecipato. Non siamo di fronte a una semplice proroga tecnica, siamo di fronte a una scelta politica chiara e precisa: completare un percorso riformatore che ha già portato risultati concreti e che deve ora trovare piena attuazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "302980",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe, onorevoli colleghi e rappresentanti del Governo, oggi non stiamo discutendo una materia tecnica, stiamo facendo una scelta politica su come lo Stato debba difendere la vita delle persone sulle strade.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308870_19",
+      "politician_name": "FRIJIA Maria Grazia",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, io vorrei chiudere questo dibattito andando un po' nel solco delle dichiarazioni dei colleghi Caroppo e Maccanti, che mi hanno preceduta, e per riportare un po' di chiarezza, rimandando anche al mittente le ingiuste critiche che sono emerse questo pomeriggio, facendo capire che questo disegno di legge interviene sull'articolo 35 della legge n. 177 del 2024 ma, di fatto, proroga da 12 a 18 mesi - quindi di 6 mesi - il termine per l'esercizio della delega conferita al Governo per la revisione e il riordino della disciplina della motorizzazione e la circolazione stradale. Proprio perché vogliamo andare nella direzione della responsabilità e vogliamo andare nella direzione del lavoro fatto nell'interesse dei nostri concittadini, il Governo ha chiesto di prorogare di pochi mesi la delega per poter operare nel modo migliore. Questa proroga del termine per l'esercizio della delega si inserisce in modo coerente, tra l'altro, nel percorso di riforma del codice della strada, approvato dal Parlamento alla fine del 2024, che ha introdotto misure importanti e immediatamente operative in materia di sicurezza stradale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308870",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della proposta di legge, già approvata dal Senato, n. 2304: Modifiche al codice penale e al regolamento di polizia mortuaria, di cui al decreto del Presidente della Repubblica 10 settembre 1990, n. 285, in materia di disposizione delle spoglie mortali delle vittime di omicidio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questa proposta di legge vede il nostro favore, è una proposta di legge che è sicuramente una norma di civiltà. Riguarda, appunto, l'introduzione di una pena accessoria nei confronti di chi viene condannato per gravissimi reati nei confronti della vittima. E dalla condanna a questi gravissimi reati - tra cui l'omicidio, l'infanticidio, l'omicidio del consenziente e l'istigazione al suicidio, per esempio da cui derivi appunto la morte della vittima - deriva come pena accessoria l'impossibilità di poter disporre delle spoglie mortali della vittima.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Se nessun altro chiede di intervenire sul complesso degli emendamenti, invito la relatrice e il rappresentante del Governo ad esprimere il parere sulle proposte emendative e sugli articoli aggiuntivi riferiti agli articoli della proposta di legge.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). A parte le battute, questo è un argomento molto serio, signor Presidente e colleghi. Io intervengo, a nome del gruppo di Italia Viva, per esprimere il nostro voto favorevole su questo provvedimento, nella consapevolezza che non si tratta di una norma tecnica qualunque, ma di un intervento che tocca uno dei punti più delicati del nostro ordinamento: il rispetto che è dovuto alla persona anche dopo la sua morte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questa proposta di legge ha l'obiettivo di evitare la dispersione delle prove quando vi siano sospetti di femminicidio o omicidio. Quindi, per questo motivo, per quanto ci riguarda, l'obiettivo, la ratio del provvedimento è assolutamente condivisibile. Infatti, come Alleanza Verdi e Sinistra, voteremo, così come abbiamo già fatto in Senato, a favore di questo provvedimento. Voteremo a favore perché il testo introduce alcuni correttivi al codice penale e al regolamento di polizia mortuaria al fine di evitare che il coniuge, la parte dell'unione civile o il parente prossimo, autori del femminicidio, possano profittare dei diritti in tema di disposizione delle spoglie della vittima, che oggi l'ordinamento riconosce loro, per occultare le prove del delitto sviando così o tentando di sviare il corretto iter del procedimento penale che venga, nel frattempo, avviato per l'accertamento dei fatti e delle responsabilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Trattiamo in tema di modifiche al codice penale, con riferimento alla materia della disposizione delle spoglie mortali delle vittime di omicidio. Innanzitutto, che cosa intendiamo per spoglie mortali? Questa è una terminologia onnicomprensiva, cioè si intende il corpo della persona deceduta indipendentemente dallo stato, quindi trattiamo anche dei casi nei quali, purtroppo, è ridotta ad ossa o a ceneri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ci sono momenti in cui il diritto arriva dopo il dolore, e arriva perché il dolore vero, quello che lacera una famiglia e scuote un Paese intero, ci costringe a guardare una falla dell'ordinamento e a colmarla.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308830_19",
+      "politician_name": "BELLOMO Davide",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, signora Presidente. Io credo che, come al solito accade, il provvedimento stia prendendo pieghe diverse, perché con questo provvedimento stiamo colmando la lacuna di un vuoto legislativo, ossia prevedendo che una persona - sento parlare di femminicidio, soltanto di femminicidio - che abbia cagionato la morte di qualcuno, quindi, sia indagata o imputata per tale delitto, giustamente non debba disporre della salma del defunto, di colui che è deceduto a seguito di un reato, anche grave, commesso dallo stesso. Questa è l'essenza del provvedimento. Quindi, non è un provvedimento né a favore né contro le donne, ma è a favore della persona. Si deve avere dignità della salma in quel momento e, quindi, non si può consentire al soggetto, alla persona che ha commesso il delitto di disporne. Ma non si perde occasione… anche rispetto a questo provvedimento, che dovrebbe prevedere solo pochi minuti di dibattito, perché serve a riempire un vuoto normativo, sento di parlare solo di femminicidio, ma abbiamo anche il caso della madre che avrebbe ucciso e tagliato in quattro il proprio figlio, come le cronache ci dicono, e non se n'è parlato. Si tratta di persone, di colui il quale eventualmente è indagato per quell'efferato omicidio, per quel reato che poi ha cagionato la morte, che non deve giustamente disporre della salma.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308830",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d307689_19",
+      "politician_name": "BISA Ingrid",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, la proposta di legge oggi in esame introduce una norma di civiltà giuridica, come è già stato detto dai colleghi che mi hanno preceduto, e di rispetto umano: impedire che chi è indagato o condannato per l'omicidio di una persona possa disporre delle sue spoglie mortali. Parliamo di un principio di giustizia elementare. Non è accettabile che chi è sospettato o riconosciuto responsabile della morte di una persona possa decidere sulla tumulazione o addirittura sulla cremazione del corpo della vittima.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "307689",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche il gruppo del Partito Democratico esprime il proprio voto favorevole a questa iniziativa legislativa che ha già trovato il consenso unanime al Senato. Come è stato detto dalle colleghe e dai colleghi, il provvedimento interviene su un tema di grande delicatezza. Tocca da vicino la dignità delle persone, il rispetto per le vittime dei reati gravissimi e la tutela dell'accertamento della verità giudiziaria. Si tratta di una disciplina relativa alle spoglie mortali delle vittime di omicidio; in particolare riguarda i casi di femminicidio, un fenomeno troppo diffuso e drammaticamente ancora così presente nella nostra società.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308935_19",
+      "politician_name": "DONDI Daniela",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signora Presidente, signor Sottosegretario, onorevoli colleghi, oggi siamo chiamati a votare un provvedimento che mette fine a un paradosso inaccettabile: quello che permetteva talvolta all'omicida di gestire le spoglie della vittima, arrivando perfino a ordinarne la cremazione per cancellare le prove del delitto. In particolare, l'introduzione dell'articolo 585 -bis del codice penale, rubricato: “Pena accessoria”, prevede, appunto, la pena accessoria della decadenza dall'esercizio di ogni diritto e facoltà in tema di disposizione delle spoglie mortali della vittima, ad esempio per maltrattamenti contro familiari e conviventi da cui derivi la morte della persona offesa, omicidio, infanticidio in condizioni di abbandono materiale e morale commesso dalla madre nei confronti del neonato e abbandono di persone minori o incapaci se dal fatto è derivata la morte della persona offesa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308935",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Ho concluso. Noi vogliamo pensare all'Italia di domani, perché lavorare meno vuol dire non solo lavorare meglio e lavorare tutti, vuol dire iniziare a traguardare il nostro tempo e soprattutto il diritto alla pausa, alla disconnessione dal lavoro. Per questo vi chiediamo di votare con noi questo rinvio, affinché questa ora di discussione abbia almeno il sapore della dignità (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Sulla proposta di rinvio del seguito dell'esame del provvedimento al prossimo calendario, darò la parola a un deputato contro e a uno a favore, a norma dell'articolo 41, comma 1, del Regolamento. Chi chiede di parlare contro? Non vedo… Presidente Rizzetto, prego.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, mi rivolgo nello specifico, tramite lei, anche alle opposizioni, che sono tra le prime firmatarie del provvedimento che, come sanno i colleghi dell'XI Commissione, è stato esaminato nella stessa Commissione lavoro. Mi dispiace perché è già la seconda volta in una settimana; la scorsa settimana in pancia al provvedimento sui congedi, oggi rispetto a quanto stiamo verificando e abbiamo già di fatto verificato quanto accaduto. Sono contrario, Presidente, al rinvio del punto all'ordine del giorno, poiché, come la scorsa settimana, abbiamo già abbondantemente verificato, Sottosegretario, quale sia anzi quale non sia un punto di caduta, anche in questo caso, rispetto alle cosiddette coperture economiche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della proposta di legge n. 2067 ​: “Disposizioni per favorire la stipulazione di contratti volti alla riduzione dell'orario di lavoro” e delle abbinate proposte di legge nn. 142 ​- 1000 ​- 1505 ​.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305880_19",
+      "politician_name": "FRATOIANNI Nicola",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signora Presidente. Comincerei da qui, da un elemento di valutazione politica di quello che sta accadendo perché la maggioranza, a pochi giorni da quello che è successo su un'altra legge presentata dalle opposizioni parlamentari, si prepara a cassare questa legge, quella sulla riduzione dell'orario di lavoro a parità di salario. Lo avevate già fatto, colleghi e colleghe, ormai molti mesi fa, con il salario minimo. Era stato rinviato, rinviato, rinviato, consegnato al “porto delle nebbie”, poi affidato all'ineffabile Brunetta che, come gli italiani e le italiane hanno potuto constatare, tentò in effetti di modificare il salario, ma solo il suo, verso l'alto, affossando definitivamente quella proposta di legge che aveva un obiettivo molto semplice: migliorare la condizione materiale della vita di milioni di italiani e di italiane, quelli che si trovano in quella paradossale condizione di lavorare con un contratto regolare e di essere, però, poveri e povere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305880",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308930_19",
+      "politician_name": "SCHLEIN Elly",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ci risiamo, è passata solo una settimana; eppure, siamo di nuovo qui e mi chiedo come mai, ogni volta che le opposizioni fanno una proposta per migliorare le condizioni di chi lavora, voi l'affossiate senza nemmeno volerla discutere, negandoci anche il diritto a discuterne in questo Parlamento. Guardate, l'avete fatto con il salario minimo, che riguarda quattro milioni di lavoratrici e lavoratori che in Italia sono poveri, anche se lavorano; l'avete fatto la settimana scorsa sul congedo paritario, che cambierebbe la vita di milioni di famiglie italiane mettendo cinque mesi di congedo paritario retribuito al 100 per cento per entrambi i genitori, sostenendo anche i padri a veder crescere i propri figli, sostenendo l'occupazione femminile, la qualità della vita.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308930",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Sinceramente vorrei domandare - Presidente, tramite lei, naturalmente - al collega Rizzetto e alla Ministra Calderone: per che cosa verrete ricordati in questa legislatura in tema di riforme del mercato del lavoro? Di fronte a un mondo che cambia radicalmente e a un Paese che sostanzialmente subisce il cambiamento, questo Governo, nel corso di quasi un'intera legislatura, che cosa ha fatto? Ha soltanto bocciato le idee altrui.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, colleghe e colleghi, siamo qui, ancora una volta, a recitare una sceneggiatura già vista, ormai la conosciamo a memoria. È un copione che abbiamo vissuto già sul salario minimo, lo abbiamo vissuto la settimana scorsa sul congedo paritario e, adesso, lo rivediamo puntuale sulla settimana corta. Siamo davanti a un emendamento soppressivo e fine della storia, fine della discussione, fine, ancora una volta, di qualsiasi possibilità di migliorare la vita concreta delle persone che rappresentiamo in questo Parlamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Allora, se nessun altro chiede di intervenire, invito il presidente… presidente Rizzetto, vuole intervenire sul complesso degli emendamenti prima? Ok, poi interverrà sul parere. Prego, presidente Rizzetto. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Premetto: un passaggio molto rapido e - lo confermo e sottolineo - di carattere del tutto personale. Consideri che, da quanto ho appena ascoltato, per suo tramite, dal collega Carotenuto, personalmente, al netto del fatto che il collega Carotenuto giustamente, pro domo sua - e forse lei, Presidente, non ha seguito nello specifico il ragionamento del collega - ha parlato per circa tre o quattro minuti della situazione iraniana su un complesso degli emendamenti che riguarda la settimana corta... mi dica lei a che cosa attiene (Commenti di deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). I dati, al netto delle urla belluine che ascolto (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle, Alleanza Verdi e Sinistra e Italia Viva-il Centro-Renew Europe) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 625
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2026-03-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Capisco la frustrazione, perché il dato sul lavoro non è un dato che danno Walter Rizzetto, Marta Schifone o un collega della maggioranza, chiunque esso sia, ma lo definisce l'Istat. Lo definiscono esattamente quelli che debbono darci questo tipo di indicazione. Ad esempio, collega Faraone, con il taglio del cuneo fiscale strutturale, abbiamo mediamente messo in tasca da 80 a 100 euro in più al mese ai nostri lavoratori. Ad esempio, abbiamo detassato premi e abbiamo aumentato il welfare . Le dicono qualcosa il welfare aziendale, i fringe benefit , celebrati in ben due leggi di stabilità? Le dice qualcosa la detassazione sui premi di risultato?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0625",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 625
+      }
+    }
+  ]
+}

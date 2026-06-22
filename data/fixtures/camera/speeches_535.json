@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0535",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-09-23",
+    "title": "Assemblea — Seduta n. 535 del 2025-09-23",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 535
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 95, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d35980_19",
+      "politician_name": "CIOCCHETTI Luciano",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Velocemente, credo che questo sia un tema che il Governo sta affrontando in maniera molto seria e molto forte, anche con le previsioni che sono state inserite all'interno della legge di bilancio di quest'anno: mi riferisco al tema dell'antimicrobico-resistenza, al piano nazionale di contrasto appunto all'antimicrobico-resistenza, al tema delle ICA, alle infezioni ospedaliere. La mia interpellanza ha posto il problema di alcune procedure - oggi assolutamente importantissime nella pratica chirurgica e sanitaria, con l'utilizzo di endoscopi e altre procedure meno invasive - che, però, possono provocare lo sviluppo di infezioni ospedaliere. Quindi, la richiesta è quella di inserire nel prossimo piano per l'antimicrobico-resistenza procedure che consentano, soprattutto per quelle più complesse e per pazienti con comorbilità e più fragilità, di promuovere l'utilizzo di endoscopi monouso in modo da evitare o ridurre al massimo l'insorgere di infezioni ospedaliere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "35980",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Grazie, Presidente. Ringrazio l'onorevole Ciocchetti che, con l'interpellanza, mi offre l'opportunità di evidenziare che, negli ultimi anni, il Ministero ha riservato una forte attenzione sulla prevenzione e controllo delle infezioni correlate all'assistenza - le cosiddette ICA -, anche in conseguenza alla pandemia da SARS-COV-2. Globalmente queste infezioni mostrano un trend epidemiologico in crescita, con forti ripercussioni sulla salute dei pazienti, oltre che sugli aspetti psicologici e finanziari che si traducono nel prolungamento della degenza, disabilità a lungo termine, aumento della mortalità, sviluppo e diffusione dell'antibiotico-resistenza, le cosiddette AMR o “ei, em, ar”, come detto in inglese, ma qui siamo in una Camera italiana e leggiamo AMR.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d35980_19",
+      "politician_name": "CIOCCHETTI Luciano",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Sono soddisfatto e ringrazio il Sottosegretario e il Ministero della Salute per la risposta. Credo che abbia delineato la complessità degli interventi che questo tema merita, che chiaramente riguardano la ricerca di nuovi antibiotici e la prevenzione delle infezioni ospedaliere e, quindi, un campo più ampio, che certamente non è solo quello dell'utilizzo degli endoscopi o di altre procedure che possono provocare infezioni ICA, ma anche il comportamento degli operatori sanitari; anche la pulizia e l'igienizzazione delle strutture, delle nostre strutture, la sterilizzazione di una serie di ambienti, soprattutto dove ci sono i pazienti più fragili, l'utilizzo anche di materiale che sia in grado di ridurre la carica batterica, e la scienza e la ricerca ci consegnano la possibilità di utilizzare strumenti che possono complessivamente ridurla.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "35980",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Grazie, Presidente. Con riferimento ai quesiti posti dall'onorevole Cappelletti, preliminarmente devo precisare che essi sono tutti ascrivibili alle attività di competenza delle regioni, posto che a tali enti è rimessa l'organizzazione dei servizi sanitari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Non posso dichiararmi soddisfatto della risposta del Sottosegretario Gemmato e, per spiegare le motivazioni, devo fare una premessa. Parliamo di un ospedale che è stato inaugurato non tantissimi anni fa, a fine anni Novanta, nel 1997 o1998. All'epoca il presidente Zaia era già un politico, però si occupava della provincia di Treviso, quindi non si occupava di sanità. Nell'arco di qualche decennio, il presidente Zaia è diventato presidente della regione, ha iniziato a occuparsi di sanità e il numero di posti letto dell'ospedale di Trecenta, che è uno dei più importanti della provincia di Rovigo, è dimezzato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Concludo dicendo che da tutto sembra, nella mia regione, ma non solo, che si vadano a creare le premesse per spingere e obbligare i cittadini - chiudo, Presidente - ad andare nella sanità privata, e il fatto che…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 98, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307298_19",
+      "politician_name": "BIGNAMI Galeazzo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Riteniamo opportuno richiedere che il Ministro dell'Interno venga a riferire in Aula, nei tempi evidentemente consentiti dal calendario al Governo, in relazione ai fatti avvenuti ieri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307298",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Guardi, per il suo tramite, al capogruppo di Fratelli d'Italia dico che, se vuole manifestare contro chi blocca i treni e chi non fa funzionare i treni, può rivolgersi al Ministero dei Trasporti (Applausi dei deputati del gruppo MoVimento 5 Stelle e di deputati del gruppo Partito Democratico-Italia Democratica e Progressista) , al Ministero di Salvini che non fa funzionare un treno e fa dei ritardi incredibili da quando è Ministro; oppure al suo compagno di partito, Lollobrigida - Ministro -, che blocca i treni a suo uso e consumo perché deve scendere (Applausi dei deputati del gruppo MoVimento 5 Stelle) a una stazione. Questo è il primo punto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Perfetto. Quindi, ieri 500.000 persone, in 82 piazze in tutta Italia, non hanno manifestato per sé stessi, non hanno manifestato per una propria rivendicazione, hanno manifestato per riscattare il nome dell'Italia (Applausi dei deputati del gruppo MoVimento 5 Stelle e di deputati del gruppo Partito Democratico-Italia Democratica e Progressista) che voi calpestate, hanno manifestato per l'umanità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). (Indossando una kefiah) . Grazie, Presidente. Ci associamo alla richiesta per dire innanzitutto grazie: grazie a chi ogni giorno lavora per il nostro Stato, ma anche a chi, grazie alla nostra Costituzione, grazie alle lotte, grazie alla Resistenza, ieri ha scioperato per dire che ci sentiamo tutti responsabili, ma non ci sentiamo complici (Applausi dei deputati dei gruppi Alleanza Verdi e Sinistra, Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) . Grazie! Grazie ai tanti lavoratori e lavoratrici che hanno perso il proprio stipendio per dirlo, grazie agli studenti, grazie alle mamme e ai papà che hanno portato i loro figli. Sono centinaia di migliaia gli italiani che sono scesi in piazza pacificamente, in tanti, ma voi parlate solo - solo! - di quei casi, invece di dire che quei tumulti sono stati una piccola parte di un'onda, di un'onda che chiedeva a ognuno di noi di fare qualcosa di più.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307134_19",
+      "politician_name": "BAGNASCO Roberto",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Verso il cielo… Ho ascoltato gli interventi della minoranza, dell'opposizione. Speravo che, in un'occasione del genere, si esimessero dalla solita sceneggiata a cui, purtroppo, ci hanno abituati in questi mesi, in questi anni (Commenti di deputati del gruppo Partito Democratico-Italia Democratica e Progressista – Il deputato Ciani: “ Presidente, si associa?”).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307134",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307134_19",
+      "politician_name": "BAGNASCO Roberto",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). …Ieri, oggi, domani, siamo solidali con le Forze dell'ordine. Le Forze dell'ordine. Si tratta di persone che, per un milione e 300, un milione e 400, un milione e 500 euro al mese (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307134",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Allora, se no non ci capiamo. Per favore, mi dice se si associa - così tranquillizziamo i colleghi - alla richiesta di informativa urgente? Poi va avanti a svolgere il suo intervento nel silenzio dell'Aula. Prego, onorevole Bagnasco. Si associa, dunque, alla richiesta di informativa?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307134_19",
+      "politician_name": "BAGNASCO Roberto",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Ma l'ho detto! Quante volte ve lo devo dire? Se volete, posso anche urlarlo. Siete abituati a persone che urlano. Presidente, mi associo! Forza Italia si associa (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE, Fratelli d'Italia e Lega-Salvini Premier - Commenti dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) ! Ci associamo! Credo sia abbastanza chiaro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307134",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "No, colleghi, per favore. No, non va bene. Avete ognuno detto quel che volevate. Dovete rispettare il collega Bagnai, che può dire quel che gli pare. Chiaro? Quindi, per favore, silenzio! Lo stesso silenzio - che avete preteso e che io vi accordo - voi lo osservate (Proteste del deputato Casu) … Non si rivolga così a me, perché io la richiamo e la mando subito fuori, chiaro (Applausi dei deputati dei gruppi Fratelli d'Italia , Lega-Salvini Premier e Forza Italia-Berlusconi Presidente-PPE) ? Prego, onorevole Bagnai.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307749_19",
+      "politician_name": "BAGNAI Alberto",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). È il momento, perché, poi, se uno non sceglie bene il momento, abbiamo visto che anche in quest'Aula… Bene, allora, se posso aggiungere un concetto, insomma, in attesa del momento che ci accingiamo a vivere in quest'Aula, sentirsi accusare di complicità in un genocidio, sentirsi accusare di volontà o intenzione o semplicemente tolleranza verso l'uso delle armi per regolare fatti personali, mi sembra lievemente esagerato. Noi abbiamo accolto in silenzio queste civili osservazioni della nostra opposizione e altrettanto civilmente però le rimandiamo al mittente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307749",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Anche noi, come gruppo di Noi Moderati, ci associamo alla richiesta del collega Bignami di informativa. Rispettiamo chi è sceso in piazza in modo pacifico per esprimere solidarietà al popolo palestinese, ma condanniamo duramente e fermamente gli atti di violenza a cui abbiamo assistito in queste ore, perché crediamo che sia una cosa inaccettabile che le nostre strade e le nostre città diventino un campo di battaglia quando c'è qualcuno che dice di andare in piazza per difendere, invece, la pace. Mi sembra che non si può difendere la pace in Palestina e pretendere, invece, di fare guerriglia urbana all'interno delle nostre città (Applausi dei deputati del gruppo Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare) . Allora, anche noi esprimiamo solidarietà alle Forze dell'ordine e crediamo che tutte le forme di strumentalizzazione su questo tema siano un gravissimo errore, perché, invece di creare un sano confronto politico, c'è la solita strumentalizzazione per prendere un voto in più. Noi, invece, crediamo che sia giusto, con chiarezza, dare delle soluzioni e assumere delle posizioni responsabili che possano, con un Governo che è quello italiano, dare un contributo a livello internazionale, perché ci possa essere un vero clima di pace, e non dare in Italia esempi di guerra (Applausi dei deputati del gruppo Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). La ringrazio, Presidente. Premetto che noi condanniamo in modo inequivocabile gli atti di violenza, che si sono registrati ieri, esattamente come abbiamo fatto in ogni altra occasione. Vorrei dire, però, che potremmo anche evitare in quest'Aula di accompagnare questo al tentativo di rimpallare da una parte o dall'altra la responsabilità, forse oggettiva, di quello che accade.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d302422_19",
+      "politician_name": "CUPERLO Gianni",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'uccisione di Charlie Kirk è un crimine e chi gli ha sparato è un assassino. Per noi la condanna di quel crimine e la pietà verso quella vittima non sono in discussione. Chiunque, fuori e dentro quest'Aula, polemizzi su questo taccia. Dinanzi alla morte chi non abbassa il capo coltiva i semi dell'odio. Non lo ha fatto la moglie al funerale, lo ha fatto il Presidente degli Stati Uniti. Dinanzi a quella bara lui ha detto “io odio i miei avversari”; ha aggiunto che Charlie Kirk è un simbolo della libertà. “Penso che Michelle Obama ha il cervello più piccolo di una donna bianca”; “se stuprano mia figlia io le dico devi tenerti il bambino. Ti piaccia o no. Devi, perché? Legge di Dio”; “la pena di morte io la metterei in televisione (…), che la vedessero i bambini”. Chi ha parlato così era un uomo che, come tutti in democrazia, aveva il diritto di pronunciare anche delle bestialità, ma chi ha parlato così non era un simbolo della libertà (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "302422",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d302422_19",
+      "politician_name": "CUPERLO Gianni",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Andate dove vi portano la natura e il cuore, noi resteremo qui e qui ci troverete. Sempre (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "302422",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307507_19",
+      "politician_name": "MOLINARI Riccardo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Charlie Kirk era un giovane uomo di 31 anni, un conservatore, un repubblicano, un attivista, che svolgeva il suo impegno politico confrontandosi con i ragazzi giovani. Frequentava i campus universitari, le scuole, i luoghi di aggregazione ed esprimeva le sue idee. E il primo colpo al cuore che ho avuto quando ho visto la scena del suo brutale omicidio è stato pensare che quel ragazzo poteva essere come tanti di noi, perché chi fa politica, chi lavora nel mondo culturale, chi porta avanti delle idee, tendenzialmente inizia a farlo da giovane, inizia a farlo proprio in quel modo, parlando all'assemblea di istituto, incontrando i giovani, facendo quello che faceva Charlie Kirk. E quindi mi aspettavo che un senso di empatia generale coinvolgesse il dibattito dopo quel fatto e, purtroppo, non è stato così. Purtroppo, un attimo dopo abbiamo iniziato a vedere una serie di uscite, di dichiarazioni, di articoli in cui non si condannava il fatto ma si cercava di capire che cosa Charlie Kirk dicesse e si cercava di costruire un sentimento negativo verso le parole di Charlie Kirk. Quasi come se portare avanti determinate idee e portare avanti determinati principi in qualche modo rendesse meno grave un omicidio. Io penso che questo sia intollerabile (Applausi dei deputati del gruppo Lega-Salvini Premier e Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307507",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Interveniamo in quest'Aula per commemorare la tragica fine di Charlie Kirk, una figura la cui vicenda affonda le radici nella complessa realtà americana. È bene essere chiari fin da subito. Come i colleghi che siedono in questi banchi, ritengo che buona parte delle idee e delle tesi espresse da Kirk non sia condivisibile; anzi, su temi cruciali che riguardano i diritti delle persone - dalla parità di genere all'inclusione sociale fino all'aborto - alcune sue posizioni contrastano con i principi fondamentali di libertà e uguaglianza che ispirano il nostro impegno politico. Sarebbe però un errore grave leggere questa vicenda con occhiali italiani o europei. Kirk è una vittima: la vittima di una violenza politica che è sempre inaccettabile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Io non entrerò neanche un secondo nelle parole e nelle opinioni di Charlie Kirk, perché non voglio prestarmi al vostro squallido giochino di prendere una frase, una parola, per poter dire: vedete? Giustificano, vedete? Fanno dei distinguo; neanche un secondo, neanche un secondo, non è questa la sede. Non mi presterò e non ci presteremo a questa vergognosa operazione politica per cui tre quarti di persone qua dentro due settimane fa nemmeno sapevano chi era Charlie Kirk e utilizzano la tragedia della morte di un ragazzo per fare squallida propaganda politica (Applausi dei deputati del gruppo MoVimento 5 Stelle) , perché sentire qui davanti il Ministro per i Rapporti con il Parlamento che parla di un clima da Brigate Rosse, è quanto di più vergognoso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Il brutale assassinio di Charlie Kirk si inserisce, purtroppo, in una lunga storia di violenza degli Stati Uniti: quattro Presidenti uccisi, tre che hanno subito un attentato non fatale, ma non solo; il Dr. King, Malcolm X, la deputata Melissa Hortman, insomma centinaia di attivisti politici rimasti vittime delle armi da fuoco indipendentemente dal loro colore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. L'assassinio brutale di Charlie Kirk va condannato: noi l'abbiamo fatto e lo condanniamo anche oggi nel Parlamento della Repubblica italiana. La violenza politica e l'incitamento all'odio vanno fermati e per questo va evitata anche, con molta franchezza, la strumentalizzazione politica che del caso Kirk si sta facendo. Non si è avuta la stessa attenzione per l'assassinio della deputata democratica americana Melissa Hortman e di suo marito, del ferimento del senatore Hoffman, di tanti e tanti altri attivisti e militanti politici negli Stati Uniti d'America. Noi condanniamo la violenza e ci battiamo per la libertà di pensiero, ma chiedo a voi - chiedo a voi - se chiudere università, cacciare giornalisti, minacciare di chiudere televisioni negli USA (Applausi dei deputati dei gruppi Alleanza Verdi e Sinistra e Partito Democratico-Italia Democratica e Progressista) , perché non in linea con il pensiero trumpiano, è un segnale di libertà. È libertà di pensiero questa? No, non lo è. Ma chiedo a voi: mettere al bando le associazioni antifasciste, come ha fatto ieri Trump, è un segnale di libertà (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) ? Non è un segnale di libertà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …quando si dice - come diceva Kirk - che “il prezzo che paghiamo per la libertà di possedere armi è che qualcuno talvolta sarà ucciso”, io dico, invece, di essere fiero di stare nella Repubblica italiana che, a differenza degli Stati Uniti d'America, non consente la vendita di armi ai privati (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) e che impedisce a qualche sconsiderato di fare quello che è accaduto negli USA. Rifletta la destra di chi oggi pensa che vendere armi sia un elemento per fare giustizia da sé (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) . Siamo fieri di quello che siamo (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Onorevoli colleghi, il 10 settembre scorso negli Stati Uniti - è stato ricordato - un giovane attivista politico, Charlie Kirk, è stato assassinato mentre esponeva le sue idee davanti a un pubblico di studenti universitari. Un colpo di fucile lo ha raggiunto al collo, ponendo fine alla sua vita in modo brutale. Non è stato soltanto un crimine, è stato un gesto che ha scosso le coscienze in tutto il mondo, una ferita profonda inferta alla libertà di pensiero e al valore del confronto civile. Si può anche non condividere il modo estremo con cui portava avanti le sue idee, ma quando il dissenso degenera in violenza, quando un'idea diventa motivo di morte, viene colpita al cuore la democrazia. Il confronto politico, anche il più acceso, non può e non deve mai trasformarsi in odio o in aggressione fisica. Il terreno della politica è quello delle parole, non delle armi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d306160_19",
+      "politician_name": "BOSCHI Maria Elena",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. L'uccisione barbara di Charlie Kirk è sicuramente un fatto tragico. Ieri, nel vedere le immagini dei figli piccoli rimasti senza padre o nell'ascoltare le parole della moglie che, piangendo, perdonava il suo assassino, chi non si è commosso? Le lacrime non sono né di destra né di sinistra. C'è un senso profondo di dolore per quella morte che non ha giustificazioni e noi non troviamo giustificazioni nemmeno per coloro che, in qualche modo, hanno voluto trovare alibi o motivi di comprensione per l'assassinio di Charlie Kirk. Al tempo stesso, però, avremmo voluto ascoltare parole di solidarietà e di empatia quando è stata uccisa, qualche mese fa, la parlamentare democratica Melissa Hortman, con il marito, da un estremista di destra; le stesse parole di condanna che a loro sono mancate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "306160",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d306160_19",
+      "politician_name": "BOSCHI Maria Elena",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). … anche a livello internazionale. E qui chiudo, Presidente. Tutti noi dobbiamo evitare, a prescindere dalle campagne elettorali o da qualche punto o mezzo punto in più nei sondaggi, di instillare e seminare delle parole di divisione e di lacerazione, perché, altrimenti, pagheremo tutti un prezzo molto alto (Applausi dei deputati del gruppo Italia Viva-il Centro-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "306160",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Penso che le istituzioni e la politica tutta, a partire da quella statunitense, avrebbero dovuto esprimere sdegno e condanna, senza sfumature, per il crimine orrendo e folle di un folle, chiedere che la giustizia facesse il suo corso ed esprimere unanime cordoglio alla famiglia di Charlie Kirk; avrebbero dovuto chiedere unità nel segno della Costituzione e delle Costituzioni e avrebbero dovuto avere la forza di fermarsi a questo, esprimendo così la determinazione della democrazia a difesa della libertà. Invece Trump per primo, la sua amministrazione e il mondo MAGA hanno da subito strumentalizzato la morte violenta di Kirk, buttandola nell'agone politico, parlando di sinistra, left , a volte radical , a volte no. E anche in Italia è stato detto, da Palazzo Chigi si è seguito questo canovaccio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). …alla famiglia di Kirk e la condanna senza esitazione, senza se e senza ma, del folle e criminale omicidio, quei valori che lui propugnava contrastano con quelli che sono stati e sono i valori scolpiti nella Costituzione italiana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie, Presidente. Sugli emendamenti 1.1 Penza, 1.102 Zanella, 1.2 Auriemma, 1.100 Alfonso Colucci, 1.103 Richetti, 1.101 Auriemma, 2.100 L'Abbate, 2.2 Baldino, 2.104 e 2.105 Zanella, 2.101 L'Abbate, 2.3 Alfonso Colucci e 2.102 L'Abbate, il parere è contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo su questo emendamento a mia prima firma, che poi si collega anche all'emendamento 1.101 a firma dell'onorevole Auriemma (non so se poi lei vorrà comunque intervenire su questo). Presidente, naturalmente siamo a favore dell'istituzione della festa nazionale di San Francesco per l'insieme dei valori profondi che la figura di San Francesco ha espresso nel panorama non solo religioso, ma anche e soprattutto civile e sociale. Mi riferisco al messaggio potentissimo che il Santo di Assisi ha dato con riferimento alla natura e all'importanza della natura: in quel periodo storico, il 1200, il rilievo non solo per gli animali, ma anche per la flora era qualcosa di assolutamente straordinario, visto che l'uomo era considerato al centro dell'universo. In qualche modo, si preparava anche l'Umanesimo che ha improntato tanto della civiltà italiana. San Francesco è stato il primo a poter affermare proprio gli ideali profondi della stretta connessione dell'uomo con la natura, natura intesa in senso ampio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …così definito, ma che, allo stesso tempo, cercano di preservare le finanze dello Stato, soprattutto pensando che queste somme possano essere devolute a favore dei soggetti che soffrono, come quelli che hanno malattie (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d305708_19",
+      "politician_name": "RICHETTI Matteo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Noi ci siamo appena astenuti sull'emendamento 1.100 Alfonso Colucci, perché, pur condividendone il ragionamento, non c'è corrispondenza rispetto all'emendamento: diceva “nella settimana antecedente la prima domenica di ottobre”, ma non indicava la giornata di celebrazione, esercizio che abbiamo fatto nell'emendamento a mia prima firma. Infatti, Presidente, sono convinto - e il nostro gruppo la sostiene pienamente - della necessità di celebrare la giornata di San Francesco il 4 di ottobre, sia per i credenti, per i quali rappresenta una delle figure di maggiore spicco della tradizione cattolica - solo a pensare alla definizione di Alter Christus ne dà la dimensione per i fedeli -, sia per chi laicamente si riconosce nei valori del rispetto, del dialogo, della pace e tutto ciò che San Francesco, che è patrono di questo Paese, rappresenta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "305708",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Credo che questo nostro emendamento andrebbe approvato, perché è estremamente coerente con lo spirito che dovrebbe animare e nutrire questa scelta di istituire di nuovo la festività di San Francesco. Se voi avete la pazienza proprio di leggere o rileggere il Cantico delle creature , vedete che Francesco propone una rottura con l'antropocentrismo e chiama gli animali “sorelle e fratelli” suoi, creature di Dio, non al servizio dell'uomo, della donna, dell'umanità, ma di per sé creature.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente, per sottoscrivere questo emendamento. Sicuramente è un emendamento di buonsenso. Purtroppo avete letto tutti che ieri, mentre c'era una battuta di caccia al cinghiale, un cacciatore ha sparato ed ucciso un altro cacciatore. Penso, quindi, che sia arrivato il momento e chiedo anche agli animalisti di quest'Aula, che compongono la maggioranza, di sottoscrivere questo emendamento e di fermare questa mattanza inutile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo non solo per illustrare l'emendamento, su cui c'è poco da illustrare: avevo solo inserito, insieme al discorso di tutela dell'ambiente, anche di porre attenzione al modello economico, ecologico e circolare. Il mio intervento è perché c'è qualcosa di cui non mi capacito. Noi siamo chiaramente molto contenti che venga istituita il 4 ottobre la festa di San Francesco d'Assisi, anche personalmente è importantissimo. Ricordiamo, però, che Francesco d'Assisi è il patrono dell'ecologia, e, se fosse oggi qui, vivo, sapete cosa farebbe?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Sull'ordine del giorno n. 9/2097-A/1 Auriemma, il parere è contrario. Sull' ordine del giorno n. 9/2097-A/2 Candiani, il parere è favorevole. L'ordine del giorno n. 9/2097-A/3 Schullian è accolto come raccomandazione. Sull'ordine del giorno n. 9/2097-A/4 Zanella il parere è contrario, mentre l'ordine del giorno n. 9/2097-A/5 L'Abbate è accolto come raccomandazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Onorevoli colleghi, signori del Governo, San Francesco d'Assisi, patrono d'Italia con Santa Caterina da Siena, sta conoscendo ultimamente una opportuna e importante riscoperta, anche grazie alla scelta di Papa Francesco, che non solo per primo ne ha assunto il nome, ma ha apertamente mostrato l'attualità della figura come fondatore dell'Umanesimo, come uomo di pace, come precursore del dialogo tra le religioni e della centralità del creato, come, peraltro, veniva ricordato nella discussione sugli emendamenti e sugli ordini del giorno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, signor Presidente. Onorevoli deputati, presentando questa proposta di legge, Noi Moderati ha fatto sua la proposta del poeta Davide Rondoni, Presidente del Comitato nazionale per le celebrazioni dell'ottavo centenario della morte di San Francesco, il quale ha proposto che sia istituito il giorno di festa nazionale nel suo nome, come richiamo alla pace, alla coesione, alla lezione di fede e spiritualità del giullare di Dio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Tante parole sono state spese sulla figura di Francesco d'Assisi, tanta letteratura, teologia. I grandi pensatori, negli ultimi mille anni, si sono confrontati con la figura e con l'esempio di questo essere umano, che ha cambiato nella sostanza la storia del nostro Paese. Ha cambiato il modo di vedere la religione che, in quegli anni in modo particolare, era una delle questioni fondamentali che regolavano anche la vita sociale, la vita politica, la vita familiare delle persone. Ebbe la capacità di mettere al primo posto la sua volontà di ribellione, di ribellarsi alle cose costituite, a tutte quelle questioni che lui riteneva ingiuste, dal rapporto con la natura a quello con gli animali, all'attenzione per gli ultimi della società, la grande capacità di donare tutto, la generosità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. Colleghe e colleghi, Sottosegretaria Siracusano, riconosciamo nella figura di San Francesco d'Assisi un valore culturale e simbolico. San Francesco è il patrono d'Italia, è un riferimento spirituale non solo per il mondo cattolico. ma per chiunque creda in una visione di pace e di rispetto per il creato, di attenzione per gli ultimi. Ovviamente. nei confronti dei più fragili. È un simbolo universale di fraternità, di sobrietà e di dialogo, valori oggi, in un momento di conflitti e di tensioni crescenti, anche interni ovviamente alla nostra società, che meritano di essere ricordati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ci troviamo ad intervenire oggi su questo provvedimento, presentato dalla maggioranza, che vuole elevare a festa nazionale il 4 ottobre, il giorno in cui celebriamo San Francesco. Un santo ambientalista, animalista, che, senza soldi e senza mezzi, ha voluto combattere il potere temporale di allora, che consisteva, sostanzialmente, nel controllo politico e amministrativo dello Stato del Papa, dello Stato della Chiesa, su tutto il territorio. Un uomo che ha messo in atto una vera e propria rivoluzione in quei tempi, un santo amatissimo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevole Sottosegretario Matilde Siracusano, gentili colleghi, elevare il 4 ottobre, giornata di San Francesco, a festa nazionale è un atto di riconoscimento verso una figura che ha forgiato l'identità culturale e spirituale dell'Italia con un'eco universale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308801_19",
+      "politician_name": "BOF Gianangelo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, oggi non stiamo semplicemente discutendo di una festività in più nel calendario, oggi stiamo decidendo di riconoscere, nel cuore civile della Repubblica, la forza universale di un uomo che, da oltre otto secoli, continua a parlare all'umanità intera: San Francesco d'Assisi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308801",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Stiamo votando la reintroduzione di una festa che ha una sua storia nel nostro Paese. È stato ricordato come, nel 1939, San Francesco sia stato individuato come il patrono del nostro Paese, poi trasformato in festa civile, che fu abrogata nel 1977 per ragioni squisitamente economiche, tutti ricordano quell'elenco di feste, anche molto sentite, che furono sacrificate, appunto, per questo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308886_19",
+      "politician_name": "MALAGOLA Lorenzo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, ogni Nazione ha un giorno che la definisce, che coincide solitamente con un atto fondativo delle sue istituzioni, come una battaglia, una rivoluzione, l'incoronazione di un sovrano o la sottoscrizione di una Costituzione. Gli Stati Uniti hanno il 4 luglio (il giorno dell'indipendenza), la Francia il 14 dello stesso mese (la presa della Bastiglia), la Spagna il 6 dicembre (la giornata della Costituzione), l'Italia ha il 25 aprile e il 2 giugno. Eventi politici che hanno plasmato l'assetto democratico di uno Stato e che ricordano i sacrifici, molto spesso di sangue, con i quali un popolo ha dato forma alla propria idea di Nazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308886",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2586: Conversione in legge, con modificazioni, del decreto-legge 1° agosto 2025, n. 110, recante misure urgenti per il commissariamento dell'Agenzia nazionale per i servizi sanitari regionali e per il finanziamento dell'Ospedale pediatrico Bambino Gesù.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Allora, per l'ennesima volta sono abbastanza stupito del fatto che si vincoli l'Aula e le Commissioni a non dibattere su temi così significativi, così importanti, perché questo provvedimento ci giunge dal Senato di fatto blindato, senza alcuna possibilità di incidere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, questa è una barzelletta: noi, con questo articolo di legge, cosa facciamo? Evitiamo che la discussione rispetto al commissariamento di Agenas, alla nomina di un direttore generale, di un presidente, di un consiglio d'amministrazione, che vanno a finire tutti nello stesso soggetto …noi eliminiamo la possibilità delle Commissioni di Senato e Camera di dire la loro. Si saltano completamente le Commissioni. Io credo che sia davvero lo svilimento assoluto della sovranità di quest'Aula, di questo Parlamento, della Camera alta. Il fatto che non si possa sentire e avere un parere vincolante delle Commissioni di riferimento è una vergogna assoluta. Ma come si fa?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento chiediamo di sopprimere il comma 2 e il secondo periodo del comma 3. Questo perché si sta proponendo con il decreto - ormai è già in vigore - che il commissario sostituisce il ruolo del presidente, del direttore generale e del consiglio di amministrazione, e per di più gli si consente anche di svolgere un altro incarico, se già in corso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Mi aggiungo a queste considerazioni rispetto a questo emendamento che abbiamo fatto anche noi. Ci siamo uniti all'emendamento che hanno fatto i colleghi del MoVimento 5 Stelle, perché abbiamo contestato, anche in Commissione, senza sentire nessun intervento da parte della maggioranza nemmeno per difendere la scelta, che ha fatto questo Governo, di commissariare Agenas, i pieni poteri che vengono dati al commissario straordinario, che ha poteri di ordinaria e straordinaria amministrazione, e che si sostituisce in tutto e per tutto al ruolo del presidente, del direttore generale e del consiglio di amministrazione, ovviamente con la consapevolezza che è un mandato che dovrebbe scadere il 31 dicembre.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di passare ai voti, salutiamo, perché seguono dalle tribune i lavori, una rappresentanza di atleti che, a differenza della squadra della Nazionale parlamentari, ci danno grandi soddisfazioni: la squadra di calcio a 5 del Circolo Montecitorio Calcio. Benvenuti alla Camera dei deputati e grazie per quello che riuscite a fare (Applausi).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Con questi emendamenti stiamo provando, ma con scarso risultato, perché probabilmente si presta poca attenzione, a correggere alcune storture di questo commissariamento. L'Agenas non è un ente marginale: è il fulcro che valuta l'efficienza dei sistemi sanitari regionali, certifica i target del PNRR Salute, accompagna le riforme territoriali previste dal DM 77, monitora le liste di attesa ed è per sua natura un luogo di cooperazione tra Stato e regioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento si chiede che non sia prorogabile la nomina del commissario. A noi sembra assolutamente ragionevole. Tra l'altro, era una richiesta anche dell'emendamento precedente. Ciani lo ha spiegato bene.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 535
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2025-09-23",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Effettivamente, anche in Commissione abbiamo provato a riflettere su questo commissariamento. Noi riteniamo che il commissariamento sia stata una scelta, la più comoda e la più semplice ma, forse, anche la più miope del Governo nell'andare a supplire una situazione di vacatio ovviamente, visto che il presidente Mantoan si era dimesso a dicembre del 2024.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0535",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 535
+      }
+    }
+  ]
+}

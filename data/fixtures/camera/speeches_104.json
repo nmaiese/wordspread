@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0104",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-05-17",
+    "title": "Assemblea — Seduta n. 104 del 2023-05-17",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 104
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 69, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge n. 1060-A: Conversione in legge, con modificazioni, del decreto-legge 30 marzo 2023, n. 34, recante misure urgenti a sostegno delle famiglie e delle imprese per l'acquisto di energia elettrica e gas naturale, nonché in materia di salute e adempimenti fiscali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308866_19",
+      "politician_name": "TESTA Guerino",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore per la VI Commissione. Grazie, Presidente. Buongiorno a lei, un saluto al rappresentante del Governo e ai colleghi onorevoli. Oggi approda in Aula un decreto-legge molto importante e molto complesso, che è stato oggetto di discussione nella VI Commissione (Finanze) e nella XII Commissione (Salute). Ringrazio la mia collega, la correlatrice, onorevole Patriarca, e i due presidenti di Commissione, il presidente Osnato per la Commissione finanze e il presidente Cappellacci, in qualità di presidente della Commissione affari sociali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308866",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308852_19",
+      "politician_name": "PATRIARCA Annarita",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice per la XII Commissione. Grazie Presidente. Presidente e onorevoli colleghi, mi associo ai ringraziamenti del collega relatore ai due presidenti delle Commissioni VI e XII, al Governo e ai colleghi di maggioranza ed opposizione che hanno permesso lo svolgimento di un sereno e celere dibattito in Commissione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308852",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307285_19",
+      "politician_name": "CAVANDOLI Laura",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Intanto parto con i ringraziamenti, perché i relatori hanno fatto una relazione esaustiva. Quindi, ringrazio l'onorevole Testa e l'onorevole Patriarca e i due presidenti Cappellacci e Osnato, che sono qui e che hanno seguito i lavori delle Commissioni riiunite VI e XII dove, effettivamente, la discussione ha riguardato un decreto molto ampio; già il titolo lo dice. Partiamo dalla parte dell'energia e delle misure a sostegno delle famiglie e delle imprese per arrivare alla parte sulla sanità. C'è poi un tracciato diretto verso le semplificazioni fiscali e lo spostamento di alcuni termini fiscali. Non ultimo, ringrazio il Sottosegretario Freni, sempre presente, e il Sottosegretario Gemmato, che ci ha seguito per la parte più relativa alla sanità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307285",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Innanzitutto, vorrei sottolineare come, ancora una volta, ci troviamo di fronte a un provvedimento che vuole affrontare temi molto diversi fra di loro, tutti, ovviamente, di assoluta importanza, ma che difficilmente possono essere ricondotti ad un ragionamento organico. E ciò partendo dal titolo del provvedimento stesso, il caro bollette, sul quale mi verrebbe semplicemente da sottolineare come, con estremo ritardo, si vada ad affrontare un'emergenza che, vorrei ricordare a tutti, nel momento in cui era davvero nel suo punto di grande criticità per famiglie e imprese, non ha certo avuto attenzione da parte di un'azione governativa, nel senso di dare supporto e aiuto. Mi verrebbe da dire che diamo una lettura piuttosto tardiva di qualcosa che c'è stato, per carità. Andiamo a vedere - altri, dopo di me, parleranno del merito -, per il futuro, di evitare quanto è stato fatto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308828_19",
+      "politician_name": "MATERA Mariangela",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi e colleghe, rappresentanti del Governo, mi preme innanzitutto ringraziare i presidenti di Commissione, Osnato e Cappellacci, nonché i relatori, Testa e Patriarca, per il lavoro svolto, paziente e competente, nonché il Sottosegretario Freni, che non ha mai fatto mancare la sua presenza in Commissione, fornendo un apporto sempre molto collaborativo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308828",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Il passaggio del decreto-legge nelle Commissioni di merito VI e XII non ha risolto - semmai ha acuito - alcune delle criticità presenti nel testo presentato dal Governo. Le principali tra queste le abbiamo già evidenziate nella questione pregiudiziale presentata dal nostro gruppo: prima, il ridimensionamento dell'incisività della tassazione sugli extraprofitti realizzati nel 2022 a causa della crisi russa-ucraina dalle società energetiche (articolo 5); seconda, il ricorso per l'anno 2023 da parte delle aziende e degli enti del Servizio sanitario nazionale alle cosiddette prestazioni aggiuntive o prestazioni cosiddette a gettone (articolo 10 del provvedimento); terza, revisione della disciplina della cosiddetta tregua fiscale con una serie di misure di natura condonistica (articoli 17-23 del provvedimento).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di continuare i lavori, saluto i rappresentanti del Forum dei giovani di San Cipriano, costituito dal comune di San Cipriano Picentino, in provincia di Salerno. Grazie di essere qui (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, intervengo sull'ordine dei lavori. Vorrei informare la Presidenza che in questo momento in Commissione attività produttive si sta votando, si stanno facendo delle votazioni mentre noi siamo in Aula. Come vede dalla lista degli interventi, devo intervenire fra un po' in quest'Aula. Ci sono anche altri colleghi di altri gruppi politici che sono qui, anche per ascoltare gli interventi degli altri parlamentari, com'è giusto che sia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308761_19",
+      "politician_name": "PISANO Calogero",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Signor Presidente, più volte quest'Aula è stata chiamata ad esprimersi su provvedimenti che intendevano affrontare la crisi energetica che ha investito il nostro Paese. Una crisi che ha colpito più settori della nostra società e che ha avuto ripercussioni su più livelli. Una crisi che, come sappiamo, non ha fatto altro che aggravare la già fragile situazione di tante famiglie e imprese, riducendo il potere d'acquisto delle prime e la liquidità della seconde. Il  provvedimento in esame oggi in quest'Aula, tra le varie misure previste, ha proprio questo obiettivo: offrire un sostegno concreto a famiglie e imprese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308761",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Sarò più breve di chi mi ha preceduto negli interventi solo per entrare in due questioni, una di metodo e una di merito. Purtroppo, troppo spesso sul metodo le cose che diciamo sono sempre le medesime: ennesima fiducia, ancora una volta, nonostante un atteggiamento responsabile delle opposizioni; per l'ennesima volta una finta apertura della maggioranza, che apre a un dibattito con le opposizioni, che dichiara  un'apertura sugli emendamenti che poi rigetta in maniera compatta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307406_19",
+      "politician_name": "RAFFA Angela",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, onorevoli colleghi, oggi per il decreto Bollette avrei tanto voluto fare un altro tipo di discorso, un altro tipo di intervento. Avrei voluto dire: caro Parlamento tutto, in questo periodo difficile, la guerra dentro l'Europa, le famiglie in difficoltà di fronte ai rincari molto alti, la povertà che aumenta, tutti noi, maggioranza e opposizione, abbiamo lavorato insieme per cercare di aiutare i cittadini e le imprese italiane in difficoltà. E invece no, non lo posso fare. Non lo posso fare e non posso dire questo perché, per l'ennesima volta, la maggioranza non ha voluto ascoltare nessun suggerimento, non ha accettato alcuna collaborazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307406",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308780_19",
+      "politician_name": "RICCIARDI Toni",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe e onorevoli colleghi, Governo, noi ci ritroviamo, caro Presidente, in pochi, come sempre, anzi, in meno del solito, a discutere dell'ennesimo decreto “macedonia”, in questo caso utilizzo questo paragone, perché, come al solito, ci ritroviamo a discutere di un provvedimento che mette insieme tutto e il contrario di tutto, che passa nella comunicazione come il decreto-legge Bollette, ma di tutto parla, fuorché di interventi sulle bollette. L'elemento ancora più sconvolgente, caro Presidente, è che, per l'ennesima volta, su un provvedimento del quale non si avvertiva la necessità, non si avvertiva, verrà posta l'ennesima fiducia e, non contenti, ecco l'ennesimo papocchio: tra qualche minuto, tra qualche ora lo stesso provvedimento dovrà tornare in Commissione, perché nonostante le discussioni, nonostante i confronti, nonostante tutto il lavoro fatto, è incompleto e bisogna rimetterci mano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308780",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Signore e signori esponenti del Governo, colleghe e colleghi, questo provvedimento nasce dalla necessità e dall'urgenza di: prorogare per altri tre mesi, fino a giugno prossimo, alcune misure di sostegno in favore delle famiglie e delle imprese, per contrastare l'aumento dei prezzi per l'acquisto di energia elettrica e gas, di adottare misure per fare fronte alla carenza di personale medico presso i servizi di emergenza-urgenza ospedalieri del Servizio sanitario nazionale, di introdurre disposizioni volte a prorogare i termini e modificare le norme in materia di adempimenti fiscali introdotti con la legge di bilancio 2023. Le risorse complessivamente stanziate per gli interventi contenuti nel decreto-legge sono pari a 4,9 miliardi di euro, di cui circa 3 miliardi per il settore energetico e 1,1 miliardi per quello sanitario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghe e colleghi, ancora una volta siamo di fronte a un provvedimento slogan. Cos'altro potevamo aspettarci da un Governo costantemente in campagna elettorale? Il decreto Bollette, così come il decreto Lavoro, sono soltanto formule vuote, con cui avete deciso di chiamare dei provvedimenti del tutto inadeguati ad affrontare questi temi. Sì, infatti, nella migliore delle ipotesi, i vostri provvedimenti vanno a prorogare al ribasso alcune delle misure già in precedenza introdotte dal Governo Conte, mentre negli altri casi vanno a ribaltare discipline di maggiore tutela, come nel caso della liberalizzazione del lavoro precario. Ormai vi abbiamo capito: la vostra è la politica degli slogan, fatta di interventi finalizzati a dare un sostegno immediato, ma soltanto apparente e del tutto insufficiente, nella totale assenza di programmazione e di investimenti per il futuro del Paese. A sostenere tutto questo non è soltanto Emma Pavanelli, piuttosto che il MoVimento 5 Stelle; lo avete sentito anche da chi è stato ascoltato in audizione in Commissione. Se dovessimo fermarci alla denominazione attribuita ai vostri provvedimenti, verrebbe quasi voglia di votarli. Leggendo decreto Bollette, infatti, viene da pensare immediatamente a un provvedimento costruito per sostenere le famiglie e le imprese di fronte al caro energia. In realtà, i sostegni sono davvero esigui, frutto di uno stanziamento decisamente inferiore a quello previsto con i decreti Sostegno dai precedenti Esecutivi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di proseguire i nostri lavori, saluto gli studenti e i docenti dell'Istituto Gianni Rodari-Cerqueto di Gualdo Tadino, in provincia di Perugia, che assistono ai nostri lavori dalle tribune. Grazie di essere qui (Applausi) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghe, colleghi e Governo, questo è l'ennesimo decreto-legge che, se per le misure volte a potenziare il sostegno economico alle famiglie e alle imprese in relazione al rincaro dei costi dell'energia parrebbe avere motivi di urgenza, non li ha per le misure in materia fiscale. Se manca il requisito dell'urgenza, mancano le motivazioni per il ricorso allo strumento del decreto-legge; vorrei ricordarlo anche perché il Colle l'ha già detto in precedenza. Anche per la parte che vogliamo considerare urgente di questo decreto-legge, possiamo dire che si tratta di un decreto timido perché stiamo parlando di meno di 5 miliardi stanziati per il secondo trimestre del 2023. Quindi, non c'è due senza tre: avete iniziato con la legge di bilancio, avete proseguito con l' austerity , poi con il DEF e continuate adesso con il decreto-legge n. 34. Solo che con quest'ultimo riuscite a fare molto di più perché, a fronte di questo gettone, infilate un'estensione di quello che è un vero e proprio scudo penale agli omessi versamenti, più tutta un'altra serie di misure che la mia collega prima ha citato. Di queste però voglio citarne solo due, per capire l'aspetto numerico. Lo stop di cui all'articolo 2 degli aiuti in bolletta sostanzialmente è pari a 280 milioni. Infatti, avete prorogato gli sconti della componente tariffaria UG2C, ma li riducete del 65 per cento per il mese di aprile; questo costa 280 milioni. Però poi, d'altro canto, siete andati a intervenire sul taglio del contributo agli extraprofitti energetici, e questo vale 404 milioni. Voi intervenite, cioè, nel difendere le aziende che hanno effettuato extra profitti, e li coprite con 404 milioni; però, alle persone e alle aziende che hanno bisogno del supporto energetico ne date 280. Già qui si vede la differenza comportamentale che avete nei confronti di chi ha veramente bisogno perché intaccare gli extra profitti è molto meno invasivo rispetto a non concedere supporto a chi ha necessità, in questa fase di rincaro energetico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Mi permetta di esordire con una semplice parola: imbarazzante. Questa parola mi risuona nella testa da diverse settimane, direi da diversi mesi. Siamo giunti alla discussione di questo decreto Bollette per l'ennesima volta facendo sperimentazioni, prove direi, di riforma costituzionale. Di fatto, si sta procedendo con una sorta di continua squalifica e di continuo svilimento dei lavori parlamentari. Il Parlamento, che dovrebbe essere il centro di elaborazione di proposte di legge, che dovrebbe essere il centro e il tempio della democrazia, viene continuamente squalificato, non preso in considerazione, svalutato e svilito da continue richieste di fiducia. Questo è un dato di fatto. Questa sarà l'ennesima volta in cui viene richiesta la fiducia a quest'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché l'ordine del giorno prevede che il seguito dell'esame del provvedimento abbia luogo alle ore 12,30 e prima di sospendere la seduta, come preannunciato - e la ringrazio per la sua pazienza -, do la parola all'onorevole Ascari, sull'ordine dei lavori. Prego, onorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). La ringrazio, Presidente. Il mio intervento sull'ordine dei lavori è per chiedere un'informativa urgente al Governo in ordine a quanto sta avvenendo nella mia regione, l'Emilia-Romagna, ancora una volta messa in ginocchio a causa delle piogge incessanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1060-A: Conversione in legge, con modificazioni, del decreto-legge 30 marzo 2023, n. 34, recante misure urgenti a sostegno delle famiglie e delle imprese per l'acquisto di energia elettrica e gas naturale, nonché in materia di salute e adempimenti fiscali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307215_19",
+      "politician_name": "CAPPELLACCI Ugo",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Presidente della XII Commissione . Grazie, Presidente. Il Comitato dei diciotto delle Commissioni riunite, VI e XII, testé riunitosi ha preso atto che la Commissione bilancio, nel parere espresso sul testo del provvedimento licenziato dalle Commissioni, ha formulato due condizioni ai sensi dell'articolo 81 della Costituzione. Al fine di recepire le condizioni poste dalla V Commissione, nonché di esaminare le ulteriori proposte emendative predisposte dalle Commissioni riunite, soppressive, rispettivamente, degli articoli 4- bis e 23- bis , del comma 1- ter dell'articolo 9 e dei commi 7- bis e 7- ter dell'articolo 10, sulla base di intese intercorse tra i gruppi, le presidenze chiedono all'Assemblea un rinvio del decreto-legge nelle Commissioni VI (Finanze) e XII (Affari sociali), limitatamente all'esame delle predette proposte. Proponiamo, tenuto conto dei tempi tecnici necessari alla predisposizione del testo A/R e alla sua pubblicazione, un rinvio sino alle ore 14,30.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307215",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Sulla proposta di rinvio del provvedimento nelle Commissioni, nei termini precisati dal presidente della Commissione affari sociali, darò ora la parola, ai sensi dell'articolo 41, comma 1, del Regolamento, ad un deputato contro e ad uno a favore, per non più di cinque minuti ciascuno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, senza registrazioni dei nomi, decorre da questo momento il termine di preavviso di 5 minuti previsto dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questa richiesta di rinvio nelle Commissioni certifica quello che è successo la settimana scorsa nelle Commissioni, ossia totale confusione e improvvisazione (Applausi dei deputati del gruppo MoVimento 5 Stelle) mostrate, soprattutto, dal Governo, che, in un primo momento, ha accantonato emendamenti di buonsenso, anche della sua stessa maggioranza, per, poi, rigettarli senza alcuna motivazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308244_19",
+      "politician_name": "BONETTI Elena",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Membri del Governo, colleghe e colleghi, intervengo solo per sottolineare, credo, la gravità della decisione che stiamo per assumere: un rinvio nelle Commissioni di un provvedimento che è stato compresso nel dibattito delle Commissioni competenti in una nottata, quella di martedì, e il cui esame si è concluso all'1,30 di notte, nella confusione più totale di una maggioranza che non è stata in grado di arrivare con le relazioni tecniche adeguate agli emendamenti della stessa maggioranza, che ha disatteso tutto quel lavoro importante che, grazie alla relatrice, onorevole Patriarca, e al presidente della XII Commissione - che vorrei ringraziare -, onorevole Cappellacci, avevamo fatto in XII Commissione e che è stato completamente annichilito dalla totale confusione. Io credo che la responsabilità di un'Aula che oggi si assume di nuovo il rinvio nelle Commissioni di questo provvedimento, con motivazioni che non sono state, di fatto, condivise - almeno con il nostro gruppo, non sono state condivise -, sia l'ulteriore segno di una incapacità e della non prontezza di questa maggioranza e di questo Governo di rispondere alle esigenze del Paese. Ci si assuma la responsabilità di questo e si cominci a fare davvero sul serio il compito per il quale siamo stati eletti e chiamati (Applausi dei deputati del gruppo Azione-Italia Viva-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308244",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307334_19",
+      "politician_name": "VINCI Gianluca",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Non capisco, in realtà, questo astio da parte delle opposizioni sul fatto che ci sia un approfondimento nelle Commissioni su un provvedimento così importante, che andrà a modificare e a toccare con mano la vita degli italiani e anche le tasche degli italiani. Quindi, qualsiasi approfondimento - ed è stato un approfondimento studiato, richiesto anche a seguito di un incontro del Comitato dei diciotto - è qualcosa che, a nostro avviso, è sempre positivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307334",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 69, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Grazie, Presidente. Onorevoli deputati, a nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 1060-A/R: “Conversione in legge, con modificazioni, del decreto-legge 30 marzo 2023, n. 34, recante misure urgenti a sostegno delle famiglie e delle imprese per l'acquisto di energia elettrica e gas naturale, nonché in materia di salute e adempimenti fiscali”, nel testo approvato dalle Commissioni riunite a seguito del rinvio deliberato dall'Assemblea.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Secondo quanto convenuto nella riunione della Conferenza dei presidenti di gruppo del 2 maggio scorso e sulla base delle intese successivamente intercorse tra i gruppi, a seguito della posizione della questione di fiducia sull'articolo unico del disegno di legge n. 1060-A/R nel testo approvato dalle Commissioni dopo il rinvio deliberato dall'Assemblea, la votazione per appello nominale avrà luogo nella seduta di domani, giovedì 18 maggio, a partire dalle ore 14,30, previe dichiarazioni di voto a partire dalle ore 13.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro dell'Università e della ricerca, il Ministro della Giustizia e il Ministro per i Rapporti con il Parlamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Grazie, Ministra, come sa oggi parliamo di un tema importantissimo per centinaia di migliaia di famiglie. Parliamo del caro affitti, che sta rendendo impossibile a tanti studenti e a tante studentesse proseguire gli studi nelle più grandi città italiane. Gli studenti giustamente, in forma di protesta, hanno piazzato delle tende fuori dalle università e lei ha risposto dicendo che avrebbe sbloccato i 660 milioni previsti dal PNRR su questa misura, su questo tema. Noi la interroghiamo perché la modalità con cui intende investire questi 660 milioni è una modalità a vantaggio di soggetti privati, che, anche in convenzione o in partenariato con le università, metteranno a disposizione nuovi posti letto. Il contributo è a fondo perduto, sostanzialmente esentasse e copre i posti letto per soli 3 anni. Quindi, le chiediamo se non sarebbe stato meglio, invece, affidare queste risorse alle università pubbliche per realizzare degli studentati pubblici e dei posti letto che potrebbero rimanere anche dopo il 2026.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d302841_19",
+      "politician_name": "BERNINI Anna Maria",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Università e della ricerca . Grazie, Presidente. Ringrazio l'onorevole Piccolotti e il suo gruppo per avermi chiamato a rispondere su un tema che è importantissimo e sarà il nostro pane quotidiano fino al 2026, su cui voglio sia tutto chiaro e su cui sono stata e sarò sempre a disposizione per fare chiarezza, in Parlamento e fuori. Questo Governo sa, come voi sapete, che garantire il diritto allo studio non è una parola, ma un percorso. Significa mettere in campo, non una, ma più azioni contemporaneamente e lo stiamo facendo anche, ma non solo, con i fondi del PNRR. È un piano che ha l'obiettivo ambizioso di creare 60.000 posti letto entro il 2026, a fronte dei circa 40.000 ad oggi disponibili. Questa è l'eredità di decenni: 40.000 posti letto. Noi - lo ripeto -, da qui al 2026, ne dobbiamo creare altri 60.000.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "302841",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Ministra. Da parte nostra avrà collaborazione ed emendamenti nella direzione di portare queste risorse del PNRR su investimenti per le università pubbliche. Ci sono molti progetti non finanziati e, quindi, è possibile davvero mettere in campo una proposta che dia una risposta strutturale, perché gli studentati pubblici rimangano anche per il futuro, mentre l'investimento che lei sta programmando sui privati termina nel 2026. Io le chiedo: una volta che avrà messo 52.000 ragazzi in posti letto privati a pagamento dello Stato e con enormi agevolazioni fiscali, nel 2026 che cosa farà? Stanzierà nuove risorse a favore dei privati oppure sarà costretta, in qualche modo, a buttare fuori questi ragazzi dagli studentati? Si sta determinando, con questo investimento, una situazione assolutamente sbagliata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Grazie, Ministro, in realtà sono mesi che vi parliamo delle difficoltà del mondo delle università, da assegni di ricerca a borse di studio e alloggi per i fuorisede. Fino ad ora, però, per voi sembrava che andasse tutto bene. Ovviamente non è così, altrimenti non ci sarebbero centinaia di tende fuori le università di tutta Italia. Il problema è chiaro: l'affitto per un solo posto letto in alcune città ha superato anche i 600 euro al mese. Ricordiamo che, come MoVimento 5 Stelle, si era finanziato un fondo ad hoc per la copertura delle spese di locazione sostenute dagli studenti fuorisede, con una cifra pari a 15 milioni di euro. Voi avete tagliato questo fondo e ci avete messo solo 4 milioni di euro. Pertanto, siamo qui a chiederle se, parallelamente a tutti i progetti del PNRR, su cui ascoltiamo i campanelli d'allarme degli studenti sul rischio di speculazione privata, questo Governo intenda ora aumentare questo fondo - le cui risorse, come detto, prima ammontavano a 15 milioni di euro - per venire incontro subito alle difficoltà degli studenti (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d302841_19",
+      "politician_name": "BERNINI Anna Maria",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Università e della ricerca . Grazie Presidente, e grazie all'onorevole Caso e al suo gruppo, per consentirmi di confrontarmi anche su questo tema. Farò nuovamente una brevissima ricognizione delle iniziative finora prese - onorevole Caso, sono fatti, non sono un “va tutto bene” - per poi entrare nello specifico del suo quesito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "302841",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Ministro. Ha ragione, valgono i fatti e i fatti sono che noi avevamo finanziato quel Fondo con 15 milioni di euro e voi con 4 milioni. Il resto sono “faremo”, “metteremo”, “abbiamo detto questo” e “abbiamo detto quell'altro”. Il problema è chiaramente oggi, è ora, e non c'è più tempo. Gli studenti sono allo sfinimento e - diciamolo - solo dopo che è montata la protesta, dopo che sono spuntate le tende, ne abbiamo iniziato a parlare seriamente. Lei oggi viene qui a raccontare di misure che in gran parte sono del PNRR, così come il famoso emendamento sullo sblocco dei 660 milioni era del PNRR, e - ricordiamolo - si tratta di un emendamento che improvvisamente è stato ritirato. Ancora una volta, mostrate, a tutti gli effetti, la vostra incapacità. Al momento, quindi, i fatti sono chiari. Sui 660 milioni non c'è niente, nulla, zero!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …e avete tagliato anche il Fondo dei fitti, in generale, e il reddito di cittadinanza. Insomma, continuate ogni giorno la vostra operazione per creare una società elitaria, per pochi, e come un carro armato andate su ogni cosa, anche sulla dignità dei nostri studenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Arrivo alla conclusione, Presidente, ricordando una cosa che dev'essere chiara: il diritto allo studio non può sottostare a logiche di mercato e faccio un appello al Ministro affinché porti avanti questo famoso tavolo di concertazione di cui diceva, che ha promesso agli studenti e che ha promesso a tutte le forze politiche. Il diritto allo studio è il futuro del nostro Paese. Questo deve essere chiaro (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308766_19",
+      "politician_name": "CALDERONE Tommaso Antonino",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Signor Ministro, non è un problema, è il problema. La pubblicazione abusiva di atti di indagine ha determinato danni inestimabili per migliaia di cittadini italiani. È assolutamente obiettivo il fatto che, nonostante esista nel nostro ordinamento processuale penale una norma, in particolare l'articolo 114, che vieta la pubblicazione - si badi, anche a stralcio - di atti di indagine fino alla conclusione delle indagini preliminari ovvero fino all'udienza preliminare, questa norma è disapplicata, in via interpretativa, da parte di tutti. Non c'è un procedimento penale che sanzioni chi viola sistematicamente, tutti i giorni, tale norma in danno del cittadino italiano, violando addirittura un diritto di rango costituzionale, appunto l'articolo 15 della nostra Carta costituzionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308766",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie Presidente e grazie all'onorevole interrogante. Sin dal primo momento dell'illustrazione del piano per la riforma della giustizia da parte di questo Ministero, abbiamo posto in rilievo la fondamentale necessità di rivedere completamente la disciplina della segretezza degli atti istruttori e, in particolare, delle intercettazioni. Il cronoprogramma del Governo, e di questo Ministero, prevede, entro la fine di questo mese, la redazione di una bozza da presentare al Consiglio dei ministri e, successivamente, la sua discussione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308766_19",
+      "politician_name": "CALDERONE Tommaso Antonino",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, signor Ministro, per questa sua promessa solenne. Ricordo a me stesso, per ragioni di completezza, che il secondo comma dell'articolo 114 fa riferimento non soltanto alle conversazioni ambientali e telefoniche, ma a tutti gli atti, perché il successivo comma 2- bis già va a disciplinare le intercettazioni. Avviene però - ed è questo il malcostume a danno del cittadino italiano - che vengano pubblicati atti di indagine, signor Ministro, qualunque atto di indagine, sommarie informazioni testimoniali, dichiarazioni di collaboratori di giustizia, in un momento processuale, dico meglio, procedimentale in cui questo non può e non deve avvenire per legge.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308766",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307436_19",
+      "politician_name": "MAGI Riccardo",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). La ringrazio, Presidente. Ministro Nordio, in base alla legge italiana il Governo avrebbe dovuto consentire ai cittadini italiani, entro il 31 dicembre 2021, di sottoscrivere proposte di referendum o di leggi di iniziativa popolare attraverso una piattaforma governativa digitale. Il decreto del Presidente del Consiglio, che disciplina le modalità di funzionamento di tale piattaforma, è stato emanato nel settembre 2022.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307436",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, Presidente, e grazie al collega. Siccome è correttamente riportato da lei, richiamo quanto a suo tempo è stato riferito dal Sottosegretario per l'Interno, Wanda Ferro, il 17 marzo 2023 in tema di realizzazione della piattaforma digitale per la raccolta delle firme degli elettori, firme che sono necessarie per i referendum e le iniziative popolari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307436_19",
+      "politician_name": "MAGI Riccardo",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Sono abbastanza sconcertato dalla risposta del Ministro, perché qui non parliamo della realizzazione del ponte sullo Stretto, Ministro. Un accordo, un piano, un gruppo di lavoro misto, 12 mesi di lavoro: sostanzialmente tre volte tanto quelli che alcune settimane fa la Sottosegretaria per l'Interno ci aveva informato fossero necessari per realizzare una piccola infrastruttura digitale tale da consentire ai cittadini italiani di sottoscrivere, identificandosi attraverso SPID, proposte di referendum. Ricordo a tutti noi e al Paese che già, con una modalità transitoria, i cittadini italiani hanno potuto sottoscrivere dei referendum e le firme sono state depositate presso l'Ufficio centrale per il referendum alla Cassazione. Sono state accettate e ritenute valide con una modalità transitoria, approntata in poche settimane dai comitati promotori in accordo con società private.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307436",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente. Signor Ministro, in Italia l'amministrazione della giustizia sconta, da decenni, ritardi e tempi superiori alla media europea sia nella durata dei procedimenti, sia nello smaltimento dell'arretrato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, Presidente, grazie, collega. Sono due problemi differenti. Per quanto riguarda l'accelerazione dei processi, sappiamo - l'abbiamo detto tante volte - che i ritardi della nostra giustizia costano all'economia italiana un 2 per cento del PIL. Come stiamo rimediando? Stiamo cercando di rimediare attraverso un profondo sistema di digitalizzazione e di giustizia di prossimità telematica che produrrà - e ha già iniziato a produrre - ampi benefici. Abbiamo già riduzioni di arretrati consistenti e questo ci allinea con le richieste del PNRR che sono, appunto, fondamentali per ottenere i relativi sussidi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Siamo soddisfatti per le parole del Ministro che, con la consueta chiarezza e determinazione, ha indicato qual è la strada su argomenti per noi molto importanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308935_19",
+      "politician_name": "DONDI Daniela",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Buongiorno, signor Ministro. Tra i disegni di legge collegati alla manovra di bilancio indicati nel Documento di economia e finanza, è presente quello concernente la revisione delle circoscrizioni giudiziarie e, dunque, lo dobbiamo intendere come riforma della geografia giudiziaria del 2012, che aveva visto la soppressione di 31 sedi di tribunale e di 220 sezioni distaccate di tribunale, in un'ottica di presunta razionalizzazione delle risorse. Possiamo dire che risultato primario di quell'intervento legislativo non c'è stato, anzi, interi territori hanno visto perdere i loro riferimenti di legalità e, soprattutto, di efficienza. Tanto è vero che l'accorpamento dei tribunali minori con quelli dei capoluoghi di provincia ha determinato un sovraccarico di lavoro per questi ultimi, dal punto di vista del personale amministrativo e della magistratura, che, a sua volta, ha generato notevoli ritardi nella definizione dei procedimenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308935",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, Presidente, e, grazie, collega. In effetti, questa problematica è già stata affrontata qualche settimana fa in questa stessa sede. Noi possiamo ribadire che l'obiettivo della legge delega del 2011, che era - nell'ottica di una spending review - di allocare al meglio le risorse e di velocizzare i processi, non ha avuto gli effetti sperati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307575_19",
+      "politician_name": "MASCHIO Ciro",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, onorevoli colleghi, siamo soddisfatti della risposta del Ministro Nordio, anche perché è un dato di fatto oggettivo che le razionalizzazioni degli anni passati e la soppressione di diversi tribunali non hanno raggiunto gli esiti di efficienza sperati, anzi hanno spesso privato i cittadini di un più facile accesso alla giustizia, soprattutto in territori più disagiati. Quindi, l'attenzione dimostrata dal Governo sulla revisione della geografia giudiziaria e il ritorno a una valorizzazione della giustizia di prossimità rappresentano sicuramente un segno di svolta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307575",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307716_19",
+      "politician_name": "CATTOI Vanessa",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Ministro, con questa interrogazione vogliamo non sottrarci alla nostra responsabilità in quanto legislatori e cercare di essere propositivi nell'indirizzare il Governo su azioni a breve termine al fine di salvaguardare e tutelare soprattutto gli operatori del bosco.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307716",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Grazie, Presidente. Colleghi deputati, rispondo all'interrogazione presentata sulla base degli elementi che mi ha fornito il Ministro dell'Interno, che si scusa, mio tramite, per non poter essere oggi qui presente, perché è impegnato a fronteggiare la grave emergenza meteorologica che ha colpito l'Emilia-Romagna. Riguardo all'interrogazione, gli spray anti-orso, come ricordato, sono utilizzati in diversi Paesi del mondo, in aree con presenza di orsi, per prevenire rischi di attacco ed escludere l'uso di armi da fuoco. Ed invero, l'uso di armi da fuoco appare, da un lato, eccessivo, perché mette a repentaglio la vita degli animali protetti, e, dall'altro, pericoloso, potendo, in caso di ferimento degli stessi, stimolargli una maggiore aggressività. Evidenzio anche che lo spray anti-orso, come già rilevato nell'interrogazione, è un prodotto con caratteristiche tecniche specifiche: a base di capsaicina, impiegato come strumento di autodifesa nei confronti dell'orso, è indicato anche dalla Commissione europea, nel rapporto tecnico del 2015 in merito agli orientamenti e alle raccomandazioni specifiche per la gestione dei plantigradi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307716_19",
+      "politician_name": "CATTOI Vanessa",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Ringrazio il Ministro per la risposta, noi abbiamo già provveduto ad inserire un emendamento ad hoc che va in tal senso e cerca di preservare la sicurezza, soprattutto, degli operatori. L'auspicio è quello di avere uno strumento legato alla difesa delle persone che possa essere, in modo regolamentato e normato, esteso e non solo limitato ai custodi forestali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307716",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). La ringrazio, signor Presidente. Signor Ministro, sappiamo quanto il contrasto alla mafia e alla criminalità organizzata non possa dirsi completo ed efficace se non coronato da una concreta attività di restituzione dei beni al riuso sociale degli stessi. Siamo, quindi, a chiedere come intenda superare le criticità esistenti, in particolare per gli immobili donati ai comuni, i quali sono sprovvisti di risorse per procedere alla riqualificazione e alla rigenerazione. Tutto questo a favore dei cittadini. Sono tanti, troppi gli immobili donati e in stato di abbandono. Il messaggio che arriva alla criminalità organizzata, combattuta dallo Stato e dai suoi uomini, è di parziale vittoria. La restituzione - e termino - alle comunità non può essere parziale. Sono, quindi, a chiedere al Governo come intenda superare tali criticità, sicuramente stanziando risorse a favore dei comuni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Grazie, Presidente. Colleghi, uno degli obiettivi prioritari dell'azione del Governo è il contrasto dell'infiltrazione della criminalità organizzata nel circuito dell'economia legale e in tale direzione è di fondamentale rilievo strategico il sequestro e la confisca dei beni acquisiti illegalmente dalla criminalità organizzata. Sappiamo tutti, infatti, come un bene confiscato, per il suo valore simbolico, possa diventare un presidio di legalità sul territorio e concorrere al suo sviluppo, favorendo il senso di fiducia dei cittadini nei confronti delle istituzioni. Questa consapevolezza, ormai patrimonio comune, ha portato, negli ultimi 3 anni, l'Agenzia nazionale per i beni confiscati ad incrementare la propria operatività, basti pensare che, nell'anno 2022, rispetto al 2020, si è avuto un aumento delle destinazioni dei beni immobili del 147 per cento, con un sensibile miglioramento anche nella gestione delle aziende confiscate che impiegano diverse migliaia di persone. Aggiungo anche che, nell'ambito delle procedure di assegnazione diretta agli enti del Terzo settore, è imminente la consegna di 260 beni immobili oggetto del primo bando, relativi a 68 proposte presentate da 58 aggiudicatari. Per migliorare ulteriormente questi risultati è essenziale il programma di potenziamento dell'organico dell'Agenzia, che porterà, auspicabilmente entro l'anno, al completamento della sua dotazione di personale, oggi pari a 200 unità, con l'obiettivo, in prospettiva, di ampliarla di ulteriori 100 unità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie. Signor Ministro, lei sa bene quanto oggi siano vitali gli spazi per le nostre comunità e pure credo sia al corrente proprio di quanto ho detto in precedenza, ossia dell'esiguità delle risorse che gli enti locali possono destinare per gli interventi di riqualificazione. Bene i portali e tutto quanto lei ha citato in precedenza. Sinceramente, mi pare che l'inadeguatezza delle risorse permanga. Sappiamo quali sono le emergenze sui nostri territori; ad esempio, gli alloggi per gli studenti, gli spazi per i giovani, i centri di incontro giovanili; ed è sempre più pressante l'emergenza abitativa. Signor Ministro, io penso agli spazi e alle aree più complesse, e mi riferisco a quelle marginali, devastate proprio per la presenza della criminalità organizzata; proprio perché piccole, lì ovviamente è più facile creare il disagio. Sono aree che conosco bene, proprio per la mia presenza sul territorio e anche per il contatto con i sindaci; riporto questo disagio, la volontà dei sindaci di riuscire a fare interventi e l'impossibilità, dall'altro lato, di arrivare a questo grande obiettivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d308916_19",
+      "politician_name": "FORATTINI Antonella",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ministro, torniamo a riproporle il tema dell'emissione dei passaporti, che è un tema trasversale a molte città d'Italia, ma che coinvolge anche gli italiani all'estero che hanno lo stesso problema, in quanto non riescono a rinnovare il passaporto presso le rappresentanze consolari. Nonostante il Ministro, in questa sede, interrogato più volte, abbia già avuto modo di richiamare le migliori pratiche messe in campo per risolvere questo problema da alcune questure, ma anche la rivisitazione dell'applicazione Agenda Online, attraverso la quale si prende appuntamento per il rilascio dei passaporti, la situazione non è assolutamente migliorata, anzi rischia di peggiorare nei prossimi mesi, con le vacanze studio di molte ragazze e ragazzi che vorranno andare in Inghilterra, ma anche con i ricongiungimenti familiari, una situazione con risvolti economici pesantissimi: si parla di 180 milioni di mancate prenotazioni nelle agenzie di viaggio, ma anche di problemi legati al personale che deve recarsi per lavoro in Paesi stranieri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "308916",
+        "seduta": 104
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-05-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento. Grazie, Presidente e colleghi. Rispondo all'interrogazione, che consente di offrire un quadro aggiornato delle iniziative messe in campo per ridurre i tempi di rilascio dei passaporti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0104",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 104
+      }
+    }
+  ]
+}

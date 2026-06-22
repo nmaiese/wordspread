@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0593",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-01-14",
+    "title": "Assemblea — Seduta n. 593 del 2026-01-14",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 593
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 90, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2758: Conversione in legge, con modificazioni, del decreto-legge 21 novembre 2025, n. 175, recante misure urgenti in materia di Piano Transizione 5.0 e di produzione di energia da fonti rinnovabili.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). … e siamo pronti a dare il via a questo lungo dibattito su questo importante argomento. Signor Presidente, signor Sottosegretario, colleghi, la fiducia che voi ci chiedete oggi per questo decreto-legge, in realtà, non rappresenta una scelta politica, ma è la manifestazione plastica di un'ammissione di colpa. Un decreto che, palesemente, non nasce da una visione, ma dalla necessità di rimediare, di porre qualche toppa - in fretta e fatta male, peraltro - ad errori clamorosi che il Governo ha prodotto da solo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Onorevoli colleghi e colleghe, signor rappresentante del Governo, la presentazione di questo provvedimento da parte del Governo, su cui ha chiesto l'ennesima fiducia, è la dimostrazione, signor Sottosegretario, di come il Governo Meloni non abbia alcuna visione sulla politica energetica del Paese, proprio alcuna, e questo è disarmante, preoccupante. Trovo incredibile che non ci sia, anche dal punto di vista dell'informazione, qualcuno che faccia notare questo aspetto drammatico per il Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente, anche per la disponibilità. Onorevoli colleghi, Sottosegretario, provo a raccontare una fotografia diversa. Il provvedimento su cui a breve voteremo la fiducia tocca tre punti significativi del nostro Paese: le imprese, le energie e la difesa degli interessi strategici nazionali. Su ciascuno di questi temi noi, come centrodestra, abbiamo fatto scelte chiare e precise.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Grazie, Sottosegretario. Non possono non fare un cappello introduttivo rispetto all'ennesima fiducia, perché in questo caso è emblematica. Questo provvedimento, che è stato fermo al Senato per intere settimane, che poi è stato approvato, come sempre, senza alcun apporto del Parlamento, e che arriva in fretta e furia alla Camera (ieri la votazione degli emendamenti e oggi è già in Aula), è un'ennesima dimostrazione di come questo Governo non abbia fiducia nel Parlamento, in un contributo parlamentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi, membri del Governo, oggi siamo di fronte all'ennesimo decreto sbagliato, figlio di un Governo che non crede nella transizione energetica, non la capisce e, di conseguenza, non la sa governare. Transizione 5.0: avete già fatto un grave danno eliminando quella che noi, come MoVimento 5 Stelle, avevamo già inserito. Transizione 4.0 funzionava benissimo. E, oggi, continuate a trasformare una misura strategica per il Piano nazionale di ripresa e resilienza in un pasticcio normativo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308793_19",
+      "politician_name": "CASASCO Maurizio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevoli colleghe e onorevoli colleghi, il provvedimento in esame contiene tre importanti interventi in materia di credito d'imposta di cui al piano Transizione 5.0, di individuazione delle aree idonee all'installazione delle rinnovabili e di applicazione del golden power nel settore finanziario. Due delle disposizioni riguardano l'adeguamento alle indicazioni europee, la terza, invece, fa riferimento all'attuazione delle politiche industriali del Governo per la parte relativa al cosiddetto credito d'imposta Transizione 5.0, e su questo aspetto concentrerò il mio intervento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308793",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308890_19",
+      "politician_name": "BARABOTTI Andrea",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, il decreto su cui siamo chiamati a esprimere la nostra fiducia al Governo affronta temi strategici per il futuro del Paese, ma sarebbe miope limitarci a un giudizio circoscritto solo di questo provvedimento, senza valutare la direzione politica complessiva e la capacità dell'Esecutivo di guidare l'Italia in una fase complessa dentro e fuori i confini nazionali. Venendo al merito del decreto, esso interviene su nodi centrali: transizione energetica, competitività industriale e tutela dell'interesse nazionale. Sul piano Transizione 5.0, il Governo introduce chiarimenti necessari, come il divieto di cumulo con il Piano 4.0 sugli stessi beni. È una scelta di serietà che evita sovrapposizioni, tutela gli interessi pubblici e garantisce che gli incentivi accompagnino davvero la modernizzazione del sistema produttivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308890",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308932_19",
+      "politician_name": "GNASSI Andrea",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe e colleghi, signor Sottosegretario, il 2026 è iniziato con una ulteriore accelerazione della storia: la cattura di Maduro; gli obiettivi di Trump sul petrolio venezuelano, che un tempo avremmo definito deliranti, ma che ormai sono nel dibattito politico internazionale; le rivolte in Iran e il dolore, i massacri e i lutti del popolo iraniano, a cui va tutto il nostro supporto, la nostra solidarietà e la nostra vicinanza (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) ; poi ancora i continui attacchi di Putin all'Ucraina; le mire espansionistiche della Cina su Taiwan; la dipendenza dell'Europa dal gas russo prima e oggi da quello americano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308932",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308932_19",
+      "politician_name": "GNASSI Andrea",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Il decreto stabilisce che l'energia prodotta da impianti non programmabili venga incentivata anche quando non venga immessa e non sia assorbibile dalla rete. Occorre una svolta: studiate i dati. Con i big data vedrete che si può produrre energia rinnovabile non consumando suolo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308932",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307142_19",
+      "politician_name": "ZUCCONI Riccardo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, onorevoli colleghi, rappresentanti del Governo, Sottosegretario Barbaro, siamo chiamati oggi a votare la fiducia al Governo sulla conversione in legge di un decreto-legge in cui non ci si limita a normare aspetti tecnici, ma si delinea anche la visione di questo Governo su temi importanti. Perché questo provvedimento coniuga e declina il programma governativo in materia di incentivi congrui e controllati al mondo produttivo, di un approccio conservativo rispetto al consumo del territorio, di semplificazioni e chiarificazioni nel sostegno alle fonti rinnovabili e di protezione degli interessi nazionali dello Stato sulla sicurezza economica e finanziaria della Nazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307142",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro dell'Interno, la Ministra per le Riforme istituzionali e la semplificazione normativa, il Ministro della Salute e il Ministro dell'Ambiente e della sicurezza energetica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Signor Ministro, risultano sempre più frequenti episodi di aggressione nelle nostre città, che generano paura e insicurezza, eppure lei continua a rispondere con vuote rassicurazioni: parla di assunzioni straordinarie delle Forze di Polizia, che straordinarie non sono, perché non coprono nemmeno il turnover , e cita i dati sul calo dei reati, che ha più volte modificato, dimenticandosi che dietro a questi numeri ci sono persone in carne e ossa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d309042_19",
+      "politician_name": "PIANTEDOSI Matteo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Interno . Grazie, Presidente. L'idea che questo Governo non abbia una visione complessiva delle politiche di sicurezza esiste solo nella narrazione dell'opposizione. La realtà è un'altra. In questi tre anni, mentre il Governo rafforzava gli organici, aumentava la presenza dello Stato sui territori e metteva in campo misure concrete di contrasto alla criminalità, dall'opposizione arrivavano solo giudizi ideologici. Sul decreto Sicurezza, per esempio, alcuni esponenti dello stesso gruppo dell'onorevole interrogante parlavano - cito testualmente - di norme di inciviltà, che non danno alcuna garanzia ai cittadini; lo dicevano mentre, nell'ultimo triennio, entravano in servizio oltre 39.000 nuovi operatori delle Forze di Polizia, il 50 per cento in più rispetto al triennio precedente, e mentre programmavamo altri 30.000 ingressi entro il 2027, per evitare il collasso degli organici, causato da anni di mancata programmazione e di politiche lassiste.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "309042",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d306176_19",
+      "politician_name": "MAURI Matteo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Io ho ascoltato con attenzione il Ministro, e non ho trovato niente. Ho trovato sempre la solita, vuota propaganda, oltre a una capacità molto forte che ha questo Governo, che è quella del gioco delle tre carte. Guardate, venire in Parlamento a dire che si sono rafforzati gli organici con le assunzioni è una falsità (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) , perché le Forze dell'ordine, in questi anni, hanno visto diminuire il loro numero! Solo nel 2025 ci sono 1.500 poliziotti in meno, altri 1.000 in meno l'anno precedente!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "306176",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Signora Ministra, il legislatore, anche attraverso l'istituzione della Commissione parlamentare per la semplificazione, che mi onoro di presiedere, ha inteso dotarsi di strumenti permanenti di indirizzo, strumenti di valutazione e strumenti volti a contrastare la frammentazione e la stratificazione dell'ordinamento, così promuovendo un'azione razionale e coerente della normazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d200012_19",
+      "politician_name": "ALBERTI CASELLATI Maria Elisabetta",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra per le Riforme istituzionali e la semplificazione normativa . Ringrazio l'onorevole Romano, che pone l'accento su problemi di funzionamento del nostro sistema ordinamentale, sui quali siamo in perfetta consonanza. Il quesito formulato mi offre l'occasione di illustrare la strategia di semplificazione che sto realizzando, una strategia pluriennale che ha raggiunto risultati significativi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "200012",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d200012_19",
+      "politician_name": "ALBERTI CASELLATI Maria Elisabetta",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra per le Riforme istituzionali e la semplificazione normativa . L'articolata strategia, che ho qui brevemente esposto, consentirà non solo di dare certezza giuridica ai rapporti con i cittadini, ma anche di fare della semplificazione una grande leva di sviluppo economico e attrazione degli investimenti, dato che la burocrazia costa alle famiglie e alle imprese oltre 200 miliardi di euro all'anno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "200012",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Ringrazio il Ministro, la risposta ci soddisfa pienamente perché va nella direzione da noi auspicata, con riferimento al principio secondo il quale la semplificazione vale ancora di più, alcune volte, di una buona legge, proprio perché i cittadini e le imprese devono essere interessati al risultato, anziché, magari, a disposizioni apodittiche che poi, concretamente, non risolvono i loro problemi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308101_19",
+      "politician_name": "MANTOVANI Lucrezia Maria Benedetta",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, i tragici eventi della notte di Capodanno a Crans-Montana hanno causato il decesso di 40 persone, tra cui 6 cittadini italiani, e numerosi feriti con ustioni e lesioni cliniche complesse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308101",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d309048_19",
+      "politician_name": "SCHILLACI Orazio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Salute . Grazie, Presidente. Ringrazio gli onorevoli interroganti, l'evento di Crans-Montana è stata una strage e una tragedia che ha colpito profondamente tutti noi. Il Governo ha seguito da vicino ogni momento di questa emergenza, ha assicurato sostegno continuo alle famiglie e ai feriti. Io stesso mi sono recato a Milano a visitare i feriti, le famiglie e a ringraziare tutti gli operatori sanitari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "309048",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308764_19",
+      "politician_name": "CIANCITTO Francesco Maria Salvatore",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Desidero, innanzitutto, ringraziare il Ministro Schillaci per la risposta puntuale, dettagliata e trasparente che è stata fornita a quest'Aula, una risposta che ci consente di affermare, con convinzione, che siamo pienamente soddisfatti dell'operato del Governo, sia sul piano sanitario, sia su quello organizzativo, sia sotto il profilo umano, solidale e istituzionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308764",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signor Ministro, con il vostro Governo, il Governo Meloni, le bollette dell'energia per le famiglie italiane e le imprese sono aumentate. Sono tra le più care in Europa, però avete raggiunto un risultato, avete raggiunto e realizzato un'impresa: chi ha guadagnato tanto da questa situazione sono le grandi società energetiche, che hanno fatto profitti attraverso la vendita del gas. Negli ultimi tre anni, 70 miliardi di euro di profitti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica . Grazie, Presidente, un grazie agli interroganti. Con riferimento al tema del costo dell'energia, confermo che è sempre alta l'attenzione del Governo verso le famiglie e le imprese e che si sta al riguardo valutando l'introduzione di strumenti volti a contrastare, nel breve termine, l'elevato costo delle bollette energetiche, nonché l'adozione di misure di natura più strutturale volte a promuovere, anche attraverso nuovi meccanismi di mercato, l'accesso all'energia da fonte rinnovabile da parte dei consumatori, in modo da favorire di fatto il disaccoppiamento del prezzo dell'energia elettrica dal prezzo del gas.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Ministro, non so se lei si rende conto del suo intervento e degli italiani che ci hanno appena visto. Lei, voi, che state praticamente governando da quasi quattro anni questo Paese, avete appena detto, ha detto: faremo, dovremo, stiamo lavorando. Il punto è che gli italiani pagano bollette altissime (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) e le grandi società energetiche sono sempre più ricche, sempre più ricche, signor Ministro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ministro Fratin, lei è a conoscenza, certamente, che 5 milioni di italiani non possono riscaldarsi adeguatamente perché le bollette costano troppo; lei è sicuramente a conoscenza che gli italiani pagano mediamente il 27,5 per cento in più l'energia rispetto alla media europea e lei è certamente consapevole che le imprese italiane, dopo lo scoppio della guerra in Ucraina, pagano corrente elettrica e gas il 49,8 per cento in più. Allora, Ministro, lei deve sapere che gli italiani non ce la fanno più a pagare queste bollette, che sono troppo care, e sentono le vostre risposte e ancora si sentono dire di rimandi: faremo, alta attenzione… stiamo valutando, stiamo lavorando.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica . Grazie, Presidente. Un grazie agli onorevoli interroganti. Nell'attuale assetto del mercato dell'energia, ove il prezzo risulta ancora condizionato dal ruolo di generazione a gas nel mix di produzione, l'obiettivo principale resta quello di promuovere e accelerare lo sviluppo e l'integrazione del sistema elettrico della generazione da fonti rinnovabili, in linea con il Piano nazionale integrato energia e clima.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ministro, le vede queste? Le guardi, sono le bollette (La deputata Appendino mostra dei fogli ) di una delle tante piccole e medie imprese che stanno affondando. I consumi sono scesi perché non producono più. Eppure, il prezzo è salito, è alle stelle e questa è la cifra del vostro fallimento. Anche perché era Meloni che, ad agosto, diceva che il costo dell'energia era un macigno; era lei che, a dicembre, diceva: no, no, no, dobbiamo fare qualcosa. Era lei che, pochi giorni fa, addirittura, diceva: interverremo nel prossimo Consiglio dei ministri. Il risultato? Zero. Nulla. Lo zero assoluto. Ministro, sveglia. Governate da tre anni e le bollette sono alle stelle (Applausi dei deputati del gruppo MoVimento 5 Stelle) e sa, Ministro, perché i costi non scendono? Non per le cose ridicole, le baggianate - come si dice da noi - che ha detto oggi qui in Aula. Non scendono perché voi siete quelli che trovate subito, senza problemi, 23 miliardi per preparare la guerra, ma non riuscite a trovare 3 miliardi - dico 3 (Applausi dei deputati del gruppo MoVimento 5 Stelle) - per aiutare le famiglie e le imprese. È questo il marchio di infamia del Governo Meloni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Premesso che la distribuzione elettrica in Italia è concentrata nelle mani del principale operatore e distribuzione della società del gruppo Enel; che, in virtù del quadro legislativo, la legge di bilancio ha prorogato le concessioni in essere per un periodo di 20 anni motivando la proroga, così generosa, con argomentazioni pretestuose. E, c'è di più: oltre all'estensione della concessione per 20 anni, tutti i costi a carico dei beneficiari sarebbero stati assimilati a investimenti ordinari, remunerati da ARERA e trasferiti in bolletta a carico degli utenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica . Grazie, Presidente. Un grazie agli interroganti. In relazione al tema posto, bisogna ricordare che il peso tariffario della distribuzione elettrica in Italia è significativamente più basso della media europea, come certificato anche dai dati Eurostat. Inoltre, le tariffe dei gestori di reti italiane sono di gran lunga inferiori a quelle di Francia e Germania.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Ministro, per questa risposta che conferma lo stato confusionale con cui ero entrato prima di porle il quesito, perché non ha risposto nel merito alle tre questioni centrali che le abbiamo posto e che sono quelle che poi riguardano i cittadini e le aziende, cioè:",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Ministro, di nuovo torniamo a parlare in quest'Aula di Civitavecchia e Brindisi, due territori che tanto hanno dato, per decenni, in termini di contributo all'approvvigionamento energetico nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica . Grazie, Presidente. Un grazie agli interroganti. In merito a quanto richiesto, il Governo conferma che è nelle proprie intenzioni proseguire nel processo di transizione energetica, anche attraverso il superamento del carbone, quale fonte per la generazione elettrica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307312_19",
+      "politician_name": "D'ATTIS Mauro",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor Ministro, noi, col collega Battilocchio - come ha detto prima lo stesso collega - abbiamo sempre voluto che Brindisi e Civitavecchia non fossero relegate a una vicenda locale e, quindi, abbiamo voluto sempre coinvolgere il Parlamento, il Governo, proprio perché la questione deve essere affrontata in maniera aperta e trasparente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307312",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica . Grazie, Presidente. Un grazie agli interroganti. Come già indicato nella precedente risposta, il superamento del carbone, quale fonte energetica, è ormai negli atti trasmessi alla Commissione europea ed è effetto di considerazioni di natura sia ambientale sia economica. Resta perciò fermo il percorso di phase-out dal carbone da tempo avviato dal Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Ministro Pichetto Fratin, io, onestamente, non ho compreso, non ho capito la sua risposta, e credo che non l'abbiano compresa nemmeno i sindaci, nemmeno i 57 soggetti che hanno presentato manifestazione d'interesse sulla logistica, sulla transizione energetica, sulle rinnovabili, che, appunto, vorrebbero investire in un'area che, di fatto, rimarrà nel limbo. Perché lei non mi ha risposto sulla nomina del commissario straordinario, che avete annunciato, ma di cui non si conosce ancora il nome.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308801_19",
+      "politician_name": "BOF Gianangelo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Ministro, con questa richiesta noi siamo a richiedere quella che è una problematica che ci viene sollevata da moltissimi comuni del nostro territorio, il territorio della Pedemontana Veneta, che da anni, a seguito anche del PGRA, quello che andava dal 2021 al 2027, si trovano bloccati in tutti gli investimenti pubblici e privati. Parlo di adeguamenti sismici di scuole, parlo di piste ciclabili, parlo di tantissimi interventi che vengono bloccati grazie al regime di salvaguardia, che, finché i conoidi non vengono esaminate da parte delle Autorità di bacino, rimangono bloccati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308801",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica . Grazie, Presidente. Un grazie agli interroganti. In merito a quanto richiesto dagli onorevoli interroganti, si evidenzia che l'aggiornamento del Piano di gestione del rischio di alluvioni compete all'Autorità di bacino e che il MASE monitorerà sulla rapida definizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308801_19",
+      "politician_name": "BOF Gianangelo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). La ringrazio, signor Ministro, per la risposta, che è stata capiente ed esaustiva. Appunto, noi non scendiamo nel merito dello strumento, che è sicuramente uno strumento utile, uno strumento utile a garantire la sicurezza dei nostri cittadini e dei nostri territori. Quello che solleviamo è appunto cercare di uscire, nella maniera più rapida possibile, dal regime di salvaguardia, perché in realtà questo è il problema vero. È il regime di salvaguardia che blocca tantissime attività e le cito esempi come il comune di Revine Lago, il comune di Cison, il comune di Valdobbiadene, il comune di San Donà di Piave e ne avrei una sfilza da citare di quelli che ci hanno contattato, ci conoscono e ci chiedono aiuto, proprio perché è nel regime di salvaguardia che c'è il blocco totale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308801",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 94, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il Presidente del Senato ha trasmesso alla Presidenza il seguente disegno di legge, che è assegnato, ai sensi dell'articolo 96- bis , comma 1, del Regolamento, in sede referente, alla X Commissione (Attività produttive):",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, in data 14 gennaio 2026, il Presidente della Camera ha chiamato a far parte della Commissione parlamentare di inchiesta sui fatti accaduti presso la comunità “Il Forteto” la deputata Grazia Di Maggio, in sostituzione della deputata Chiara La Porta, cessata dal mandato parlamentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d309042_19",
+      "politician_name": "PIANTEDOSI Matteo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Interno . Grazie, Presidente. Il 27 dicembre lo Stato ha colpito una rete terroristica operante sul nostro territorio, nell'ambito di un'articolata attività investigativa condotta dalla Polizia di Stato e dalla Guardia di finanza e coordinata dalla procura distrettuale di Genova, avviata su impulso della Direzione nazionale antimafia e antiterrorismo. Sono stati eseguiti provvedimenti di custodia cautelare nei confronti di nove soggetti ritenuti responsabili di associazione con finalità di terrorismo, anche internazionale. Due di essi, peraltro, risultano tuttora irreperibili.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "309042",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308904_19",
+      "politician_name": "KELANY Sara",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Grazie, Ministro. Ci riteniamo pienamente soddisfatti del contenuto dell'informativa, estremamente esaustiva, così come ci riteniamo pienamente soddisfatti del grande lavoro che sta mettendo quotidianamente sui dossier in questione. Lavoro che ha portato a dei grandi risultati, soprattutto se si pensa a quello che accadeva con i Governi precedenti a trazione centrosinistra che avevano completamente dimenticato quelle esigenze di sicurezza che, come diceva lei, è precondizione dello Stato democratico e dello Stato di diritto e precondizione di libertà. Assicurare sicurezza ai nostri cittadini vuol dire assicurare loro la libertà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308904",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308904_19",
+      "politician_name": "KELANY Sara",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). È stato dichiarato incompatibile con il trattenimento a causa di patologie urinarie. È uscito dal CPR e ha commesso un crimine orrendo (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) . Questo è quello che è avvenuto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308904",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308904_19",
+      "politician_name": "KELANY Sara",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Concludo, Presidente, dicendo che a questi casi, purtroppo, se ne aggiungono molti altri. Riteniamo che non vi sia più spazio per provvedimenti totalmente privi di buonsenso (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) e che rischiano di creare e che, a volte, hanno creato dei veri e propri disastri (Applausi dei deputati del gruppo Fratelli d'Italia - Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308904",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Innanzitutto voglio dire che non è accettabile ascoltare in quest'Aula accuse e calunnie senza fondamento (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) e credo che vi dovreste vergognare di strumentalizzare temi così importanti per fare propaganda.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307641_19",
+      "politician_name": "IEZZI Igor",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Rappresentante del Governo, colleghi, da tempo seguiamo le vicende di Mohammad Hannoun e abbiamo ascoltato con attenzione, Ministro, il suo intervento oggi e al Senato, però abbiamo accolto con sorpresa un passaggio che ci ha stupito, quando ha richiamato - sue parole - “l'attenzione soprattutto di chi in alcune occasioni ha manifestato vicinanza critica e puramente ideologica a personaggi coinvolti nell'indagine, sottovalutando magari in buona fede la delicatezza e la complessità di contesti che si muovono in un'area non sempre netta tra intenti apprezzabili e propositi meno limpidi”. Lei ha ribadito con chiarezza che l'indagine ha squarciato il velo su attività che, dietro il paravento di iniziative in favore della popolazione palestinese, venivano sistematicamente dirottate verso strutture di Gaza riconducibili all'egida di Hamas per finalità di terrorismo. Queste parole descrivono un lavoro investigativo condotto dalla Direzione nazionale antimafia e antiterrorismo che ha portato a un quadro indiziario gravissimo: oltre 7 milioni di euro raccolti e inviati a strutture nelle quali l'organizzazione di Hamas esercita influenza diretta o controllo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307641",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevoli colleghi, oggi, se permettete, parliamo di disumanità, perché la nostra mente fatica ad immaginare qualcosa di più abietto e disumano, appunto, che chiedere a pensionati e a madri di famiglia di rinunciare a qualche soldo, promettendo di spenderli per comprare cibo e cure per i bambini di Gaza, per poi utilizzarli per finanziare attentati, seminare terrore, alimentare la guerra e inevitabilmente uccidere uomini, donne e probabilmente anche gli stessi bambini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Presidente, credo che questa sia l'informativa più celere nei modi e nei tempi che quest'Aula abbia visto negli ultimi tre anni e mezzo. Veramente faccio i complimenti al Presidente e al Ministro, ma, devo essere sincera, noi siamo rasserenati di questa tempistica, di questa celerità, perché è la stessa che avremmo voluto in un'altra informativa, non so se se la ricorda il Ministro qui presente; quell'informativa che riguardava un ricercato internazionale per crimini contro l'umanità, uno stupratore di bambini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ha una colpa che è quella di avervi sbattuto in faccia quello che non siete voi e che mai sarete (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Ha la colpa di aver dimostrato che, per fortuna, c'è ancora chi crede che questo mondo e il destino di un popolo non venga deciso da una manciata di finanziarie e di immobiliaristi che decidono le sorti di un popolo, che un popolo va difeso anche se questo popolo è economicamente irrilevante (Applausi dei deputati del gruppo MoVimento 5 Stelle) . La Flotilla ha dimostrato tutto quello che voi e questa maggioranza non potrà mai essere: combattere e rischiare, anche la propria vita, per un ideale (Applausi dei deputati del gruppo MoVimento 5 Stelle – Commenti del deputato Sasso) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308781_19",
+      "politician_name": "ONORI Federica",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Ministro, colleghe e colleghi, oggi siamo qui per parlare della vicenda di Mohammad Hannoun, presidente dell'Associazione palestinesi in Italia, sul quale è in corso un'indagine per presunti finanziamenti ad Hamas: un'indagine, appunto. Poiché c'è un'indagine in corso, questa richiesta di informativa, Ministro, è del tutto inappropriata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308781",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Lo diciamo subito: non abbiamo nulla di cui scusarci e quereleremo chiunque continui a diffondere menzogne e accostare noi e il nostro movimento ad Hamas (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …che non sia di occupazione. Per questo, non ci faremo intimorire e continueremo a dire: Palestina libera dal terrorismo, dall' apartheid e dall'occupazione (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra e della deputata Boldrini).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d301531_19",
+      "politician_name": "CARFAGNA Maria Rosaria",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Intanto, solidarietà al Ministro dell'Interno, Matteo Piantedosi, anche per gli ultimi attacchi strumentali che le sono stati rivolti dall'opposizione e, poi, gratitudine per la serietà, il rigore e la determinazione con cui, anche in questo caso, ha lavorato per prevenire rischi significativi per la sicurezza nazionale. Anche a nome del gruppo Noi Moderati, estendo la gratitudine e il riconoscimento naturalmente alle nostre Forze dell'ordine e alla magistratura, agli apparati dell' intelligence italiana che con competenza, energia, efficacia e inflessibilità portano avanti un'azione di prevenzione esemplare, che ha sempre messo l'Italia al riparo dai tanti rischi interni connessi alle molteplici crisi internazionali in corso. Sono rischi che, peraltro, abbiamo conosciuto indirettamente in passato, ai tempi di Al Qaeda, ai tempi dell'Isis, con formule che si sono ripetute in altri Paesi, con escalation rapide: prima la radicalizzazione dell'estremismo islamico, poi l'attivazione delle sue cellule nel mondo occidentale e, poi, l'esplosione del terrorismo. Rischi che in Italia non abbiamo conosciuto grazie all'estrema professionalità - a cui lei ha fatto riferimento - del sistema Paese, che ha lavorato in sinergia e in coordinamento per garantire la sicurezza di ogni singolo cittadino italiano. Io credo che questa occasione debba essere utilizzata e sfruttata più che per lanciare invettive cariche di pregiudizio antiebraico nei confronti di Israele, proprio per esprimere riconoscenza nei confronti dell'apparato dello Stato, a cui giustamente chiediamo di continuare a vigilare per scongiurare eventuali e potenziali minacce.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "301531",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). La ringrazio. Presidente, ci troviamo ad affrontare un dibattito in una situazione anomala. È anomala perché è anomalo che tendenzialmente sia la maggioranza a chiedere un'informativa ed è anomala perché è un'informativa che si svolge sostanzialmente ed esclusivamente su una inchiesta. Tant'è che l'intervento del Ministro dell'Interno è stato, sostanzialmente, la riproposizione di tutti gli atti dell'attività giudiziaria che hanno portato a questo caso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Articolo 8, grazie. Presidente, io non metto in discussione assolutamente la sua condotta dell'Aula durante l'informativa appena avvenuta, però mi sento di richiamare il Regolamento rispetto a quello che è accaduto in quest'Aula, ovvero si è trasformata, da parte di alcuni gruppi di maggioranza, un'informativa del Ministro dell'Interno in una serie di accuse calunniose, infamanti e irricevibili a una persona, a una deputata, Stefania Ascari, che fa parte di quest'Aula (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io intervengo per richiedere un'informativa urgente al Ministro Nordio, affinché venga qui in Aula a rispondere a tutte le obiezioni che gli sono state fatte in Parlamento sulla riforma della separazione delle carriere, invece di affidare quelle risposte alla sua ultima fatica letteraria che, tra l'altro, è stata presentata proprio stamattina in un'altra aula, in ben altra aula, però, della Camera dei deputati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 593
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che, consistendo il disegno di legge di un solo articolo, non si procederà alla votazione dell'articolo unico ma, dopo l'esame degli ordini del giorno, si procederà direttamente alla votazione finale, a norma dell'articolo 87, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0593",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 593
+      }
+    }
+  ]
+}

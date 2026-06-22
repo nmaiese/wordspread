@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0398",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-12-16",
+    "title": "Assemblea — Seduta n. 398 del 2024-12-16",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0398",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 398
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-12-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 75, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0398",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 398
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-12-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, a seguito dell'odierna riunione della Conferenza dei Presidenti di gruppo, è stato stabilito che l'avvio dell'esame del disegno di legge n. 2112 ​- bis avrà luogo a partire da mercoledì 18 dicembre alle ore 14, con votazioni non prima delle ore 17, per l'eventuale posizione della questione di fiducia. Conseguentemente, lo svolgimento delle interrogazioni a risposta immediata è anticipato alle ore 12,30 della stessa seduta. L'articolazione delle ulteriori fasi di esame del disegno di legge n. 2112 ​- bis per le giornate di giovedì 19 e venerdì 20 dicembre sarà successivamente definita.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0398",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 398
+      }
+    }
+  ]
+}

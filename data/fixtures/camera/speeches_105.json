@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0105",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-05-18",
+    "title": "Assemblea — Seduta n. 105 del 2023-05-18",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 105
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 75, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che il Presidente della Camera ha chiamato a far parte della Commissione parlamentare di inchiesta sul fenomeno delle mafie e sulle altre associazioni criminali, anche straniere, i deputati Alfredo Antoniozzi, Stefania Ascari, Anthony Emanuele Barbagallo, Pino Bicchielli, Federico Cafiero De Raho, Anastasio Carra', Giuseppe Castiglione, Chiara Colosimo, Saverio Congedo, Mauro D'Attis, Riccardo De Corato, Francesco Gallo, Michele Gubitosa, Giandonato La Salandra, Luigi Giovanni Maiorano, Francesco Michelotti, Andrea Orlando, Elisabetta Piccolotti, Pietro Pittalis, Erik Umberto Pretto, Giuseppe Provenzano, Debora Serracchiani, Valeria Carmela Maria Sudano, Chiara Tenerini e Gianpiero Zinzi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1060-A/R: Conversione in legge, con modificazioni, del decreto-legge 30 marzo 2023, n. 34, recante misure urgenti a sostegno delle famiglie e delle imprese per l'acquisto di energia elettrica e gas naturale, nonché in materia di salute e adempimenti fiscali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d305580_19",
+      "politician_name": "GEBHARD Renate",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Grazie, Presidente. Colleghe e colleghi, una considerazione è d'obbligo in premessa: la deriva monocamerale che condiziona l'esame dei decreti-legge dovrebbe richiedere una riflessione non strumentale in ordine agli aspetti di carattere costituzionale e attinenti ai Regolamenti parlamentari. Il fatto che, nel merito del provvedimento, questa volta sia la Camera a procedere in prima lettura nulla toglie a questa considerazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "305580",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente, onorevoli colleghi. Oggi voteremo la fiducia su un provvedimento alquanto articolato e complesso, che riguarda temi che incidono profondamente sulle famiglie e anche sulle imprese, dal problema del caro bollette a quello della carenza di personale sanitario nei pronto soccorso. Urge dare risposte concrete ai nostri cittadini, a tutti i nostri cittadini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. C'è molto in questo ennesimo decreto, molto di scarsamente rilevante ma soprattutto molto di problematico. Il passaggio nelle Commissioni non ha risolto, ma semmai ha acuito criticità presenti nel testo del Governo. È positiva solo l'approvazione degli emendamenti che prevedono la stabilizzazione dei ricercatori precari nella sanità pubblica, ovvero negli IRCCS e negli IZS, una categoria tenuta per decenni in una condizione di precarizzazione sistematica. Ah no, nemmeno loro, Presidente. Li avete stralciati! Li avete stralciati, dopo averli approvati, per assenza di copertura, senza nemmeno accettare la possibilità di riproporli già oggi, come abbiamo chiesto ieri in tutte le Commissioni e con il suo assenso, Presidente, anche se i termini del cosiddetto decreto PA sono già scaduti. Spero che ci siano ancora le condizioni per farlo. Lo dico perché il Governo ha ancora la possibilità di farlo e, come ci siamo già detti, credo che sia opportuno risolvere in tempi brevissimi quello che è successo ieri. Lo dico per quei ricercatori, per la nostra credibilità e per il fatto che è davvero indegno che i decreti vengano in continuazione riconvertiti a colpi di fiducia, due alla settimana, e non ci sia neanche il tempo per gli uffici di controllare le coperture finanziarie, così come è successo qualche ora fa. Ma il punto più dolente, Presidente, è, come lei sa, in materia sanitaria, ed è soprattutto uno. Da un lato, viene confermata l'indennità dei medici e infermieri dei servizi di emergenza e urgenza, ma sui medici gettonisti si allenta ancora la stretta inizialmente annunciata. Le aziende ospedaliere potranno, quindi, continuare a fare ricorso ai gettonisti non soltanto nei servizi di emergenza e urgenza ospedaliera, come si indicava nel testo iniziale del decreto, ma anche in altri reparti, soprattutto se necessario. Dentro quel “se necessario” c'è spazio per ogni cosa, come lei sa, e con l'articolo 10 le aziende e gli enti del Servizio sanitario potranno procedere all'esternalizzazione per l'affidamento a terzi dei servizi medici, anche prorogando contratti in corso di esecuzione per tutte le specializzazioni. Inoltre, la stretta non si applicherà ai contratti derivanti da procedure di affidamento che prevedono il conferimento di attività e servizi sanitari in gestione a operatori economici per la riqualificazione delle strutture sanitarie e dei presidi ospedalieri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie Presidente. Onorevoli colleghi, ci troviamo qui per l'ennesima fiducia sul decreto che è stato ribattezzato dai giornalisti decreto Bollette, ma che vorremmo ribattezzare decreto Fine dell'abbrivio. E qual è questo abbrivio? È l'abbrivio che spesso da qui vi abbiamo ricordato, è l'abbrivio che è stato dato dalla spinta del Governo precedente, è l'abbrivio del quale spesso avete beneficiato e che, nella conversione di questo decreto, si spegne piano piano. Eppure, i contenuti erano tali da meritare l'attenzione di tutte le minoranze, che si sono comportate in maniera assolutamente responsabile, perché, quando si parla di bollette, di energia, di andare incontro al caro energia per le famiglie e le imprese, da questa parte troverete sempre qualcuno disponibile a sostenere quelle iniziative, come avveniva in passato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308788_19",
+      "politician_name": "RUBANO Francesco Maria",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente, onorevoli colleghi, questo decreto stanzia risorse complessive per circa 5 miliardi di euro per l'anno 2023. Mi scuso se parto dalla fine, cioè dagli oneri finanziari, ma ritengo che in questo caso specifico il dato sia rilevante per inquadrare nel suo complesso il provvedimento sul quale, a breve, voteremo la fiducia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308788",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Registro che siamo di fronte a un'evoluzione dei decreti-legge, direi un “decreto-legge 4.0”, perché eravamo abituati ai “decreti-legge macedonia”, come il collega Ricciardi ha chiamato questo in discussione generale, perché effettivamente c'è un pot-pourri di norme e di materie in questo decreto, che va dalle bollette alle misure in materia di salute, ad alcune proroghe sugli adempimenti fiscali, fino al famigerato scudo penale. Ci stavamo abituando - e lo abbiamo visto anche con l'esame di questo provvedimento - a uno svuotamento del ruolo del Parlamento, a cui, ormai, viene impedito di emendare anche in prima lettura. Ci stavamo abituando a un nuovo monocameralismo di fatto e a corrente alternata: una volta svolgeva il proprio ruolo il Senato e una volta la Camera, ora nessuno dei due. Ma qui si inaugura un nuovo strumento legislativo: il decreto-legge dissimulato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308911_19",
+      "politician_name": "LOIZZO Simona",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, signor Presidente. Onorevoli colleghi, una premessa è d'obbligo, prima di entrare nel merito del provvedimento che ci accingiamo a votare; una premessa che non vuole essere una giustificazione in risposta alle critiche mosse legittimamente - ma anche molto ingiustamente per questo decreto - dalle opposizioni. È un doveroso contributo per contestualizzare gli interventi adottati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308911",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308911_19",
+      "politician_name": "LOIZZO Simona",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Anche questi interventi sono parte integrante del decreto Energie: un decreto che a breve diventerà legge e che risponde a un'emergenza senza forzature, ma con responsabilità, puntualità e visione, che rappresentano i veri corpi montanti del partito che rappresento, ossia la Lega-Salvini Premier (Applausi dei deputati del gruppo Lega-Salvini Premier).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308911",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308936_19",
+      "politician_name": "MEROLA Virginio",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente della Camera. Care colleghe e cari colleghi, siamo all'ennesima dichiarazione di voto sulla fiducia richiesta dal Governo in carica. Ricordiamo che, quando una parte di questa maggioranza era all'opposizione, spesso si sono alzate vibrate proteste, perché così si comprimeva l'attività del Parlamento. Questo Governo, in sette mesi, ha già superato il numero di fiducie imposte dal Governo precedente. Eppure, continuate a rivendicare di avere una solida maggioranza politica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308936",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307612_19",
+      "politician_name": "OSNATO Marco",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie Presidente. Intervengo, a nome del mio gruppo, su questo decreto che ha destato tanta attenzione, più che per i contenuti, per il nome: qualcuno ieri l'ha chiamato “macedonia”, come se la macedonia fosse una cosa negativa; io invece credo che la macedonia ben composta sia una cosa positiva (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307612",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie mille, Presidente. Intervengo sull'ordine dei lavori. Ieri ho presentato un question time in Commissione affari esteri sul tribunale unificato dei brevetti e su quanto il Governo stesse facendo per assicurare, in tempo utile e con le competenze dovute, che la terza sede centrale venga assegnata a Milano. Avevamo già presentato altre interrogazioni e mozioni e il Governo prendeva tempo e mi fa piacere che ci sia in Aula il Ministro Tajani. Questo è successo appunto il 17 maggio, ossia ieri. La risposta del Governo, per voce del Sottosegretario Silli, è stata un elenco delle cose fatte dal Governo precedente, il Governo Draghi, che aveva ottenuto che Milano fosse inserita come terza sede centrale del tribunale unificato dei brevetti, al posto di Londra, e poi chiacchiere fumose sullo stato della trattativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Nove vittime, non vi è ancora il numero dei dispersi, 35 comuni sfollati, una regione sott'acqua, una catastrofe. È caduta in 30 ore la pioggia che cade in 3 mesi, precipitazioni senza precedenti. Tutti i fiumi hanno rotto gli argini, 300 frane in oltre 60 comuni, 400 strade spazzate via o interrotte e la conta dei danni non si sa quando terminerà. Le persone, forse 20.000, forse 40.000, sono in strutture di alloggio. Mancano l'acqua e l'energia elettrica, tantissimi sono i comuni che mancano di questi minimi servizi. Non ci sono numeri certi né per i morti né per gli sfollati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Nei giorni più caldi della discussione del decreto Cutro, l'Alto commissario delle Nazioni Unite per i rifugiati scrive all'Italia. Cosa scrive l'Alto commissario? Scrive che su questo provvedimento ci sono evidenti norme contrarie al diritto internazionale e ai diritti umani. Di questa lettera noi non abbiamo avuto contezza se non, nelle ore scorse, come notizia pubblicata dal quotidiano Avvenire , che non è proprio un quotidiano estremista da questo punto di vista.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Sospendo, a questo punto, brevemente la seduta, al fine di consentire la predisposizione dell'elenco dei deputati in missione per la parte pomeridiana, il cui numero dovrà essere comunicato all'Aula alla ripresa della seduta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 75, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d306189_19",
+      "politician_name": "QUARTAPELLE PROCOPIO Lia",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Tra due settimane esatte entrerà in vigore il sistema del Tribunale unificato dei brevetti, un sistema che coinvolge la stragrande maggioranza dei Paesi dell'Unione europea e che coinvolge anche il nostro Paese. In questo sistema sono previste tre sedi e l'Italia finora ha lottato perché una di queste tre sedi venisse nel nostro Paese e avesse come sede fisica la città di Milano. Apprendiamo oggi da notizie di stampa finora non smentite dalla Farnesina che l'Italia, con il Governo Meloni, in particolare, non sarebbe riuscita a ottenere quanto ottenuto dal Governo Draghi, cioè che l'entrata in vigore del trattato preveda che una delle tre sedi sia effettivamente a Milano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "306189",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Sull'ordine del giorno n. 9/1060-AR/1 Berruto il parere è favorevole con la seguente riformulazione dell'impegno: “a valutare l'opportunità di” e “compatibilmente con i vincoli di bilancio”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Accetto la riformulazione proposta, però chiederei di metterla ai voti. Faccio un piccolo intervento con una premessa che ritengo necessaria. Questo è un intervento costruttivo, dopo la bocciatura di un emendamento, perché, secondo me, era sfuggito un vulnus che risale peraltro già all'ultimo decreto Aiuti e riguarda un problema che, purtroppo, ha messo in ginocchio una tipologia di impresa: mi riferisco agli impianti sportivi e, ancora di più, agli impianti natatori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . L'ordine del giorno n. 9/1060-AR/6 Grippo è riformulato come segue: “a valutare l'opportunità di prevedere detrazioni fiscali per le spese sostenute dalle famiglie per il contratto di locazione di abitazioni per i figli iscritti a corsi universitari e ulteriori interventi volti a sostenere l'autonomia abitativa dei giovani, con particolare riferimento agli studenti fuori sede”. In sostanza, si cancellano, nella parte iniziale del testo, le parole da “ad attuare” fino a “prevedendo” e, nella parte finale, da “introducendo” fino a “ISEE”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Vorremmo chiedere di rivalutare - se posso dirlo - il parere. Volevamo chiedere un accantonamento perché apprezziamo e capiamo le buone intenzioni e, quindi, va bene il “valutare” al posto di “attuare” e va bene anche la rimodulazione della parte finale, per non vincolarsi già a un parametro ISEE. Viceversa, ci mette un po' in difficoltà il fatto che non si faccia più riferimento al Family Act che è legge dello Stato. Non vorremmo che oggi la notizia diventasse che il Governo è contrario a dare attuazione al Family Act.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Anche in questo caso, chiederemmo di accantonare, perché è stato dato un parere contrario rispetto a un tema che è ripreso, per esempio, all'ordine del giorno n. 9/1060-AR/15 Casasco, su cui invece è stato dato un parere favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Chiedo scusa, non volevo sembrare scortese con la collega. Siccome nel frattempo stavo analizzando l'ordine del giorno precedente, mi ero un attimo distratto. Vorrei dire che il parere non deriva da una contrarietà sul tema, ma dal fatto che riteniamo che il tema complesso del payback che, come ben sapete, non riguarda soltanto la spesa farmaceutica, ma anche l'equilibrio dei bilanci delle regioni, che riguarda anche la governance farmaceutica, debba avere un approccio molto più ampio e non ridotto - l'ho detto anche in Commissione rispetto a un emendamento analogo - a un ordine del giorno o ad un emendamento. Deve essere riportato quindi ad una riflessione sulla nuova governance farmaceutica, prevedendo al suo interno sicuramente il superamento del payback , una revisione dei tetti e un ragionamento molto più ampio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Sì, Presidente. Espungere l'ultima premessa. Poi, sul primo impegno, parere favorevole con la riformulazione: “a valutare gli effetti applicativi delle disposizioni riguardanti la causa speciale di non punibilità dei reati tributari”. Invece, sul secondo impegno, parere favorevole con la riformulazione: “a valutare di perseguire riforme orientate al conseguimento di obiettivi di equità sociale e al miglioramento della competitività del sistema produttivo”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). No, Presidente, rifiuto la modifica, anche perché il tema è clamorosamente una promessa elettorale del centrodestra, l'ennesima promessa elettorale che il centrodestra e l'attuale Governo dimenticano. La vicenda è nota e in questi ultimi mesi ha avuto una risonanza sempre maggiore: riguarda il regime di imposizione fiscale previsto per i cosiddetti fringe benefit , in particolare relativo ai mutui agevolati concessi ai dipendenti soprattutto del settore bancario. Come stabilisce l'articolo 51 del TUIR, concorre alla somma da considerare all'interno del fringe benefit la metà della differenza fra gli interessi calcolati con il tasso ufficiale di riferimento della BCE, l'ex tasso ufficiale di sconto, e quelli calcolati con il tasso agevolato per i dipendenti. Ora, questo metodo è chiaramente adeguato per i prestiti a tasso variabile, ma è assolutamente inadeguato per quelli a tasso fisso, visto che per questi ultimi il vero beneficio sarebbe rappresentato dalla differenza tra il tasso fisso al momento dell'ottenimento del mutuo e il tasso fisso agevolato per i dipendenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308780_19",
+      "politician_name": "RICCIARDI Toni",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). No, Presidente, non l'accolgo per una semplice ragione: già viene riformulato e deve essere riformulato per essere accolto come raccomandazione un ordine del giorno che chiede al Governo di riconoscere uno scatto di anzianità in più per i comuni delle aree del margine, dell'entroterra e delle isole, dove sappiamo che vengono banditi concorsi che alla fine vanno deserti perché le persone non ci vanno! Questa cosa determina la chiusura dei reparti, ergo dei pronto soccorso di provincia, dei piccoli comuni o delle aree del margine. Quindi, non accetto e chiedo che venga messo ai voti, o che il Governo, quanto meno, lo possa accantonare e ripensarci.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308780",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308783_19",
+      "politician_name": "DI SANZO Christian Diego",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Vista la similitudine con il precedente ordine del giorno dell'onorevole Toni Ricciardi, vorrei chiedere lo stesso trattamento per il mio ordine del giorno con l'accantonamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308783",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). No, signor Presidente, non accettiamo questa riformulazione. Lo dirò brevemente, perché i colleghi, che forse non avranno letto quest'ordine del giorno, chi ci sta guardando, gli italiani che ci stanno guardando devono sapere che il Governo ha detto “no” ad avviare gli accertamenti fiscali…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Il Governo ha detto “no” ad avviare gli accertamenti fiscali nei confronti di chi non ha pagato una tassa prevista dal Parlamento italiano. Di questo si tratta. Non si capisce la ragione per la quale il signor Franco Rossi o la signora Bianca Rossi, quando arrivano a scadenza, devono pagare le tasse e, in caso contrario, arriva l'accertamento dell'Agenzia delle Entrate mentre invece c'è un atteggiamento di grande indulgenza da parte di questa maggioranza nei confronti delle grandi società energetiche che hanno accumulato una quantità enorme di extra profitti in questo Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Questo significa (Commenti di deputati di Fratelli d'Italia )… Non capisco perché i deputati di Fratelli d'Italia si agitino tanto mentre noi parliamo: sono argomenti che, forse, potrebbero ascoltare e imparerebbero molto da quello che sto dicendo. Questo significa che, a una diminuzione del costo del gas non è corrisposta un'adeguata, paritetica riduzione del costo delle bollette.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Sempre per il resoconto stenografico, signor Presidente, io riterrei altamente grave se fosse il Governo a disporre gli accertamenti fiscali, essendoci delle Agenzie deputate a questo (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Sì Presidente. Parere favorevole con la riformulazione: “a valutare la possibilità di” e “nel rispetto dei vincoli di bilancio e in conformità ai principi che sottendono all'assetto organizzativo del Sistema sanitario nazionale”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Mi scusi, Sottosegretario, è l'ordine del giorno n. 9/1060-AR/33 ? Rimarrebbe invariato il primo impegno del dispositivo e questa sarebbe la riformulazione del secondo impegno? Il dispositivo è composto di tre impegni e non riesco a capire come sarebbe la riformulazione globale di tutto il dispositivo. Stiamo parlando dell'ordine del giorno n. 9/1060-AR/33 ? È giusto?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d306417_19",
+      "politician_name": "LAI Silvio",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie Presidente. Io non posso accogliere la proposta del Governo di trasformare quest'ordine del giorno in una raccomandazione, non fosse altro perché dobbiamo in qualche modo girare questa proposta del Governo ai 1.500 lavoratori (tra diretti e indiretti) che lavorano per la Portovesme Srl, una società di proprietà della Glencore, una multinazionale svizzera che, dal 1° maggio, sono a casa senza cassa integrazione, o in cassa integrazione i pochi fortunati che sono lavoratori diretti. Per questo motivo accogliere una raccomandazione che è molto meno di un ordine del giorno, che già è poco impegnativo, sarebbe poco dignitoso per loro. Segnalo che gli unici due impegni che noi chiediamo al Governo sono relativi a due elementi. Il primo impegna il Governo a trovare una soluzione per queste aziende identica a quella trovata cinque anni fa per altre aziende simili nel Sulcis e cioè contratti bilaterali di energia elettrica. In questo provvedimento ci sono tre articoli che riguardano l'energia elettrica e due di questi non sono applicabili per la Sardegna perché la Sardegna non ha le reti del metano e questo è già stato segnalato durante la legge di bilancio quando si è, in qualche modo, dimostrato che la disponibilità di questi provvedimenti che tagliano le bollette è assolutamente limitata nell'isola. La seconda richiesta che viene fatta è che si salga di livello dal punto di vista dell'impegno nel rapporto con la multinazionale: non si può trattare con i livelli regionali o nazionali di quest'azienda. Trasformare tutto questo in una raccomandazione, quando 1.500 persone stanno a casa, mi sembra assolutamente inadeguato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "306417",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ringrazio il Governo per la proposta di riformulazione, che, però, non accetto, perché, di fatto, snatura il senso dell'ordine del giorno. Quindi, Presidente, le chiedo di metterlo in votazione (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308892_19",
+      "politician_name": "FURFARO Marco",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Non accetto la riformulazione, però chiederei una riflessione al Governo. Presidente, mi dia la possibilità di spiegare al Governo, appunto tramite la Presidenza, quello che è accaduto nelle ultime ore che, tra l'altro, può essere confermato dal Sottosegretario Freni, che era presente, dal presidente della Commissione finanze, Osnato, e dal presidente della mia Commissione, affari sociali, Cappellacci.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308892",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307612_19",
+      "politician_name": "OSNATO Marco",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Io chiederei al Governo, se anche l'onorevole Furfaro e i sottoscrittori di tutti gli altri ordini del giorno che riguardano quella stabilizzazione sono d'accordo, di accantonarli tutti e cercare di trovare, com'è successo con l'emendamento che giustamente l'onorevole Furfaro citava, una soluzione condivisa con un ordine del giorno unico e condiviso. Sono sicuro che anche il Governo si ricorderà di quello che è successo nella seduta della Commissione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307612",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Sì, anche se sull'ordine del giorno n. 9/1060-AR/84 Caiata c'era la seguente riformulazione: “a valutare l'opportunità, compatibilmente con il quadro di finanza pubblica”. Quindi, già conteneva la riformulazione che il Governo aveva fatto rispetto agli altri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. In questi mesi noi abbiamo sentito spesso esponenti del Governo sproloquiare sul concetto di merito, come fosse un vessillo da sbandierare di cui sono gli unici proprietari. È un vessillo, però, alla luce di quello che stiamo vedendo, drammaticamente vuoto. Io voglio prendere proprio ad esempio il tema oggetto dell'ordine del giorno, cioè il tema dei giovani e del diritto all'istruzione. State davvero premiando il merito? Ovviamente no! Allora, facciamo un esercizio, leggiamo un attimo, tutti insieme, qui, l'articolo 34 della nostra Costituzione: “La scuola è aperta a tutti. L'istruzione inferiore, impartita per almeno otto anni, è obbligatoria e gratuita. I capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi. La Repubblica rende effettivo questo diritto con borse di studio, assegni alle famiglie ed altre provvidenze, che devono essere attribuite per concorso”. La nostra Costituzione, ancora una volta, ci indica una strada, un percorso preciso, e il nostro dovere, di tutti e tutte noi, dovrebbe essere seguire questo percorso. Ma noi abbiamo scoperto - e non ci stupiamo - che per voi la Costituzione è carta straccia (Applausi dei deputati del gruppo MoVimento 5 Stelle). È carta straccia, e sapete perché? Lo abbiamo visto nella Giunta delle elezioni. Ci ricordiamo cosa sta accadendo? Lo ricordiamo a quest'Aula? In quella sede, state cercando di stravolgere, a colpi di maggioranza, il risultato democratico per prendervi un seggio e sovvertire l'espressione popolare (Applausi dei deputati del gruppo MoVimento 5 Stelle). Per voi la Costituzione è carta straccia, e lo vediamo sull'autonomia differenziata, uno scempio che spaccherà l'Italia in due e sarà l'ennesimo colpo di grazia alla sanità, che state già martoriando con i tagli (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Lo vediamo sul lavoro, dove, in barba al concetto di dignità del lavoro, sancito dalla nostra Costituzione, legalizzate sostanzialmente il lavoro nero con i voucher e create sempre di più precari all'interno del nostro Paese, lavoratori pagati, sottopagati e sfruttati. Ma almeno sull'istruzione, colleghi e colleghe, almeno sull'istruzione è possibile che non capiate? Come pensate di applicare la Costituzione, se oggi uno studente universitario fuori sede arriva a pagare 700 euro al mese per una stanza in una grande città? Come potete dire che il diritto allo studio è garantito se i prezzi delle camere sono aumentati del 13 per cento rispetto all'anno scorso? Vi do una notizia, lo dico ai colleghi di maggioranza tramite lei, Presidente: nello stesso periodo di cui stiamo parlando gli stipendi dei giovani lavoratori e delle loro famiglie continuano a perdere in termini di valore e di potere di acquisto. E cosa fate voi? Bocciate il salario minimo - perché no, non li volete proprio alzare gli stipendi - e fate di peggio, inserite nel DEF la moderazione salariale, perché questi stipendi devono proprio rimanere bassi (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Non accetto la riformulazione perché, sempre sull'argomento alloggi per studenti universitari, le dichiarazioni di molti esponenti della maggioranza avrebbero dovuto far pensare a un impegno su un ordine del giorno di questo tipo. Ne leggo una, per fare un esempio: “Con buona pace dei sinistrorsi che fomentano le polemiche, il Governo Meloni non si limita a chiacchiere e vacue soluzioni per il caro affitti: sblocca 660 milioni per gli alloggi universitari”. Queste erano le dichiarazioni di un paio di giorni fa del capogruppo di Fratelli d'Italia alla Camera (Applausi dei deputati del gruppo MoVimento 5 Stelle) , ma, nel frattempo, l'emendamento che metteva a terra questi 660 milioni - lo ricordo: ottenuti dal Governo Conte - è scomparso dai radar.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, capisco che vi siano anche parlamentari avvezzi a leggere le agenzie e non gli atti parlamentari. Faccio presente che l'emendamento dei 650 milioni da parte del Governo è presentato in altro decreto (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ovviamente non accetto la riformulazione e chiedo di intervenire perché non capisco che cosa si dovrebbe valutare esattamente. Siamo di fronte ad una situazione impressionante in questo Paese. Gli studenti sono nelle piazze e nelle tende a protestare, e questo Governo cosa fa? Vuole valutare l'opportunità di intervenire. No, non dovete valutare, dovete intervenire, dovete farlo subito (Applausi dei deputati del gruppo MoVimento 5 Stelle) , se siete capaci di intervenire. Altrimenti valutate l'opportunità, magari, di andare a casa e di lasciar fare a chi è capace. Io (Commenti dei deputati del gruppo Fratelli d'Italia) … buoni, buoni, buoni. Oggi, Presidente, in questo provvedimento stiamo discutendo di misure che ovviamente non danno risposte concrete ai cittadini, alle famiglie, alle imprese sul caro energia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Quello che state bloccando con i vostri atteggiamenti è il diritto allo studio, sacrosanto, dei giovani italiani, il diritto ad avere un futuro. Addirittura, nel decreto Lavoro, per esempio, per citare un'assurdità dei vostri provvedimenti, avete previsto un finanziamento di 14,5 milioni di euro a favore delle industrie militari della difesa per produrre munizioni: una scelta scellerata! Veramente voi pensate che queste cose fuori non si vengano a sapere? Poi, andate in giro a dire che le risorse sono limitate, che non ci sono soldi per dare risposte ai cittadini; però, i soldi per le armi li trovate (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Così come, in Europa, dove tutti - tranne il MoVimento 5 Stelle - hanno votato, e voi avete votato, affinché i Fondi di sviluppo e coesione e i fondi del PNRR – o magari, una parte di questi fondi - venissero destinati a nuovi armamenti: una follia totale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, capisco le difficoltà dei colleghi della maggioranza, è chiaro… Hanno provato più volte a censurarmi anche in Commissione, ma in Aula purtroppo non ce la possono fare (Commenti dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vado a concludere. Ovviamente, tutti questi vostri atteggiamenti che stiamo smascherando pubblicamente - perché stiamo raccontando la verità dei provvedimenti che state mettendo in atto - sanciscono la pacchia finita, ma per voi, perché ormai la maschera è caduta e vi stiamo smascherando; anche i cittadini italiani stanno comprendendo la realtà (Proteste dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Certo, Presidente. Il parere è favorevole con la seguente riformulazione: “a valutare l'opportunità di adottare misure volte alla riduzione delle tariffe per la fornitura di energia elettrica e per la fornitura del gas a favore delle famiglie e delle imprese italiane”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). No, non accetto. Io capisco tutto, ma parlo di banche e mi si risponde con le bollette e con il gas, con il prezzo del gas… Almeno la decenza di stare sul tema, almeno la decenza di stare sul tema (Applausi dei deputati del gruppo MoVimento 5 Stelle) ! Quest'ordine del giorno parla di mutui e il Governo mi risponde parlando di rincari del gas? Io, davvero, non ho parole, ma d'altronde questo è il Paese che raccontate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Consultandomi con il collega, è evidente che è un refuso, la locuzione, cioè, era “valutare l'opportunità di”, era un parere favorevole con “valutare l'opportunità di”. È evidente che il refuso era relativo all'altro che nella tabella è sfuggito. È parere favorevole con la locuzione “valutare l'opportunità di”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Signora Presidente, non accolgo la raccomandazione e intervengo sperando in un altro cambio di parere miracoloso, come quello che abbiamo visto prima con gli ordini del giorno dei colleghi Rampelli e Rizzetto. Questo è un ordine del giorno molto semplice, rappresentante del Governo. Con la legge di bilancio e con i provvedimenti successivi, questo Governo non ha fatto altro che tagliare: avete tagliato il sostegno al reddito, avete tagliato le pensioni, avete tagliato, incuranti degli effetti nefasti della crisi economica e sociale e anche dei tagli che voi stessi avete fatto, i fondi per il sostegno agli affitti di chi ha difficoltà a mantenere un tetto sopra la testa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Non accetto la raccomandazione e chiedo che l'ordine del giorno sia messo ai voti. Devo dire che sono veramente sconvolta, perché quest'ordine del giorno prevede misure di supporto finanziario per le popolazioni colpite dalle alluvioni, un supporto concreto per quanto riguarda la sospensione del pagamento delle utenze e voi prevedete una raccomandazione. È gravissimo (Applausi dei deputati del gruppo MoVimento 5 Stelle) ed è irresponsabilità politica quello che si sta vedendo in quest'Aula del Parlamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ovviamente, Presidente. Ci tengo a dire che questa doveva essere la base, lo ripeto, per un decreto urgente, che prevedesse un piano immediato di messa in sicurezza, ovviamente, della mia regione e del Paese, di ristoro, di ricostruzione, con al centro il tema della mitigazione degli effetti dei cambiamenti climatici, perché abbiamo visto le conseguenze disastrose che stanno avendo (Commenti dei deputati del gruppo Fratelli d'Italia – Commenti del deputato Sasso) e, ancora, lo stop immediato del consumo di suolo. E ci tengo a dire in quest'Aula, Presidente, che la mia regione, l'Emilia-Romagna ha avuto una cementificazione in tutti questi anni come…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …senza che ci fosse un domani. Si è cementificato, come senza che ci fosse un domani. Se la maggioranza non lo sa, bisogna che tutti sappiano che, sul suolo cementificato, la quantità di acqua che scorre violentemente in superficie aumenta di oltre 5 volte. Le vediamo tutte le conseguenze. Non è più tollerabile sentire parlare di tragedie prevedibili per via del maltempo. La mia regione, il territorio della mia regione, è sempre stato un terreno fragile, a rischio di dissesto idrogeologico, proprio perché viviamo nel bacino padano e, anche qui, bisognerebbe parlare di responsabilità. Io mi auguro che al vertice venga messa la tutela dell'ambiente e del nostro pianeta e vengano messe risorse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, io la ringrazio. Ritengo che in questi momenti, laddove tutta l'Aula della Camera dei deputati dovrebbe tributare un grande applauso sia alle Forze dell'ordine sia alle popolazioni che sono state colpite da questa tragedia immane (Applausi dei deputati del gruppo Fratelli d'Italia), non serva fare, come ha appena fatto la collega, questa scarsa e populista demagogia (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier e Forza Italia-Berlusconi Presidente-PPE – Commenti di deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Semplicemente perché, leggendo l'ordine del giorno, il dispositivo recita: “a prevedere, nel primo provvedimento utile, congrue misure finanziarie (…)” eccetera. Ricordo, Presidente, che, ieri, il direttore dell'Agenzia delle entrate, Ruffini, ha dichiarato che stanno lavorando esattamente su questo aspetto e ricordo che il Governo ha convocato, come può confermarci il Ministro Ciriani, un Consiglio dei ministri per martedì 23 sugli effetti alluvionali che si stanno verificando, oltre al fatto che ricordo ancora all'Aula che, probabilmente, la collega o i colleghi hanno scritto quest'ordine del giorno qualche ora fa (Commenti dei deputati del gruppo MoVimento 5 Stelle - Proteste del deputato Foti) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Capisco che i colleghi abbiano scritto l'ordine del giorno qualche ora fa, ma il Vice Ministro Leo ha annunciato, qualche ora fa, la sospensione degli adempimenti tributari per l'alluvione e, quindi, per cortesia, la vostra demagogia, che usate strumentalmente, su popolazioni colpite, in modo drammatico, da morti, alluvioni, dispersi e tragedie, tenetela esattamente presso le vostre aule (Applausi dei deputati dei gruppi Fratelli d'Italia e Lega-Salvini Premier - I deputati del gruppo Fratelli d'Italia gridano: “Vergogna! Buffoni, buffoni!” ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d306497_19",
+      "politician_name": "VACCARI Stefano",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Semplicemente per dire che il Partito Democratico voterà a favore di quest'ordine del giorno, degli impegni e dei contenuti, ma che quello che sta accadendo in questa Camera è abbastanza irrispettoso - permettetemi di dirlo - rispetto a quanto sta avvenendo in Emilia-Romagna, dei morti e delle persone sfollate, perché non è attraverso questa scaramuccia tra partiti, tra forze politiche (Commenti del deputato Rizzetto) che si può provare a dare una mano a quel territorio a risollevarsi (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Credo che lo si debba fare, come abbiamo detto oggi nella riunione con il presidente Bonaccini, e abbiamo confermato, anche come gruppo del Partito Democratico, il pieno sostegno alle azioni che il Governo vorrà mettere insieme; l'unica maglia che ci dobbiamo mettere oggi è quella dell'unità, è quella del sostegno a quei territori (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) , per provare insieme a trovare le risposte per i rimborsi, per i ristori ma, soprattutto, per un grande piano di ricostruzione di quei territori e, ovviamente, per dare una mano a tutte le persone che sono state colpite a risollevarsi (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista e di deputati del gruppo Fratelli d'Italia).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "306497",
+        "seduta": 105
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2023-05-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Molto brevemente, Presidente, per riportare il tema centrale della discussione. La collega Ascari è intervenuta a fronte di un parere di fatto negativo sul suo ordine del giorno che chiedeva al Governo di prendere degli impegni rispetto alle popolazioni, ai territori e alle imprese colpite dalle alluvioni di questi giorni, a parte il fatto che credo sia nostro dovere lavorare in questi giorni anche per le popolazioni colpite dall'alluvione, senza aspettare che il Governo faccia qualcosa, perché comunque noi siamo il Parlamento. Se stiamo esaminando un provvedimento che ha comunque natura di sostegno alle persone che sono state in difficoltà, credo che sia il minimo inserire all'interno dell'esame di questo provvedimento (Applausi dei deputati del gruppo MoVimento 5 Stelle) una misura di attenzione per quelle popolazioni colpite. La collega Ascari è intervenuta per stigmatizzare il parere contrario del Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0105",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 105
+      }
+    }
+  ]
+}

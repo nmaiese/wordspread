@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0142",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-07-19",
+    "title": "Assemblea — Seduta n. 142 del 2023-07-19",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 142
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 75, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della proposta di legge n. 107: “Disposizioni per la promozione e lo sviluppo delle startup e delle piccole e medie imprese innovative mediante agevolazioni fiscali e incentivi agli investimenti” e dell'abbinata proposta di legge n. 1061.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. È un emendamento di buon senso, perché estende la platea dei soggetti attraverso i quali investire in startup . Attualmente, si può investire soltanto direttamente o attraverso gli OICR. Con l'emendamento, si aggiunge la possibilità di investire anche tramite società veicolo e altri organismi di investimento collettivo del risparmio. Questo per consentire, anche a chi non svolge attività di investimento a livello professionale, di scegliere di investire i propri risparmi in startup. Abbiamo avuto il parere contrario del Governo in Commissione e questo ci dispiace.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Abbiamo apprezzato l'intento emerso dalla volontà del collega Centemero di presentare questa proposta di legge. Lo sviluppo delle startup innovative in Italia, dal 2012 in poi, ha conosciuto un periodo felice e, poi, con i Governi Conte 1 e Conte 2, c'è stata un'impennata anche degli investimenti. Abbiamo apprezzato la volontà di consentire, con l'articolo 2, la trasformazione delle detrazioni in crediti di imposta e, infatti, daremo il nostro voto favorevole a quell'articolo. Con questo articolo aggiuntivo chiediamo di elevare la detrazione Irpef, per le persone fisiche che decidono di investire in startup , dal 30 per cento al 70 per cento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Nell'ottica di favorire e sostenere la nascita di startup e PMI innovative, partendo dal presupposto che si tratta di settori da incentivare anche con dotazioni a fondo perduto, l'emendamento prevede l'istituzione di un fondo per lo sviluppo di startup e PMI innovative, con una dotazione di 225 milioni, che, tra le altre destinazioni, potrebbe essere utilizzata per il cofinanziamento di investimenti diretti all'acquisizione di quote o partecipazioni in fondi promossi da fondi di venture capital , sia italiani che esteri, nonché in fondi promossi da Business Angel o incubatori certificati. Poi, per una quota parte, per una concessione di finanziamenti a fondo perduto, per progetti d'investimento effettuati da soggetti residenti e non residenti in Italia che intendono costituire startup nel territorio italiano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, grazie, per sottolineare e ingrandire ulteriormente quanto posto alla nostra attenzione dal collega Stefanazzi, soprattutto con riferimento all'articolo 1- ter , comma 3, laddove si dispone che nel Registro possono iscriversi enti pubblici e privati di ricerca, università, laboratori specializzati nella valutazione della fattibilità di una tecnologia ovvero del concept . In quest'Aula, sono presenti molti legislatori che hanno votato la cosiddetta 4.0.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, prima di andare avanti comunico una brutta notizia all'Assemblea: è venuto a mancare un grande giornalista che era anche un amico e mancherà a tutti per il rigore e per quello che ci ha insegnato, perché ci ha lasciato Andrea Purgatori (Applausi - L'Assemblea e i membri del Governo si levano in piedi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308849_19",
+      "politician_name": "AMATO Gaetano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Volevo unirmi al cordoglio per la morte di Andrea Purgatori. È stato un attento osservatore dei fatti di storia che hanno attraversato il nostro Paese. Lo ricordo come sceneggiatore di Il muro di gomma , un film affidato alla regia di Marco Risi, che aprì il primo squarcio sui fatti di Ustica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308849",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Questo emendamento è particolarmente significativo, perché interviene con due strumenti, uno che serve a sostenere la fase cosiddetta realmente e veramente early stage della nascita di una startup , cioè la fase in cui sostanzialmente occorre lavorare sugli studi di fattibilità, sul brevetto o sulle innovazioni messe a punto da laboratori di ricerca, e l'altra per sostenere la ricerca applicata e lo sviluppo dell'innovazione tramite il finanziamento a fondo perduto di progetti di creazione e sperimentazione dei prototipi nelle startup innovative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307632_19",
+      "politician_name": "CENTEMERO Giulio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Fatta eccezione per l'emendamento 2.400, da votare ai sensi dell'articolo 86, comma 4- bis , del Regolamento, sul quale il parere è favorevole, sulle restanti proposte emendative riferite all'articolo 2 il parere è contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307632",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sul mio emendamento 2.4 e sull'articolo 2, in generale, apprezziamo, come ho detto prima, la proposta dell'onorevole Centemero di consentire ai soggetti incapienti di convertire in crediti d'imposta le detrazioni. Però, con questo emendamento, in realtà, proponiamo di convertire tutte le detrazioni in crediti d'imposta per tutti i soggetti - quindi, anche per coloro che hanno capienza - per due ragioni: la prima è che, in genere, chi ha capacità finanziaria che gli consente di investire in startup evidentemente ha anche capienza fiscale e, quindi, limitare questa trasformazione solo agli incapienti ci fa sospettare, insomma, che non serva a tanto e che verrà utilizzata praticamente per niente. Ha più senso, invece, consentire a tutti coloro che intendono investire di utilizzare anche i crediti di imposta. Il costo per lo Stato alla fine non cambia: che un soggetto capiente utilizzi le detrazioni o i crediti d'imposta, vi è, comunque, un minore incasso per lo Stato e, quindi, non cambierebbe assolutamente niente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, l'atavica difficoltà e la ridotta propensione del sistema finanziario italiano ad accettare il rischio di impresa possono essere smosse, da un lato, direi, semplicemente attraverso interventi che, come ho illustrato in precedenza, vadano a incidere sui costi e migliorino sostanzialmente il rendimento dell'investimento e, dall'altro, con misure fiscali - e il Partito Democratico ha presentato una serie di emendamenti in questo senso - che rendano più appetibile l'investimento in settori in cui, come è noto, il rischio di impresa è più elevato e, quindi, il rischio di non realizzare alcun tipo di profitto dall'investimento è molto alto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Con questo articolo aggiuntivo abbiamo anticipato un po' l'orientamento che sembra che il disegno di legge Capitali stia traguardando. In questo Paese, sempre ribadendo la necessità di sostenere e far crescere il mercato dei capitali in Italia, esiste un risparmio diffuso presso gli enti di previdenza obbligatoria, in particolare per la pensionistica complementare, che non interagisce o interagisce in maniera molto ridotta con il mercato. Avendo queste istituzioni profili di rischio per gli investimenti molto bassi, che apparentemente non si conciliano con la volatilità e il rischio degli investimenti in innovazione, il Partito Democratico ha proposto di sostenere l'ingresso di queste istituzioni, di questi enti nel mercato delle startup e delle PMI innovative, innanzitutto prevedendo che i fondi di previdenza complementare possano destinare somme superiori allo 0,5 per cento dell'attivo patrimoniale a fondi di venture capital o a fondi promossi da business angel o incubatori certificati italiani o anche a società di investimento. Gli enti di previdenza stessi e i fondi di previdenza complementare possono dedurre il 30 per cento del totale delle somme destinate agli investimenti in startup. Abbiamo, inoltre, immaginato che le minusvalenze possibili in questo settore, derivanti dalla partecipazione diretta o indiretta al capitale sociale di una o più startup o PMI, che siano state detenute ininterrottamente nei 12 mesi precedenti, possano essere maggiorate ai fini fiscali del 150 per cento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io vedo con piacere che, bene o male, siamo tutti d'accordo sul fatto che i temi dell'occupazione e dell'innovazione restino al centro del dibattito di quest'Aula e, ovviamente, con la promozione delle startup e delle PMI innovative si va in questa direzione. Voglio ancora rammentare che il tema dell'innovazione è stato preso molto a cuore dal legislatore nel 2012 ed è stato implementato soprattutto negli ultimi tempi, con i Governi “Conte 1” e “Conte 2”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intanto, chiedo di aggiungere la mia firma. Vorrei dire che con questo articolo aggiuntivo, che è molto simile all'articolo aggiuntivo 2.02 Stefanazzi, si cerca di fare quello che, in realtà, richiede… C'è un po' troppo brusio, Presidente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307632_19",
+      "politician_name": "CENTEMERO Giulio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, signor Presidente. Fatta eccezione per l'emendamento 3.400, da votare ai sensi dell'articolo 86, comma 4- bis , del Regolamento, su tutte le proposte emendative esprimo parere contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307632",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Come dicevo, Presidente, non sarei dovuto intervenire, ma, leggendo gli ordini del giorno, ho appena scoperto che la maggioranza ha praticamente preso gli emendamenti del Partito Democratico, il pacchetto di emendamenti relativi alle incentivazioni a fini assunzionali, e li ha fatti diventare ordini del giorno della maggioranza. Quindi, sono abbastanza perplesso, perché la discussione su questi passaggi è stata, in Commissione, molto serrata; il Partito Democratico proponeva di agevolare le startup e le PMI innovative o i business angel che assumano lavoratori che non abbiano compiuto 45 anni di età, con un contratto di lavoro subordinato a tempo indeterminato, con 36 mesi di esonero totale dal versamento dei contributi previdenziali a carico del datore di lavoro. Ovviamente, si tratta di un esonero che spetta soltanto per nuove assunzioni. Con lo stesso strumento, con il nostro pacchetto di emendamenti, si è, peraltro, previsto l'esonero dal pagamento dei contributi previdenziali nei primi tre anni di attività dovuti dai soci di startup innovative o di PMI, startup con fatturati inferiori ai 200.000 mila euro e PMI innovative con fatturati inferiori a un milione di euro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Chiedo scusa, signor Presidente, ma quello che ha appena detto il collega Stefanazzi merita attenzione e mi rivolgo al Governo, che deve ancora esprimere i pareri. Sarebbe un comportamento poco corretto, da un punto di vista istituzionale, che si esprimesse un parere negativo su un emendamento dell'opposizione e, poi, un parere favorevole su un ordine del giorno presentato dalla maggioranza sullo stesso tema e con gli stessi contenuti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Fornaro, solo per dare un'aggiunta di tipo scolastico, preciso che questi emendamenti hanno tutti il parere contrario della V Commissione, cioè sono senza copertura. L'ordine del giorno, come sapete, impegna il Governo, ma non ha necessità di una copertura, quindi, da questo punto di vista, è proprio un altro mondo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, è esattamente quello che stavo domandando. Quindi, il motivo per cui gli emendamenti presentati dalla minoranza, a firma del Partito Democratico, sono stati bocciati dal Governo e dalla maggioranza, con un parere negativo, è solo di tipo tecnico?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, intervengo per esprimere il mio sconcerto, ma coltivo il dubbio di aver capito male. Gli emendamenti del Partito Democratico sono stati bocciati, perché non hanno copertura, ha detto lei, e sono stati trasformati in ordini del giorno, non dal Partito Democratico…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Scusi se la interrompo. Non è così. Ho dato una spiegazione di tipo scolastico: se c'è un parere contrario della Commissione bilancio e non c'è copertura, l'emendamento ha il parere contrario; nulla c'entra rispetto all'ordine del giorno, che è un impegno che, come sa, non ha nessuna valenza dal punto di vista della copertura, perché non ce l'ha. Poi, il parere del Governo è ovviamente quello del Governo. Mi scusi se l'ho interrotta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Finisco. Sono abituata che, quando un emendamento ha parere negativo, il Governo può suggerire alla forza politica che l'ha ideato e proposto di trasformarlo in ordine del giorno, non che ci sia un esproprio intellettuale, della proprietà intellettuale da parte della maggioranza (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) , ma magari che si apra un dialogo, perché, condividendo l'obiettivo nel merito, ci possa essere una condivisione di questo. È la prima volta che vedo succedere, invece, esattamente il contrario (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, anche in questo caso, non sarei dovuto intervenire, ma l'ordine del giorno n. 4 è, sostanzialmente, una pedissequa ripetizione del nostro emendamento, con riferimento al credito d'imposta per la redazione dell'atto costituivo e della consulenza legale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, mi perdoni, volevo intervenire in precedenza esattamente per questo. La discussione in Commissione è stata molto civile e devo dire straordinariamente collaborativa e le faccio un esempio: l'ordine del giorno n. 9/107/1 , a prima firma Alifano, è nato proprio da un accordo fra maggioranza e opposizione nel senso di non accogliere un emendamento, ma di trasformarlo in un ordine del giorno. Ora, mi chiedo: perché questa cosa non è stata fatta anche con gli emendamenti del Partito Democratico, in un clima - lo ripeto, Presidente - di assoluta cordialità e di grande collaborazione? Quando è stato possibile, evidentemente o, forse, quando la maggioranza l'ha ritenuto opportuno per le proprie esigenze, ha espressamente invitato le opposizioni - in questo caso, il MoVimento 5 Stelle - a trasformare un emendamento in ordine del giorno. Non farlo per gli emendamenti presentati dal nostro gruppo mi sembra francamente un atteggiamento che va un po' a minare anche il clima nel quale è nato e si è sviluppato il percorso che ha portato a questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anche in questo caso, svolgo le stesse considerazioni del collega Stefanazzi. Abbiamo presentato un emendamento di assoluto buon senso, tant'è che la maggioranza ha deciso di riproporlo come ordine del giorno. Con esso si esclude l'applicazione degli ISA, che sarebbero gli strumenti presuntivi che vengono applicati un po' a tutte le imprese e che sono di dubbia utilità. In questo caso, però, a maggior ragione, sarebbero strumenti completamente falsati e il Governo…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Dicevo che il Governo ha espresso parere contrario su un emendamento che non ha costi; è una uno strumento, il modello ISA, inutile per le startup , che, ovviamente, hanno i dati falsati, perché sono società nuove, in piena fase di investimento, che non possono avere utili normali come le altre imprese. Non appare, pertanto, corretto l'atteggiamento della maggioranza e del Governo per cui si dà parere contrario sull'emendamento, ma si formula un ordine del giorno analogo. Chiedo, a questo punto, di apporre la mia firma all'ordine del giorno del collega Gusmeroli n. 9/107/7 .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Chiedo di apporre anche la mia firma. Parlavamo di dare supporto alle startup . In precedenza, il collega parlava degli ISA; non ha assolutamente alcun senso apporre gli ISA alle startup . In questo caso, non ha assolutamente senso chiedere di chiedere alle startup di continuare a pagare la tassa di concessione governativa sui libri sociali e l'imposta di bollo. Stiamo parlando di una stima di circa 15 milioni di euro l'anno; è vero è un importo, ma dobbiamo dare supporto alle startup , che, in Italia, non sono assolutamente facilitate dal punto di vista della costituzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307356_19",
+      "politician_name": "LOVECCHIO Giorgio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Proprio in tema di start-up , abbiamo un problema. Una startup innovativa - lo ha nel proprio core business - fa alcuni investimenti. Dunque, il problema delle startup è, molte volte, legato a un problema di cassa, di cash flow . Ecco il senso di questa proposta emendativa: è vero che riconosciamo loro un credito d'imposta, però, se ho un credito d'imposta, ma non posso cederlo a un istituto finanziario, avrò sempre un problema di cassa. Stiamo dando la possibilità di fare un credito d'imposta sulle innovazioni di una startup , quindi sugli investimenti che va a fare, ma se quel credito d'imposta rimane in cassa e non si può trasformare in credito finanziario o in moneta liquida, per le startup diventa un problema poter pagare dipendenti, affitti e il leasing . Quindi, quello che chiediamo è una cosa di buonsenso. Non chiediamo niente di che, chiediamo che il credito d'imposta possa essere ceduto esclusivamente a banche oppure a società appartenenti a un gruppo bancario iscritto all'albo. Quindi, è una proposta di buonsenso, a invarianza finanziaria, non ha alcun costo e serve d'aiuto alle startup , visto che stiamo andando in quella direzione con agevolazioni in tutti i sensi. Dunque non capisco il perché della contrarietà a questa proposta emendativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307356",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Oggi rivelo che ho molto invidiato la posizione del collega Stefanazzi e anche dei colleghi, soprattutto di opposizione, che sono collocati in quella geometria dei nove, perché sono anni che provo a entrare dentro la materia delle facilitazioni che occorrono alle imprese per fare impresa ed essere innovative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, intervengo per chiedere un'informativa urgente al Ministro Tajani, il quale, abbiamo appreso, intende proporre un salario ricco per questo Paese. Noi siamo da settimane in Commissione a parlare e a confrontarci su un salario minimo che dia dignità…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, al Ministro degli Affari esteri, perché, da agenzie di stampa, abbiamo appreso che, secondo lui, nel nostro Paese ci vuole un salario ricco. E siccome noi abbiamo 3 milioni di lavoratori poveri…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d305684_19",
+      "politician_name": "SAVINO Sandra",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Economia e le finanze . Signor Presidente, sull'ordine del giorno n. 9/107/1 Alifano il parere è favorevole con la seguente riformulazione degli impegni: “a valutare l'opportunità, compatibilmente con i vincoli di finanza pubblica, di: 1) adottare iniziative, anche di carattere normativo, dirette a favorire l'avvio di progetti di sviluppo innovativi nei comuni delle aree interne; 2) adottare iniziative, anche di carattere normativo, dirette a rafforzare la capacità attrattiva delle aree interne; 3) adottare iniziative, anche di carattere normativo, dirette a rafforzare le sinergie e la cooperazione fra le comunità locali e le istituzioni, le imprese e gli operatori dell'ecosistema dell'innovazione, al fine di favorire lo sviluppo imprenditoriale nei comuni delle aree interne”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "305684",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno n. 9/107/4 Centemero è identico all'ordine del giorno n. 9/107/11 Stefanazzi, quindi, per trascinamento, il parere è favorevole anche sull'ordine del giorno n. 9/107/11 Stefanazzi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d305684_19",
+      "politician_name": "SAVINO Sandra",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Economia e le finanze . Sull'ordine del giorno n. 9/107/9 Toccalini il parere è favorevole con la seguente riformulazione dell'impegno: “a valutare l'opportunità, compatibilmente con i vincoli di finanza pubblica, di estendere la detrazione in regime de minimis, di cui in premessa, anche alle fattispecie di investimento indiretto per il tramite di altre società di capitali che investono prevalentemente in startup innovative o piccole e medie imprese innovative, nonché di chiarire il regime di cumulabilità tra la detrazione ordinaria e quella speciale sulla medesima operazione finanziaria”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "305684",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Brevissima davvero. Capisco che occorre che anche quest'ordine del giorno rispetti i vincoli di finanza pubblica, però ricordo che noi proprio ieri abbiamo riavviato l'iter che ci porterà a brevissimo ad approvare, mi auguro all'unanimità, la modifica dell'articolo 33 della Costituzione che recita che la Repubblica riconoscerà il valore educativo, sociale e di promozione del benessere psicofisico dell'attività sportiva in tutte le sue forme.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307632_19",
+      "politician_name": "CENTEMERO Giulio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Vorrei sottolineare che quest'ordine del giorno è condiviso con l'onorevole Stefanazzi, quindi anche con il gruppo PD. C'è stato questo piccolo incidente sugli ordini del giorno. È colpa del relatore, chiedo scusa, ma condividiamo assolutamente gli obiettivi (Applausi dei deputati del gruppo Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307632",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Il gruppo Noi Moderati voterà a favore di questa proposta di legge relativa ad agevolazioni fiscali e ad incentivi agli investimenti per la promozione e lo sviluppo delle startup e delle piccole e medie imprese innovative. Questa proposta di legge interviene sull'ampio quadro di misure conosciute come Startup act del 2012, e noi, come Noi Moderati, siamo particolarmente attenti da molto tempo al tema dell'innovazione. Crediamo che il termine innovazione coincida con quello di crescita e, sia che si tratti di innovazione di prodotto, compresa l'innovazione di design , sia che si tratti di innovazione di processo, compresa l'innovazione tecnologica, crediamo che sia la strategia e lo strumento migliore per competere anche di fronte alle copiature, di fronte alle manifatture, prima dell'Est e poi del Far East , che mettono spesso in difficoltà le nostre originarie produzioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Vorrei iniziare questo intervento esprimendo la soddisfazione per una qualità che ha questa legge, una qualità che noi invochiamo come Alleanza Verdi e Sinistra da molto tempo, quella di essere nata nelle Aule parlamentari, nella nostra Aula parlamentare. Troppo spesso siamo stati artefici soltanto di un voto a favore o contrario o al voto di fiducia rispetto a proposte legislative o decreti del Governo. In questo caso, invece, il lavoro è stato frutto dell'impegno della Commissione e di due proposte di legge, quella del collega Centemero e quella, abbinata, del collega Stefanazzi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Onorevoli colleghi, anticipo subito che il nostro sarà un voto favorevole su questo provvedimento. Lo anticipo perché, dopo averlo annunciato, vorremmo, però, sottolineare le lacune, le mancanze, gli aspetti carenti e le opportunità mancate. Innanzitutto, è un voto favorevole, perché continua un'esperienza positiva del passato. È del 2012 l'introduzione della norma sulle startup innovative, ma è noto come, soprattutto, i Governi successivi, il Governo Renzi e la nostra componente politica abbiano contribuito a costruire tutti gli aspetti che hanno reso questa norma una disposizione di successo nel Paese, che ha portato i risultati che tra poco ricorderò.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308806_19",
+      "politician_name": "DE PALMA Vito",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor, Presidente. Signor Sottosegretario, onorevoli colleghe e colleghi, la proposta di legge che oggi ci accingiamo a votare è finalizzata alla promozione e allo sviluppo delle startup e delle PMI innovative introducendo agevolazioni fiscali e incentivi agli investimenti a favore di tali imprese, nonché modificando i requisiti di capitale delle SIS, cioè le società di investimento semplice.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308806",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. La norma italiana introdotta a partire dal 2012 ha contribuito, certamente, alla crescita del settore delle startup innovative e dal 2018, con i Governi Conte 1 e Conte 2, l'innovazione ha assunto un ruolo centrale nelle politiche del Governo - del Governo Conte, ovviamente -, ne è dimostrazione la crescita di investimenti privati in startup , che sono passati da 500 milioni l'anno a 2 miliardi e mezzo. Questa crescita è dovuta all'attenzione dei Governi Conte, che hanno contribuito alla diffusione della cultura dell'innovazione. Una crescita dovuta anche al ruolo di soggetti istituzionali, come il Fondo nazionale innovazione di Cassa depositi e prestiti, che hanno contribuito alla forte spinta agli investimenti privati in startup , facendo da catalizzatore per le imprese e per gli investitori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Nel testo originario della proposta, all'articolo 2, si ha il pregio di consentire la trasformazione in credito d'imposta delle detrazioni. Purtroppo ci sono due limiti principalmente: si limita ai soli investimenti del regime de minimis e si limita soltanto ai casi di incapienza. L'ho detto prima quando sono intervenuto su un emendamento: questo non ha molto senso, perché chi investe ha risorse, molto probabilmente ha anche capienza, quindi deve pagare imposte, quindi limitare l'uso dei crediti di imposta soltanto agli incapienti è un po' una misura inutile, nel senso che non verrà utilizzata. Apprezziamo la buona volontà, ma non verrà utilizzata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307632_19",
+      "politician_name": "CENTEMERO Giulio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, signor Presidente. Grazie a tutte le onorevoli colleghe e agli onorevoli colleghi. Si dice spesso - è anche il titolo di una canzone del controverso gruppo hip hop Public Enemy - don't believe the hype , cioè non crediamo a tutto quello che ci viene detto, perché, se dovessimo andare a seguire la doxa , nell'eterna lotta tra doxa ed episteme , allora, forse, potremmo credere che le startup sono composte da gruppi di giovincelli o, a volte, dalla politica sono state brandite quasi come ammortizzatore sociale, come ricordava anche il capogruppo Molinari la settimana scorsa. Eppure, guardiamo esempi di startup che sono nate in un garage e, poi, sono cresciute e, a volte, sono state anche molto utili per l'umanità: penso a Apple e penso a Moderna, oppure, per stare in Italia, penso anche a Satispay, per stare nel paytech .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307632",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307632_19",
+      "politician_name": "CENTEMERO Giulio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Vado verso la conclusione, avrei moltissimo altro da dire, ma vorrei semplicemente concludere con un aspetto più personale, dicendo che, se penso a questo tipo di norme, sicuramente non lo faccio per me stesso, lo faccio sicuramente per il Paese, per quelli della mia età, ma lo faccio guardando soprattutto a mio figlio che ha tre anni e mezzo. Io non vorrei che, per far crescere la propria azienda, per inseguire i propri sogni, sia obbligato a lasciare il Paese (Applausi dei deputati del gruppo Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307632",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, colleghe e colleghi, rappresentante del Governo, i numeri dell'ultimo decennio delle startup sono chiari e ci raccontano due cose: innanzitutto, della lungimiranza della norma del 2012 voluta dall'allora Ministro Passera, che è una disciplina che per alcuni aspetti continua ad essere all'avanguardia in Europa; in secondo luogo, che il mercato delle startup è in crescita, ma resta da fare ancora tanto per favorirne lo sviluppo e il consolidamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Per questo, fermo restando l'atteggiamento sempre positivo in Commissione - al netto dell'incidente che abbiamo chiuso e risolto, e qui mi sia consentito di ringraziare tanto il relatore Centemero quanto il presidente Osnato -, i nostri emendamenti non erano diretti a snaturare o a cambiare il contenuto del provvedimento, ma, al contrario, a integrarne la visione e a completarla toccando alcuni aspetti cruciali per chi oggi è chiamato a fare impresa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …è quello del lavoro. Come vede, Presidente, non stiamo declinando le nostre proposte al passato; nonostante non siano state accolte in questo provvedimento, costituiranno la base del lavoro del Partito Democratico per i successivi interventi normativi, primo tra tutti il disegno di legge sui capitali, perché solo così saremo in grado di liberare le tante energie presenti nel Paese, guadagnando in attrattività e competitività e dando, entro i confini nazionali, le risposte che i nostri imprenditori e la nostra finanza cercano spesso altrove. Pertanto, dichiaro il voto favorevole del Partito Democratico al provvedimento (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308866_19",
+      "politician_name": "TESTA Guerino",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Rappresentante del Governo, onorevoli colleghi, la proposta di legge che ci accingiamo a votare aggiorna, come è stato ricordato già nel corso della discussione generale avvenuta lo scorso 26 giugno, i principi, ormai decennali, che hanno disciplinato queste tipologie societarie legate alle startup . Siamo di fronte all'esame di un provvedimento che costituisce sicuramente un restyling fiscale e normativo, finalizzato a incentivare l'imprenditorialità e l'occupazione giovanile, favorendo la crescita sostenibile e lo sviluppo tecnologico in linea con gli orientamenti provenienti dalle istituzioni europee anche con riferimento alle esperienze degli altri Paesi economicamente avanzati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308866",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "(Si leva in piedi e, con lui, l'intera Assemblea e i membri del Governo) . Care colleghe e cari colleghi, ricorre oggi il 31° anniversario della strage di via D'Amelio, in cui vennero barbaramente uccisi il giudice Paolo Borsellino e i componenti della sua scorta, Agostino Catalano, Eddi Walter Cosina, Vincenzo Li Muli, Emanuela Loi, Claudio Traina. A distanza di soli 57 giorni dall'attentato di Capaci, il 19 luglio 1992, un ulteriore attacco della mafia colpiva al cuore le istituzioni e la nostra democrazia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308764_19",
+      "politician_name": "CIANCITTO Francesco Maria Salvatore",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, onorevoli colleghi, membri del Governo, 31 anni fa, come oggi, in un attentato mafioso perdevano la vita il giudice Paolo Borsellino e gli agenti di scorta Emanuela Loi, Agostino Catalano, Vincenzo Li Muli, Walter Eddie Cosina e Claudio Traina. Non erano passati neanche due mesi dalla strage di Capaci, quando l'Italia si trovò di fronte a un secondo attacco terroristico mafioso. Il nostro primo pensiero - sono certo - si rivolge alle famiglie degli uomini e della donna uccisi da quell'esplosione. Ricordare la strage di via D'Amelio non è solo un momento commemorativo, ma il modo per conservare la memoria collettiva, che deve promuovere in ciascuno la scelta di valori e princìpi di difesa della legalità nell'impegno quotidiano. Borsellino ha saputo, con la fermezza e la dedizione di un uomo innamorato del suo Paese, dare a tutti noi una grande lezione di coerenza e di senso del dovere. Il suo esempio è sopravvissuto all'esplosivo di via D'Amelio, al tempo, alle calunnie, a pezzi di verità mancanti, che ancora affannosamente cerchiamo. Il suo impegno vive e si rafforzano i gesti di chi ogni giorno si impegna per la giustizia e la legalità, nella voce di quanti non rimangono in silenzio, nel coraggio che serve per rifiutare compromessi, privilegi e indebite scorciatoie (Applausi dei deputati del gruppo Fratelli d'Italia). “Non abbandonate mai i valori e gli ideali. Vi vedo davanti a me, giovani e fieri, sostenitori delle vostre belle idee e della vostra visione del mondo. L'augurio di cuore che sento di farvi, ragazzi, è quello di incontrarvi nuovamente, magari tra vent'anni, e ritrovarvi con i capelli più grigi, ma con lo stesso sguardo pulito e con gli stessi sentimenti d'amore per la Patria. Se la gioventù le negherà il consenso, anche la onnipotente e misteriosa mafia svanirà come un incubo. Potrei anche morire da un momento all'altro, ma morirò sereno pensando che rimarranno giovani come voi a difendere le idee in cui credono. Ecco, in quel caso non sarà morto invano”. Sono le parole forti e pure di Paolo Borsellino, allora procuratore della Repubblica di Marsala, durante la terza Festa nazionale del Fronte della gioventù a Siracusa nel settembre 1990 (Applausi dei deputati del gruppo Fratelli d'Italia).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308764",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Nel trentunesimo anniversario della strage di via D'Amelio è vivo il ricordo di quegli uomini e di quelle donne uccisi dalla mafia. Il 19 luglio del 1992, in via D'Amelio, hanno perso la vita il giudice Paolo Borsellino e cinque agenti della sua scorta: Agostino Catalano, Emanuela Loi, prima donna a far parte di una scorta, Vincenzo Li Muli, Walter Eddie Cosina e Claudio Traina. Questi nomi devono rimanere ben saldi e presenti nella nostra azione quotidiana e in quella di quest'Aula, perché il faro della lotta alle mafie ci guidi in ogni momento del nostro agire, così come la costante e determinata aspirazione alla piena verità su quella strage e su tutte le altre a cui abbiamo assistito in questi anni. Solo 57 giorni prima di quella data, altri servitori dello Stato, come il giudice Giovanni Falcone, la moglie Francesca Morvillo e gli agenti della scorta Vito Schifani, Rocco Dicillo e Antonio Montinaro furono fatti saltare in aria sulla strada di Capaci. Il 1992 fu l'anno in cui la mafia volle dimostrare con le bombe la sua sfida allo Stato, ma fu anche l'anno in cui si consolidò nelle coscienze di molti, giovani, ragazzi e ragazze, colpiti profondamente da questi fatti, la volontà di reagire e di praticare la lotta quotidiana alla mafia, in Sicilia, in primo luogo, e nel resto del Paese. Oggi ricordare Paolo Borsellino, il suo grande esempio di fermezza e rigore, di capacità e determinazione nel contrasto dell'illegalità, ricordare tutti gli uomini e le donne uccisi dalla mafia è, in primo luogo, un dovere di memoria e, poi, un impulso all'azione a continuare la lotta alle mafie nelle istituzioni e nella società, ma è anche un diritto a perseguire la richiesta della verità, poiché dopo 31 anni c'è ancora molto da sapere su quelle stragi, lati oscuri ancora da chiarire. Grazie all'esempio di Paolo Borsellino e di tutte le vittime, che oggi non solo ci chiedono di non essere dimenticate, ma che ci chiamano al dovere morale dell'impegno, è scaturita una reazione civile di tante e di tanti, che si sono ribellati di fronte a quelle stragi e hanno sostenuto e difeso i principi di legalità, che le mafie in diverse forme, tutt'oggi, in forme non sempre riconoscibili, mettono in discussione giornalmente. Proprio in questi giorni, in cui la determinazione della lotta alla mafia dovrebbe essere altissima, in cui la coerenza tra le parole di commemorazione e l'azione di contrasto all'illegalità dovrebbe essere conseguente, c'è chi mette in discussione strumenti di lotta alle mafie che hanno dimostrato la loro efficacia, come ad esempio il reato di concorso esterno in associazione mafiosa. Noi pensiamo che questa sia una condotta pericolosa. Le commemorazioni hanno senso compiuto e di verità solo se sono sempre accompagnate da fatti inequivocabili. Se con i fatti si va in un'altra direzione - e ne sono state date diverse prove in questi mesi, basti pensare alla volontà di alzare il tetto del contante, di indebolire il codice degli appalti, di inserire il subappalto a cascata, solo per fare qualche esempio - si indeboliscono tutte le battaglie per la legalità, per la giustizia, per la lotta alla mafia. Il doveroso tributo alla memoria significa anche non abbassare mai la guardia sugli strumenti di legalità, significa portare avanti con determinazione l'eredità morale dei protagonisti di quella stagione, eredità morale che deve diventare sempre più identità condivisa del nostro Paese, identità collettiva, fondata con chiarezza sulla legalità e sulla cultura dell'antimafia. Non indeboliamo, quindi, gli strumenti di lotta alla mafia. Portiamo avanti insieme una battaglia che deve essere non solo giudiziaria, ma anche culturale. Lavoriamo insieme per rafforzare i presidi di legalità e di coesione sociale, di contrasto alle infiltrazioni in ogni settore della società, di promozione dell'educazione alla legalità nelle scuole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308900_19",
+      "politician_name": "CARRA' Anastasio",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor, Presidente, onorevoli colleghi, “mi ammazzeranno, non c'è più tempo”. Questa è la frase che ripeteva spesso il giudice Borsellino negli ultimi giorni di vita ai suoi uomini. Sapeva che il suo impegno, prima al fianco dell'amico e collega Giovanni Falcone, poi solo, lo avrebbe condotto a una fine irreversibile; la stessa fine che avevano fatto gli uomini retti ed onesti prima di lui.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308900",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sono trascorsi 31 anni dalla strage di via D'Amelio, che uccise Paolo Borsellino e, con lui, gli uomini e la donna che lo tutelavano: Agostino Catalano, Vincenzo Li Muli, Walter Eddie Cosina, Claudio Traina e Emanuela Loi, la prima donna che aveva fatto parte di una scorta della Polizia di Stato e, al tempo stesso, la prima donna che perse la vita per il servizio. Lo stesso scenario di guerra caratterizzò la strage di Capaci 57 giorni prima e quella che nel luglio del 1983 uccise Rocco Chinnici. Sono stati loro, loro tre, gli unici magistrati ad essere uccisi con una stessa modalità terroristica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308829_19",
+      "politician_name": "DALLA CHIESA Rita",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Spesso io mi sento chiedere che cosa significhino per me questi anniversari, se ho mai pensato che in qualche modo sia valsa la pena, come famiglia, di affrontare tutto questo dolore e una vita anche segnata. Io credo che non valga mai la pena perdere un affetto che ti viene tolto con la violenza. Però, una cosa che mi ha dato coraggio, in tutti questi anni, è stata proprio vedere l'impegno di molti familiari delle vittime che hanno trasformato il loro dolore mettendosi al servizio delle istituzioni. Non è qualcosa di scontato. Chi ha avuto un genitore, un coniuge, un fratello assassinato dalla mafia avrebbe potuto, in moltissimi casi, maturare un senso di lontananza dallo Stato, come risposta al fallimento di quello stesso Stato che avrebbe dovuto, invece, proteggere i suoi rappresentanti. Quei familiari, invece, sono diventati uno degli esempi più importanti del senso dello Stato e dell'interpretazione dei valori della nostra democrazia. La famiglia del giudice Borsellino è un esempio fortissimo in questo senso (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) . Per esempio, Manfredi Borsellino ha scelto di servire l'Italia con la divisa della Polizia di Stato. Antonio Schifani, figlio di Vito, caposcorta di Falcone, indossa la divisa della Guardia di finanza (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) e Alessandro Giuliano, figlio di Boris Giuliano, è, a sua volta, diventato un bravissimo poliziotto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308829",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. La lotta alla mafia è un patrimonio, ovviamente, di tutti gli italiani, sia degli italiani sul nostro territorio nazionale sia degli italiani all'estero. Però, io posso solo immaginare cosa deve aver significato, soprattutto in quegli anni, per i colleghi che li hanno vissuti, respirare la bellissima terra siciliana. Quindi, vorrei iniziare il mio intervento ringraziando i miei colleghi Giuseppe Castiglione e Davide Faraone, per essere qui accanto a me.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Era il 19 luglio 1992: tanti giovani - io uno tra quelli -, a Roma, quando seppero della notizia della strage di via D'Amelio, in maniera spontanea, si riunirono in tante piazze di Roma. Ancora ricordo perfettamente quei giorni, li ricordo bene perché si svolgevano circa due mesi dopo la strage di Capaci, dove ci fu un'analoga mobilitazione, una mobilitazione spontanea. Chi ricorda quei giorni sa benissimo che le piazze di tanti quartieri di Roma si riempirono spontaneamente. Perché accadde questo? Accadde questo perché Paolo Borsellino e Giovanni Falcone riuscirono, nella loro azione di contrasto alla mafia, ad entrare nel sentimento del Paese, quel Paese che voleva legalità, voleva affermare lo Stato di diritto nei confronti di un'organizzazione criminale che tutti noi sapevamo minava anche le basi della nostra democrazia. Eppure, nonostante l'insegnamento forte di due magistrati del pool antimafia di Palermo, con una sapiente capacità - allora non c'erano gli strumenti investigativi che ci sono oggi -, mi riferisco, ovviamente, a Giovanni Falcone e Paolo Borsellino, riuscirono a ricostruire l'organizzazione criminale e mafiosa, Falcone diceva andando e seguendo i soldi, il denaro, ma ricostruendo anche il rapporto della mafia con i colletti bianchi che davano supporto alla mafia stessa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Signor Presidente, onorevoli colleghi, in giornate come questa si rischia sempre un po' di scivolare nella retorica, ma ci sono parole che non ci si può esimere dal pronunciare, soprattutto in un consesso come quello nel quale ci troviamo, nel tempio laico di quelle istituzioni che Paolo Borsellino e gli uomini e la donna che lo difendevano - li voglio ricordare anch'io, Agostino Catalano, Vincenzo Li Muli, Walter Cosina, Claudio Traina ed Emanuela Loi, la prima donna a far parte di una scorta e la prima donna della Polizia di Stato a cadere in servizio -, Borsellino e i suoi angeli custodi, hanno servito fino all'estremo sacrificio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 142
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2023-07-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Presidente, sono particolarmente onorato di poter fare questo intervento, di aver seguito tutta la discussione e di aver beneficiato del privilegio di ascoltare testimonianze di chi, comunque, ha vissuto questi momenti o di chi li ha combattuti. Io credo che, al di là delle opinioni di tutti, al di là di un'antimafia da corteo, come ho sentito dire ora o di quello che si può dire, insomma, questa sia una discussione che comunque ci fa bene.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0142",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 142
+      }
+    }
+  ]
+}

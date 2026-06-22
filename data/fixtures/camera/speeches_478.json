@@ -1,0 +1,97 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0478",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-05-12",
+    "title": "Assemblea — Seduta n. 478 del 2025-05-12",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0478",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 478
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-05-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 84, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0478",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 478
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-05-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge, già approvato dal Senato, n. 2362: Conversione in legge, con modificazioni, del decreto-legge 19 marzo 2025, n. 27, recante disposizioni urgenti per le consultazioni elettorali e referendarie dell'anno 2025.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0478",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 478
+      }
+    },
+    {
+      "politician_id": "camera_d307641_19",
+      "politician_name": "IEZZI Igor",
+      "date": "2025-05-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Se possibile, lascerei agli atti la relazione che, poi, vi consegnerei a mano; vorrei però sottolineare un aspetto di questo provvedimento che credo si possa considerare, tutto sommato, ordinario e di dettaglio, ma c'è un aspetto che, invece, rappresenta una forte novità, che riguarda il voto per i fuori sede. Come sanno tutti i membri della I Commissione, ma anche i colleghi di quest'Aula, su questo tema si dibatte da tempo, da anni direi, qui in Parlamento e anche fuori, con associazioni che si sono occupate della questione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0478",
+      "metadata": {
+        "id_persona": "307641",
+        "seduta": 478
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-05-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sono contenta di vedere la presenza della Sottosegretaria che ha seguito, tra l'altro, i lavori in Commissione continuamente; l'abbiamo più volte vista in Commissione e torno a ringraziarla per la sua presenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0478",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 478
+      }
+    },
+    {
+      "politician_id": "camera_d308859_19",
+      "politician_name": "MURA Francesco",
+      "date": "2025-05-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Rappresentante del Governo, Sottosegretario Ferro, gentili colleghi, il provvedimento che oggi siamo chiamati a discutere rappresenta un passo significativo nel percorso di modernizzazione e razionalizzazione del nostro sistema elettorale. Si tratta di un decreto-legge che interviene con pragmatismo su nodi concreti emersi nel corso delle tornate elettorali più recenti e che intende rafforzare la partecipazione democratica - al contrario di quanto sostenuto da chi mi ha preceduto -, garantire il buon funzionamento delle consultazioni e razionalizzare la spesa pubblica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0478",
+      "metadata": {
+        "id_persona": "308859",
+        "seduta": 478
+      }
+    },
+    {
+      "politician_id": "camera_d307641_19",
+      "politician_name": "IEZZI Igor",
+      "date": "2025-05-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore (Relazione – A.C. 2362 ​). Onorevoli colleghi! L'Assemblea inizia oggi la discussione del disegno di legge di conversione in legge, con modificazioni, del decreto-legge 19 marzo 2025, n. 27, recante disposizioni urgenti per le consultazioni elettorali e referendarie dell'anno 2025, approvato dal Senato il 16 aprile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0478",
+      "metadata": {
+        "id_persona": "307641",
+        "seduta": 478
+      }
+    }
+  ]
+}

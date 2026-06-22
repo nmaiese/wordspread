@@ -1,0 +1,58 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0066",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-03-10",
+    "title": "Assemblea — Seduta n. 66 del 2023-03-10",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0066",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 66
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-03-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 64, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0066",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 66
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-03-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che il termine per riferire all'Assemblea da parte della Commissione d'indagine richiesta dai deputati Debora Serracchiani, Silvio Lai e Andrea Orlando, a norma dell'articolo 58 del Regolamento, è stato prorogato al 29 marzo 2023.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0066",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 66
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-03-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che nell' allegato A al resoconto stenografico della seduta odierna sarà pubblicata l'organizzazione dei tempi per la discussione generale del disegno di legge n. 831-A recante “Norme in materia di procedibilità d'ufficio e di arresto in flagranza” (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0066",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 66
+      }
+    }
+  ]
+}

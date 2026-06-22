@@ -1,0 +1,539 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0031",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-01-09",
+    "title": "Assemblea — Seduta n. 31 del 2023-01-09",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 31
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 50, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Ho chiesto di intervenire perché penso sia doveroso da parte della Camera ricordare e fare presente quanto di drammatico è accaduto e sta accadendo in queste ore in Brasile: un tentativo di golpe dei bolsonaristi, che hanno assaltato le istituzioni democratiche del Brasile e messo in discussione l'elezione democratica del Presidente Inácio Lula da Silva. Penso sia doveroso che da parte della Camera dei deputati arrivi un segnale forte di solidarietà alle istituzioni democratiche, al Presidente Lula e al popolo brasiliano. Chiedo, quindi, alla Presidenza della Camera di farsi interprete presso il Ministero degli Affari esteri affinché il Ministro Tajani possa venire in Aula a riferire, anche perché giungono voci abbastanza insistenti, anche da stampa qualificata brasiliana, che l'ex Presidente Jair Bolsonaro, che attualmente si trova a Orlando, in Florida, avrebbe chiesto, prima di partire dal Brasile, la cittadinanza italiana presso l'ambasciata di Brasilia, così come i due figli di Bolsonaro, Eduardo e Flavio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Colleghe e colleghi, credo che le immagini che sono arrivate, che continuano ad arrivare dal Brasile, le notizie preoccupanti dell'assalto ai luoghi delle istituzioni della democrazia brasiliana abbiano scosso le coscienze non solo nostre, ma di tutti i democratici del mondo. Quindi, massima solidarietà al Presidente Lula da Silva, al popolo brasiliano, in una fase difficile e complessa, che speriamo possa risolversi in tempi brevi, riconfermando, ovviamente, il voto popolare democraticamente espresso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Intervengo sullo stesso argomento per unirmi alle considerazioni espresse dai colleghi per denunciare la gravità di quanto sta accadendo a Brasilia, a due anni da quanto accadde, purtroppo, a Capitol Hill, al Parlamento della Repubblica degli Stati Uniti. Sono fenomeni inquietanti, che danno l'idea di come alcune leadership della destra nazionalista e sovranista stiano interpretando la democrazia o stiano negando la democrazia, l'alternanza, dando vita a un fenomeno che viene chiamato dei negazionisti dei risultati elettorali. È un fatto molto preoccupante, che per ora riguarda i continenti americani, ma a cui tutte le democrazie - penso all'Italia e all'Unione europea - devono guardare con grande preoccupazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ringrazio chi mi ha preceduto, dato che tutti gli interventi svolti sono condivisibili al 100 per cento da parte del MoVimento 5 Stelle. È stato un gravissimo episodio, quello dell'assalto alle istituzioni democratiche del Brasile da parte di un'ultradestra che, evidentemente, non sa accettare le regole democratiche, cosa che aveva già fatto negli Stati Uniti d'America all'indomani della elezione di Biden.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308859_19",
+      "politician_name": "MURA Francesco",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, anche il gruppo di Fratelli d'Italia si unisce alla solidarietà nei confronti delle istituzioni democratiche di tutto il mondo, in modo particolare di quella brasiliana, visti gli attacchi di alcuni facinorosi alla sede del Parlamento brasiliano. Già il Presidente Meloni è intervenuta sui canali social riguardo a questo argomento e non abbiamo dubbi sul fatto che tutto il Governo saprà gestire la situazione e ristabilire la credibilità nei rapporti tra Italia e Brasile e in tutti i rapporti tra le istituzioni di Paesi civili e democratici come il nostro e quello brasiliano (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308859",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "La rappresentante del Governo, la Sottosegretaria Savino sicuramente si farà parte diligente nel rappresentare le richieste che sono pervenute. Da parte mia comunico all'Assemblea che ne parlerò sicuramente con il Presidente Fontana, al fine di verificare la disponibilità del Governo a rendere l'informativa, così come richiesto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge, già approvato dal Senato, n. 730: Conversione in legge, con modificazioni, del decreto-legge 18 novembre 2022, n. 176, recante misure urgenti di sostegno nel settore energetico e di finanza pubblica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308907_19",
+      "politician_name": "TREMAGLIA Andrea",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Presidente, colleghi, come veniva ricordato poco fa si tratta della conversione del decreto-legge cosiddetto Aiuti- quater ; siamo in seconda lettura, quindi, è già passato dal Senato, ed è un disegno di legge che reca misure urgenti di sostegno al settore energetico e della finanza pubblica; la scadenza è il prossimo 17 gennaio e il testo si costituisce degli articoli che vado a ricordare brevemente. Mi aiuto con il testo, così sarò più preciso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308907",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308907_19",
+      "politician_name": "TREMAGLIA Andrea",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Mi affretto, Presidente.  L'articolo 14- bis specifica quali categorie di soggetti possono effettuare operazioni di finanziamento, ammesse a misure agevolative sotto forma di contributi agli interessi, a sostegno di operatori italiani che investono nel capitale di rischio di imprese partecipate dalla SIMEST e aventi sede in Paesi non facenti parte dell'Unione europea.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308907",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308924_19",
+      "politician_name": "GRUPPIONI Naike",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie Presidente. Onorevoli colleghe e onorevoli colleghi, rappresentanti del Governo, siamo oggi impegnati nella discussione del disegno di legge di conversione del decreto-legge 18 novembre 2022, n. 176, recante misure urgenti di sostegno nel settore energetico e di finanza pubblica, altrimenti noto come decreto Aiuti- quater .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308924",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Signor Presidente, onorevoli colleghi, signori del Governo, beati i popoli che non hanno bisogno di aiuti, verrebbe da dire parafrasando Bertolt Brecht, e il programma con il quale la nostra coalizione si è presentata agli elettori corrisponde fedelmente a questo auspicio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307481_19",
+      "politician_name": "MANCINI Claudio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Colleghe e colleghi, esponenti del Governo, discutiamo oggi questa legge di conversione, in un momento che sappiamo bene essere complicato: l'inflazione sale ancora e le banche centrali sono costrette ad alzare i tassi d'interesse, riducendo il credito, la guerra in Ucraina non sembra vedere fine e cresce la paura che nuove varianti di COVID dall'Oriente possano farci ripiombare in una situazione di pandemia senza controllo; è per questo che siamo arrivati al quarto decreto Aiuti, che contiene varie misure. Alcune, e possiamo dire la maggioranza di queste, sono di fatto proroghe di scelte fatte dal precedente Governo e altre sono frutto di questa legislatura e del nuovo Governo. Questo ci consente - e consentirà agli italiani - di fare un paragone. Il paradosso cui ci troviamo di fronte è che abbiamo avuto un Governo tecnico, a tempo, di larghe intese, che paradossalmente ha avuto più capacità di fare scelte politiche rispetto a una maggioranza che, invece, pur dichiarandosi unita e politicamente granitica, con questo decreto dimostra, per la propria parte, di non aver saputo fare scelte che abbiano una visione di lungo periodo. L'assenza di una visione è, infatti, la caratteristica principale del provvedimento di cui discutiamo oggi. Come avete fatto nella legge di bilancio, continuate a prorogare le misure contro le emergenze di tre mesi in tre mesi, sperando in un qualche fortunato evento che ci porti fuori dalla crisi bellica, dalla crisi economica e da quella sanitaria. Potremmo dire che questo Governo ha scelto la strada del fingersi morto, sperando di superare la crisi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307481",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d302764_19",
+      "politician_name": "COMAROLI Silvana Andreina",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, Governo, sicuramente ci troviamo in una fase particolare, dove il problema dei costi energetici è diventato il problema dei problemi, perché va ad incidere sia sulle famiglie, che, molte volte, non riescono ad arrivare a fine mese - magari si trovano nella condizione di dover scegliere se riscaldarsi oppure se mangiare - e sulle imprese che, a volte, si vedono costrette anche a chiudere, sospendere momentaneamente la produzione, mettendo in cassa integrazione il personale: quindi, un ulteriore problema che va a gravare sulle famiglie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "302764",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307459_19",
+      "politician_name": "FONTANA Ilaria",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi e colleghe, membro del Governo, oggi stiamo discutendo in quest'Aula un provvedimento che per il MoVimento 5 Stelle è del tutto inaccettabile per alcune misure che contiene: faccio riferimento al ritorno alle trivellazioni nei nostri mari, nel mare Adriatico in particolare, al grave depotenziamento del superbonus 110 per cento, al fatto che si riapre all'utilizzo di energia derivante anche dall'incenerimento dei rifiuti. Per noi sono scelte assurde, folli, che denotano, inoltre, approssimazione e totale mancanza di una visione politica da qui, non a 5 anni, ma nemmeno a 10, 20, 30 anni. A quest'Aula, tramite lei, Presidente, vorrei ricordare alcune citazioni testuali: “Domani andrò a votare al referendum sulle trivelle e voterò sì. Rivolgo un appello ai cittadini: non fate passare sottotraccia un referendum molto importante per la qualità del nostro ambiente e la difesa del nostro mare. Non andare a votare (Commenti della deputata Comaroli) ” - collega, io l'ho ascoltata - “come invita a fare Renzi, sarebbe un aiuto ad alcune grandi lobby che sono legate anche a questo Governo (Commenti della deputata Comaroli) ”. Presidente, io ho ascoltato…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307459",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307459_19",
+      "politician_name": "FONTANA Ilaria",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). … giustamente in rigoroso silenzio, anche perché le discussioni generali sono convinta che si facciano per arricchire il provvedimento (Applausi dei deputati del gruppo MoVimento 5 Stelle) , quindi grazie ai superstiti della maggioranza che sono rimasti in quest'Aula ad ascoltarci.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307459",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308826_19",
+      "politician_name": "COMBA Fabrizio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, signor rappresentante del Governo, onorevoli colleghi, il decreto-legge Aiuti- quater è il provvedimento che il Governo ha approvato per andare incontro alle esigenze delle famiglie e alle esigenze delle imprese che hanno sofferto e soffrono gli effetti della crisi energetica e del caro bollette. Questo decreto prevede uno stanziamento pari a circa 9,1 miliardi di euro provenienti dall'extra gettito fiscale per finanziare interventi contro il caro energia e queste ingenti somme stanziate dimostrano che la priorità del Governo è innanzitutto quella di dare stabilità al Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308826",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Vorrei porre su questo decreto, in particolare, l'attenzione che Alleanza Verdi e Sinistra ha sulle tematiche relative alle energie. Non vorrei che si facesse lo stesso errore che è stato fatto sul primo voto di fiducia sul decreto varato dall'attuale Governo, che è stato quello sui rave party , di cui ancora oggi non riusciamo a comprendere quale fosse l'emergenza sociale e criminale. Invece, questa si è vista proprio ieri nelle vicende indegne a cui abbiamo assistito, avvenute in un autogrill tra non tifosi, perché non possono essere definiti tali, quindi tra cavernicoli provenienti da Napoli e altri cavernicoli - perché era proprio un incontro con le clave -, che praticamente se le sono date di santa ragione, bloccando il Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Allora, praticamente la situazione che si è venuta a creare è che abbiamo varato un atto con pene dai 6 ai 12 anni, proponendolo come soluzione al crimine nel nostro Paese, e poi ogni giorno vediamo che ci sono tanti altri problemi, come quello degli ultrà, che continuano a mettere a ferro e fuoco il nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Anche perché la voce è sovrastante la mia, nonostante ci sia il microfono. Rispetto a questo, poniamo lo stesso problema sull'annunciatissimo sblocco delle trivellazioni per il gas e partiamo da un dato. Secondo gli studi di Legambiente, WWF e Greenpeace, tutta questa baraonda di trivellazioni creerà solo devastazioni ulteriori sul nostro territorio, quando, tra l'altro, anche se con un quorum non raggiunto, si è già espresso un referendum, con riferimento al quale oltre il 90 per cento dei cittadini, che hanno espresso il voto, ha detto “no”, “stop” alle trivellazioni. Insomma, tutto questo nuovo approvvigionamento di gas, per cui saremo autonomi e finalmente abbiamo trovato una grande soluzione, riguarda l'1,9 per cento del fabbisogno nazionale. In poche parole, andiamo a trivellare, a mettere impianti di estrazione e a devastare, quando tra l'altro nel nostro Paese si avverte la necessità enorme di investire sul turismo. Parlando del mio territorio, nel Golfo di Napoli vedete meglio il mare o una bella trivella? Per poi ottenere l'1,9 per cento del gas! Noi stiamo dando l' ok per l'1,9 per cento! Fosse il 90 per cento, onestamente mi porrei il problema, anche perché - torno a ripetere, l'ho detto in tutte le salse - non ho pregiudizi nei confronti di un Governo, che non è il mio, ma penso che valga sempre, per le amministrazioni comunali, regionali, provinciali e anche per i Governi, il tempo. Il collega intervenuto prima ha detto che hanno già risolto tutti i problemi del nostro Paese. Io me ne compiaccio, non me ne sono ancora accorto: probabilmente faccio parte di quella piccola minoranza, ancora sondata come non aderente a questa maggioranza. Però, il dato di fatto che voglio far presente è che noi otterremmo l'1,9 per cento. Andiamo a trivellare e a creare problemi di carattere naturalistico, ambientale e sociale per ottenere l'1,9 per cento. Continuo a ripetere questo numero, perché vorrei che qualcuno dal Ministero me lo smentisse e dicesse che non si tratta dell'1,9, ma del 29, del 39, del 49, del 99 per cento. Allora, si potrebbe dire: a fronte della soluzione di un problema, come quello dell'approvvigionamento del gas, in questo momento così drammatico, facciamo un intervento brutale, durissimo, però i cittadini italiani avranno piena sostenibilità! Ma non è così, perché l'1,9 è praticamente parva materia . Tra l'altro, mi pongo una domanda e la pongo ad alta voce: perché non si comincia ad investire, nel campo energetico, sulle rinnovabili? A fronte dell'investimento trivelle, per ottenere l'1,9 per cento di gas autonomo, nostro, non investiamo alcuna risorsa nei campi in cui, secondo tutti gli studi, il nostro Paese ha la migliore esposizione al mondo, ovvero il solare e l'eolico. Fotovoltaico ed eolico: noi dovremmo investire tutto su queste fonti di energia. E, invece, troviamo grande soddisfazione e grande afflato nell'andare a trivellare di nuovo i nostri mari per ottenere l'1,9 per cento di gas. Mi sembra un risultato non straordinario, non mi sembra un approdo di soluzione ai nostri problemi energetici. Tra l'altro - e ovviamente non me ne sono accorto solo io, perché altrimenti sembra una cosa di parte - dal 1° gennaio è aumentata o no la benzina? E chi ha scelto - perché, poi, quando uno governa, sceglie - di dare determinate priorità rispetto ad altre? Se vi è questo aumento della benzina è perché questo Governo ha scelto che le accise, che erano state eliminate, andavano reintrodotte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307312_19",
+      "politician_name": "D'ATTIS Mauro",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, signor Presidente. Signor Sottosegretario, colleghi, il decreto cosiddetto Aiuti- quater è stato approvato dal Senato, in prima lettura, recentemente, il 21 dicembre 2022 e fa seguito a precedenti decreti-legge in tema di sostegno alle imprese e alle famiglie, perché di questo si si tratta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307312",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Illustri colleghi e colleghe, Governo, il decreto Aiuti- quater che iniziamo a discutere oggi in maniera molto virtuale è, purtroppo, l'ennesimo provvedimento che arriva blindato dal Senato e sul quale verrà posta, con tutta probabilità, la fiducia. Il Governo Meloni sta, infatti, governando da mesi con provvedimenti su cui mette sistematicamente la fiducia, anzi, non solo la fiducia, ma anche la tagliola, stabilendo record negativi impensabili fino a poco tempo fa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308905_19",
+      "politician_name": "MAERNA Novo Umberto",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Buongiorno a tutti, buongiorno, colleghi; saluto la rappresentante del Governo. Inizio il mio intervento, riprendendo quello che ha appena dichiarato il collega del Partito Democratico. Noi non ci riteniamo invincibili, superuomini o superdonne, siamo semplicemente persone elette, che hanno svolto attività di amministrazione nelle amministrazioni locali, a contatto col territorio, con la gente e con il mondo del lavoro; quindi, abbiamo recepito istanze che potete recepire anche voi; basta stare in mezzo alle strade, ai mercati, frequentare le persone, il mondo del lavoro, dell'agricoltura, della pesca e capire le esigenze immediate che queste categorie e i cittadini comuni hanno espresso nel corso dei mesi scorsi, nella campagna elettorale. Questa è la ragione per la quale il Governo è intervenuto subito con decreti immediati per dare ristoro, di fronte a una situazione, economica e sociale, che veramente poteva e può creare allarmismo all'interno delle varie categorie, quindi, ridurre investimenti, assunzioni, determinando quindi feedback negativi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308905",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signor Presidente. Nella giornata di ieri si è verificato un gravissimo episodio di guerriglia, di guerriglia scatenatasi a causa dell'incontro-scontro tra bande di ultrà del Napoli e della Roma in un'area di servizio che era stata già il palcoscenico di un fatto tragico, la morte di un tifoso avvenuta alcuni anni fa. La circostanza che le due tifoserie si incontrassero in quel tratto di autostrada era già nota al Governo dal 10 novembre scorso, quando, appunto, venne pubblicato il calendario delle manifestazioni sportive.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "La Sottosegretaria sicuramente farà parte diligente, in rappresentanza del Governo. Da parte mia, onorevole, le rappresento che sentirò il Presidente Fontana per chiedergli di interpellare il Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307234_19",
+      "politician_name": "TORTO Daniela",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghi, membro del Governo, oggi discutiamo del cosiddetto decreto Aiuti- quater , che, se non fosse per questo nome che gli è stato attribuito, potremmo definirlo davvero in tanti modi tranne che un decreto di aiuti e di contributi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307234",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signor rappresentante del Governo, onorevoli colleghe e colleghi, nel Cinquecento la Francia era devastata da una grandissima guerra civile, conosciuta nella storia come la guerra dei tre Enrichi. Questa guerra ebbe termine quando Enrico di Navarra, uno dei protagonisti di detta guerra, così sanguinosa, di successione, decise di abbandonare la sua religione, che era quella protestante degli Ugonotti e di convertirsi al cattolicesimo e, in quell'occasione disse una frase che è rimasta celebre: “Parigi val bene una messa!” Credo che sia questo quello a cui ha pensato Giorgia Meloni prima di fare il provvedimento sulle trivelle, che Roma val bene una messa, che la poltrona di Presidente del Consiglio val bene una messa, tanto da rinnegare le posizioni politiche espresse con forza, nelle piazze, pubblicamente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Che voi non locapiate mi pare abbastanza evidente dai provvedimenti che adottate. Mentre c'è questa tragedia climatica nel nostro Paese, noi con chi ci arrabbiamo? Ci arrabbiamo con i ragazzi di ultima generazione, che vanno a spruzzare la vernice lavabile su un palazzo importante come quello del Senato. Con loro ci arrabbiamo e per loro si invocano delle pene, addirittura, fino a cinque anni di galera. Ragazzi che hanno avuto il coraggio di dire a tutti quanti: guardate che il re è nudo, la crisi climatica sta travolgendo il pianeta. Il rispetto per quelle mura, per quel palazzo, non è per quello che c'è scritto fuori, deve essere per quello che si decide quotidianamente dentro, e le decisioni che si prendono nei palazzi del potere sono insufficienti ad affrontare la grande crisi dell'umanità, che è la crisi dei cambiamenti climatici, che possono cambiare la vita così come noi la intendiamo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308787_19",
+      "politician_name": "GIORGIANNI Carmen Letizia",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, onorevoli colleghi, il decreto n. 176 del 2022 rappresenta un ideale elemento di congiunzione tra provvedimenti passati e scenari futuri già anticipati in legge di bilancio, volti a mitigare l'impatto sull'economia del forte aumento dei prezzi dell'energia registrato a partire dall'autunno del 2021 e aggravatosi nell'anno passato. Oltre ad attuare un'estesa serie di razionalizzazioni e semplificazioni di procedure - per accelerare ed assicurare continuità agli strumenti di resilienza dell'Italia rispetto all'impatto della crisi energetica - intende connotarle secondo un nuovo indirizzo politico, finalmente mirato a privilegiare in ogni modo, dalle infrastrutture ai lavori pubblici all'approvvigionamento energetico, la solidità e l'autonomia presente e futura della nostra Nazione e il beneficio sociale più ampio che possa derivarne.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308787",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308787_19",
+      "politician_name": "GIORGIANNI Carmen Letizia",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). La seconda osservazione, e qui concludo, riguarda l'articolo 4, la cui filosofia abbraccia anche altre parti del provvedimento: si vuole facilitare l'approvvigionamento di gas per le imprese energivore nazionali, con una serie di modifiche procedurali e contrattuali. Ovviamente, non asseconderemo l'ossessione velleitaria di soffocare il sistema produttivo nazionale, oggi, con l'obiettivo fittizio di accelerare processi virtuosi dopodomani, perché una nazione depauperata e dipendente, in una parola, finita, non potrà mai portare a compimento alcuna evoluzione virtuosa, assolutamente in nessun campo (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308787",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308818_19",
+      "politician_name": "MORFINO Daniela",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, onorevoli colleghi e colleghe, rappresentante del Governo, il grido di allarme che oggi arriva dai banchi di tutto il MoVimento 5 Stelle riflette, signor Presidente, una preoccupazione: il grave pericolo provocato da tutte le misure non coerenti con lo strumento del decreto-legge che il Governo, giocoforza, vuole inserire, snaturando e abusando la medesima proposta normativa del decreto Aiuti- quater . Pericolo e preoccupazione non solo per il contenuto e il merito dei provvedimenti che oggi contestiamo, e tra questi in primo luogo il superbonus e le trivellazioni, ma ancor di più per il metodo e le forme utilizzate dal Governo nel pacchetto del decreto Aiuti- quater , tutto in piena violazione dei principi costituzionali, ordinamentali e di regolamento della funzione legislativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308818",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Onorevoli colleghe e colleghi, signora rappresentante del Governo, devo ammettere di essere abbastanza colpita perché questo è il terzo provvedimento di carattere finanziario che affrontiamo in questa legislatura e ancora non ho compreso come il Governo Meloni intenda affrontare la grave crisi sociale, economica e climatica in atto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io ho ascoltato con grande interesse tutti gli interventi che ci sono stati prima di questo momento e ho ascoltato, in particolar modo, gli interventi che sono venuti dai banchi della maggioranza. Mi riporto anche a quanto detto dal collega Maerna, che ha fatto un elenco di tutte le misure contenute in questo decreto Aiuti- quater e ne ha snocciolato tutti gli effetti positivi, concludendo però che si poteva fare di più, anche con una sorta di modestia: “forse avremmo potuto fare di più”. Io dico che forse avrebbero dovuto fare di meno. Dico di meno perché forse sarebbe stato opportuno proprio non toccare la disciplina del superbonus. Sono tanti gli interventi che si sono susseguiti in quest'Aula oggi proprio su questo, ma è un tema di grande importanza e non si comprende perché poi non si sia proseguito su questa strada. Probabilmente, io penso, anche per un fatto ideologico. Il superbonus è nato con il decreto Rilancio, voluto da Conte, e ha prodotto degli effetti estremamente positivi sul tessuto economico, e non solo, del nostro Paese. Infatti, grazie alla quota di incentivo stabilita al 110 per cento e alla possibilità di cedere il credito di imposta, è stato possibile per tante famiglie procedere a interventi di riqualificazione energetica e di risanamento edilizio di abitazioni anche vetuste. Ora, come diceva prima la collega Torto, da questa misura, con la rimodulazione al 90 per cento, saranno proprio tagliate fuori le famiglie con redditi medio-bassi, che non potranno ovviamente sopperire alla differenza di costo. Però, in Italia, la questione delle abitazioni dovrebbe essere posta all'attenzione dell'agenda di Governo. Forse si dimentica - darò dei dati ovviamente - che il 65 per cento delle abitazioni in Italia, quindi quasi i due terzi delle abitazioni esistenti sul suolo italiano, hanno oltre 47 anni di età. Quindi, il progetto di arrivare a un risanamento edilizio credo che sia prioritario per qualsiasi Governo che si succederà in questo Paese. È una priorità anche perché questo determinerebbe uno stop all'ulteriore consumo del suolo e anche all'espansione di periferie spesso degradate e sprovviste dei servizi anche più essenziali. La misura del superbonus, oltre ad attivare l'economia, oltre a avere una ricaduta sul PIL, oltre a determinare - adesso ne daremo i dati - un aumento del gettito fiscale, era soprattutto volta al benessere delle famiglie e ha determinato un significativo miglioramento delle condizioni ambientali di tante famiglie italiane. Anche qui devo leggere alcuni dati, che dimostrano che bisogna procedere su questa strada: 3,5 milioni di famiglie in Italia (13,7 per cento del totale) dichiarano di avere nelle proprie abitazioni problemi di umidità; 2,8 milioni di famiglie hanno dichiarato di vivere in abitazioni con problemi strutturali e il nostro Paese, ahimè, è interessato dai noti fenomeni, come i terremoti e, quindi, c'è e ci sarà sempre questo grosso problema da affrontare; 2,2 milioni di famiglie dichiarano di non riuscire a riscaldare adeguatamente la propria abitazione, ovvero l'8,6 per cento del totale. Quest'ultima si chiama povertà energetica, un altro tema che con il Governo Conte si è provveduto ad affrontare. Su questa strada, però, non si procede: c'è una battuta d'arresto, si torna indietro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, con lettera pervenuta in data 9 gennaio 2023, il deputato Aboubakar Soumahoro, già iscritto al gruppo parlamentare Alleanza Verdi e Sinistra, ha dichiarato di aderire al gruppo parlamentare Misto, cui risulta pertanto iscritto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, rappresentante del Governo, gentili colleghi e colleghe, sono molti gli aspetti che contestiamo in questo decreto-legge, che ha peraltro anche l'ingannevole nome di “Aiuti”, forse un po' per distogliere l'attenzione da ciò che è nel suo contenuto e che aiuto non è, o forse un po' anche perché per aiuti qualcuno intende aiuti alle lobby o agli amici degli amici. Nel mio intervento mi soffermerò proprio su questo, a un aiuto particolare, che è quello - lo avete capito - a chi sfrutta le trivelle, alle lobby dei petrolieri. Come tutti ben sappiamo, il MoVimento 5 Stelle è un movimento ecologista e ambientalista, uno dei pochi rimasti, e lo dico con amarezza, sempre che in quest'Aula non si consideri possibile portare avanti istanze ambientaliste, ad esempio, facendo un'alleanza con il partito di Renzi e Calenda, che nei confronti dell'ambiente hanno dimostrato di possedere la stessa sensibilità di Attila, o di allinearsi alle posizioni della destra, che è a favore del nucleare, delle trivelle, dei nuovi inceneritori, ma questo è un altro discorso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307406_19",
+      "politician_name": "RAFFA Angela",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Su questo provvedimento ci sarebbero tante cose da dire. Potevamo lavorarci insieme, potevamo migliorarlo e dare qualcosa in più ai cittadini. Invece, il Governo e la maggioranza hanno scelto la via dell'arroganza. Se aveste saputo almeno fare il vostro lavoro, io lo avrei potuto anche capire: noi avremmo valutato, comunque, di dare un voto positivo nell'interesse degli italiani e del Paese. Invece, eccomi qui a parlare delle mille criticità e cose sbagliate di questo provvedimento. Non riuscirò a parlare di tutte, purtroppo, per il tempo che ho a disposizione da Regolamento e, quindi, mi concentrerò su tre temi che, secondo me, sono importanti in questo decreto: le accise sulla benzina, il costo dei nuovi registratori di cassa per i commercianti e il superbonus e, quindi, il futuro di migliaia di imprese e lavoratori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307406",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie Presidente. Intervengo adesso, dopo un bel po' di interventi di colleghi che hanno portato avanti tutta una serie di punti e hanno riportato qui tutta una serie di problematiche che non voglio ripetere, anche se, su alcuni dei punti, dovrò cercare di entrare, in quanto ogni intervento dovrebbe essere autonomo e a se stante.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, onorevoli colleghi, questo decreto del Governo Meloni per noi è assolutamente irricevibile. È quello in cui si consuma la massima incoerenza, se già ce ne fosse bisogno, le massime giravolte del Governo Meloni. Infatti, tralasciando, nel metodo, il cattivo costume di utilizzare in malo modo la decretazione d'urgenza, in modo anche anticostituzionale, per introdurre norme che non hanno i requisiti di necessità e di urgenza e di carattere eterogeneo in un unico provvedimento, veniamo al merito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghe e colleghi, intanto grazie per la pazienza dei pochi rimasti della maggioranza. Iniziata una nuova legislatura il Paese ha un nuovo Governo guidato dal partito che solo qualche mese fa conduceva un'integerrima opposizione, eppure si fa ancora un'enorme fatica a trovare delle differenze tra i provvedimenti approvati dal Governo Draghi e quelli del Governo Meloni, almeno il Governo Draghi aveva fatto lo sforzo di cambiare nome ai propri provvedimenti e così dai decreti Sostegni si è passati ai decreti Aiuti, uno sforzo che questo Governo non ha deciso di effettuare confermando anche a livello terminologico una preoccupante continuità con il precedente Esecutivo; una continuità evidente in questo decreto ma anche nella legge di bilancio. A livello politico questo Governo è di fatto un Governo Draghi- bis che si è finalmente scrollato di dosso il peso del Movimento 5 stelle. Sì, perché proprio la nostra presenza non aveva permesso alla vecchia politica un immediato ritorno al passato, e così via il reddito di cittadinanza, la Spazzacorrotti e soprattutto addio alla transizione ecologica. L'unico elemento di novità che caratterizza i primi provvedimenti del Governo Meloni è proprio lo smantellamento delle riforme epocali che con enorme fatica siamo riusciti ad introdurre con due Governi Conte, tanta è l'assenza di visione e la povertà di idee di questo Esecutivo. Proprio per questo motivo mi vorrei concentrare più che sul contenuto di questo provvedimento su quello che esso doveva contenere e che invece non contiene. Ma partiamo con ordine, non solo noi chiediamo che non aumentino le accise sulla benzina, noi pretendiamo che le accise vengano progressivamente abolite perché è uno scandalo che le tasse dello Stato italiano compromettano così la nostra economia. Forse ricordate queste parole, sono dell'attuale Presidente del Consiglio e risalgono al 2019, ma anche negli anni successivi il concetto è stato ribadito più volte con la medesima fermezza e parole simili sono state pronunciate anche dal Ministro Salvini. Non ci sarebbe nulla di male, anzi si tratta di un punto di vista ampiamente condivisibile, il problema è che sono state completamente rinnegate dalla Presidente Meloni che, una volta al Governo, non solo non ha abolito le accise ma le addirittura aumentate, sì, perché dalla riduzione di 30 centesimi prevista dal precedente Esecutivo fino a novembre 2022, il suo attuale Esecutivo ha deciso di ridurre lo sconto a 18 centesimi per il solo mese di dicembre e di eliminarlo del tutto con l'anno nuovo. Siamo, quindi, passati da un costo di circa 55 euro per un pieno di carburante a novembre, a pagare oggi circa 67 euro per un'auto di piccola cilindrata. Mi chiedo: ma dove sono oggi di fronte a questi rincari i leader dei partiti di destra, oggi al governo, che fino a poche settimane fa si autoproclamano paladini delle famiglie e delle imprese (Applausi dei deputati del gruppo MoVimento 5 Stelle) ? Non so fino a che punto abbiano chiaro che questi rincari, oltre a ricadere direttamente e indiscriminatamente su tutti noi, a prescindere dal ceto sociale di riferimento, hanno inevitabili effetti indiretti anche sul costo dei prodotti, anche di prima necessità che andiamo ad acquistare al supermercato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 31
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2023-01-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ringrazio anche il Governo, nella persona che è qui, che sta ancora ad ascoltarci, veramente grazie per essere ancora presente, colleghi tutti, ringrazio anche i quattro colleghi della maggioranza che sono presenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0031",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 31
+      }
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0603",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-01-28",
+    "title": "Assemblea — Seduta n. 603 del 2026-01-28",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 603
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 101, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 2511-A ​: Disposizioni in materia di sviluppo della carriera dirigenziale e della valutazione delle prestazioni del personale dirigenziale e non dirigenziale delle pubbliche amministrazioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo è un emendamento particolarmente importante e penso che sia giusto leggere l'emendamento presentato dal gruppo del Partito Democratico, a prima firma di Simona Bonafe', ma anche dal gruppo del MoVimento 5 Stelle e di Alleanza Verdi e Sinistra, perché noi, con questo emendamento, chiediamo che: “Nella fase di definizione e aggiornamento annuale degli obiettivi di performance e dei relativi indicatori, le amministrazioni pubbliche assicurano adeguate forme di partecipazione delle organizzazioni sindacali rappresentative dei rispettivi comparti di contrattazione collettiva nazionale, al fine di garantire la coerenza tra gli obiettivi organizzativi e le effettive condizioni operative e motivazionali del personale, nonché di valorizzare l'apporto conoscitivo dei lavoratori in ordine ai processi e alle criticità organizzative”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d306412_19",
+      "politician_name": "GUERRA Maria Cecilia",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Oltre ad aggiungere la firma, volevo sottolineare che questo emendamento è semplicemente il pendant di quanto sostenuto sicuramente dalla maggioranza di quest'Aula sulla necessità della partecipazione dei lavoratori e delle lavoratrici all'organizzazione dei processi produttivi. L'indicazione della performance è alla base, ad esempio, nel mondo privato, dei premi di produttività. Quindi bisognerebbe avere un po' di coerenza: o era propaganda quella o ci credete alla partecipazione. Questo chiede solamente che, attraverso ovviamente le loro rappresentanze, i lavoratori e le lavoratrici possano concorrere a determinare gli obiettivi e dire la propria sui meccanismi organizzativi e sul luogo di lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "306412",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'esame dell'articolo 6, al quale sono riferiti solo i tre identici emendamenti 6.1 Zaratti, 6.3 Bonafe' e 6.4 Alfonso Colucci, sui quali la Commissione e il Governo hanno espresso parere contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'emendamento 8.1 Bonafe' veramente non può non essere accolto, quindi vado a spiegare che cosa chiediamo. Qui siamo sempre dentro questo disegno, che è il disegno di questa riforma che abbiamo aspramente criticato non negli obiettivi e nelle finalità, ma negli strumenti scelti per metterli in pratica, che vanno nella direzione opposta agli obiettivi dichiarati. E questo emendamento svela il trucco: noi chiediamo semplicemente - e state votando contro - che gli obiettivi individuali di performance siano integrati da obiettivi di gruppo e da indicatori di risultato riferiti agli utenti e ai destinatari dei servizi. Ma come si può essere contrari al fatto che le performance individuali vengano valutate insieme agli obiettivi di gruppo e ai risultati che si generano nei confronti dei servizi offerti ai destinatari, che sono le cittadine e i cittadini, le imprese italiane?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Nell'articolo 9 si parla dei nuovi parametri per la valutazione delle performance degli individui e, a nostro parere, fra i nuovi parametri, fra i criteri la formazione deve essere un elemento di valutazione, perché, per noi, la formazione è molto importante. È importante aggiornare gli strumenti degli operatori della pubblica amministrazione, è importante dotarli di nuove competenze; ieri abbiamo parlato a lungo anche della necessità di migliorare la semplificazione, ma, soprattutto, la digitalizzazione dei processi amministrativi. Per questo, c'erano le risorse del PNRR. Teniamo anche in considerazione che l'introduzione dell'intelligenza artificiale cambierà profondamente anche le procedure della pubblica amministrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Presidente, illustriamo anche questo emendamento, perché è un nuovo voto contro le lavoratrici, contro i lavoratori, contro le organizzazioni sindacali, se la maggioranza dovesse confermare il proprio orientamento e i pareri che abbiamo ascoltato. Vorremmo che l'Aula si rendesse conto di cosa stiamo facendo. Qui, si pone il tema del coinvolgimento delle organizzazioni sindacali rappresentative dei rispettivi comparti per quanto riguarda le adeguate forme di partecipazione alla fase di raccolta e trasmissione delle osservazioni utili alla misurazione e valutazione della performance organizzativa individuale, con particolare riguardo agli aspetti attinenti al benessere organizzativo, alla qualità delle relazioni interne e all'efficacia dei processi di lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Se non ci sono altre richieste di intervento, pongo in votazione ( Commenti del deputato Casu)… Il Governo ha dato cenni negativi. Insiste per la votazione, lei ( Commenti del deputato Casu) ? Allora, un voto contro e un voto a favore. Sì, però, va richiesto perché non è automatico. Un intervento contro e uno a favore. Chi chiede di parlare contro? Chi chiede di parlare a favore? Lo pongo in votazione… La deputata Guerra è a favore dell'accantonamento?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. È un emendamento soppressivo. Basta il titolo dell'articolo per dirci la ragione per cui, dal nostro punto di vista, questo emendamento soppressivo dovrebbe passare e sarebbe molto utile se passasse. Questo articolo disciplina una delega al Governo per la revisione della disciplina degli organismi indipendenti di valutazione delle performance .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Voglio riflettere con voi attorno a questa questione: il titolo del disegno di legge è “Disposizioni in materia di sviluppo della carriera dirigenziale e della valutazione della performance del personale dirigenziale e non dirigenziale delle pubbliche amministrazioni”. Al di là di come si possa pensare, ovviamente in maniera differente a come noi abbiamo provato con gli interventi a esporre, c'è una questione che io credo, signor Presidente, riguardi anche i rapporti tra potere legislativo e potere esecutivo. Come è possibile che all'interno di un provvedimento come questo ci sia una delega su un tema assolutamente fondamentale, come quello della revisione della disciplina degli organismi indipendenti di valutazione? È un ennesimo passaggio di espropriazione dei poteri del Parlamento, perché è vero che la delega prevede i principi generali eccetera, però stiamo parlando sostanzialmente del cuore del provvedimento che viene sottratto alle nostre valutazioni e viene portato direttamente al Governo. Credo che sia un ulteriore segnale non positivo di questo processo sostanzialmente di marginalizzazione del Parlamento (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ora, noi abbiamo presentato una serie di emendamenti all'articolo 12, perché vediamo tutti i rischi connessi rispetto a come state affrontando il tema dell'accesso alla funzione dirigenziale. Credo che sia stato ben fotografato dal fatto della non grandissima attenzione mediatica, anche dovuta al momento particolarmente drammatico per tante ragioni differenti che stiamo attraversando, con cui sta avanzando questa riforma. Però, guardate, anche nella comunicazione che state cercando di veicolare, anche nella comunicazione dichiarata, sta passando il messaggio che voi state introducendo una via alternativa al concorso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …devono avere dei criteri trasparenti e deve essere chiaro quello che si fa. Noi vogliamo capire quanto è largo il varco che state aprendo rispetto all'articolo 97 della Costituzione e quanto grande sarà la via alternativa ai concorsi. Da quello che avete scritto in questa norma ancora non è chiaro (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Sì, noi qui siamo al cuore di questo provvedimento e il collega Casu ha già spiegato molto bene i motivi della nostra contrarietà. Mi corre l'obbligo, però, Presidente, di ricordare che noi non siamo contrari per principio al fatto che si possa fare carriera per merito all'interno della pubblica amministrazione, come avviene in altri Paesi europei, che, però, pagano adeguatamente il personale, e non come noi che, nell'ultimo rinnovo, non abbiamo nemmeno coperto il costo dell'inflazione. Però, mi faccia dire che ci sono due punti che devono rimanere fermi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301573_19",
+      "politician_name": "CASTIELLO Giuseppina",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Sull'ordine del giorno n. 9/2511-A/1 Lomuti il parere è favorevole. Sugli ordini del giorno n. 9/2511-A/2 Alfonso Colucci, n. 9/2511-A/3 Penza e n. 9/2511-A/4 Baldino il parere è contrario. Sull'ordine del giorno n. 9/2511-A/5 Auriemma il parere è contrario alle premesse e l'impegno è accolto come raccomandazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301573",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, mi collego alla dichiarazione di voto nell'articolo 12, perché questo è il secondo round di quella discussione, che però svela questo aspetto. Noi cogliamo l'occasione della presenza del Ministro, che ci ha raggiunto in Aula, per rivolgere anche a lui il quesito che era contenuto nei nostri emendamenti, che è contenuto in quest'ordine del giorno che viene bocciato, che rappresenta, però, una domanda che in tanti si fanno in questo momento, nel momento in cui leggono sui giornali titoli che dicono: pubblica amministrazione, funzionari in carriera, il 30 per cento dei posti da dirigente con una via alternativa al concorso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Onorevoli colleghi, signori del Governo, Ministro Zangrillo, siamo davanti a un provvedimento che tocca uno dei pilastri fondamentali della nostra democrazia, la pubblica amministrazione, e le dico subito, Ministro, che noi condividiamo l'obiettivo. È fondamentale che la pubblica amministrazione sia più efficiente e più efficace e indubbiamente, perché la pubblica amministrazione nella sua interezza lo sia, serve anche che i dipendenti siano invogliati a dare il meglio di sé.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Chiedo di recuperare questi 30 secondi, grazie. Dicevo che serve che la pubblica amministrazione torni ad essere attrattiva. Da questo punto di vista, serve indubbiamente che vengano instaurati, al proprio interno, princìpi meritocratici e su questo non possono esserci dubbi. Tuttavia, proprio per l'importanza di questa sfida, non possiamo esimerci dal denunciare come questo disegno di legge sia il frutto di un'impostazione frettolosa e per molti versi contraddittoria. Ad esempio, Ministro, nonostante i dossier citino ampiamente le criticità del passato, le soluzioni proposte nel provvedimento non sembrano tenerle in debita considerazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Onorevoli colleghe e colleghi, signore e signori del Governo, Ministro Zangrillo, mi onoro di intervenire in questa sede per dichiarare il voto favorevole del gruppo di Noi Moderati al disegno di legge recante disposizioni in materia di sviluppo della carriera dirigenziale e della valutazione della performance del personale dirigenziale e non dirigenziale delle pubbliche amministrazioni. Questo provvedimento è frutto dell'iniziativa del Ministro per la Pubblica amministrazione, Paolo Zangrillo, che ringraziamo per l'attenzione e la dedizione con cui sin dall'inizio della legislatura si è dedicato a questo tema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signor Ministro, che vi sia la necessità di rendere la pubblica amministrazione più efficace, più efficiente, è un dato sul quale siamo assolutamente d'accordo e, da questo punto di vista, mettere in campo un provvedimento sulle carriere dirigenziali, sulle performance dei dipendenti pubblici è certamente un elemento che andava considerato. È sicuramente un provvedimento che andava portato all'attenzione dell'Aula. Anche perché - è stato detto anche durante il dibattito - la pubblica amministrazione è davvero se non uno dei motori, forse addirittura il principale motore dello sviluppo che deve avere il nostro Paese, quindi garantire una pubblica amministrazione in grado di sostenere questo ruolo è una questione assolutamente determinate ed importante per il futuro dell'Italia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Anche noi voteremo contro il provvedimento, pur condividendo decisamente le argomentazioni e le motivazioni che hanno mosso la nascita, la creazione e l'attenzione a questo tema, quindi la nascita del provvedimento e l'attenzione che è stata riservata al tema. Voglio proprio sottolineare i profili positivi del porre attenzione alla modernizzazione della pubblica amministrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Signor Presidente, colleghe e colleghi, signor Ministro, quella che discutiamo oggi è una vera e propria riforma del potere all'interno della pubblica amministrazione italiana. Nessuna vera riorganizzazione amministrativa, nessun miglioramento dei servizi per i cittadini, no: è tutto molto più semplice e molto più grave di quanto si possa immaginare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). E i problemi veri, sempre gli stessi, con voi non fanno che peggiorare: gli stipendi erosi ormai dal crollo del potere d'acquisto, le carriere sane mortificate dal sistema degli yes men ; la formazione vera, la capacità dello Stato di competere con il privato, l'attrattività e la dignità del lavoro pubblico le mandate in malora. Ai lavoratori pubblici chiedete sempre di più, li controllate sempre di più, li valutate sempre di più, ma, attenzione, a loro date sempre meno (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di andare avanti, consentitemi di salutare studentesse e studenti, professori e professoresse dell'Istituto Comprensivo “Nicola Maria Nicolai” di Roma, che oggi sono in visita alla Camera dei deputati. Benvenuti in quella che è casa vostra (Applausi).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevoli colleghe e colleghi, ci sono due parole che identificano, più di altre, la filosofia del liberalismo, che sono la meritocrazia e lo Stato minimo, che interviene solo quando è necessario, e quindi semplificazione. Liberalismo significa poter valutare i lavoratori e le lavoratrici per le loro capacità, a prescindere da un corso di studi più o meno completo e prestigioso; premiarli per l'impegno e per i risultati, piuttosto che per la fortuna di essersi ritrovati nel momento giusto in cui c'era il concorso giusto. Non lo sprint , ma la progressione, per usare una metafora sportiva.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Ecco perché questa riforma fortemente voluta da lei, Ministro, ha una portata storica; storica perché affronta nodi strutturali che hanno limitato per decenni la capacità del settore pubblico di attrarre, valorizzare e trattenere i talenti che, spesso, sceglievano altre strade; storica perché restituisce alla dirigenza della pubblica amministrazione un ruolo centrale, un ruolo strategico nella realizzazione delle politiche pubbliche; storica perché introduce, per la prima volta, criteri di selezione che, appunto, sono basati su un unico valore: il merito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308801_19",
+      "politician_name": "BOF Gianangelo",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Presidente, onorevoli colleghi, Ministro, sentendo questo dibattito in Aula in questi giorni e, soprattutto oggi, da amministratore - perché faccio il sindaco dal 2007 - sono tornato indietro nel tempo; mi ricordo quel 2009 quando c'era il Governo Berlusconi e un Ministro che si chiamava Brunetta che introdusse per la prima volta i piani performance. Non nego che, in quegli anni, all'inizio, vedevamo questa norma come una norma un po' strana, perché tutto ciò che è nuovo è strano, ma, con il mio segretario, decidemmo pedissequamente: è una legge dello Stato, si applica e vediamo poi gli effetti nel momento in cui la si è applicata. Perché, vedete, noi del centrodestra siamo ancora quelli che ritengono che le norme, quando vengono approvate dai rappresentanti del popolo, vadano rispettate. Non interpretate, applicate o disapplicate a seconda del proprio credo politico e a seconda della posizione che si ricopre in quel momento, ma le norme dello Stato vanno applicate. L'abbiamo applicata e posso dire, con esperienza personale, che quella norma ha funzionato; ha creato una situazione di premialità, ha creato una situazione di progresso e, a distanza di tempo, posso dire che ha prodotto soddisfazione sia per i cittadini, ma anche per i lavoratori. Quindi criticare una norma… io sento delle critiche che poi snocciolerò nella fase successiva.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308801",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ministro, onorevoli colleghe, onorevoli colleghi, in queste ore così difficili e così terribili, in un momento in cui non solo il peso, ma il futuro dei Paesi, delle democrazie così come le abbiamo conosciute, sembra in bilico, portare in Parlamento una riforma della pubblica amministrazione, delle modalità di valutazione, di selezione delle donne e degli uomini che hanno l'onore e l'onere di far parte della nostra macchina amministrativa, di guidarla, significa mandare un messaggio non solo a 3 milioni e 400.000 lavoratrici e lavoratori - che non dovremmo mai smettere di ringraziare per quello che fanno ogni giorno, in condizioni sempre più difficili nel nostro Paese perché ho sentito parlare di retribuzione: non dobbiamo mai dimenticare che dal 2021 a oggi, negli ultimi 4 anni, il costo della vita è aumentato tantissimo, il potere d'acquisto è sceso del 9 per cento, significa una mensilità in meno, significa che per ogni lavoratrice e lavoratore c'è una mensilità in meno alla fine di ogni mese -, ebbene non solo a loro stiamo mandando questo messaggio, ma anche a tutti i cittadini da cui dipendono i servizi essenziali che offre la pubblica amministrazione: la sanità, la scuola, i trasporti, la cultura, lo sviluppo, le imprese, la competitività. Dipende tutto dalla qualità della nostra macchina amministrativa. È, però, anche un messaggio al mondo: spiega bene chi siamo oggi, cosa vogliamo diventare, qual è l'azione del nostro Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). … di aver cercato di piegare anche il nostro Paese, internamente, a una legge del più forte, che rischia solo di renderci più divisi, più fragili. Per questo voteremo contro questa proposta e voteremo contro tutto quello che state portando avanti (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308814_19",
+      "politician_name": "MAIORANO Giovanni",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, membri del Governo, intervengo per dichiarare, fin da subito, con convinzione, il voto favorevole del gruppo di Fratelli d'Italia al provvedimento in esame. Oggi non votiamo un provvedimento qualunque, oggi non compiamo un atto neutro. Oggi questo Parlamento è chiamato a fare una scelta politica netta, una scelta che evidenzierà chi governa assumendosi responsabilità rispetto a chi, invece, ha preferito non decidere quando ne ha avuto la possibilità. Con il voto di oggi decidiamo se continuare a difendere un sistema che per anni non ha funzionato oppure se avere finalmente il coraggio di cambiarlo. Fratelli d'Italia questa scelta l'ha fatta senza tentennamenti, senza indugi, senza inciuci, senza ambiguità, senza giri di parole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308814",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Grazie, Presidente. Io ho votato contro il precedente provvedimento del Ministro Zangrillo, quello sul reclutamento, perché non lo condividevo. Voto a favore di questo, perché lo condivido. In questo la penso come Carlo Cottarelli, un ex senatore del Partito Democratico, vicino anche ad altre forze politiche. Allora, in due minuti si fa poco, ma io ho ascoltato in questo dibattito le opinioni contrarie. Le opinioni contrarie sono quelle sulle quote, su cui ho già detto ieri. Purtroppo, se noi non mettiamo quote di differenziazione, il sistema tende ad appiattire tutti verso le valutazioni eccellenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). …garantire l'implementazione quando andate a fare i contratti collettivi. Mi attaccherò al suo collo per assicurarmi che questi principi vengano applicati, ma non farò mai opposizione ideologica per cercare un serbatoio di voti nella pubblica amministrazione che sta rovinando un vero atteggiamento riformista e liberale in questo Paese (Applausi del deputato Steger) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, con lettera pervenuta in data odierna, il presidente del gruppo parlamentare Fratelli d'Italia ha reso noto che, in data 27 gennaio 2026, l'assemblea del medesimo gruppo ha nominato vicepresidente il deputato Stefano Giovanni Maullu (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della proposta di legge n. 2336-A ​: “Disciplina dell'attività di relazioni istituzionali per la rappresentanza di interessi” e delle abbinate proposte di legge nn. 308 ​- 983 ​- 1700 ​- 1894 ​- 2283 ​.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307857_19",
+      "politician_name": "PAGANO Nazario",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. Comunico che su tutte le proposte emendative depositate in Assemblea sulla proposta di legge n. 2336-A ​ in materia di disciplina dell'attività di relazioni istituzionali per la rappresentanza di interessi, il parere da parte del relatore è contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307857",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Non ho fatto in tempo ad entrare in Aula dal Comitato dei nove per fare un breve intervento sul complesso delle proposte emendative. Non si può fare più? Non ho fatto in tempo, Presidente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …approfitto dell'emendamento 1.1 a mia prima firma per fare un breve intervento, veramente brevissimo, sul complesso delle proposte emendative - anche se approfitto, ripeto -, e su questo emendamento. Solo per testimoniare che…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, ovviamente noi voteremo a favore del mio emendamento. Solo per testimoniare che l'atteggiamento del MoVimento 5 Stelle, sia durante la fase dell'indagine conoscitiva promossa dal presidente di Commissione - anche noi abbiamo approvato la relazione finale, abbiamo votato favorevolmente -, sia in sede referente, in fase emendativa, in Commissione, è stato assolutamente costruttivo e propositivo. Noi l'abbiamo già detto in discussione generale, intervenendo lunedì in discussione generale: noi riteniamo che il Paese abbia bisogno di una legge che regoli la rappresentanza di interessi. Ne siamo così convinti che, già nel corso della scorsa legislatura, riuscimmo nel risultato storico - però, purtroppo, non riuscimmo poi ad arrivare a dama - di approvare una proposta di legge sulla rappresentanza di interessi in prima lettura, qui, in questa Camera. Era una proposta di legge che raccoglieva le sensibilità di tutti i gruppi nella scorsa legislatura. Noi avevamo la nostra, a prima firma del collega Francesco Silvestri, che ha ridepositato la sua proposta di legge anche in questa legislatura, che è abbinata alle proposte di legge di cui oggi discutiamo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per segnalare particolarmente questo emendamento, che introduce, al comma 2, dopo la lettera b) , la finalità di agevolare l'individuazione delle responsabilità delle decisioni assunte. Questo emendamento coglie assolutamente il nucleo centrale di questa nuova normativa sulla rappresentanza di interessi, che è proprio di rendere trasparente il processo che porta alla formazione delle leggi e degli atti di natura legislativa, agevolando quelle che sono le responsabilità delle decisioni assunte. Quindi, intendere come trasparente, come tracciabile da parte del cittadino e da parte delle istituzioni, i percorsi che si sono seguiti per la formulazione di quel determinato atto o di quella proposta di legge o di quell'atto di natura normativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …costituzionale delle modifiche apportate, ha espressamente invitato il Parlamento a recepire questa nuova normativa. Essendo il mio tempo finito, mi riservo di completarlo in un successivo intervento (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Quindi, Presidente, come avevo preannunciato - spero non intendiate preannunciato come minacciato -, completo il mio precedente intervento, perché questo lavoro così importante che è stato svolto ha portato a un progetto di legge che ha molti punti di condivisione. Il primo, e principale, come cercavo di dire già prima, è quello di sanare un vuoto normativo, per il quale c'è stato un invito da parte della Corte costituzionale proprio a provvedere, nel segno di una democrazia che possa essere sempre più trasparente, sempre più tracciabile ai cittadini, che possa davvero esprimere un percorso normativo evidente e conoscibile da parte dei cittadini stessi e non si risolva in un dibattito nel chiuso delle stanze della politica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Voglio ricordare anch'io quello che ci ha portato a questo provvedimento: è stata un'indagine conoscitiva fatta dalla Commissione affari costituzionali, iniziativa promossa dal presidente Nazario Pagano, che voglio ringraziare anche qui, perché effettivamente ha cercato di portare avanti un punto di vista, un contributo, che ha determinato il fatto di avere oggi una proposta di legge che, sostanzialmente, va a coprire - lo diceva prima il collega Alfonso Colucci, e io sono d'accordo - un vuoto normativo. Credo sia accaduto poche volte che la Corte costituzionale abbia lanciato un richiamo al Parlamento e si è potuto immediatamente rispondere, e la proposta è in campo e tra pochi giorni sarà approvata. Ci sono molti segnali positivi, anche l'iter in Commissione è stato collaborativo ed emendamenti, anche delle opposizioni, sono stati accolti. Ciononostante, oggi ci troviamo di fronte a un quadro che, per l'ennesima volta, offre un parere negativo, da parte della maggioranza, rispetto a tutti gli emendamenti proposti dalle opposizioni. Il nostro approccio è stato collaborativo, lo dicevo prima, anche in questa occasione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Sì, Presidente, colgo anch'io l'occasione di questo emendamento, come hanno fatto i miei colleghi, per dire alcune cose che non ho avuto la possibilità di dire sul complesso degli emendamenti, perché anch'io ero al Comitato dei nove e sono entrata in Aula tardi. Voglio anch'io, intanto, ringraziare il presidente Pagano per il lavoro che è stato fatto in Commissione affari costituzionali, e voglio anch'io ricordare che questa proposta di legge è il frutto di un'indagine conoscitiva che ha visto, in Commissione affari costituzionali, partecipare professori universitari e i vari portatori di interesse, che hanno dato il loro contributo su un tema che è assolutamente di grande interesse, di grande sensibilità e, soprattutto, di grande importanza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo su questo emendamento perché è stato oggetto di discussione nel Comitato dei nove che si è tenuto poco fa e in quello che si è tenuto nella giornata di ieri. Questo è un emendamento che chiede di includere, all'interno della disciplina della rappresentanza di interessi, le attività delle organizzazioni sindacali e delle organizzazioni datoriali. Perché? Perché le organizzazioni sindacali e le organizzazioni datoriali sono rappresentanze di interesse per definizione, quindi, escludere da una legge sulla rappresentanza di interessi chi fa rappresentanza di interessi per definizione, a noi sembrava un controsenso. Sembrava anche un po' di annacquare la disciplina della legge.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Vorrei intervenire sugli emendamenti 3.12 Baldino e 3.13 Bonafe' e chiedere alla collega Baldino se posso sottoscrivere il suo emendamento, perché penso che sia particolarmente importante. Peraltro, è stato oggetto di una discussione, in questi giorni in Commissione, con il presidente; insomma, una discussione che tendeva a fare in modo che anche i sindacati e le associazioni imprenditoriali potessero essere inseriti nell'elenco dei portatori di interessi giustamente legittimi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. All'interno di questo articolo 3, relativo all'ambito di applicazione di questa norma, in uno spirito costruttivo e collaborativo - già i colleghi che mi hanno preceduto hanno raccontato la postura con cui abbiamo affrontato questo provvedimento, convinti della sua importanza - con questi emendamenti 3.1001 Bonafe' e 3.1002 Gadda volevamo introdurre, nella valutazione sull'ambito di applicazione, e, quindi, sulle disposizioni che non si applicano ad alcuni gruppi, una riflessione anche sulle associazioni ed enti del Terzo settore. Infatti, evidentemente, il Terzo settore e il mondo associativo relativo al Terzo settore sono una grande ricchezza del nostro Paese che ci differenzia anche da altri Paesi europei e da altri Paesi nel mondo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Io chiedo alla Sottosegretaria di poter accantonare questo emendamento e di rivalutare il parere contrario perché, come ricordava il collega Ciani, le peculiarità degli enti del Terzo settore sono riconosciute dalla riforma del Terzo settore, da quel decreto legislativo n. 117 che ha continuato nel corso del tempo, anche in questo Governo, a mostrare i suoi effetti. Proprio in quella riforma si citano le attività di interesse generale svolte dal Terzo settore senza scopo di lucro. Quindi, chiedo al Governo, davvero e seriamente, di valutare la sua posizione perché mettere sullo stesso piano soggetti diversi, che nascono per finalità diverse e che hanno appunto modelli organizzativi molto differenti dall'ambito di applicazione di questo testo normativo credo che porterà non maggior trasparenza, non maggiore chiarezza, ma più confusione, più iniquità. Quindi, faccio formalmente questa richiesta di accantonamento dell'emendamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Bene, richiesta di accantonamento pervenuta e registrata. Hanno risposto facendo dei cenni negativamente sia il relatore, sia il Sottosegretario. Ha chiesto di parlare il presidente Pagano. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il Governo immagino sia conforme. Se vuole, se insiste, la poniamo in votazione senza registrazione dei nomi. Può intervenire un deputato contro e uno a favore. Chi è che interviene a favore? Nessuno? Ha chiesto di parlare il deputato Ciani. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. La proposta della collega Gadda mi sembrava andasse in una direzione giusta, perché accantonare tali emendamenti avrebbe voluto dire avere modo di riflettere maggiormente, nello spirito con cui abbiamo condotto le interlocuzioni tra maggioranza e opposizioni, su questo tema; e avrebbe introdotto una riflessione ulteriore su un ambito che è normato da una norma specifica, anche una norma recente, quindi non norme da aggiornare, e che rischia di creare pastoie burocratiche e difficoltà a tutta una serie di enti e associazioni di cui - ribadisco - l'Italia va orgogliosa in ogni ambito e che noi andremo ad aggravare. Quindi, chiederemmo un accantonamento perché ci possa essere una maggiore riflessione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Questo è l'ultimo, anzi il penultimo di una serie di emendamenti - perché c'è anche il prossimo che vede anche altre firme di colleghi dell'opposizione -, in cui chiediamo una cosa molto semplice: chiediamo di sostituire il CNEL con l'Agenzia per la concorrenza, l'AGCM. Perché? Ci spiegano che la scelta del CNEL è stata fatta principalmente - questo spiega anche il parere negativo della V Commissione - sulla base di ragionamenti di finanza pubblica. Ora, il nostro gruppo è sempre stato molto, molto attento ai conti pubblici e non ci spingeremmo ad incentivare la spesa pubblica, se non ritenessimo che questa spesa fosse ampiamente giustificata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Vorrei chiedere alla collega Pastorella, nonostante sia davanti a me, attraverso di lei, di poter sottoscrivere questo emendamento… Perché mi guarda male, Presidente? Ah, no… Ma comunque nel sottoscriverlo, vorrei dissentire dalla collega Pastorella, la quale ha detto “senza nulla togliere al CNEL”. Io invece penso che dovremmo togliere tutto al CNEL, se fosse possibile togliere il CNEL dalla circolazione, come abbiamo provato a fare con una riforma costituzionale che, purtroppo, non ha funzionato, a meno che il mio retropensiero - ma non voglio crederlo, signor Presidente - è che, siccome vi è scoppiato in mano lo scandalo del raddoppio dello stipendio del presidente del CNEL e siete dovuti tornare sui vostri passi, voi stiate adesso cercando un motivo e un alibi perché, dopo che date questa competenza al CNEL, così potrete spiegarci che volete raddoppiare lo stipendio dell'onorevole Brunetta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, grazie, Presidente. Vorrei ribadire quanto detto dai colleghi, stando in Commissione bilancio. Il problema si è presentato alla mia domanda: ma perché siete contro il passaggio? O meglio ancora: ma non c'è una valutazione economica di quanto possa costare fare un'attività del genere? Perché, in passato, in Commissione bilancio abbiamo dato pareri negativi ad attività ben più leggere, cioè anche solo la gestione di una tabellina online ha ricevuto un parere contrario. Abbiamo provato a chiedere… scusate…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Abbiamo provato a chiedere al Governo: ma quanto costa quest'attività? Perché tenere un registro non è come fare una tabellina online. La risposta del Governo è stata: noi l'abbiamo chiesto al CNEL e ci hanno detto che riescono a farlo con le risorse vigenti. E, poi, in seconda sede: AGCM ci ha già detto che loro non hanno le risorse per poterlo fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Quindi, probabilmente, considerando che è arrivato anche l'onorevole Mule' che sicuramente è d'accordo con me in questo tipo di valutazione, io confermo quello che ho già detto in occasione dell'emendamento 4.5 Pastorella, con riferimento al nostro emendamento 4.6 Boschi, che è ovviamente identico a quelli dell'onorevole Pastorella e dell'onorevole Baldino.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo alla commemorazione delle vittime del disastro aereo di Brema del 1966. Colleghi, silenzio, per favore. Lasciate l'Aula in silenzio, stiamo commemorando le vittime di un disastro aereo, segnatamente le vittime del disastro di Brema del 1966.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d300497_19",
+      "politician_name": "BARELLI Paolo",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, signor Presidente. Onorevoli deputate e deputati, sessant'anni fa, il 28 gennaio del 1966, nel cielo plumbeo di Brema, si consumò una delle tragedie più laceranti della storia dello sport italiano: un aereo della Lufthansa, partito da Francoforte e diretto in Germania Ovest, esattamente a Brema, dove si svolgeva uno dei più importanti meeting di nuoto internazionali, precipitò in fase di atterraggio. Nessun superstite. Tra le 46 vittime: 7 giovani atleti dai 17 ai 22 anni, un giornalista della RAI e un grande allenatore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "300497",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Colleghi, indossare la maglia azzurra a 17-20 anni, assistere a quell'età allo sventolare della bandiera italiana, ascoltare e cantare l'inno nazionale ti fa sentire un gigante, pensi che tutti gli italiani ti stiano guardando o, comunque, all'indomani della gara, ti giudicheranno. Senti di non rappresentare solo te stesso, ma tutta la tua Nazione. Non c'è più solo la sfida con gli altri atleti in vasca né quella contro te stesso per provare a migliorare le tue prestazioni, per cercare di dimostrare di aver fatto dei progressi. Il cuore esplode di emozione, ti sale l'adrenalina e hai una grande paura: una paura di non essere all'altezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 603
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2026-01-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Il 28 gennaio 1966, il volo Lufthansa 005 decolla da Francoforte con 46 persone a bordo; tra loro, 7 giovani atleti della nazionale italiana di nuoto, il loro allenatore e il telecronista della Rai che avrebbe raccontato il meeting internazionale di Brema, dove stavano andando a gareggiare. Stavano volando letteralmente verso il loro futuro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0603",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 603
+      }
+    }
+  ]
+}

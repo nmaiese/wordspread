@@ -1,0 +1,71 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0632",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-03-13",
+    "title": "Assemblea — Seduta n. 632 del 2026-03-13",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0632",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 632
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-03-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 82, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0632",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 632
+      }
+    },
+    {
+      "politician_id": "camera_d307459_19",
+      "politician_name": "FONTANA Ilaria",
+      "date": "2026-03-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi stiamo parlando dei siti orfani, raccontiamo anche come sono nati, però. Grazie all'allora Ministro Costa, oggi Vicepresidente della Camera, abbiamo dato una definizione ai siti orfani e li abbiamo definiti come dei siti potenzialmente contaminati in cui non è stato avviato o si è concluso il procedimento per il quale il responsabile della contaminazione non è individuabile, oppure non provvede agli adempimenti. E questo è stato importantissimo, però abbiamo anche costruito una narrazione prima di arrivare al finanziamento dei siti orfani e alla loro definizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0632",
+      "metadata": {
+        "id_persona": "307459",
+        "seduta": 632
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2026-03-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Grazie, Presidente. Come noto, il PNRR è un programma basato sulla performance e, ai fini dell'erogazione delle risorse, prevede il raggiungimento di specifici milestone e target. Tali obiettivi, nel caso dell'investimento in esame (Misura M2C4, Investimento 3.4), riguardano l'adozione di un Piano d'azione che individui i siti orfani di tutte le regioni e le province autonome oggetto di finanziamento con risorse PNRR, nonché la riqualificazione di almeno il 70 per cento della superficie del suolo dei siti individuati dal predetto Piano. Il target finale è da raggiungere inderogabilmente entro il 30 giugno 2026, come da ultima decisione di esecuzione approvata, che ha riallineato la data di conclusione dell'Investimento al fine di favorire il buon esito degli interventi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0632",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 632
+      }
+    },
+    {
+      "politician_id": "camera_d307459_19",
+      "politician_name": "FONTANA Ilaria",
+      "date": "2026-03-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Pur ringraziando il Sottosegretario della risposta, poi sarà mia premura leggerla con attenzione, non posso assolutamente essere soddisfatta purtroppo - lo dico con dispiacere -, perché questa risposta, in realtà, non la sta dando a una collega di opposizione o al MoVimento 5 Stelle, ma a interi territori, e questa è la cosa che mi dispiace di più. Noi avevamo creato una narrazione, l'ho raccontata prima proprio per questo. Questi 600 milioni, che anche il Sottosegretario ha raccontato nella sua relazione, non sono nati per caso, ma c'è stata una volontà politica: sono nati da una legge di bilancio - è stata creata la definizione che prima non c'era -, sono stati creati dei finanziamenti, sono stati messi a disposizione delle comunità, quindi sui territori, perché la visione, la lungimiranza e la volontà di occuparsi di bonifiche c'erano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0632",
+      "metadata": {
+        "id_persona": "307459",
+        "seduta": 632
+      }
+    }
+  ]
+}

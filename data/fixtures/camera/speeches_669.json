@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0669",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-06-04",
+    "title": "Assemblea — Seduta n. 669 del 2026-06-04",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 669
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 97, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per chiedere un'informativa urgente al Ministro Tajani per la situazione in Libano: 3.516 morti, 10.674 feriti, 200 bambini morti e 800 bambini feriti. Siamo all'alba di una nuova Gaza e su questo il Ministro Tajani deve venire a riferire. Sappiamo che tra le condizioni per il cessate il fuoco tra l'Iran e gli Stati Uniti c'è la sospensione dei bombardamenti sul Libano e, mentre si chiede questo, Israele continua a bombardare il Libano e continua a marciare su Beirut. Su questo atteggiamento di Israele, che si sente il padrone del mondo, dobbiamo assolutamente intervenire, perché il Libano non può essere l'ennesima Gaza e non possiamo essere complici di un nuovo genocidio. A Israele è stato permesso di tutto: di invadere Paesi sovrani, di realizzare un genocidio di oltre 100.000 morti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Per una volta vorrei citare Trump che, rivolgendosi a Netanyahu, dice quello che forse ognuno di noi ha pensato in questi anni: “Sei un …” - ovviamente non posso dire una parolaccia - “pazzo. Saresti in prigione se non fosse per me”. Trump ha davvero ragione. “Ti sto salvando il…”. Anche questo non si può dire. “Tutti ti odiano adesso. Tutti odiano Israele per questo”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe e onorevoli colleghi, rappresentante del Governo, intervengo a nome del gruppo del Partito Democratico per unirci anche noi nella richiesta di informativa urgente. È necessaria la presenza in Aula del Ministro Tajani, perché il Governo italiano non può continuare a fare finta di non vedere quello che sta accadendo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307334_19",
+      "politician_name": "VINCI Gianluca",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Per una migliore gestione dei lavori odierni, direi di continuare con le dichiarazioni di voto sul DDL Energia nucleare. Quindi, chiedo l'inversione, anticipando direttamente il punto 7.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307334",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Quindi, c'è una richiesta di inversione dell'ordine del giorno, nel senso di passare direttamente al punto 7, recante il seguito della discussione del disegno di legge n. 2669-A ​ in materia di energia nucleare sostenibile. Dunque, darò la parola ai sensi dell'articolo 41, comma 1, del Regolamento a un deputato contro e a uno a favore per non più di cinque minuti ciascuno. Ci sono interventi contro questa richiesta? Ha chiesto di parlare la deputata Alifano. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, noi ovviamente ci opponiamo a questa inversione dell'ordine dei lavori per una ragione molto semplice. Sembra che quasi le opposizioni siano ostaggio dei diktat della maggioranza. Francamente, a questo punto, non riusciamo a comprendere il valore di quanto disposto nella Conferenza dei capigruppo, cioè si decide una cosa qualche giorno prima e poi si viene in Aula e si cambia sentimento. Già ieri abbiamo assistito a questa inversione dell'ordine dei lavori, alla quale ci siamo opposti, visto e considerato che, comunque, ci sarebbero dovuti essere in Aula provvedimenti sicuramente di maggiore urgenza. Invece, si è andati avanti con questo provvedimento che, come dicevamo già ieri, non riveste assolutamente il carattere dell'urgenza. Ciononostante, abbiamo continuato a esaminare questo provvedimento. Ora, anche stamattina, ci ritroviamo la stessa questione, la solita richiesta di inversione dell'ordine dei lavori, alla quale noi ovviamente ci opponiamo proprio perché altrimenti viene vanificato quanto viene poi deciso in sede di Conferenza dei presidenti di gruppo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Volevo capire come proseguiamo dopo questo provvedimento. Per organizzare i nostri lavori e, ovviamente, eventualmente allertare i colleghi che devono intervenire, volevamo capire quali provvedimenti discuteremo dopo questo relativo al nucleare, quindi dopo le dichiarazioni di voto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Deputato Fornaro, per la Presidenza si riprende dall'ordine del giorno originario, quindi si torna al punto 1: Discussione della Relazione della Giunta per le autorizzazioni sulla richiesta…. al netto, ovviamente, di altre richieste. Ha chiesto di parlare, sull'ordine dei lavori, il deputato Vinci. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307334_19",
+      "politician_name": "VINCI Gianluca",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Sempre per una migliore organizzazione dei lavori, vista l'urgenza del provvedimento di proroga termini, ci sarà un'ulteriore richiesta di inversione dell'ordine del giorno, se la Camera lo voterà, per passare, ripeto, al provvedimento di proroga termini. Non si poteva fare in contemporanea, quindi c'è da farlo provvedimento per provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307334",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Onorevoli colleghi, signori del Governo, Ministro Pichetto Fratin, quello di oggi non è un referendum sul nucleare, altrimenti ce la saremmo cavata con un “sì”. Quello di oggi, però, qualcuno lo sta trasformando in un referendum sul nucleare. Noi avremmo detto “sì” al nucleare, perché lo diciamo da sempre. Quello di oggi, in realtà, è un provvedimento nel quale occorre entrare nel merito e valutare la capacità di questo Governo di affrontare un tema così importante per il nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). …è chiaro che noi siamo favorevoli al nucleare. Peraltro, vorrei dire alla maggioranza che tutte le obiezioni che sono state fatte non sono state ideologiche, anche dai colleghi. Meglio tardi che mai, allora? No, non è un meglio tardi che mai, perché voi arrivate tardi e male.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Auspica che si creino rapidamente le condizioni per investire in ricerca e in produzioni, non crede nelle vostre capacità di farlo. Per questo motivo, annuncio il nostro voto di astensione (Applausi dei deputati del gruppo Italia Viva-il Centro-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Signor Ministro e colleghi, oggi votiamo un provvedimento che non è soltanto tecnico ma profondamente politico e di visione per il futuro. Mi onoro di essere relatrice insieme ai colleghi Squeri, Zinzi e Zucconi, che ringrazio per il lavoro svolto insieme alle Commissioni congiunte VIII e X.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). …per essere all'avanguardia in questo settore. Non vogliamo continuare a guardare al passato: lavoriamo oggi nel presente per costruire il futuro. La nostra idea di politica è questa: il coraggio di scelte anche difficili oggi, per costruire un'Italia protagonista domani (Applausi dei deputati del gruppo Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto gli studenti e i docenti dell'Istituto comprensivo statale “Bucchianico”, in provincia di Chieti, come anche gli studenti e i docenti dell'Istituto comprensivo “Castelverde” di Roma, che sono qui ad assistere ai nostri lavori in tribuna (Applausi) . Li ringraziamo per la loro visita e gli auguriamo ogni fortuna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signor Ministro, era l'8 novembre 1987: 29.862.000 italiani dissero “no” al nucleare, mettendo “sì” all'abrogazione della legge. Era il 12 giugno 2011: 25.609.000 italiani dissero “no” al nucleare con la legge voluta da Silvio Berlusconi, mettendo “sì” all'abrogazione della legge. Cinquantacinque milioni di italiani hanno detto “no” negli anni scorsi, nei decenni scorsi, con ben due distinti referendum (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Vi state semplicemente limitando a mettere le mani nelle tasche degli italiani per fermare un grande processo, che distribuisce l'energia in maniera democratica, popolare, per far pagare di meno l'energia agli italiani, invece di continuare a mettere le mani nei portafogli degli italiani (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Ministro, è un dibattito che abbiamo ascoltato con interesse nel corso delle Commissioni delle scorse settimane, nel corso anche della giornata di ieri. Potevamo affrontare questo tema facendo solo due errori e credo che li abbiamo fatti entrambi, dividendo quest'Aula in una guerra assurda tra chi è a favore delle rinnovabili e chi è a favore del nucleare, come se ci fosse un discrimine su questo, e non comprendendo che, in un mix energetico che debba esistere e contemplare diverse fonti energetiche, c'è chi pensa che il nucleare sia quella fonte energetica che possa compensare la mancanza delle rinnovabili e c'è chi, evidentemente, pensa che si debba andare avanti come si va oggi, o con il gas o con il carbone, perché di altre grandi soluzioni e di Paesi nel mondo che vanno al 100 per cento con le rinnovabili ancora non ne vediamo, nonostante qualcuno ce lo spieghi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). …ma lo dobbiamo fare in questi tempi. Annuncio il nostro voto favorevole su questo provvedimento (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, gentili colleghe e colleghi, se oggi gli italiani pagano l'energia più cara d'Europa le cause sono le scelte sbagliate, sempre a favore delle aziende che operano nel settore del fossile, assunte dal Governo Meloni. Siamo maglia nera in Europa anche per crescita del PIL e queste due cose non sono affatto separate. È chiaro che in Italia, in tema di politiche energetiche, avete sbagliato tutto. La Spagna, per dirne una, 5 anni fa pagava l'energia come noi, nonostante il nucleare. Oggi le famiglie e le aziende spagnole pagano l'energia la metà di quelle italiane e la Spagna cresce 5 volte più dell'Italia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Possiamo portare un bicchiere d'acqua al collega Cappelletti? È in arrivo. Intanto, sospendiamo un attimo il tempo, per favore. Va meglio? Vediamo. Aspetti che riaccendiamo il microfono. Porti pazienza. Prego.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Diciamo la verità: il vero obiettivo di questa spinta nucleare è quello di rallentare ulteriormente la corsa alle rinnovabili e questo per tutelare gli interessi dell'azienda del fossile. Insomma, sembra solo un diversivo per rallentare la transizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306214_19",
+      "politician_name": "SQUERI Luca",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Facciamo un passo indietro, da dove siamo partiti. Siamo a inizio legislatura. L'Europa è sconvolta dall'inizio della guerra Russia-Ucraina, un impatto devastante sul sistema energetico che mette in crisi quello che è il trilemma energetico: la sicurezza energetica, dove andiamo a prendere il gas, arrivano costi insostenibili e, poi, c'è il terzo elemento, la decarbonizzazione che è la novità di questo millennio, per cui trovare energia pulita e decarbonizzata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306214",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307475_19",
+      "politician_name": "GUSMEROLI Alberto Luigi",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghe e colleghi, si è parlato - per chi è contro questa delega al Governo sul nucleare - del referendum. Noi ci siamo posti, in Commissione attività produttive, proprio questo tema e, proprio perché ce lo siamo posti con serietà, abbiamo voluto affrontare il tema del nucleare con serietà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307475",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "A proposito di nuove generazioni, saluto gli studenti e i docenti dell'Istituto comprensivo “Castelverde” di Roma, che assistono ai nostri lavori dalle tribune (Applausi) . Lo avevamo già fatto per una precedente delegazione poco fa. Li ringraziamo per la loro presenza e auguriamo loro ogni fortuna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d309220_19",
+      "politician_name": "PANDOLFO Alberto",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …sulle rinnovabili, sull'innovazione già disponibile, investire nell'efficienza energetica, nello stoccaggio, nelle reti intelligenti, nelle comunità energetiche. È costruire quella filiera industriale italiana che può creare occupazione di qualità, ridurre le importazioni di combustibili ed abbassare strutturalmente il costo dell'energia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "309220",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307142_19",
+      "politician_name": "ZUCCONI Riccardo",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Colleghi, membri del Governo, io sono rimasto abbastanza deluso dal dibattito che c'è stato in Aula in questi giorni, in parte anche da quello che si è sviluppato nelle Commissioni, perché va di scena, si vuol far andare in scena, ancora una volta, la contrapposizione fra rinnovabili e nucleare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307142",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "…perdoni un secondo. Vediamo se l'Aula si degna di osservare il silenzio necessario per non disturbare la sua dichiarazione di voto. Aspettiamo insieme che ciascuno guadagni la propria postazione, si segga, smetta di parlare ovvero si rechi fuori dall'Aula per farlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307142_19",
+      "politician_name": "ZUCCONI Riccardo",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie. Ancora sulle rinnovabili, una cortesia: smettete di artefare le posizioni di Fratelli d'Italia e di tutti i partiti che compongono il Governo Meloni sulle rinnovabili. Io voglio segnalare che il Governo Meloni, nel triennio 2023-2025, ha portato ad un aumento della produzione da impianti di fonti rinnovabili di circa 21 gigawatt, quando nel triennio precedente - quindi i Governi Conte e Draghi - l'aumento era stato soltanto di 5,4 gigawatt installati. Quindi il Governo Meloni - non diciamo queste cose - sta implementando gli impianti di rinnovabili.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307142",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307142_19",
+      "politician_name": "ZUCCONI Riccardo",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). …pazzi scatenati, allora dico: un pochino più di duttilità. Le criticità esistono come sempre, i costi vanno governati con l'intelligenza finanziaria. La ringrazio Presidente, dico soltanto questo inciso: lì dobbiamo andare a incidere, perché nella Repubblica Ceca, ma anche in Finlandia, hanno trovato gli strumenti finanziari e il costo dell'energia prodotta dagli SMR si abbassa, se si abbassa il costo degli interessi che sono necessari per realizzarli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307142",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto gli studenti e gli insegnanti dell'Istituto comprensivo statale “Enrico Di Nicola”, di Casalnuovo di Napoli, in provincia di Napoli, che assistono ai nostri lavori dalle tribune (Applausi) . Li ringraziamo e gli auguriamo ogni fortuna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Grazie, Presidente. A nome del Partito Liberaldemocratico, io voterò a favore di questo disegno di legge per due motivi: uno è che io sono in questo Parlamento, perché nel 2022, mi candidai assieme ad altri colleghi con una forza politica, che fu chiamata Terzo polo, che aveva il nucleare nel programma elettorale e, anche se la coerenza in politica è merce rara e anche un po' sopravvalutata, se non cambiano le circostanze, essere coerente col mandato elettorale è sempre qualcosa di particolarmente piacevole (Applausi di deputati dei gruppi Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306214_19",
+      "politician_name": "SQUERI Luca",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore per la X Commissione . Grazie, Presidente. A nome anche dei colleghi relatori, volevo ringraziare gli uffici della X e dell'VIII Commissione per il solito lavoro di diligenza e supporto che hanno dato ai membri delle Commissioni per portare avanti questo provvedimento importante.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306214",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307334_19",
+      "politician_name": "VINCI Gianluca",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Intervengo per chiedere l'inversione dei lavori, con l'anticipazione del punto n. 5. Quindi, passare direttamente al disegno di legge recante proroga di termini per l'esercizio di deleghe legislative di competenza del Ministero dell'Interno, che riguarda di fatto i Vigili del fuoco, che ha già avuto un forte intervento e lavoro da parte del Ministero e di collaborazione anche con tutte le associazioni sindacali. Visto che il tema è assolutamente urgente, chiedo l'inversione, quindi l'anticipazione del punto n. 5.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307334",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Sulla richiesta di inversione, che era già stata annunciata, dell'ordine del giorno, nel senso di passare direttamente al punto n. 5, recante il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2865 recante proroga di termini per l'esercizio di deleghe legislative di competenza del Ministero dell'Interno, darò la parola, ai sensi dell'articolo 41, comma 1, del Regolamento, a un deputato contro e ad un deputato a favore, per non più di cinque minuti ciascuno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Non possiamo che ribadire il disagio già espresso ieri. Siamo ormai al menù: abbiamo sostituito il calendario deciso nella Conferenza dei presidenti di gruppo da un menù alla carta, che la maggioranza decide di consumare a seconda delle sue esigenze. Per di più, lo ribadisco, signor Presidente, questo provoca il fatto di un sostanziale spostamento al prossimo calendario di due mozioni (I deputati Amendola e Bonelli: “Presidente!” ) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Vede, Presidente, le ribadisco il disagio, che spero comprendano anche i colleghi della maggioranza. In questa maniera saltano dal calendario due mozioni, che erano in quota, delle opposizioni: quella relativa al gioco d'azzardo e quella relativa al Patto di stabilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Anch'io cerco di essere fedele al programma elettorale, signor Presidente. Voterei a favore e invito a votare a favore e non capisco come il collega Fornaro continui a farci perdere del tempo con queste considerazioni di fronte al fatto che il collega Vinci, con la sua solita signorilità e con il suo solito garbo, ci informa e ci spiega che casualmente un altro provvedimento, sulla base del menù così come descritto dal collega Fornaro, è urgente, è urgentissimo. Stiamo parlando sempre di una delega. È urgentissimo!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2865: Proroga di termini per l'esercizio di deleghe legislative di competenza del Ministero dell'interno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307452_19",
+      "politician_name": "PRISCO Emanuele",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Interno . Sugli ordini del giorno n. 9/2865/1 Baldino e n. 9/2865/2 L'Abbate, espunte le rispettive premesse, il parere è favorevole con la seguente riformulazione: “a valutare l'opportunità di”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307452",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Allora, colleghi, quanto all'ordine del giorno n. 9/2865/1 Baldino, l'onorevole Baldino accetta la riformulazione, e l'onorevole L'Abbate suppongo altrettanto, in relazione al suo ordine del giorno n. 9/2865/2 . Bene.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Stavo pensando: addirittura potremmo fare una riforma del Regolamento grazie alla quale, per non perdere tempo, evitiamo anche che si facciano gli interventi. Tutto sommato, consegniamo e abbiamo risolto il problema. In questo caso, però, siamo ancora nel regime pseudo-democratico, quindi due parole le diciamo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Per approfondire le ragioni del nostro convinto voto favorevole a questo disegno di legge rimando alla relazione che chiedo al Presidente di poter depositare. Faccio solo due considerazioni. Quello che siamo chiamati a votare è un provvedimento tecnicamente essenziale, composto da soli due articoli. Eppure, dietro questa apparente semplicità, si nascondono due obiettivi strategici di assoluto rilievo per il Paese: il rafforzamento operativo del Corpo nazionale dei vigili del fuoco e la modernizzazione del sistema di tenuta e aggiornamento delle liste elettorali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Annuncio il voto di astensione del mio gruppo su questo provvedimento, ma questa astensione è accompagnata da profonde riserve nel merito e nel metodo. Troppe volte il Governo è negligente rispetto alle deleghe, perché riesce a far passare i molti mesi che vengono concessi senza mettere in campo i provvedimenti necessari per l'applicazione delle leggi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Anche io cercherò di essere molto rapido. Questo provvedimento ha ad oggetto la possibilità di consentire al Governo di avere una proroga sui termini già convenuti per legiferare su alcune materie, ovvero riordino del Corpo dei Vigili del fuoco e riorganizzazione delle liste elettorali e dell'elettorato attivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Questo provvedimento rafforza le capacità operative dei Vigili del fuoco, che sono un Corpo benemerito che soccorre e sostiene i cittadini, specie nei momenti più difficili di crisi. Questa legge consentirà l'aggiornamento delle liste elettorali, che vengono finalmente digitalizzate. È una grande, piccola misura che può rendere l'espressione suprema, massima della democrazia, cioè il momento del voto, più rapido, facile e sicuro. La digitalizzazione è un processo nel quale crediamo moltissimo, e sul quale bisogna continuare a investire per rendere più facile la vita dei cittadini e meno costose le strutture dello Stato. Per tutte queste ragioni, il gruppo di Forza Italia voterà a favore del provvedimento (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307641_19",
+      "politician_name": "IEZZI Igor",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. I Vigili del fuoco rappresentano un importante presidio sul nostro territorio; un presidio di sicurezza soprattutto per i cittadini, sia per gli immobili e sia per l'ambiente, di fronte alle tante e nuove emergenze che dobbiamo fronteggiare. Con questo provvedimento diamo una prima risposta organizzativa a una delle loro questioni più importanti. Per questo, la Lega voterà convintamente favorevolmente a questo provvedimento (Applausi dei deputati del gruppo Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307641",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Voglio innanzitutto annunciare il voto di astensione del gruppo del Partito Democratico. Questo provvedimento riguarda la proroga dei termini di due leggi di delegazione. Si tratta della disciplina in materia di funzioni, compiti e rapporto di impiego del personale del Corpo nazionale dei vigili del fuoco, dopo il passaggio del rapporto d'impiego dal regime privatistico a quello di diritto pubblico. L'altra proroga dei termini è sulla legge per la revisione del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali attraverso processi di digitalizzazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Recuperiamo, in via del tutto eccezionale, l'intervento del collega Alfonso Colucci per un numero di minuti che sia compatibile, perché l'abbiamo chiamata, e quindi, in teoria, dovrebbe essere decaduto. Però, insomma, è già accaduto altre volte e quindi volentieri la ascoltiamo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo è anche un effetto dell'inversione continua dell'ordine dei lavori che produce queste anomalie. Presidente, colleghe e colleghi, il provvedimento che votiamo oggi è un provvedimento breve; si tratta di due articoli di poche righe, due proroghe di termini per l'esercizio di deleghe legislative di competenza del Ministero dell'Interno. Così le Camere vengono chiamate a concedere altro tempo, quando, invece, dovrebbero entrare nel merito di scelte che incidono direttamente sull'organizzazione dello Stato e sui diritti dei cittadini. È un metodo che è già noto a questa Assemblea: delega, rinvio, proroga e così via.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, con lettera pervenuta in data 4 giugno 2026, il deputato Erik Umberto Pretto ha comunicato di dimettersi dal gruppo parlamentare Lega-Salvini Premier chiedendo di essere conseguentemente iscritto al gruppo parlamentare Misto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che la Giunta delle elezioni, nella seduta del 4 giugno 2026, ha verificato non essere contestabili le elezioni dei seguenti deputati: VIII Circoscrizione - Veneto 2: collegio uninominale n. 01-Rovigo: Alberto Di Rubba; collegio uninominale n. 02-Selvazzano Dentro: Giulio Centenaro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro delle Infrastrutture e dei trasporti, il Ministro per la Protezione civile e le politiche del mare, la Ministra per la Famiglia, la natalità e le pari opportunità, il Ministro dell'Economia e delle finanze e il Ministro dell'Agricoltura, della sovranità alimentare e delle foreste.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d301459_19",
+      "politician_name": "RAVETTO Laura",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-FNV-F ). Grazie, Presidente. Ministro, la componente straniera in Italia è dell'8,5 per cento rispetto ai residenti. Eppure, le assegnazioni di alloggi di edilizia residenziale pubblica sono superiori a favore degli stranieri rispetto agli italiani del 40 per cento in alcune aree territoriali, con picchi del 50 per cento in alcuni comuni. Questo per via dell'applicazione dei criteri, che sono per lo più quelli dell'ISEE o del numero di figli, che vanno tutti a favore dei non comunitari o neo-comunitari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "301459",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Grazie. Proprio stamattina stavo lavorando con i tecnici del Ministero per il Piano casa. È imminente la nomina del commissario e l'obiettivo è, entro un anno, di mettere sul mercato 60.000 alloggi popolari ad oggi inutilizzati. È il più grande intervento riservato all'edilizia residenziale pubblica e sociale degli ultimi decenni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d307143_19",
+      "politician_name": "ZIELLO Edoardo",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-FNV-F ). Grazie, Presidente. Signor Ministro, la normativa è statale. Le linee guida permetterebbero a lei di invitare i presidenti di regione - lei ne ha elencati diversi - a inserire dei criteri per l'attribuzione dei punteggi funzionali alla formazione di graduatorie pubbliche per garantire una priorità e una premialità ai cittadini italiani. Può farlo direttamente lei, inviando linee guida, visto che le ultime, quelle che ho in mano (Il deputato Ziello mostra alcuni fogli) , risalgono al 2008, signor Ministro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "307143",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Signor Ministro, con avviso pubblico del 29 maggio 2025, il suo Ministero ha avviato la procedura di gara per l'affidamento in concessione del corridoio intermodale Roma-Latina. Al paragrafo 7 si prevede che, se il promotore ovvero il proponente non risultasse aggiudicatario, potrà esercitare entro 15 giorni il diritto di prelazione. Come lei sa, il nostro Paese è già in procedura di pre-infrazione da parte della Commissione per quanto riguarda l'autostrada A22, ritenendo illegittima questa procedura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 669
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2026-06-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Grazie. No, non intendiamo assolutamente annullare la gara. Il collegamento Roma-Latina rappresenta una delle infrastrutture più attese e strategiche per tutto il Lazio e per l'intero sistema della mobilità del Centro Italia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0669",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 669
+      }
+    }
+  ]
+}

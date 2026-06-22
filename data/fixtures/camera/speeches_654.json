@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0654",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-05-06",
+    "title": "Assemblea — Seduta n. 654 del 2026-05-06",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 654
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro dell'Istruzione e del merito, il Ministro della Salute e il Ministro delle Imprese e del made in Italy .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308925_19",
+      "politician_name": "TASSINARI Rosaria",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Ministro Valditara, il sistema degli Istituti tecnologici superiori, i cosiddetti ITS Academy, rappresenta una delle esperienze più avanzate e qualificanti nel panorama dell'istruzione terziaria professionalizzante, capace di coniugare formazione e fabbisogno del tessuto produttivo. Il rafforzamento degli ITS ha costituito, in passato, una proposta politica sostenuta con convinzione anche da Forza Italia, che è sfociata nell'approvazione della legge n. 99 del 2022, che ha rafforzato questo sistema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308925",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d300613_19",
+      "politician_name": "VALDITARA Giuseppe",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Istruzione e del merito . Signor Presidente, gentili onorevoli, i dati dell'anagrafe del Ministero testimoniano il pieno superamento degli obiettivi PNRR fissati per gli ITS. Gli iscritti sono già passati dai circa 11.000 del 2020 ai 40.854 attuali, a fronte di un target di 22.000.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "300613",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308925_19",
+      "politician_name": "TASSINARI Rosaria",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. La ringrazio, Ministro, per la risposta fornita, perché veramente i dati sono importantissimi e confortanti, e manifestano un impegno importante. Questo sistema degli ITS Academy, che è per noi di Forza Italia una scelta contingente e non è neanche successiva al PNRR, per noi è una visione, che Forza Italia sostiene da anni, che ha trovato un passaggio decisivo nella legge n. 99 del 2022. Noi abbiamo sempre creduto che fra la formazione secondaria e quella universitaria esistesse uno spazio da colmare; uno spazio fondamentale, troppo a lungo trascurato, che oggi gli ITS Academy stanno finalmente occupando.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308925",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Signor Ministro, anche a Noi Moderati sta molto a cuore il tema ITS Academy, ritenuto un sistema che dà risposte più concrete ed efficaci alla domanda di competenze tecniche avanzata dalle nostre imprese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d300613_19",
+      "politician_name": "VALDITARA Giuseppe",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Istruzione e del merito . Signor Presidente, gentili onorevoli, ho già illustrato, come è stato appena ricordato, i dati oggettivi, che confermano il ruolo strategico degli ITS, rispondendo alla precedente interrogazione. Gli ITS sono diventati un laboratorio di innovazione didattica particolarmente importante. La rete degli ITS vede una prevalenza di collaborazioni con imprese e associazioni di imprese che, insieme, coprono oltre la metà del partenariato, precisamente il 52,1 per cento dei partner degli ITS Academy.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "300613",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Grazie, signor Ministro, mi ritengo soddisfatta della risposta, e non soltanto per quanto riguarda i numeri che sono stati riportati, che dimostrano quanto il sistema ITS stia funzionando e sia in crescita, con i 40.000 iscritti, che risultano essere il quadruplo rispetto al 2022, ma anche con la proiezione rispetto alla riforma del “4+2”, che porta ad aumentarli. E qui vengo alla parte più rilevante di questa risposta, che è l'impegno sul futuro, quindi a trovare risorse aggiuntive, dalla prossima legge finanziaria, per assecondare questo trend di crescita, che è positivo per numero di studenti e per numero di percorsi, che però, poi, avrà necessità di finanziamenti perché vengano sostenuti e proseguano percorsi e numeri. E sono numeri di rilievo: non ho citato prima - lo voglio fare adesso - la percentuale assunzionale, una volta che gli studenti escono e si diplomano, che è del 90 per cento. Nel ritenere importante questo impegno, voglio ricordare che monitoreremo perché le risorse ci siano e siano aumentate, condividendo anche il meccanismo aggiuntivo che è stato dato, ovvero la possibilità di mettere a frutto i laboratori nelle ore non di lezione; quindi tutte tematiche assolutamente importanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Buongiorno Ministro, con il question time di oggi le sottoponiamo alcuni elementi di riflessione per quanto riguarda un tema che a noi sta molto a cuore, quello della sanità di territorio, delle case di comunità. Ci riferiamo, chiaramente, alla bozza di decreto che in questi giorni viene sottoposta all'opinione pubblica. Ci preoccupa soprattutto il fatto che, dopo quattro anni, si voglia operare con una mancanza di confronto. Capiamo bene che questo, probabilmente, è dovuto anche al ritardo con cui voi state attuando la Missione 6, che in fondo si tratta di tirare dritto per coprire questi ritardi, ma le diciamo: non ci sono solo gli immobili, c'è una sanità di territorio che è dove comincia la cura, dove si porta avanti la prevenzione, che richiede attenzione alle persone. Non vogliamo che si getti il bambino con l'acqua sporca.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d309048_19",
+      "politician_name": "SCHILLACI Orazio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Salute . Grazie, Presidente. Ringrazio gli onorevoli interroganti. In via preliminare, volevo evidenziare che, come già riferito nell'ultima seduta di interrogazioni a risposta immediata del Senato della Repubblica, è attualmente in corso un confronto con le regioni per garantire la tempestiva e piena operatività delle case di comunità, in attuazione del PNRR.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "309048",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie. Intanto, grazie Ministro per questa risposta che ho trovato sincera e trasparente. Ho anche apprezzato il cambio di linguaggio rispetto alla categoria dei medici di base relativamente ad alcune affermazioni che li vedeva come una corporazione che resisteva al cambiamento. Si figuri, poi, se da questi banchi trova contrarietà alle riforme, noi che abbiamo fatto delle riforme la cifra del periodo in cui siamo stati al Governo. La nostra non è affatto una contrarietà alla riforma. È chiaro che ce n'è bisogno ed è chiaro che il settore dei medici di famiglia è un settore in forte crisi ed è lì da leggere. Quello che non sarebbe stato giusto - e con l'occasione di oggi glielo ribadiamo - sarebbe stato criminalizzare una categoria che invece, come ha detto, non è responsabile della situazione a cui ci troviamo dinanzi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ministro, la decisione degli Stati Uniti di imporre dazi al 25 per cento sulle esportazioni europee di autoveicoli è un atto politico industriale aggressivo che colpisce al cuore uno dei pilastri del sistema produttivo italiano ed europeo. Parliamo di una filiera già in sofferenza, con cali dei volumi, margini compressi e costi energetici ad oggi insostenibili. L'inasprimento tariffario rischia di essere un colpo letale per migliaia di piccole e medie imprese che rappresentano l'ossatura della nostra manifattura. Mentre tutto questo accade, il Governo continua a rivendicare una presunta centralità industriale, senza proporre alcun piano. Pertanto, chiedo quali iniziative concrete intendete assumere, anche in sede europea, per contrastare questa escalation commerciale e per difendere realmente la filiera industriale italiana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . Come è noto, ieri il Commissario europeo Sefcovic ha incontrato il rappresentante americano per il commercio per evitare un nuovo aumento dei dazi e confermare il valore dell'accordo già raggiunto, che per noi resta assolutamente valido, proporzionato e responsabile. Le recenti dichiarazioni del Presidente Trump, del 30 aprile scorso, sull'aumento dei dazi al 25 per cento su auto e camion provenienti dall'Unione europea, prefigurano, infatti, un possibile inasprimento delle tensioni commerciali transatlantiche che il Governo segue con la massima attenzione, condividendo e supportando l'azione della Commissione titolata a rappresentarci. Le minacce dei nuovi dazi non risultano, allo stato, formalizzate tramite atti esecutivi e, anche per questo, manteniamo un approccio prudente e coordinato in sede europea, perché una risposta isolata rischierebbe di alimentare un ciclo di ritorsioni dannoso per l'intera filiera.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ministro, io lo confesso: non ho più parole per descrivere la sua incapacità e inettitudine. Guardi, io non so se si rende conto - mi sembra di no -, ma siamo in una piena guerra commerciale e lei, anziché costruire uno scudo per le nostre imprese, fa di peggio, perché lei sta smantellando, pezzo per pezzo, le poche difese che abbiamo. Guardi, le faccio tre esempi, così magari si toglie quel ghigno. In primo luogo, avevate promesso 25 miliardi di scudo per le aziende che erano colpite dai dazi, avete messo zero. In secondo luogo, sono giorni che dice: abbiamo messo un miliardo sull' automotive .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ministro Urso, ci rivolgiamo oggi a lei perché in queste settimane e in questi mesi le abbiamo tentate tutte per chiedere al Governo Meloni di aprire gli occhi su quello che sta succedendo nello stabilimento Stellantis di Cassino, uno dei principali poli industriali, non solo del Lazio, ma uno dei principali poli industriali italiani: produzione al minimo, futuro incerto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …per la Menarini ferma, ad Avellino, per tutte le ferite aperte nel Paese che state continuando a fare finta di non vedere. Noi continueremo a mobilitarci al fianco della nostra segretaria Elly Schlein…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). … ogni singolo giorno, fuori da quest'Aula, alle famiglie coinvolte, al territorio e all'indotto (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) non possiamo dire che devono aspettare la nostra vittoria alle prossime elezioni politiche e regionali per avere certezze…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …sul proprio presente, sul proprio futuro. Serve una risposta del Governo adesso, serve una risposta subito (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . Grazie, Presidente. Lo stabilimento di Cassino sconta più di tutti i costi degli errori sulla transizione, che ha portato poi alla sostituzione di Tavares e al cambio radicale di strategia di Stellantis, che si è poi realizzato con il Piano Italia. Rappresenta quindi la maggiore criticità, come ben sanno i sindacati, anche in merito all'impatto sull'indotto e, quindi, sull'occupazione. Anche nella giornata di ieri abbiamo avuto un confronto con l'azienda, in preparazione dell'incontro che avrò la prossima settimana col governatore Rocca e poi del tavolo automotive che convocherò nelle prossime settimane. Riteniamo che in quella sede potremo dare una prospettiva certa anche a questo stabilimento, sia con riferimento alla continuità produttiva dei due modelli Alfa Romeo Giulia e Stelvio e del nuovo Maserati Grecale, sia ai possibili investimenti produttivi con partner internazionali che il gruppo intende realizzare in alcuni stabilimenti europei per garantirne livelli produttivi e occupazionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ministro, Cassino non è solo uno stabilimento, è un territorio, è la provincia di Frosinone che, per decenni, ha costruito la propria identità industriale intorno a quelle linee di produzione. Otto anni fa si producevano 135.000 automobili all'anno. Nel primo trimestre di quest'anno ne sono uscite 2.916 in 16 giorni lavorati. Questi numeri raccontano un territorio che rischia la desertificazione produttiva, ma la crisi di Cassino, Ministro, non nasce nel 2026. Si iscrive nella crisi dell'intero settore automotive italiano con la produzione nel 2025 giù del 20 per cento rispetto al 2021, con Stellantis al - 31 per cento. Cosa ha fatto questo Governo mentre il settore crollava? Ha tagliato del 70 per cento il Fondo per il settore ereditato dal Governo precedente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Il 17 giugno prossimo, l'amministratore delegato di Stellantis, Antonio Filosi sarà qui alla Camera per un'audizione fortemente voluta e pretesa dalle opposizioni, ma non basta ascoltare l'azienda; bisogna arrivarci con qualcosa di concreto in mano, con un tavolo già convocato con Governo, azienda, sindacati…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …enti locali; una verifica seria dei piani industriali per il sito; risorse certe per lavoratori diretti e per l'indotto e un Piano nazionale per la filiera automotive , come esiste in Francia, in Germania, ma non in Italia. Se non è in grado di farlo…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Signor Ministro, l'Istituto per la vigilanza delle assicurazioni ha reso noto quello che noi, come AVS, diciamo da tempo, che c'è una sperequazione incredibile tra i premi assicurativi e le polizze che pagano i cittadini che vivono al Centro-Nord e quelli che vivono al Sud e nelle isole. In particolare, ha evidenziato che addirittura il premio medio è superiore di 252 euro a Napoli rispetto, che so, ad esempio, ad Aosta. Ma il dato ultimo che sta emergendo, che è ancora più grave, è che le assicurazioni hanno il record degli utili, cioè dei margini lordi nelle province di Napoli e Caserta, dove guadagnano su ogni singola polizza dai 137 euro ai 140 euro. La nostra domanda, visto che l'abbiamo presentata più volte e il Governo sembra sordo, è se non si ritenga che si debba approvare, una volta per tutte, la tariffa unica per chi non commette sinistri nel nostro Paese (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . Grazie, Presidente. Il suggerimento del gruppo parlamentare di dare rilevanza in termini tariffari ai comportamenti virtuosi degli assicurati, che pur circolando in territorio ad elevato rischio, come la Campania e non solo, dimostrano di non aver avuto sinistri per un lungo lasso temporale, è apprezzabile. Intendo raccoglierlo esercitando un'apposita moral suasion nei confronti delle compagnie assicurative, per contrastare fenomeni distorsivi e premiare maggiormente gli automobilisti più prudenti e meritevoli, in modo che non siano penalizzati in ragione della sola residenza. Al tempo stesso, occorre però essere chiari e trasparenti, in quanto un ritorno a forme di prezzo amministrato o di controllo delle tariffe nel settore assicurativo non è oggi praticabile. Il quadro europeo impone il principio della libertà di fissazione dei prezzi e iniziative di questo tipo esporrebbero l'Italia a procedure di infrazione in sede comunitaria, con costi che finirebbero comunque per ricadere sui cittadini. Detto questo, il tema dell'andamento delle tariffe RC Auto è oggetto di lavoro continuo da parte degli uffici competenti del Ministero.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Ministro, c'è una differenza tra il dire e il fare. Io le do numeri che sono dati ufficiali. Innanzitutto le voglio dare una notizia che è delle ultime ore: quest'anno, il 2026, sarebbe l'anno con il maggiore aumento tariffario degli ultimi 15 anni per i poveri cittadini italiani in generale, e, in particolare, per i cittadini del Sud e delle isole e ancor di più per i campani. Ma c'è un paradosso: la Campania non è più tra le prime regioni a commettere sinistri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …e bisogna intervenire. Nei prossimi giorni Gianni Simioli, Cosimo Merolla e tanti altri cittadini hanno organizzato una mega manifestazione a Napoli. Io mi auguro, Ministro, che questa manifestazione non si faccia perché il Governo avrà il coraggio di fare qualcosa, visto che ha fallito nel sistema industriale della produzione delle macchine…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Signor Ministro, siamo l'unico Paese dove i salari reali sono purtroppo drasticamente diminuiti a fronte di una media di altri Paesi che segnala crescite rilevanti. Le ragioni sono strutturali e non dipendono certamente solo dall'inflazione degli ultimi anni, né dall'attuale crisi dei prezzi energetici. La produttività del lavoro è sei volte inferiore rispetto alla media dell'Unione europea ed è legata alla dimensione aziendale, cioè in Italia quasi il 95 per cento delle imprese ha meno di 10 dipendenti e queste andrebbero certamente incentivate a fondersi tra loro per aumentare gli investimenti produttivi e abbassare il costo del lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . I dati che lei cita sono reali e derivano da condizioni strutturali ultradecennali. Quello di cui noi siamo responsabili sono i dati degli ultimi tre anni, che, invece, indicano una netta inversione di tendenza: una ripresa del potere d'acquisto delle famiglie, molto importante e significativa, che si è realizzata anche perché nel 2024 l'inflazione è stata appena l'1,1 per cento; quando siamo giunti al Governo, nell'ottobre del 2022, era 12,6 per cento e nel 2025 l'1,6 per cento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Ma evidentemente più dell'80 per cento delle famiglie, che è preoccupato per i costi, per l'inflazione, per non arrivare a fine mese, forse si sbaglia, forse dovrebbe guardare gli stessi dati. Ma lo stesso Fondo monetario internazionale, non più tardi di ieri, ha detto che in Italia i costi aumenteranno fino a 2.000 euro per famiglia a causa del costo dell'energia. Quindi, forse ci dovremmo domandare se davvero questo Governo - io non parlo dei Governi passati, ciascuno ha le proprie responsabilità - abbia fatto abbastanza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d307508_19",
+      "politician_name": "GIACCONE Andrea",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Ministro, la scorsa settimana la ESN, la rete che raggruppa realtà europee operanti nel settore elettromeccanico, ha proclamato un fermo impianti contemporaneo di un'ora in più di 20 stabilimenti in Europa. In Italia hanno aderito realtà come la Lagor di Cerro Tanaro, in provincia di Asti, produttrice di nuclei magnetici per trasformatori, e la Trancerie emiliane Spa. È un'iniziativa di sensibilizzazione costruttiva per lanciare l'allarme sulla concorrenza di Paesi extra UE, nello specifico, della Cina, che sta inondando il mercato di prodotti semilavorati, di fatto eludendo le misure antidumping UE che si applicano al solo coil . È una minaccia per l'occupazione, è una minaccia per tutta una filiera, quella che lavora per l'infrastruttura elettrica, che è strategica per la sicurezza energetica europea. Come Lega, chiediamo, quindi, al Governo di attivarsi nelle sedi europee per tutelare la nostra competitività e i lavoratori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "307508",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . L'accorato appello delle imprese della filiera è stato da noi accolto e condiviso. Abbiamo convocato un'apposita riunione che si svolgerà domani mattina al Ministero con le associazioni rappresentative della filiera dei semilavorati dell'acciaio, che hanno promosso l'iniziativa a Bruxelles. È un incontro a cui parteciperanno anche gli altri Dicasteri e membri del Parlamento europeo che si sono fatti promotori di iniziative per salvaguardare la siderurgia italiana ed europea rispetto alla concorrenza sleale. Peraltro, ne parlerò anche tra poco con il Commissario europeo Séjourné, con cui abbiamo condiviso le misure di salvaguardia sull'acciaio, che hanno dimezzato le quote e raddoppiato i dazi nei confronti delle importazioni dalla Cina.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d307508_19",
+      "politician_name": "GIACCONE Andrea",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Signor Ministro, la ringrazio per la risposta. La Lega da sempre sostiene che il Green Deal , così come è stato pensato, avrebbe rischiato di far perdere competitività alle nostre imprese rispetto a quelle di Paesi che non hanno le nostre stesse regole in materia di protezione ambientale, di emissioni e di tutela del lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "307508",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, signor Presidente. Signor Ministro, eccoci di nuovo qua, come le avevo preannunciato, perché ho fatto un'interrogazione su questo tema i primi di marzo e poi i primi di aprile. Lei, anche in quell'occasione, aveva dichiarato in maniera lapidaria che, a fine aprile, quindi l'altro giorno, avremmo avuto 4 milioni di tonnellate e si sarebbero chiuse le procedure di acquisto, ma mi pare che le cose non siano così, perché c'è sottoproduzione. Il 22 aprile non è stato trovato l'accordo con il sindacato e mi sembra che Jindal e Flacks Group siano spariti. Quindi, le avevo detto che ci saremmo visti i primi di maggio e le avevo pure augurato buona Pasqua, se lo ricorderà. Ecco, la domanda è quindi questa, ossia se a questo punto possa fornire aggiornamenti sulle trattative di acquisizione di Acciaierie d'Italia, indicando tempistiche certe e dando finalmente un orizzonte temporale che diversamente le chiederei di nuovo tra un mese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . Le trattative per l'acquisizione di Acciaierie d'Italia proseguono e vedono coinvolti i due soggetti internazionali che hanno presentato un'offerta vincolante: il gruppo Flacks e il gruppo Jindal Steel International. Questi soggetti ad oggi sono impegnati in interlocuzioni con i commissari, con le autorità locali - sia in Puglia che in Liguria, regioni e comuni - e con le diverse agenzie e istituti preposti al sostegno finanziario, vista la complessità degli investimenti programmati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Signor Ministro, io non le dico come gli altri di tornare indietro. Non le dico niente. Però, lei si deve ricordare e deve dire a quelli che le scrivono le risposte, che io ce le ho tutte. Ho le ultime sei. Oggi ci sono un po' meno assiomi rispetto alle altre, ma ricordo che due mesi fa e il mese scorso lei ha detto e certificato che i commissari hanno messo un miliardo e 200 milioni di euro per le manutenzioni ordinaria e straordinaria, che sarebbero riprese a fine mese - questo mese e quello prima - e ha menzionato le 4 milioni di tonnellate di produzione e oggi non è così.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308850_19",
+      "politician_name": "SCHIANO DI VISCONTI Michele",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Signor Ministro, l'interrogazione in esame riguarda l'andamento recente dell' export italiano e le prospettive di sostegno alle imprese sui mercati internazionali. I dati più aggiornati evidenziano un quadro complessivamente positivo nel triennio 2022-2025. Le esportazioni dell'anno sono cresciute e, nel solo 2025, si registra un aumento superiore a quello delle principali economie europee.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308850",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308850_19",
+      "politician_name": "SCHIANO DI VISCONTI Michele",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Alla luce di ciò, si chiede al Ministro di chiarire quali siano i principali risultati conseguiti dall' export italiano nel 2025, con particolare riferimento alla crescita verso gli Stati Uniti e quali iniziative il Governo intenda adottare per sostenere le imprese italiane nei mercati esteri in questa fase di incertezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308850",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . Grazie, Presidente. Il nostro sistema Italia, il nostro sistema produttivo ha dimostrato, in questi tre anni, maggiore resilienza e maggiore dinamicità nel fronteggiare la crisi della globalizzazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308909_19",
+      "politician_name": "ANTONIOZZI Alfredo",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, io la ringrazio per questa risposta che fa luce, fa chiarezza su tanti aspetti, sui numeri che spesso vengono, come dire, declamati ad arte, pur di denigrare il nostro Paese e il nostro Governo. La ringrazio, quindi, per le risposte esaustive e per aver dato un quadro effettivo, reale della situazione del nostro Paese in un momento di grandi incertezze, di grandi tensioni globali, di grande difficoltà in presenza di conflitti: conflitti commerciali e conflitti, ahimè, di guerre.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308909",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 95, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, con lettera pervenuta in data 6 maggio 2026, la deputata Maria Anna Madia, già iscritta al gruppo parlamentare Partito Democratico-Italia Democratica e Progressista, ha dichiarato di aderire al gruppo parlamentare Italia Viva-il Centro-Renew Europe.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, in data 6 maggio 2026, il Presidente della Camera ha chiamato a far parte della Commissione parlamentare di inchiesta sulla scomparsa di Emanuela Orlandi e di Mirella Gregori il deputato Andrea Orsini, in sostituzione del deputato Paolo Barelli, entrato a far parte del Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d302422_19",
+      "politician_name": "CUPERLO Gianni",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. La sera del 6 maggio 1976, Mario, un ragazzo di Udine, stava trasferendo un capolavoro dei Pink Floyd dal vinile su di un mangianastri. Sta su YouTube quel nastro, lo si può sentire ancora adesso e vale quanto mille parole. Ci sono prima le note di Shine on you crazy diamond , poi la puntina che saltella sul vinile, rumori sempre più forti, voci che si accavallano in un tempo infinito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "302422",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308940_19",
+      "politician_name": "LOPERFIDO Emanuele",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Colleghi, il 6 maggio 1976 il Friuli-Venezia Giulia venne colpito da una delle tragedie più profonde della storia repubblicana. Una scossa di magnitudo 6.4 devastò un'area di oltre 5.700 chilometri quadrati. Bilancio drammatico: 990 morti, migliaia di feriti, 100.000 persone senza tetto, 119 centri abitati colpiti, 18.000 abitazioni completamente rase al suolo. Gemona, Venzone, Osoppo e altri: paesi interi distrutti. E nei mesi successivi, mentre la ricostruzione era già iniziata e la speranza iniziava a riemergere, a settembre nuove scosse fecero crollare quanto si stava ricostruendo e distrussero ciò che era stato risparmiato il 6 maggio. Un colpo durissimo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308940",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d307376_19",
+      "politician_name": "PANIZZUT Massimiliano",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Intervengo a nome dei deputati della Lega, in particolare quelli del Friuli, che proprio in questo momento sono alle celebrazioni dell'anniversario del terremoto con il presidente Fedriga, la Premier Meloni e il Presidente della Repubblica Sergio Mattarella.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "307376",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d307657_19",
+      "politician_name": "CATTANEO Alessandro",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor Presidente, onorevoli colleghe e colleghi, cinquant'anni fa, alle ore 21 del 6 maggio 1976, la terra si aprì sotto il Friuli: 59 secondi che cancellarono quasi 1.000 anni di storia, di pietre, di campane e di volti. Quasi 1.000 morti, 100.000 sfollati, un intero popolo che si ritrovò senza un tetto e senza più un paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "307657",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sono passati cinquant'anni dalla violenta scossa di terremoto che devastò il Friuli: quasi 1.000 morti, più di 100.000 sfollati, 18.000 case distrutte; un terremoto che interessò 137 comuni delle province di Udine, Pordenone e Gorizia, per una popolazione di 600.000 abitanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. Il 6 maggio 1976, alle 21, ero nella cucina di casa mia, con la mia famiglia, e guardavamo un film, Le dodici sedie : mi è restato sempre impresso. Ricordo quel minuto in cui ci prendemmo e scappammo giù per le scale. Eravamo a Trieste, in un posto dove non ci furono grandi danni, ma ci fu grande paura. Invece in Friuli, a poche decine di chilometri, morirono 1.000 persone, ci furono 100.000 sfollati e 3.000 feriti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Ricordare gli eventi terribili del terremoto che colpì nel 1976 il Friuli significa, per me, ritornare con il pensiero alla sera del 6 maggio, alle ore 21, quando sembrò scatenarsi il finimondo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, signor Presidente. Onorevoli colleghi, 50 anni fa, il 6 maggio 1976, il Friuli- Venezia Giulia fu colpito da uno dei più devastanti terremoti della storia del nostro Paese. Cito solo un nome che si fissò nella nostra memoria come il simbolo di quella tragedia: Gemona del Friuli. A quella prima terribile scossa ne seguiranno altre e una in particolare, il 15 settembre dello stesso anno, colpì nuovamente e duramente il territorio, aggravando i danni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Il 6 maggio di cinquant'anni fa l'intero arco alpino era scosso da quanto stava accadendo in Friuli: un minuto, un lunghissimo minuto che, in quelle terre, devastò più di 100 comuni, provocando 965 morti e migliaia di feriti. Ma quella scossa venne avvertita in Francia, in Svizzera, in Germania, in Slovenia. Tanti friulani, in quest'Aula, hanno ricordato quei momenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308760_19",
+      "politician_name": "MANES Franco",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Grazie, signor Presidente. L'Orcolat, il demone del terremoto, come lo definiscono i friulani, fece sentire la sua voce cinquant'anni fa: il 6 maggio 1976. Il Friuli fu colpito da un terremoto devastante che sconvolse un'ampia area di oltre 100 comuni, provocando quasi 1.000 vittime e lasciando decine di migliaia di persone senza casa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308760",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. È stato detto moltissimo, forse anche tutto a partire dall'intervento del collega Cuperlo. I 59 interminabili secondi, l'Orcolat, le parole d'ordine: “dov'era e com'era”, prima le fabbriche, poi le case, poi le chiese e anche la partecipazione non solo delle comunità locali, ma di tutta la comunità italiana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2910: Conversione in legge, con modificazioni, del decreto-legge 11 marzo 2026, n. 32, recante disposizioni urgenti in materia di commissari straordinari e concessioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Sottosegretario, Vice Ministro e colleghi, oggi siamo chiamati a esprimere il voto di fiducia sul disegno di legge che reca disposizioni urgenti in materia di commissari straordinari e concessioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Quello che il Governo chiede oggi al Parlamento è il 110° voto di fiducia dal suo insediamento, un record assoluto; non quello della longevità, che la Presidente Meloni insegue con grande aspirazione, come se la durata di un Esecutivo segnasse il vero lascito al Paese, piuttosto che il suo operato. Centodieci voti di fiducia, cifra mai registrata nel corso di una legislatura; 110 volte in cui l'Esecutivo ha chiesto al Parlamento di rinunciare alla sua funzione e di votare la fiducia. Prendere o lasciare, testi blindati, dibattito mutilato, margini di intervento ridotti al minimo, una prassi ormai che diventa metodo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …l'attività - concludo - dei gassificatori in esercizio sulla base di autorizzazione in scadenza entro il 31 dicembre 2026 e per i quali, alla data del 30 giugno 2026, sia stata presentata un'istanza di rinnovo, di proroga o nuova autorizzazione, anche in altro sito. Il porto di Piombino ospita dal 2023 una nave rigassificatrice per la quale il Ministero dell'Ambiente ha rilasciato a suo tempo - chiudo - l'autorizzazione all'esercizio per tre anni. Da temporaneità sta diventando, invece, una permanenza. La scelta di trasformare…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …Piombino in un hub del gas a tempo indeterminato è veramente scandalosa. Per questo - e non solo per questo - non voteremo la fiducia sul provvedimento (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Vice Ministro, colleghi e colleghe, annuncio che il gruppo di Azione non voterà l'ennesima fiducia neanche su questo provvedimento e lo dico con un certo dispiacere. Dispiacere perché alcune delle infrastrutture di cui si occupa questo decreto in realtà sono le priorità del Paese, ma è il metodo con cui se ne occupa che tradisce quella stessa priorità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 654
+      }
+    },
+    {
+      "politician_id": "camera_d308818_19",
+      "politician_name": "MORFINO Daniela",
+      "date": "2026-05-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi siamo di nuovo chiamati a votare l'ennesima fiducia, superando tutti i record, i limiti e anche - lasciatemelo dire - la decenza, ma non su una riforma epocale, non su una visione di Paese, ma su un decreto scritto con una sola frase in testa: fare presto. Sì, fare presto, ma non importa come, non importa quanto costa e non importa neanche se funziona o meno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0654",
+      "metadata": {
+        "id_persona": "308818",
+        "seduta": 654
+      }
+    }
+  ]
+}

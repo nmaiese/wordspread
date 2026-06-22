@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0381",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-11-13",
+    "title": "Assemblea — Seduta n. 381 del 2024-11-13",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 381
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 90, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2128: Conversione in legge, con modificazioni, del decreto-legge 1° ottobre 2024, n. 137, recante misure urgenti per contrastare i fenomeni di violenza nei confronti dei professionisti sanitari, socio-sanitari, ausiliari e di assistenza e cura nell'esercizio delle loro funzioni nonché di danneggiamento dei beni destinati all'assistenza sanitaria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento, cerchiamo di estendere la tutela penalistica, in ordine alle aggressioni nei confronti del personale sanitario - che, poi, coinvolgono anche il materiale sanitario e le attrezzature sanitarie - anche a tutto ciò che avviene sui mezzi mobili di soccorso. Come potete immaginare, è un emendamento senza oneri, però, purtroppo, non c'è stata l'apertura del Governo e della maggioranza sul suo accoglimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io richiamerei un po' di attenzione perché ritorniamo sul medesimo argomento, epurato, però, della parte che recitava: “conseguentemente (…)”, che prevedeva una variazione della sanzione penale e, quindi, magari quell'aspetto poteva destare perplessità. Torniamo, invece, al merito della questione. Cosa vi chiediamo noi? Vi chiediamo di sostituire una locuzione, non solo assolutamente vaga e generica, come diceva bene la collega Giuliano, ma che chiaramente comporterà anche difficoltà interpretative per chi deve applicare questa norma. Quindi, chiediamo di sostituire la locuzione: “cose mobili o immobili altrui ivi esistenti” con quella più corretta: “strumenti, attrezzature o apparecchiature destinati”. Destinati a cosa? Al servizio sanitario o sociosanitario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anche qui siamo di fronte allo stesso errore che con questo emendamento cerchiamo di correggere. Con l'articolo 2 di questo provvedimento si prevede l'arresto in flagranza e, a determinate condizioni, l'arresto in flagranza differita per i delitti di lesioni personali commessi nei confronti dei nostri operatori sanitari e anche per il reato di danneggiamento di alcuni beni. Anche in questo caso, noi andiamo a circoscrivere l'arresto obbligatorio in flagranza e l'arresto differito non al danneggiamento di qualsiasi bene mobile o immobile altrui, ma al danneggiamento che si verifica contestualmente a episodi di lesioni nei confronti degli operatori sanitari, al danneggiamento di beni destinati al servizio sanitario e sociosanitario e di attrezzature e strumenti sanitari. Noi riteniamo che questa sia la corretta cornice in cui inquadrare questo provvedimento (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo è uno dei pochi emendamenti che, perlomeno, non è stato travolto dall'inammissibilità. È uno di quegli emendamenti che noi riteniamo prioritari per dare una prima concreta risposta al problema delle aggressioni e delle violenze nei confronti dei nostri operatori sanitari, perché con questo emendamento chiediamo un piano di assunzioni straordinarie di Forze dell'ordine, di Forze di Polizia, da impiegare nelle strutture sanitarie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo provvedimento che il Governo porta in Aula e che è già in vigore da 45 giorni, per quanto finalizzato a prevenire e a contrastare la violenza contro il personale sociosanitario, è insufficiente rispetto all'obiettivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Purtroppo, questo è un articolo aggiuntivo che ci è stato letteralmente tagliato. È rimasta ammissibile solo una piccola parte che comunque ha la sua importanza. Questo taglio, questa inammissibilità, ha colpito tutte le nostre proposte emendative, che cercavano di prospettare a questo Parlamento una visione più ampia e più complessiva, una presa in carico multifattoriale di questo problema e che, purtroppo, sono state assolutamente ignorate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di andare oltre, saluto gli studenti e i docenti dell'Istituto comprensivo Segni, che provengono da Segni, in provincia di Roma, che assistono ai nostri lavori dalle tribune. Grazie di essere qui (Applausi).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). La ringrazio, Presidente. Io, nel dichiarare il voto favorevole a quel che resta di questo articolo aggiuntivo, vorrei però rivolgermi al Governo e anche alla maggioranza per una riflessione, perché, come i colleghi hanno testé detto, addirittura il titolo di questo articolo aggiuntivo è ormai negato dalla dichiarazione di inammissibilità. Infatti, il titolo dell'articolo aggiuntivo dice “congedo per le vittime di aggressione” e il tema del congedo è stato espunto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi e colleghe, sicuramente tutti qui, in quest'Aula, avrete fatto esperienza, per voi o per i vostri familiari, di un incontro con gli operatori sanitari, in attesa di poter essere visitati in pronto soccorso. E credo che molto spesso - spero di no - sarà anche capitato di non ricevere le corrette informazioni, di non riceverle nei tempi giusti o di riceverle in un modo anche, purtroppo, spesso sbrigativo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Un minuto mi basta per ringraziare la collega Marianna Ricciardi per avere proposto questa idea, che per me non solo è veramente e fortemente innovativa, ma è proprio una chiave di volta rispetto alla problematica che noi stiamo affrontando. Infatti, credo che per i nostri medici e per il nostro personale sanitario sicuramente la qualità della loro vita, dell'ambiente di lavoro migliorerebbe se noi fornissimo loro una figura professionale adeguatamente preparata, che faccia da filtro, proprio nelle situazioni più problematiche, tra i familiari del paziente, il paziente stesso e loro, quindi i medici, il personale sanitario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308843_19",
+      "politician_name": "DI BIASE Michela",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, con questo emendamento proviamo a dare piena attuazione a quello che è il titolo della norma. Lo abbiamo detto anche nella Commissione che ha esaminato gli emendamenti: rispetto a quello che sembrava essere l'orientamento del Governo, che era quello di lavorare a misure per contrastare i fenomeni di violenza nei confronti del personale sanitario, come spesso accade, come ci ha abituato questo Governo, purtroppo, noi delle buone intenzioni espresse nel titolo poi non troviamo nulla all'interno della norma. In questo caso è ancora più fastidioso, perché ad essere oggetto di questa disattenzione, di questo modo di procedere, è il personale sanitario, che svolge per tutti noi, per tutti i cittadini italiani, una funzione straordinaria, vitale, importantissima.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308843",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ricollegandomi a quanto diceva la collega che mi ha preceduto, con questa proposta emendativa poniamo all'attenzione del Governo e della maggioranza il problema della videosorveglianza sotto un duplice profilo, perché tra le intenzioni di questo disegno di legge c'è anche quella di porre in essere misure idonee per contrastare e per costituire un valido ed efficace apparato di deterrenza a episodi di violenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Penso che non ci sia in assoluto cosa peggiore che essere aggrediti quando si porta aiuto a delle persone. Immaginatevi una situazione in cui il personale sanitario si presta a fornire aiuto e chi viene aiutato, la persona stessa o il proprio congiunto, lo aggredisce. Credo sia una situazione assolutamente drammatica, una sorta di corto circuito relazionale, è abbastanza evidente. È qualcosa di estremamente istintivo, fisico, il sentirsi violati anche se l'aggressione è solo verbale, come se ci fosse qualcosa che effettivamente non funziona.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). E questo lo stiamo verificando, purtroppo, anche nella Commissione d'inchiesta sul COVID (Applausi dei deputati del gruppo MoVimento 5 Stelle - Commenti dei deputati del gruppo Fratelli d'Italia ).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, ad adiuvandum di quello che ha detto il collega, volevo aggiungere due elementi di riflessione. Il primo, l'installazione e la manutenzione delle videocamere è un tema che non viene affrontato in modo esaustivo da nessun Governo e da nessun Ministero, al punto tale che, mano a mano che andiamo avanti negli anni, prevediamo molti fondi per installarle e poi, molto spesso, non vengono installate per niente e addirittura non vengono manutenute, al punto tale che l'ex Ministro Carfagna, prima di cambiare posizione all'interno del Parlamento, dalla minoranza alla maggioranza, era intervenuta in Aula lamentando il fatto che, quando lei era Ministra, aveva previsto l'installazione di tantissime videocamere che l'attuale Governo non ha portato avanti e non ha fatto installare. Da questo punto di vista, le voglio far presente che, in molti casi, videocamere che già ci sono non vengono manutenute o addirittura non vengono pagate le bollette. In alcuni casi, hanno creato dei sistemi che non sono compatibili - non mi riferisco soltanto alla questione degli ospedali - con le sale operative della questura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, grazie. Chiedo la parola, che lei mi ha gentilmente donato, per corroborare questo pensiero adulto che si sta diffondendo, soprattutto ad opera di alcuni colleghi che sono intervenuti. Vorrei cucire in un istante, proprio un istante, il lavoro fatto ieri di abrogazione di norme ormai cadute in desuetudine secondo il giudizio dell'ordinamento con questa norma ulteriore, che noi introduciamo, che in un qualche modo porta il diritto penale a sostituire il diritto alla salute. Guardate che nel Novecento migliore i primari e le figure ospedaliere rappresentavano il valore migliore dell'ordinamento, venivano paragonati ai prefetti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Credo che la differenza sostanziale che c'è tra chi ha la capacità di distinguere fra cosa significa repressione e cosa significa prevenzione è che chi parla di prevenzione, a differenza di chi parla sempre e solo di repressione, si riferisce alla capacità di assumersi una responsabilità collettiva. Chi parla di repressione, invece, parla solo di responsabilità individuale, e quindi attribuisce all'individuo singolo tutte le responsabilità delle proprie azioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo a titolo personale per condividere quello che diceva il collega Quartini, perché in nessuna sede, a maggiore ragione quando sono sedi istituzionali, noi dobbiamo e possiamo dare voce alla tensione nei confronti degli operatori sanitari, non possiamo permetterci di alimentare delle tesi complottiste di violenza e di sfiducia nei confronti dei nostri operatori sanitari (Applausi dei deputati del gruppo MoVimento 5 Stelle) , e, a maggior ragione, non lo dobbiamo fare nelle sedi istituzionali, come purtroppo è accaduto. Voci che alimentano la tensione, le aggressioni e la sfiducia nei confronti del lavoro egregio, coraggioso e competente dei nostri operatori sanitari non possono e non devono trovare mai voce (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Qui c'è un grande lavoro culturale da fare per disinnescare nel tempo - è un percorso molto lungo - la violenza e le aggressioni verbali e fisiche nei confronti degli operatori sanitari, ma se mai inizieremo a farlo, mai ne vedremo gli effetti. Questo è un piccolo tassello di un puzzle molto più complesso e molto più articolato, che riguarda le campagne di sensibilizzazione nazionale, delle campagne che possano sensibilizzare e far conoscere a tutta la popolazione, a partire dalle scuole, a tutte le istituzioni e a tutte le associazioni educative, le agenzie educative, come ci piace dire, i rischi legali, giuridici, ma anche morali, che si corrono quando si aggredisce un nostro operatore sanitario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. So già che la maggioranza dirà che darà voto contrario a questo articolo aggiuntivo perché non ha i soldi, ma, se voi non prorogate di nuovo la sospensione delle multe che avete fatto a chi non si è vaccinato, sempre per strizzare l'occhio ai no-vax, come avete fatto nei precedenti anni, forse i soldi li trovate. Quindi smettetela con questa ipocrisia di strizzare l'occhio ai no-vax per poi far finta di non trovare le risorse per fare una campagna di sensibilizzazione, che sarebbe utilissima. Quindi, cari miei, smettetela con questa ipocrisia e arrivate a una conclusione degna per questa vicenda (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ebbene sì, in Italia ci siamo ridotti - potremmo dire così - ad avere bisogno anche di una campagna di sensibilizzazione per qualcosa che dovrebbe essere dentro ognuno di noi, cioè il rispetto per chi esercita una professione sanitaria. Tuttavia veniamo da un periodo, e purtroppo non ce lo siamo lasciati alle spalle, in cui ci sono delle forze politiche, che oggi siedono in maggioranza, che hanno invece alimentato - lo stiamo dicendo a più riprese con i vari colleghi - un clima di forte delegittimazione e sfiducia nei confronti delle professioni sanitarie, strizzando l'occhio a tesi antiscientifiche e comunque cavalcando gli attacchi alle professioni sanitarie e ai medici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Il parere contrario rispetto a questa proposta emendativa certifica davvero la chiusura totale di questa maggioranza rispetto anche alle azioni più semplici, perché addirittura avete detto di “no” a questo articolo aggiuntivo che chiedeva l'obbligo di esporre, nei pronto soccorso e nei luoghi in cui più facilmente avvengono le aggressioni, cartelli informativi per comunicare ai cittadini che ci sono norme che tutelano gli operatori sociosanitari dal punto di vista penale e che chi aggredisce il personale sanitario e socio-sanitario va incontro a sanzioni penali e pecuniarie molto elevate. Erano semplici modi per costituire un ulteriore deterrente e informare la cittadinanza; erano piccoli passi. In fondo, con riferimento alle coperture per fare questo, così come per portare avanti le campagne di sensibilizzazione di cui alla precedente proposta emendativa, di cui parlavo prima, sarebbero stati sufficienti 200.000 euro, da un lato, e 100.000 euro, dall'altro. Sono somme importanti in un bilancio familiare, ma sono somme assolutamente ridicole e irrisorie in un bilancio dello Stato. Allora, davvero chiediamo a questa maggioranza e a questo Governo di ripensarci e di mettere in atto un atteggiamento nuovo nei confronti delle nostre proposte emendative, anche mostrando un'apertura verso questi piccoli passi. Infatti, un segnale nei confronti dei nostri operatori sanitari e di tutta la popolazione lo dobbiamo dare anche attraverso queste piccole cose (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vorrei sottoscrivere questa proposta emendativa e fare una domanda alla maggioranza. Partiamo dal fatto che siamo qui perché dobbiamo tutelare i cittadini e dobbiamo portare la loro voce. Siamo stati votati dalla nostra comunità per fare questo. E quindi ho una domanda: ma perché solo per danneggiare chi è all'opposizione cancellate i nostri emendamenti? Perché state danneggiando la popolazione, chi vi ha votato? Probabilmente quei 300.000 euro sono nulla per voi; ma perché chi vi ha votato, tutti i cittadini, tutti coloro che arrivano in un ospedale, perché sicuramente hanno problemi e trovano un ambiente di questo tipo, non possono avere qualcosa di scritto che faccia capire loro in che modo bisogna comportarsi in certi luoghi, che non bisogna andare con la violenza, ma piuttosto dialogare? Io veramente lo trovo assurdo. Mi farebbe piacere che, anche in privato, magari, mi deste una risposta su questo. Oppure, se state bocciando i nostri emendamenti perché, domani, magari, li riproponete voi, magari! Ma fatelo! Fatelo per chi vi ha fatto sedere qui, in quest'Aula, che è sacra, e dovete pensare ai cittadini, non ad altro (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questa è una proposta emendativa altrettanto fondamentale in quanto, se lasciamo ai nostri operatori sanitari da soli e senza adeguato personale e adeguate figure che possano disinnescare i conflitti che purtroppo si creano all'interno dei presidi sanitari, almeno cerchiamo di tenerli indenni dalle spese, anche legali, che tutti i procedimenti che li vedono come parti offese comportano. Anche questa è una proposta emendativa che amplia le previsioni del gratuito patrocinio indipendentemente dai limiti di reddito ed estende ai nostri operatori sanitari vittime di violenze il gratuito patrocinio indipendentemente dal reddito. Perché dico questo? Perché, proprio ieri, mi è giunto il messaggio di un medico - di cui, ovviamente, non farò il nome per ragioni di privacy - che semplicemente e plasticamente mi rappresentava questa situazione: in 25 anni di attività lavorativa all'interno di un reparto di psichiatria, questo medico, oltre a varie vicende, ha dovuto affrontare 18 - ripeto, 18! - procedimenti come persona offesa, perché negli anni ha avuto diversi attacchi e aggressioni fisiche e verbali, quindi, a questi procedimenti, che hanno avuto poi uno sviluppo, sono seguite azioni che questo medico ha dovuto intraprendere a sua tutela, sia a livello penale, che civile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307855_19",
+      "politician_name": "OSTELLARI Andrea",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Giustizia . Sull'ordine del giorno n. 9/2128/10 Quartini, espunte le premesse, parere favorevole con la seguente riformulazione dell'impegno: “a continuare nell'azione volta all'adozione di misure di contrasto ai fenomeni di violenza nei confronti dei professionisti sanitari, sociosanitari, ausiliari e di assistenza e cura nell'esercizio delle loro funzioni e a valutare l'opportunità di adottare le più idonee misure”, continuando così fino alla parola “formativo”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307855",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Non ritenevamo che fosse un impegno particolarmente gravoso per il Governo confrontarsi in sede parlamentare con una relazione sull'attuazione della prima legge in materia di tutela dei medici dinanzi alle aggressioni nei presidi ospedalieri, la legge del 2020. A nostro giudizio, gli strumenti che quella legge aveva messo a disposizione del Governo non sono stati utilizzati pienamente o sono stati male utilizzati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308843_19",
+      "politician_name": "DI BIASE Michela",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie. No, Presidente, non accetto la riformulazione. Voglio dire due cose sul perché non accetto la riformulazione che mi è stata suggerita dal Governo. Lo abbiamo detto anche prima, questo provvedimento si compone solo di due articoli: il primo prevede un aumento di pene, l'ennesimo aumento di pene, per i reati di danneggiamento; il secondo articolo, invece, prevede l'arresto in flagranza differita. Ora, il provvedimento non contiene nessuna misura per provare ad affrontare realmente il problema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308843",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308803_19",
+      "politician_name": "SCARPA Rachele",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, non posso accettare la riformulazione proposta dal Governo e cerco anche brevemente di spiegare perché. Nell'ordine del giorno che ho presentato si chiede che il Governo preveda delle forme di congedo o di astensione retribuita dal lavoro, anche con copertura previdenziale, per il personale medico e sanitario che subisce aggressioni. Una misura che interviene, quindi, ex post , dopo che una violenza avviene, direi una misura anche dovuta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308803",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, il testo all'esame dell'Aula modifica la disciplina prevista dall'articolo 583- quater del codice penale, che è relativo alle lesioni personali ad un pubblico ufficiale in servizio di ordine pubblico in occasione di manifestazioni sportive. Ci è sembrato paradossale che con questo intervento normativo, invece, non si disciplini quelli che stanno diventando fenomeni - ahimè - sempre più diffusi, cioè quelli delle aggressioni agli arbitri. Le aggressioni agli arbitri avvengono generalmente sia nel calcio dilettantistico, sia - ahimè - anche nel calcio giovanile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto gli studenti e i docenti dell'Istituto comprensivo “Giacinto Romano” di Eboli, in provincia di Salerno, che assistono ai nostri lavori dalle tribune. Grazie di essere qui (Applausi) . Ha chiesto di parlare l'onorevole Berruto. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo molto rapidamente per confermare quello che ha detto il collega Barbagallo, da cofirmatario di quest'ordine del giorno. Nel giugno scorso è stato presentato a Coverciano un report che indicava che nell'anno precedente erano aumentati del 50 per cento i casi di violenza nei confronti dei direttori di gara. Non parliamo soltanto di schiaffi, sputi, calci, ma anche di vere e proprie aggressioni fisiche, di offese di genere, di insulti razziali. Li ricordo anche nei confronti di direttori di gara che sono minori, che hanno meno di 18 anni, che vengono introdotti alla pratica, che è fondamentale, poi, per fare funzionare lo sport. Il problema non è solo del calcio, purtroppo, ed è naturalmente un tema che ha un impatto pedagogico, mi verrebbe da dire, devastante.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Onestamente resto molto, molto, amareggiata dall'atteggiamento del Governo, perché dopo che ha chiuso le porte nei confronti di tutti i nostri emendamenti, neanche dandoci la possibilità in alcuni casi di provare a rifletterci un attimo, addirittura non ci accoglie in maniera adeguata neanche gli ordini del giorno. Questo perché espungere tutte le premesse e accogliere un ordine del giorno, togliendo quello che è il cuore dello stesso, credo sia fondamentalmente un lavarsi la coscienza, da un lato, e una presa in giro, dall'altro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307855_19",
+      "politician_name": "OSTELLARI Andrea",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Giustizia . Espunte le premesse, parere favorevole con la seguente riformulazione dell'impegno: “a valutare, nell'ambito dei vincoli di finanza pubblica, di prevedere che nelle strutture” e poi rimane uguale il primo punto; poi abbiamo il secondo: “di implementare gli organici di professionisti sanitari nelle strutture sanitarie dell'emergenza particolarmente esposte all'aggressione nei confronti degli operatori con lo scopo di ridurre le liste di attesa”. Poi, “di potenziare le competenze degli operatori della salute” e rimane uguale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307855",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). No, Presidente. Non possiamo accettare questa riformulazione. Intanto perché vengono espunte le premesse. Allora, non vorrei che le premesse vengano espunte perché, ad esempio, c'è un inciso che dice questo: “anche la pandemia ha generato un particolare e grave incremento delle aggressioni e violenze verso gli operatori sanitari, aggravando l'atteggiamento e il comportamento negativo e aggressivo da parte di pazienti e dei loro familiari verso gli operatori e verso le strutture sanitarie; tale escalation è stata accompagnata e alimentata dal cosiddetto pensiero no-vax, inteso come pensiero generalizzato su taluni temi di salute che si pone in posizione contraria all'indirizzo consolidato nella comunità scientifica e alle decisioni assunte dalle istituzioni sanitarie nazionali o internazionali”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. È assolutamente inaccettabile questa riformulazione, anzi direi è quasi offensiva ed è una presa in giro; è una presa in giro non tanto perché espunge tutta la parte delle premesse, tra l'altro dove viene sottolineata la carenza di personale, quando sappiamo che abbiamo 30.000 infermieri che emigrano all'estero e si annuncia l'arrivo di 10.000 infermieri dall'India (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Ma se non pensiamo al benessere organizzativo e retributivo delle nostre e dei nostri professionisti sanitari, anche gli infermieri indiani, appena si accorgeranno che in Germania, Francia, Belgio guadagnano di più, emigreranno dall'Italia verso gli altri Paesi. Ma non vi rendete conto di quanto sia irrazionale il meccanismo nel modo di gestire la sanità di questo Paese, Presidente? Siamo veramente alla frutta, in termini di capacità cognitiva rispetto al problema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. No, non accetto la riformulazione, perché capisco che in 20 minuti il Governo abbia avuto poco tempo per leggersi tutte le premesse degli ordini del giorno, e che, quindi, abbia sostanzialmente deciso di fare un po' come Edward mani di forbice, però in quelle premesse c'è il senso dell'impegno, non sono scollegati. Senza quelle premesse, anche la vostra formula del “valutare l'opportunità di” potrebbe essere anche, sostanzialmente, un valutare anche a non fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308760_19",
+      "politician_name": "MANES Franco",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Signor Presidente, Sottosegretario, la conversione in legge con modificazioni del decreto-legge n. 137 del 1° ottobre 2024, riguardante le misure urgenti per contrastare i fenomeni di violenza nei confronti dei professionisti sanitari, sociosanitari, ausiliari e di assistenza, che qui oggi approviamo, appare non solo un atto dovuto, ma soprattutto un primo passo su un percorso che deve necessariamente coinvolgere tutto il Parlamento, tutte le forze politiche verso una ridefinizione sostenibile, strutturale e condivisa dell'intero comparto sanitario nella sua interezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308760",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Eccoci qui: ancora una volta il Governo ha sfornato un nuovo decreto-legge e da quel forno esce ben lievitato, appena sfornato, appunto un nuovo panpenalismo. Un nuovo reato abbiamo in questo provvedimento, una nuova aggravante, nuovi casi di flagranza differita.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Lascia amareggiati il fatto di dover affrontare questo tema e di dover constatare che si perde l'occasione di incidere, si perde l'occasione di far accadere delle cose, espressione che a noi piace richiamare quando si tracciano i compiti della politica. Perché questo? Perché partiamo da una considerazione, ossia che c'è una cronaca che pone alla nostra attenzione - ed è sotto gli occhi di tutti - queste aggressioni e questo stato di esplosività nei pronto soccorso e negli ambienti medici, con un grido di allarme di quel mondo, il mondo della sanità, su cui siamo tutti assolutamente d'accordo. Quindi, non possiamo girarci dall'altra parte con riferimento a fatti di cronaca, a una quotidianità che ci segnala sostanzialmente delle situazioni a dir poco allarmanti. I dati sono significativi ed è diventato un problema sociale importante. Ho sentito parole del tipo che i medici sono vessati. Io dico che c'è anche una frustrazione di chi vorrebbe dedicarsi all'assistenza sanitaria e realizzare, appunto, un'assistenza sanitaria in linea con un Paese civile e non può farlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Presidente, colleghi, Sottosegretario, a volte si dice che un popolo lo si comprende meglio dai divieti, ossia da cosa è necessario vietare perché altrimenti si sarebbe verificato. Una riflessione un po' forte, ma che dobbiamo fare nel momento in cui stiamo discutendo un provvedimento di contrasto alle violenze ai danni del personale sanitario. Quando ci si rivolge a una struttura sanitaria si è esposti, fragili, feriti o malati, e ci si affida. Quanto è forte questo verbo “affidarsi”, rimettersi alla protezione e alle cure, confidare in qualcuno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308766_19",
+      "politician_name": "CALDERONE Tommaso Antonino",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Signor Sottosegretario, onorevoli colleghi, quando una norma riesce a incidere sui problemi dei consociati, certamente è una buona norma. In questo momento storico, come è noto a tutti, negli ultimi anni, si è registrato un aumento incredibile di aggressioni al personale medico, paramedico e sanitario in genere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308766",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi, oggi siamo qui per esprimerci su un atto dovuto da parte di uno Stato che deve avere la consapevolezza che le aggressioni nei confronti di medici, infermieri e operatori sanitari sono una vera e propria emergenza. Dopo averli chiamati angeli ed eroi durante la pandemia, oggi si trovano a tornare in queste trincee, dove sono vittime di aggressioni e corrono anche rischi per la professione. Il caso di Foggia è stato certamente quello più emblematico, poiché abbiamo assistito a una vera e propria aggressione di massa. Ma è soltanto uno dei più eclatanti. Se andiamo a vedere i dati dell'Osservatorio nazionale sulla sicurezza degli esercenti le professioni sanitarie e sociosanitarie - dati riferiti al 2023 - ci rendiamo conto che ci sono state 16.000 aggressioni che hanno coinvolto 18.000 operatori sanitari, e certamente quest'anno non è andata meglio. Due terzi delle persone aggredite sono, poi, donne. Io stessa, come sapete, sono un medico e sono stata anch'io vittima di aggressioni, fortunatamente soltanto verbali; ma per altri miei colleghi, purtroppo, è andata diversamente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Buongiorno a tutti, buon pomeriggio. Questo testo che ci accingiamo ad approvare estende l'ambito di applicazione delle sanzioni previste per le lesioni procurate agli esercenti le professioni sanitarie e socio-sanitarie nell'esercizio delle loro funzioni al personale che svolge servizi di sicurezza, oltre ad introdurre una nuova fattispecie di danneggiamento di cose destinate al Servizio sanitario, commesse con violenza o minaccia; la reclusione prevista è da 2 a 5 anni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Onorevoli colleghe e colleghi, quello dell'aggressione al personale sanitario è un fenomeno che assume forme sempre più preoccupanti. Abbiamo letto proprio ieri dell'ultimo agghiacciante episodio che ha coinvolto il primario del pronto soccorso dell'ospedale di Lamezia Terme, preso a manganellate da un parente di una paziente. È senz'altro giusto, anzi sacrosanto, che la politica si occupi di questo tema. Il problema di questo decreto, però, è che, come spesso accaduto con questo Governo, i contenuti del provvedimento non rispecchiano minimamente la risolutezza che troviamo nel titolo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308935_19",
+      "politician_name": "DONDI Daniela",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Governo, colleghi, con il presente decreto-legge andiamo a colmare una serie di gravi vuoti di tutela all'interno del nostro ordinamento giuridico. Grazie al Governo Meloni, restituiamo dignità e tutela a chi si occupa della nostra salute. Contrariamente a quanto ho sentito oggi in quest'Aula, non è vero che stiamo delegittimando e strumentalizzando i medici, tutt'altro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308935",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Sono ore drammatiche in questo momento in Sicilia orientale per la situazione delle piogge. Strade che sembrano fiumi, alcune auto sono state trascinate a mare, fortunatamente in questo momento non giungono notizie di danni gravi alle persone. La situazione, però, resta gravissima a Torre Archirafi, a Riposto, ad Acireale, nel siracusano. Ad Acireale, addirittura, è crollata una parte della Timpa. Con il mio intervento chiediamo un'informativa urgente al Ministro Musumeci, che peraltro conosce bene quei luoghi, per sapere se e come in questo momento stanno assicurando l'assistenza alla popolazione e se e come la Protezione civile vuole garantire la pronta messa in sicurezza dei torrenti, perché ricordiamo che pure stamattina è esondato il torrente Babbo, e garantire una messa in sicurezza dei luoghi, a differenza, ad esempio, di quello che è accaduto poche settimane fa a Ginostra.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307416_19",
+      "politician_name": "CANTONE Luciano",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Per richiedere anche noi un'informativa urgente al Ministro per la Protezione civile Musumeci. Nelle ultime 6 ore nei comuni di Acireale, Riposto e Giarre si sono abbattuti oltre 400 millimetri di acqua, in una situazione già molto aggravata di precarietà infrastrutturale generica. Non è la prima volta che succede, nelle ultime settimane la Sicilia è rimasta in ginocchio in varie zone. Noi chiediamo, però, al Ministro Musumeci, una volta per tutte, che venga a riferire in Aula e che ci porti un provvedimento urgente, e ci auguriamo che non ci venga a dire: fatevi l'assicurazione, così coprirete voi stessi questi ulteriori costi (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307416",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Per chiedere anche noi che venga in Aula il Ministro Musumeci. Tra l'altro, da grande censore e conoscitore dei problemi dell'isola, è stato anche governatore della Sicilia, ha detto che gli altri governatori sono stati pienamente responsabili di questo che succede, mentre noi diciamo, con correttezza, che ci sono concause dovute ai cambiamenti climatici e, purtroppo, all'abusivismo e alla cattiva gestione del territorio. Allora, lui ha sempre sostenuto che è responsabilità degli amministratori, quindi potrà venirci a raccontare, sia da ex presidente della regione e amministratore per decenni della Sicilia, sia da attuale Ministro, cosa ha fatto lui per la sua regione e cosa vuole fare per questo territorio, che purtroppo sta soffrendo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Anche noi, come gruppo di Italia Viva, per associarci alla richiesta di informativa del Ministro Musumeci rispetto ai fatti contingenti che stanno accadendo nella martoriata regione siciliana, ma soprattutto per chiedere anche conto di quello che sta facendo l'attuale presidente della regione Sicilia, che è stato nominato dal Governo Meloni come commissario per le emergenze in corso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, a seguito dell'odierna riunione della Conferenza dei Presidenti di gruppo, è stata convenuta una nuova articolazione dei lavori dell'Assemblea per il periodo 19-29 novembre 2024. Il nuovo calendario dei lavori vigente per il mese di novembre è pubblicato in calce al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro per i Rapporti con il Parlamento, il Ministro dell'Economia e delle finanze e il Ministro per la Pubblica amministrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. È passato un anno dalla morte di Giulia Cecchettin. Giulia ha scatenato il bisogno di una rivoluzione culturale. La sorella Elena ha posto la questione in termini di responsabilità collettiva. Il padre ha messo in discussione se stesso come uomo e la società patriarcale, in nome di sua figlia. Cosa ancora deve succedere perché il Governo intervenga di fronte a una strage quotidiana, in cui viene ammazzata una donna ogni tre giorni? Dopo quarant'anni di leggi, parallelamente, non c'è stata alcuna rivoluzione culturale e l'introduzione dell'educazione affettiva e sessuale è lettera morta e addirittura è ridicolizzata da alcuni esponenti della maggioranza. È fondamentale, invece, che venga introdotta, che venga prevista, perché bisogna fornire un alfabeto gentile delle emozioni. Che cosa pensa di fare il Ministro in questo senso? Infatti, andando avanti così, saremo sempre una di meno (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Grazie, Presidente. Onorevoli deputati, l'educazione alle relazioni nell'ambito di una concezione di scuola costituzionale, che mette studentesse e studenti al centro e pone l'attenzione alla persona, ha avuto sin da subito un ruolo focale nell'ambito di tutte le azioni del Ministero dell'Istruzione e del merito. C'è stato, quindi, fin da subito, l'impegno ad affermare il ruolo fondamentale dell'educazione e del rispetto. Proprio per tale ragione, il Ministero ha deciso di intervenire, innanzitutto, con una riforma dell'insegnamento dell'educazione civica, che ha portato all'emanazione delle nuove linee guida.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ministro, la ringrazio per essere venuto in Aula, ma non sono assolutamente, non siamo soddisfatti della sua risposta. Intanto, ci aspettavamo la presenza del Ministro Valditara, perché anche lui, sulla scia, purtroppo, dell'emotività causata dall'omicidio, dal femminicidio della giovane Giulia Cecchettin, si è fatto prendere “dall'annuncite” e ha detto che avrebbe avviato questo programma per l'educazione alle relazioni sentimentali. Fatto sta che, in primis , aveva costruito un gruppo di garanti, che poi ha dovuto far dimettere, a causa delle solite polemiche, perché ci sono molte persone, nella vostra maggioranza, che credono che nelle scuole, con l'educazione affettiva e sessuale si voglia fare propaganda gender , di un'ideologia che, di fatto, non esiste, come affermano tantissime ricerche e studi scientifici. Dopodiché, ha detto che avrebbe interloquito con le famiglie e con i docenti per costruire questo progetto che è da più di un anno che, di fatto, noi non vediamo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signora Presidente. Parto da Bobbio Pellice e, ovviamente, da molti altri comuni che sono stati destinatari di un servizio bancario, in questo caso di Intesa San Paolo, che ha rappresentato un riferimento essenziale per l'accesso ai servizi. Progressivamente questo servizio è stato ridimensionato, sino alla comunicazione di chiusura. Sono quindi a chiedere quali iniziative di competenza si intendano adottare, con particolare riferimento alle zone montane, al fine di contrastare il processo di marginalizzazione economica e sociale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d50115_19",
+      "politician_name": "GIORGETTI Giancarlo",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Economia e delle finanze . Signor Presidente, onorevole Ruffino, con riferimento ai quesiti posti, devo premettere che le scelte in tema di articolazione territoriale sono demandate alla libera iniziativa imprenditoriale degli intermediari bancari che, negli ultimi anni, analogamente a quanto avviene negli altri Paesi europei, hanno razionalizzato la rete distributiva in un'ottica di contenimento dei costi, facendo anche leva sull'utilizzo dei canali digitali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "50115",
+        "seduta": 381
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie signora Presidente e grazie signor Ministro, sempre attento nelle sue risposte. Bene il tema della libera iniziativa e bene il contenimento dei costi, se così possiamo dire; c'è, comunque, una riduzione degli sportelli non indifferente. Purtroppo, la rete degli uffici postali è, diciamo così, quasi in dismissione in alcuni territori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0381",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 381
+      }
+    }
+  ]
+}

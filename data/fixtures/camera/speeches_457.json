@@ -1,0 +1,643 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0457",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-03-27",
+    "title": "Assemblea — Seduta n. 457 del 2025-03-27",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 457
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 96, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307561_19",
+      "politician_name": "DE LUCA Piero",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ci permettiamo di intervenire ad inizio seduta per chiedere un'informativa urgente della Presidente del Consiglio, del Governo per chiarire lo stato dell'arte del Piano nazionale di ripresa e resilienza, diventato ormai un vero e proprio buco nero. È diventato un Piano nazionale dei ritardi e dei rinvii, come stiamo denunciando da tempo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307561",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anche noi richiediamo un'informativa urgente della Presidente del Consiglio, che speriamo possa decidere di venire in Aula per parlarci del PNRR e della situazione. Perché, guardi, la Corte dei conti - che questo Governo ha in tutte le maniere cercato di ostacolare, eliminando quello che era il controllo concomitante - dice, sì, che sostanzialmente alcune cose vanno bene, ma ci sono ritardi, non sono stati aumentati neanche i servizi di controllo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Anche il gruppo di Alleanza Verdi e Sinistra si associa a questa richiesta di informativa urgente alla Presidente Meloni. Insomma, le parole che abbiamo appreso dal quotidiano la Repubblica e la richiesta di rinvio da parte del Ministro Giorgetti dei termini di scadenza della spesa dei fondi del PNRR ci preoccupano, così come ci preoccupa che ancora non sia arrivata la sesta relazione sullo stato di attuazione. Tra ieri e oggi avremmo dovuto discutere le nostre mozioni proprio sullo stato di attuazione del PNRR, che sono slittate, e quindi non abbiamo avuto l'occasione di avanzare le nostre richieste al Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d306064_19",
+      "politician_name": "SOTTANELLI Giulio Cesare",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Anche noi di Azione ci associamo alla richiesta di informativa da parte del Governo in merito ai ritardi del PNRR e a quello che Giorgetti ha annunciato, ossia una richiesta di proroga in Europa di un ulteriore anno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "306064",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308837_19",
+      "politician_name": "FRENI Federico",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Economia e le finanze . Grazie, Presidente. Al netto di ogni articolo di giornale che, ovviamente, non impegna né potrebbe essere la volontà del Governo, e al netto degli intendimenti del Presidente del Consiglio, che sono ovviamente riservati al Presidente del Consiglio, credo sia giusto informare il Parlamento che quest'oggi è già calendarizzata la cabina di regia sul PNRR e che, in conformità alla legislazione vigente, verrà trasmessa al Parlamento sin dalla prossima settimana la relazione semestrale sullo stato di attuazione, all'interno della quale potranno certamente essere trovate, con la chiarezza che la legge prescrive in questi casi, tutte le risposte che sono state chieste con gli interventi che hanno preceduto il mio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308837",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione delle mozioni Faraone ed altri n. 1-00401 , Fenu ed altri 1-00412 (Nuova formulazione) , Mari ed altri n. 1-00420 e Braga ed altri n. 1-00421 concernenti iniziative volte a reintrodurre il cosiddetto “Bonus Renzi”, al fine di sostenere il potere d'acquisto delle fasce più deboli della popolazione (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Intanto vorrei fare una valutazione rispetto ai pareri che il Governo ha dato su queste mozioni: sostanzialmente tutti pareri contrari rispetto a mozioni che pongono un tema fondamentale, che è quello della detassazione e delle misure fiscali a favore dei cittadini. Peraltro, un altro elemento che si evidenzia in modo preponderante è che, mentre è stato dato parere contrario su tutte le mozioni, dalla maggioranza non è stata presentata alcuna proposta in nessun testo. Quindi questo conferma ciò che verrò a dire in questi minuti di intervento in dichiarazione di voto, perché la riduzione delle tasse e della burocrazia è da sempre un bel cavallo di battaglia ed una bella bandiera che si sventola nelle campagne elettorali. In questo i partiti che sostengono la maggioranza del Governo Meloni - Forza Italia, Lega, Fratelli d'Italia - sono sempre stati campioni del mondo, ma nelle campagne elettorali però! Perché quello che oggi ci troviamo a vedere - e che i cittadini si trovano a vedere nel loro portafoglio - è molto lontano dalla realtà rispetto a ciò che avete professato per anni, perché l'economia reale in questo momento storico sta soffrendo in modo reale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308869_19",
+      "politician_name": "MARI Francesco",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Sapevamo tutti che negli ultimi 30 anni, dal 1991 al 2022, quindi anche oltre 30 anni, i redditi dei lavoratori italiani sono cresciuti dell'1 per cento circa, a fronte di una media OCSE del 32,5, si sapeva già. Le ultime notizie, però, ci danno un elemento ulteriore di conoscenza, che riguarda il potere d'acquisto di queste famiglie e di questi lavoratori. I dati dell'OCSE ci dicono che dal 2008 il reddito delle famiglie ha perso, in termini di potere d'acquisto, l'8,7 per cento, quasi il 9 per cento. L'Italia ha la peggiore performance , da questo punto di vista, tra i Paesi del G20. Che cosa ci dicono complessivamente questi dati?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308869",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308837_19",
+      "politician_name": "FRENI Federico",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Economia e le finanze . Grazie, Presidente. Ho peccato di chiarezza, me ne scuso, nel dare i pareri sulla mozione dell'onorevole Mari. Gli impegni 4) e 5) andrebbero unificati in un unico testo con la riformulazione che ho letto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308837",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "La ringrazio, sottosegretario Freni. Finché pecca di chiarezza non è un problema, il problema è quando si pecca d'altro. Ha chiesto di parlare per dichiarazione di voto l'onorevole Sottanelli. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d306064_19",
+      "politician_name": "SOTTANELLI Giulio Cesare",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente, colleghi, Sottosegretario Freni. Questa mattina discutiamo in Aula di mozioni riguardanti una misura introdotta a giugno 2014, che va a favorire i lavoratori con redditi medio-bassi per dare loro sostegno e potere di acquisto con uno strumento, una erogazione diretta, dove i cittadini, i pensionati, i lavoratori dipendenti, in maniera concreta, pragmatica, si sono visti arrivare mensilmente un accredito di 80 euro. È stato uno strumento molto utile perché ha tagliato tutti quei processi di burocrazia che spesse volte i bonus implicano. A dicembre, nella legge di bilancio 2014, questo strumento è stato reso strutturale; nel 2020 l'allora Governo Draghi ha alzato l'importo a 100 euro, ampliandone anche la platea: poteva usufruirne chi aveva un reddito annuo fino a 28.000 euro. Purtroppo, il cuneo fiscale è una palla al piede della nostra economia e del mondo produttivo. Nel 2023 i dati ufficiali dicono che in Italia pesa per il 45,1 per cento, contro una media OCSE del 34,8 per cento. Stiamo parlando di 10,3 punti percentuali rispetto alla media, che pone l'Italia, rispetto al cuneo fiscale, tra i Paesi aventi un peso più alto in Europa. Questo rende tutto più complicato sia per i lavoratori dipendenti, sia anche per le aziende. Bisogna intervenire.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "306064",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di andare avanti salutiamo le studentesse, gli studenti e gli insegnanti del Liceo scientifico “Nicolò Copernico”, che assistono ai nostri lavori dalle tribune (Applausi) . Arrivano da Brescia e sono anche particolarmente bravi: sono cintura nera di matematica e avranno anche le Olimpiadi. Sono in finale, quindi in bocca al lupo per tutto quello che vi attende (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, signor Presidente. Onorevoli colleghi, signor Sottosegretario, quando l'Esecutivo ha assunto l'onere e l'impegno di riformare l'Irpef, semplificando le aliquote, e di provvedere a un taglio sostanzioso della tassazione a carico dei contribuenti, il Governo era ben conscio di intraprendere un percorso complesso e non privo di rischi. Questo è dovuto sicuramente a una normativa fiscale - possiamo dire - non propriamente semplice e trasparente, caratterizzata tra l'altro da stratificazioni di interventi legislativi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307406_19",
+      "politician_name": "RAFFA Angela",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghi, io prendo la parola, in quest'Aula, per annunciare il convinto sostegno alla mozione Fenu - a differenza della maggioranza - perché noi abbiamo la necessità di correggere gli effetti distorsivi della recente riforma Irpef inserita nella legge di bilancio del 2025, nel decreto legislativo n. 216 del 2023. Questa mozione affronta questioni di giustizia fiscale ed equità sociale che toccano da vicino la vita quotidiana di milioni di italiani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307406",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308879_19",
+      "politician_name": "TENERINI Chiara",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevoli colleghi, Sottosegretario, ancora una volta siamo chiamati a discutere mozioni che propongono soluzioni vecchie a problemi nuovi, che ripropongono le stesse logiche che hanno già fallito e che guardano al passato invece che al futuro. La reintroduzione del cosiddetto “Bonus Renzi” è un errore e lo diciamo con chiarezza: questo tema non merita. Non merita perché non incide davvero sul potere d'acquisto dei lavoratori, non merita perché non è una riforma strutturale, non merita perché si tratta di un palliativo inefficace che la sinistra continua a spacciare come una soluzione quando invece è solo un rattoppo su un sistema fiscale profondamente iniquo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308879",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto gli studenti e i docenti del Liceo classico “Orazio Flacco” di Bari, che assistono ai nostri lavori dalle tribune (Applausi) e che ringraziamo per essere oggi con noi qui alla Camera dei deputati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307508_19",
+      "politician_name": "GIACCONE Andrea",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, sicuramente il tema delle retribuzioni e del potere d'acquisto è centrale per i lavoratori, per le politiche e le prospettive future di questo Paese; è un tema che assume un'importanza ancora maggiore nella situazione attuale, caratterizzata da scenari geopolitici complessi, dalla fiammata inflattiva del periodo post COVID, dalle trasformazioni sempre più rapide del mercato del lavoro, dall'instabilità dei mercati finanziari e dalle trasformazioni indotte dalla globalizzazione. Già, la globalizzazione, quella globalizzazione che, alla fine degli anni Novanta, molti trasversalmente - dagli iperliberisti ai sostenitori della terza via - vedevano come una radiosa opportunità; una globalizzazione che, invece, ha portato delocalizzazioni, concorrenza sleale e impoverimento del potere d'acquisto delle classi lavoratrici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307508",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d306412_19",
+      "politician_name": "GUERRA Maria Cecilia",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'intervento dell'onorevole Giaccone, che mi ha preceduto, è stato molto, molto illustrativo rispetto all'insieme infinito di bonus che sono stati introdotti dal Governo Meloni. Quindi, mi evita di dover fare polemica di questo tipo perché dire che siamo contro i bonus da parte di un Governo che non fa altro che introdurre bonus - anche il bonus Natale, che mi sembra non abbia citato - è abbastanza ridicolo (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Noi non siamo favorevoli ai bonus e, soprattutto, non siamo favorevoli all'utilizzo dei bonus dentro il sistema fiscale, perché sono un modo non idoneo di affrontare un problema vero, che viene posto anche dalle mozioni dei colleghi, cioè il tema del sostegno dei redditi delle famiglie che stanno perdendo potere reale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "306412",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307340_19",
+      "politician_name": "LUCASELLI Ylenja",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Il gruppo di Fratelli d'Italia voterà conformemente ai pareri espressi dal Governo, e non per un pregiudizio precostituito, non è nostra abitudine, ma perché, dalla lettura dei testi delle mozioni, ci è risultato assolutamente chiaro come la sinistra continui a proporre ricette vecchie, che hanno già dimostrato di non saper risolvere il problema della crescita del potere d'acquisto, così come altri problemi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307340",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Scusi, onorevole Lucaselli. Colleghi, ci sarebbe in corso una dichiarazione di voto che pretende - ripeto - pretende il vostro silenzio. Chi non ritiene di fare silenzio esce, ricordandosi che, subito dopo l'intervento, cominceremo a votare e non lo aspetteremo, però chi sta qua deve stare in silenzio. Prego.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307340_19",
+      "politician_name": "LUCASELLI Ylenja",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Dicevo che con l'inserimento del bonus degli 80 euro, 9 miliardi di soldi degli italiani venivano distribuiti a macchia di leopardo, ma soprattutto non toccavano mai gli incapienti. I bisognosi non hanno mai ricevuto questi 80 euro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307340",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della proposta di legge n. 805-A ​: “Modifiche al decreto legislativo 24 giugno 2003, n. 209, e altre disposizioni in materia di cancellazione dai pubblici registri dei veicoli fuori uso sottoposti a fermo amministrativo” e dell'abbinata proposta di legge n. 347 ​.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Se nessuno chiede di intervenire, passiamo all'esame degli articoli della proposta di legge (Vedi l' allegato A ) . Poiché non sono state presentate proposte emendative, li porrò direttamente in votazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307728_19",
+      "politician_name": "TRIPODI Maria",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per gli Affari esteri e la cooperazione internazionale . Grazie, Presidente. Sull'ordine del giorno n. 9/805-A/1 Iaria il parere è favorevole con la seguente riformulazione: “impegna il Governo a valutare l'opportunità, al fine di contribuire alla sicurezza e al decoro urbano con particolare riguardo alle periferie, di adottare ulteriori iniziative di semplificazione amministrativa e velocizzare gli adempimenti previsti per le procedure inerenti il rinvenimento di veicoli a motore da parte di organi pubblici, o non reclamati dai proprietari, e di quelli acquisiti per occupazione ai sensi degli articoli 927, 929 e 923 del codice civile, nonché le procedure di conferimento ai centri di raccolta”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307728",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Questa proposta di legge consente di fare un piccolo passo in avanti rispetto a una questione tecnica che, però, ha un impatto molto importante nella quotidianità dei cittadini e degli enti locali. Riguarda, appunto, la questione dei veicoli fuori uso, sottoposti a fermo fiscale, che, purtroppo, riempiono le nostre città, le nostre aree urbane con immagini di degrado. Quindi, questa proposta di legge, cui Italia Viva-il Centro-Renew Europe non farà mancare il proprio voto favorevole, di fatto, consente di demolire fisicamente i veicoli vecchi e appunto fuori uso, sottoposti a fermo fiscale e consente, peraltro, agli enti locali di rimuoverli nel caso che questi veicoli fossero causa di danni all'ambiente, di ostacolo alla sicurezza pubblica. Effettivamente, ad oggi, c'è un buco normativo per cui, rimanendo registrati nei pubblici registri, questi mezzi rimangono a marcire e, con questo, appunto, determinano una questione ambientale e paesaggistica molto importante.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Partiamo dal paradosso che sta sanando questa legge. Nel corso degli anni, l'amministrazione finanziaria ha escluso che il veicolo sottoposto a fermo amministrativo potesse essere rottamato, essendo irragionevole che un bene costituente una garanzia per il soddisfacimento di un credito erariale possa non solo rientrare nella piena disponibilità del privato, ma essere persino utilizzato per accedere a misure premiali, quali gli ecoincentivi statali, in caso di rottamazione per l'acquisto di un nuovo veicolo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Questo provvedimento è un ottimo esempio che, quando vuole, la politica, in maniera bipartisan, può, in maniera paradossale, sistemare quello che la politica ha fatto male. Questo provvedimento, più che “anti-furbetti”, come diceva il collega, lo chiamerei “anti-assurdità”, perché è assolutamente inconcepibile, incomprensibile per quale motivo un veicolo fuori uso, sottoposto a fermo amministrativo, non possa essere radiato dal PRA e non possa essere demolito. Non c'è nessuna logica dietro a questo provvedimento, quindi meno male che i colleghi, tutti insieme, noi colleghi abbiamo deciso di porre fine a questa assurdità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Onorevoli colleghi, signora Sottosegretario, modernizzare e semplificare sono due verbi che rappresentano due direttive, due obiettivi di fondo che questa maggioranza ha messo al centro della propria agenda. Tali obiettivi teorici vanno calati nella realtà attraverso tutta una serie di riforme e provvedimenti che sono stati già adottati o sono in procinto di esserlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto le studentesse, gli studenti e i docenti dell'Istituto Comprensivo “Pio Fedi” di Grotte Santo Stefano, in provincia di Viterbo, che assistono ai nostri lavori dalle tribune (Applausi) . Grazie anche per il segno di rispetto che avete verso quest'Aula e grazie per la vostra visita.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, grazie, Presidente. Innanzitutto, mi preme ringraziare i proponenti delle proposte di legge, cioè la collega Russo e il collega Casu, e tutta la Commissione trasporti che ha lavorato in maniera condivisa su questo provvedimento. Lo faccio perché? Per ribadire anche un altro tema che è già venuto fuori, ossia che, quando ci sono dei provvedimenti utili e questi provvedimenti sono condivisi, questo Parlamento può fare molto. E quindi bisogna tornare, secondo me, a far lavorare il Parlamento su tante proposte di legge che possono trovare una sintesi e risolvere i problemi che, in questo caso, interessano moltissimo gli enti locali, i comuni e le città metropolitane che, tra l'altro, chiaramente, sono amministrate da diversi colori politici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d309161_19",
+      "politician_name": "BOSCAINI Maria Paola",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Sottosegretario Tripodi, onorevoli colleghe, onorevoli colleghi, con questo provvedimento vengono introdotte delle disposizioni per risolvere l'annoso problema del mancato smaltimento dei veicoli fuori uso gravati da fermo amministrativo e conseguente cancellazione al PRA. L'obiettivo è quello di rendere disponibile la rottamazione di questi veicoli, che sono ritenuti privi di valore economico, al fine di prevederne il corretto smaltimento, ma non consentendo al privato debitore dell'erario di accedere ai benefici economici legati alla rottamazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "309161",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307718_19",
+      "politician_name": "FURGIUELE Domenico",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Esprimo innanzitutto soddisfazione per il risultato raggiunto con questa proposta di legge, frutto di un lavoro bipartisan - come è stato detto dal collega che mi ha preceduto -, di un lavoro collettivo che abbiamo portato avanti nella Commissione trasporti e oggi in quest'Aula. Un lavoro che è stato portato avanti con il contributo dell'approfondimento, del confronto e dell'analisi, cui ha sicuramente contribuito tutto il ciclo di audizioni che abbiamo portato avanti all'interno della Commissione trasporti. Ringrazio i due proponenti della proposta di legge, l'onorevole Gaetana Russo e l'onorevole Casu.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307718",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Rappresentante del Governo, onorevoli colleghe, onorevoli colleghi: “Ecco a una svolta, spuntare la macchina morta, la carogna-automobile, e si può vedere la sua decomposizione, la ruggine, gli sfondamenti, i visceri esposti (…)”. Alzi la mano chi non ha mai provato la sensazione che ben descrive Guido Ceronetti nel suo Il silenzio del corpo .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308927_19",
+      "politician_name": "RUSSO Gaetana",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Grazie Sottosegretario, grazie, ovviamente, colleghi. Non nascondo l'emozione e un po' la soddisfazione di intervenire su un provvedimento ovviamente a mia prima firma, ma sottoscritto in realtà da tutto il gruppo di Fratelli d'Italia della Commissione trasporti che ringrazio per il supporto costante, in particolar modo il presidente Deidda (Applausi dei deputati del gruppo Fratelli d'Italia) , il capogruppo Raimondo, la collega Frijia che mi ha preceduto nella discussione di questo provvedimento qualche settimana fa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308927",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signor Presidente. Domani sarà la Giornata mondiale della consapevolezza sull'endometriosi e io, oggi, in Aula voglio portare la voce di milioni di donne che ogni giorno convivono con questa malattia cronica dolorosa e invisibile. Anche io ne sono affetta e anche a me l'endometriosi è stata diagnosticata molto tardi, ma mi sento fortunata perché non abbastanza tardi da consentirmi di ricorrere alle terapie ormonali richieste e previste e anche di avere delle gravidanze.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Mi unisco all'appello e all'invito fatto dalla collega rispetto alla Giornata di domani, una Giornata mondiale dedicata alla consapevolezza dell'endometriosi. Una Giornata importante che serve a fare una campagna di sensibilizzazione e di informazione su questa patologia che colpisce circa 3 milioni di donne nel nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, intervengo per esprimere solidarietà al giornalista e conduttore di Report , Sigfrido Ranucci. Quello che ha denunciato nelle ultime ore è gravissimo, cioè il fatto di essere stato controllato dai nostri Servizi segreti e che, dietro questa operazione, ci sia il Sottosegretario Fazzolari, capo della comunicazione del Governo. Si dipinge uno scenario inquietante, su cui serve immediata chiarezza, uno scenario in cui anche il direttore di Fanpage sappiamo essere stato spiato da un software in dotazione ai Servizi dopo un'inchiesta su Gioventù Nazionale. Sigfrido Ranucci e il suo programma Report sono oggetto di una costante azione intimidatoria, oserei definirla uno stillicidio, in particolare da quando, con il suo programma, ha realizzato un'inchiesta sulla famiglia Meloni. Quello che tratteggia questo Governo è uno scenario nebuloso, in cui il Governo non solo non offre trasparenza - citavamo il caso Paragon, ma potremmo ricordare il caso Almasri, o le armi che l'Italia continua a vendere a Israele, notizia fresca su cui torneremo -, ma è capace di mentire anche di fronte all'evidenza…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …e chiunque provi a fare chiarezza viene sottoposto a indebite pressioni. Fazzolari non può limitarsi ad annunciare denunce che risuonano come ulteriori intimidazioni, ma deve chiarire nelle sedi opportune. E lì non vorremmo ritrovarci di nuovo, come nel caso Paragon, che, a fronte di queste minacce e alla smentita, debba lui, o chi per lui, ammettere, infine, che quanto denuncia Ranucci, sia effettivamente accaduto...",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Noi chiediamo, dunque, che la Presidente Meloni chiarisca in Parlamento e la Presidenza della Camera si faccia carico della nostra richiesta, perché quello che ho descritto è uno scenario da dittatura, non da democrazia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308874_19",
+      "politician_name": "CERRETO Marco",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Nelle ore di questa mattina, grazie a un blitz su input della Direzione nazionale antimafia e della procura di Salerno, è stato tradotto agli arresti Franco Alfieri, già presidente della provincia di Salerno e sindaco del Partito Democratico della città di Capaccio Paestum. Le accuse nei confronti di Franco Alfieri, già arrestato il 3 ottobre scorso, sono inquietanti. Dagli atti e dal comunicato stampa della procura della Repubblica, si parla di tentato omicidio, estorsione aggravata dal metodo mafioso, traffico d'armi; avrebbero addirittura trovato armi da guerra in quello che, ormai, appare un patto collusivo tra imprenditoria malata e politica. Il sistema Cilento, che Fratelli d'Italia ha da anni denunciato, appare ormai travalicare quel confine geografico, fino ad arrivare in Abruzzo. Quest'uomo è noto alla cronaca - non solo a noi, ma ai giornali di tutta Italia - come l'“uomo delle fritture di pesce”. Diceva De Luca di lui: “Come sa fare lui la clientela, lo sappiamo. Una clientela organizzata, scientifica, razionale, come Cristo comanda. Che cosa bella”. Così diceva il presidente della regione Campania di Franco Alfieri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308874",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo in merito alla questione di Agrigento, capitale della cultura, designata con decreto del Ministero della Cultura, che prevede assegnazione di finanziamenti pubblici per realizzare quanto necessario. A distanza di pochi mesi dall'avvio ufficiale delle attività, oltre alle numerose criticità, ci sono state due dimissioni eccellenti: il presidente della Fondazione e addirittura il progettista, l'anima di questo progetto, Albergoni. Noi siamo fortemente preoccupati per l'immagine, ci sono state disdette enormi. L'Efebo d'Oro, premio internazionale che era nato ad Agrigento, quest'anno doveva ritornare, ma è stata data disdetta a fronte di tutte queste criticità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308803_19",
+      "politician_name": "SCARPA Rachele",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Abbiamo ricominciato anche noi, come gruppo del Partito Democratico, a intervenire a ogni fine seduta per sensibilizzare il Parlamento e il Governo sulla drammatica situazione di Gaza. Nella nebbia di silenzio, indifferenza e, a tratti, rassegnazione, che sembra avvolgere ormai da un anno e mezzo tutto l'Occidente democratico, quello che fregia di chiamarsi l'Occidente democratico, sembra che a volte abbiamo bisogno di storie individuali da assurgere a simbolo, di storie paradigmatiche. Anche se, quando si tratta di Palestina, sembrano non bastare più neanche quelli che, in altri contesti, chiameremmo eroi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308803",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308803_19",
+      "politician_name": "SCARPA Rachele",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Non basta il grido delle organizzazioni umanitarie che denunciano il blocco di oltre 63 tonnellate di aiuti umanitari all'ingresso, ai valichi che portano a Gaza e che parlano di rischio di carestia. Quindi, oltre alle bombe, si aggiunge la fame e non bastano i numeri impietosi: più di 50.000 morti dall'inizio del conflitto, dal 7 ottobre, 800 solo negli ultimi giorni…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308803",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308803_19",
+      "politician_name": "SCARPA Rachele",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Certamente. Chiedo al Governo di rompere il silenzio e l'inerzia che gettano vergogna e colpa su di noi, come Paese, rispetto alla questione della Palestina, di riconoscere lo Stato di Palestina e di mettere in campo delle azioni politiche per fermare questo massacro (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308803",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Pochissime parole per ricordare in quest'Aula che il Mugello, purtroppo, è in ginocchio a seguito degli eventi alluvionali della scorsa settimana. Marradi è tagliata fuori, sia per la viabilità stradale, sia per la viabilità ferroviaria. Non si riesce a prevedere un momento in cui questo paese dell'Appennino toscano potrà avere una viabilità ferroviaria, perché le frane hanno generato problemi immensi. Credo sia importante che il Governo prenda in seria considerazione l'ipotesi di dichiarare lo stato di emergenza nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 457
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, a seguito dell'odierna riunione della Conferenza dei capigruppo, è stato convenuto il seguente calendario dei lavori per il mese di aprile, che è pubblicato in calce al resoconto stenografico della seduta odierna. Sono altresì pubblicati in calce al resoconto stenografico della seduta odierna l'organizzazione dei tempi per la discussione degli argomenti iscritti nel calendario, conclusi in sede referente, nonché delle mozioni presentate, e il programma dei lavori conseguentemente aggiornato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0457",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 457
+      }
+    }
+  ]
+}

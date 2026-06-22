@@ -1,0 +1,71 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0670",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-06-05",
+    "title": "Assemblea — Seduta n. 670 del 2026-06-05",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0670",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 670
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-06-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 89, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0670",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 670
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-06-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il Presidente del Senato, con lettera pervenuta in data 4 giugno 2026, ha trasmesso alla Presidenza il seguente disegno di legge, che è stato assegnato, ai sensi dell'articolo 96- bis , comma 1, del Regolamento, in sede referente, alla I Commissione (Affari costituzionali):",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0670",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 670
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-06-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 3, comma 1, della legge 5 maggio 2009, n. 42, in data 4 giugno 2026, il Presidente del Senato, d'intesa con il Presidente della Camera, ha nominato Presidente della Commissione parlamentare per l'attuazione del federalismo fiscale il senatore Paolo Tosato, a cui vanno i complimenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0670",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 670
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-06-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che, con lettera in data 4 giugno 2026, il Presidente della Commissione Lavoro ha rappresentato l'esigenza di posticipare alla parte antimeridiana della seduta di martedì 9 giugno l'avvio della discussione in Assemblea del disegno di legge n. 2911 ​, di conversione del decreto-legge n. 62 del 2026, in materia di salario giusto, incentivi all'occupazione e contrasto al caporalato digitale, attualmente previsto per la seduta di lunedì 8 giugno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0670",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 670
+      }
+    }
+  ]
+}

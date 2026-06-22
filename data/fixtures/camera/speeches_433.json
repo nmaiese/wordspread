@@ -1,0 +1,344 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0433",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-02-21",
+    "title": "Assemblea — Seduta n. 433 del 2025-02-21",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 433
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 91, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308789_19",
+      "politician_name": "VIETRI Imma",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Sì, grazie, Presidente. Procedo con l'illustrazione e saluto il Vice Ministro Bellucci. Lo scorso mese di settembre è stato firmato un importante accordo tra il Ministero del Lavoro e il Dipartimento per la trasformazione digitale, per dare avvio al Fascicolo sociale e lavorativo del cittadino, una piattaforma digitale che semplificherà l'accesso dei cittadini ai servizi socioassistenziali, migliorando l'interazione tra enti pubblici e abbattendo tempi e costi burocratici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308789",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307426_19",
+      "politician_name": "BELLUCCI Maria Teresa",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministra del Lavoro e delle politiche sociali. Grazie, Presidente. Ringrazio gli onorevoli interpellanti, Imma Vietri e Galeazzo Bignami, per aver posto all'attenzione del Governo lo stato di avanzamento dei lavori relativi al Fascicolo elettronico sociale e lavorativo del cittadino; un progetto ambizioso promosso dal Ministero del Lavoro e delle politiche sociali che ha l'obiettivo, non solo di integrare e semplificare l'interazione tra domanda e offerta di lavoro, proseguendo quanto avviato attraverso il Sistema per l'inclusione sociale e lavorativa, ma anche di favorire una maggiore integrazione tra la sfera sociale e quella lavorativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307426",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308789_19",
+      "politician_name": "VIETRI Imma",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Vice Ministro. La sua risposta conferma, ancora una volta, l'attenzione e l'incessante impegno del Governo Meloni e del suo, Vice Ministro, ai bisogni dei cittadini, soprattutto quelli più vulnerabili, e, in particolare, alle esigenze di sostegno sociale e inserimento professionale, senza dimenticare, però, la necessità di razionalizzazione della spesa della pubblica amministrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308789",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307426_19",
+      "politician_name": "BELLUCCI Maria Teresa",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministra del Lavoro e delle politiche sociali. Grazie, Presidente. Con il presente atto di sindacato ispettivo, gli onorevoli interroganti pongono all'attenzione del Governo il tema della retribuzione minima, in particolare, per il settore della vigilanza privata e dei servizi fiduciari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307426",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307726_19",
+      "politician_name": "TUCCI Riccardo",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. No, non posso dirmi soddisfatto, ma devo constatare, comunque, che c'è un certo interesse da parte del Ministero. Però, vede, Vice Ministro, nel 2023 è successo qualcosa, a mio parere, di eclatante: una sentenza della magistratura ci ha richiamato alla responsabilità, tutti quanti, nessuno escluso in questo caso, perché è servita una sentenza della magistratura per dirci che 65.000 lavoratori italiani percepivano una retribuzione oraria al di sotto della povertà assoluta. Parliamo delle guardie giurate che percepivano, in base al contratto collettivo nazionale, qualcosa che andava da 4,60 euro a circa 6 euro all'ora.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307726",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Intanto ringrazio l'onorevole Sportiello per la questione sollevata, che è veramente importante. Fortunatamente, chiarisco preliminarmente che quanto asserito nell'interpellanza non risponde al vero. Sarebbe stato, infatti, gravissimo e inaccettabile se uno studente con una severa forma di autismo, così come qualunque altro ragazzo affetto da forme di disabilità, fosse stato rifiutato da ben 30 istituti scolastici, lasciando la famiglia sola ad affrontare una vera e propria odissea del dolore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307202_19",
+      "politician_name": "SPORTIELLO Gilda",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. I fatti esposti nell'interpellanza sono i fatti che sono stati denunciati sugli organi di stampa e che denunciano non solo l'episodio capitato a una singola famiglia. Basta leggere, basta conoscere e basta sapere che, purtroppo, questo è quello che si verifica spesso quando le famiglie si rivolgono al comune o alle scuole per poter iscrivere i propri figli. Le famiglie che hanno figli con disabilità incontrano diverse difficoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307202",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo a nome del gruppo del Partito Democratico, sull'ordine dei lavori, perché notiamo che è presente la Sottosegretaria Siracusano, ma non vediamo nessun rappresentante del Ministero della Giustizia. Eppure, il prossimo provvedimento si occupa proprio della disciplina in materia di operazioni di intercettazioni e il Sottosegretario Ostellari ha partecipato ai lavori in Commissione. Oggi non c'è nessuno del Ministero della Giustizia, perché, evidentemente, in via Arenula, in questo momento, non c'è più un Ministero della Giustizia, è diventato lo studio degli avvocati difensori di Delmastro. Ecco, vedete, di fronte alle dichiarazioni eversive che stiamo ascoltando in queste ore - le parole della Presidente del Consiglio, del Ministro Nordio e dello stesso Delmastro - viene spiegato, in maniera chiara, qual è il vero obiettivo di questo Governo: colpire la magistratura, l'autonomia, l'indipendenza della magistratura e l'equilibrio dei poteri, che sono il fondamento della nostra Costituzione. Ribadiamo la nostra richiesta di dimissioni di Delmastro, che ha dimostrato, anche in questa vicenda, la sua totale inadeguatezza per svolgere le sue funzioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anch'io rilevo la presenza della Sottosegretaria per i Rapporti con il Parlamento, Siracusano, che ringrazio, per carità, per la sua presenza qui. Però, vedete, l'assenza di un esponente del Ministero della Giustizia oggi è assolutamente un dato politico rilevante, perché stiamo per entrare nel merito della proposta di legge sulle intercettazioni, un provvedimento che definirei quasi bandiera per l'orientamento del Governo e della maggioranza e non abbiamo un esponente del Ministero della Giustizia con cui interloquire.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308766_19",
+      "politician_name": "CALDERONE Tommaso Antonino",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. Colleghi, la odierna proposta di legge è già stata approvata dal Senato della Repubblica e concerne la modifica alla disciplina in materia di durata delle intercettazioni. Il testo originario - è bene precisarlo - riguardava anche la disciplina delle intercettazioni tra l'indagato e il suo difensore, a seguito però medio tempore della entrata in vigore dell'articolo 2 della legge n. 114 del 2024, la questione è stata superata e oggi ci occupiamo esclusivamente della durata delle intercettazioni telefoniche ed ambientali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308766",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Dobbiamo evitare l'errore di considerare questa norma come una semplice modifica cronologica e numerica. Dobbiamo attribuire il significato e il fondamento che porta a questa modifica normativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308803_19",
+      "politician_name": "SCARPA Rachele",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Oggi discutiamo una questione importante, la regolamentazione di uno strumento fondamentale per le indagini, lo strumento dell'intercettazione. Viene introdotto un limite massimo, di 45 giorni, che è piuttosto rigido. Certo con l'esigenza di garantire, quanto più possibile in senso liberale, i diritti della persona indagata ma, ovviamente, oggi ci troviamo qui a discutere del “come” lo si fa e se sia il modo migliore. E lasci dire, anche a me, che è un peccato farlo oggi, in Aula, in assenza di rappresentanti del Ministero della Giustizia e di chi ha seguito questo provvedimento sin dall'inizio. Attualmente non esiste un limite massimo, predefinito, alla durata delle intercettazioni. La loro durata è, implicitamente, correlata ai tempi massimi delle indagini preliminari, quindi 18-24 mesi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308803",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Buongiorno a tutti. Questo provvedimento rappresenta una delle tranche più significative del programma concernente la riforma della giustizia che questo Governo si è prefisso e ha promesso ai suoi elettori e per i quali è stato votato. Questa parte è forse la più controversa, la più discussa, la più combattuta e riguarda i limiti della proroga delle intercettazioni. Questo provvedimento è stato pesantemente criticato perché renderebbe più difficili le indagini di mafia: limitando le indagini - questa è la narrazione dell'opposizione - si limiterebbero le possibilità per i magistrati di colpire le organizzazioni criminali. Ora noi, come Parlamento e come legislatori, abbiamo l'assoluta necessità di trovare un punto di equilibrio tra interessi contrapposti: da una parte, la necessità investigativa di reprimere dei reati, un valore costituzionalmente primario; dall'altra, il rispetto della privacy , il rispetto della sfera personalissima del cittadino, un valore costituzionale anche questo. Privacy che non può essere violata ed attentata per mesi, per anni alla ricerca di un reato che in altro modo non si trova. Il bilanciamento tra interessi in conflitto e interessi - ripeto - dello stesso rango costituzionale è uno dei compiti del Parlamento. Il tema di fondo è trovare il giusto punto di equilibrio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Salutiamo studenti e insegnanti dell'Istituto comprensivo “Gigi Proietti” di Roma, che seguono i nostri lavori dalle tribune. Benvenuti e grazie (Applausi) . È iscritta a parlare l'onorevole D'Orso. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sottosegretaria, colleghi e colleghe, farò più un intervento introduttivo, un po' di contesto rispetto a questo provvedimento, perché il merito potremmo dire che è presto detto. Sono poche righe, sono scritte molto male, produrranno tante ambiguità di applicazione, ma produrranno anche un'unica certezza: che per quasi tutti i reati e per quasi tutte le attività di indagine le intercettazioni si interromperanno il 46° giorno e tutto andrà in fumo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308811_19",
+      "politician_name": "LA SALANDRA Giandonato",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Una brevissima premessa: innanzitutto, vorrei tranquillizzare il collega del Partito Democratico, perché questa mattina sono passato davanti al Ministero della Giustizia e mi è sembrato che fosse tutto quanto in ordine, non ho visto un via vai di avvocati o altre situazioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308811",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308811_19",
+      "politician_name": "LA SALANDRA Giandonato",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Veramente concludo, Presidente, approfittando della sua cultura generale. Lei ricorderà Herman Melville, quando diceva che anche la legge, ogni tanto, trova la sua ragione. Io credo che una legge non debba essere giusta; una legge dev'essere ragionevole e io credo che questo testo normativo sia assolutamente ragionevole rispetto a che cosa? Rispetto alla ratio legis delle misure di ricerca della prova.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308811",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo è l'ennesimo provvedimento che toglie strumenti di indagine alla magistratura e pone dei serissimi problemi. In primis , un problema di coerenza con la durata delle indagini, perché non ha alcun senso stabilire che le indagini abbiano un termine di 18 mesi per i delitti o di 2 anni per alcuni delitti più gravi, come previsto, da ultimo, dalla riforma Cartabia, e poi si decida, però, che, dopo 45 giorni, a meno che tu non abbia avuto riscontri eclatanti della fondatezza dell'accusa, devi interrompere un mezzo di ricerca della prova che è fondamentale. Facciamo un esempio pratico: è come dire a uno scienziato che sta compiendo una complessa ricerca per individuare una possibile grave malattia: puoi farlo per due anni, ma puoi usare il microscopio solo per un mese e mezzo (Applausi dei deputati del gruppo MoVimento 5 Stelle). Voi capite che non ha assolutamente senso. In questo modo, voi state togliendo diritti alle vittime e anche agli indagati, costringendo i magistrati a giocare alla roulette russa, sperando di essere fortunati a captare, nei 45 giorni, qualcosa di rilevante, altrimenti tutto viene cestinato. Ma è noto che, purtroppo, voi siete un po' allergici alle indagini ben fatte (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Il provvedimento che, purtroppo, oggi discutiamo in Assemblea costituisce un nefasto stravolgimento dello strumento delle intercettazioni (intercettazioni ambientali, telefoniche, telematiche) che, oggi, sappiamo tutti, grazie anche al progresso tecnologico, rappresentano il principale strumento e mezzo di ricerca della prova; a maggior ragione, a fronte della sempre maggiore complessità delle indagini e dell'utilizzo, da parte delle consorterie criminali, di strumenti sempre più sofisticati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . La ringrazio, Presidente. Mi limiterò ad alcune brevi riflessioni, intanto ringraziando tutti i colleghi intervenuti, perché hanno offerto spunti di riflessione molto interessanti. Intervengo per esprimere il sostegno pieno del Governo a questa iniziativa parlamentare, promossa dal senatore Zanettin. In premessa, condivido con voi una riflessione: qualunque sistema, per garantire equilibrio e funzionalità, deve porsi dei limiti, qualunque sistema. Se non vi sono dei limiti, si generano squilibri e abusi. Per esempio, la discrezionalità senza limiti può diventare libero arbitrio, la mancanza di responsabilità senza limiti può diventare impunità, quindi è giusto che anche gli organi inquirenti si pongano dei limiti, che, tra l'altro, sono evidenti nella nostra Costituzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che, a norma dell'articolo 40, comma 1, del Regolamento, prima dell'inizio della discussione sono state presentate la questione pregiudiziale di costituzionalità D'Orso ed altri n. 1 e la questione pregiudiziale di merito Gianassi ed altri n. 1, che saranno esaminate e poste in votazione prima di passare all'esame degli articoli del provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d305757_19",
+      "politician_name": "BOLDRINI Laura",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signor Presidente. Colleghe e colleghi deputati, con questa mozione noi intendiamo impegnare il Governo a riconoscere il genocidio del popolo yazida. Lo hanno già fatto molti importanti Paesi, per citarne alcuni: Germania, Paesi Bassi, Belgio, Stati Uniti, Regno Unito, Canada, Portogallo, Irlanda, Armenia, Francia, Australia, Governo regionale del Kurdistan, Scozia. Inoltre lo hanno fatto anche il Parlamento europeo e l'ONU, cioè le Nazioni Unite. Che cosa è secondo il diritto internazionale un genocidio?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "305757",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io credo che ci sia sostanzialmente poco da aggiungere a quello che ha già detto la Presidente Boldrini, perché credo che sia un compito davvero significativo e importante che quest'Aula possa fare un atto di giustizia, cioè riconoscere che il popolo yazida è stato soggetto perseguitato e dimenticato. La loro colpa era quella di essere degli eretici. In generale, tutte le forme di sincretismo rappresentano degli elementi di destabilizzazione rispetto alle religioni prevalenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 433
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2025-02-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che la Commissione parlamentare d'inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica ha proceduto in data 20 febbraio 2025 all'elezione di un Vicepresidente e di un Segretario. Sono risultati eletti rispettivamente il deputato Girelli e il senatore De Cristofaro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0433",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 433
+      }
+    }
+  ]
+}

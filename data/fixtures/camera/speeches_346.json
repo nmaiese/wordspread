@@ -1,0 +1,58 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0346",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-09-13",
+    "title": "Assemblea — Seduta n. 346 del 2024-09-13",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0346",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 346
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-09-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 76, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0346",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 346
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-09-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Ringrazio gli onorevoli interroganti e prioritariamente ricordo che attualmente in Italia sono disponibili due tipi di farmaci per la contraccezione d'emergenza: i preparati orali progestinici, contenenti levonorgestrel (LNG), che agiscono fino a 72 ore dopo il rapporto sessuale non protetto o in seguito al fallimento di un metodo anticoncezionale e i preparati contenenti ulipristal acetato (UPA), che agiscono fino a 120 ore dopo il rapporto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0346",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 346
+      }
+    },
+    {
+      "politician_id": "camera_d307202_19",
+      "politician_name": "SPORTIELLO Gilda",
+      "date": "2024-09-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ringrazio la Sottosegretaria Siracusano. Allora, io oggi ho presentato questa interpellanza, perché si verifica qualcosa, nel nostro Paese, di veramente inspiegabile e, cioè, che i contraccettivi di emergenza ormonali vengono assimilati, nella farmacopea ufficiale, ai contraccettivi ormonali sistemici, quelli che si assumono preventivamente, quelli che si assumono quotidianamente. È chiaro che ci troviamo di fronte a due scopi differenti, perché, mentre i primi si prendono quotidianamente e sono contraccettivi preventivi, i secondi, invece, quelli di emergenza, si assumono nel caso in cui ci sia stato un rapporto non protetto, un rapporto a rischio; e il tempismo con cui si assumono questi farmaci è fondamentale, sia nel caso della pillola del giorno dopo che in quello della pillola dei cinque giorni dopo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0346",
+      "metadata": {
+        "id_persona": "307202",
+        "seduta": 346
+      }
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0512",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-07-16",
+    "title": "Assemblea — Seduta n. 512 del 2025-07-16",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 512
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 101, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Intervengo per chiedere alla Presidente Meloni di venire in Aula e dare conto di quanto sta succedendo all'interno del Governo circa le azioni che ha inteso mettere in campo in relazione al detenuto, ormai da 8 mesi, Alberto Trentini. Perché mi rivolgo alla Presidente? Perché alla Presidente si è rivolta direttamente, da madre a madre, credo, ritengo, la mamma di Alberto Trentini, esattamente ieri, in un'ANSA, in un'agenzia, che è stata poi ripresa dai quotidiani oggi. Lei dice disperatamente: “Oggi sono 8 mesi esatti che mio figlio Alberto è in prigione, ma tutto tace e tace anche la nostra Presidente del Consiglio. Questo silenzio per me e la mia famiglia è insostenibile, il nostro Governo deve attivarsi, come ha fatto quello svizzero con il compagno di prigionia di mio figlio, che è stato liberato da poco e ha raccontato alla stampa le terribili condizioni di detenzione in cui si trova ancora Alberto”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Per associarci alla richiesta di un'informativa al Governo sulla situazione di Alberto Trentini, cooperante umanitario italiano, detenuto ormai da molti mesi in Venezuela. Credo che, da questo punto di vista, sia necessario uno sforzo; uno sforzo che vada al di là delle posizioni di maggioranza e opposizione, come è stato anche in altre occasioni. In gioco c'è la vita di un nostro concittadino e, ripeto, in situazioni analoghe si è riusciti a portare a casa l'obiettivo, che è quello di farlo ritornare in Italia sano e salvo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della Relazione della Giunta per le autorizzazioni su una richiesta di deliberazione in materia di insindacabilità, ai sensi dell'articolo 68, primo comma, della Costituzione, nell'ambito di un procedimento penale in corso nei confronti della deputata Giorgia Meloni (Doc. IV- ter , n. 7-A).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. La Giunta per le autorizzazioni riferisce all'Assemblea su una richiesta di deliberazione in materia di insindacabilità trasmessa dall'ufficio GIP del tribunale di Roma il 10 novembre 2021. Tale richiesta trae origine da un procedimento penale per diffamazione aggravata a carico dell'onorevole Giorgia Meloni, avviato a seguito di una querela sporta dal signor Fabrizio Pignalberi. La richiesta è stata originariamente esaminata nella precedente legislatura, conclusa con proposta unanime di dichiarazione di insindacabilità, ma l'interruzione anticipata dei lavori parlamentari ha impedito l'adozione di una deliberazione definitiva da parte dell'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Vogliamo ribadire in Aula un principio democratico inviolabile: non c'è libertà parlamentare senza la tutela effettiva della funzione rappresentativa; non c'è mandato popolare, se il pensiero espresso da un parlamentare è sottratto alla dialettica politica e al controllo democratico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Questa è una vicenda molto lineare, molto chiara. Peraltro, questo Parlamento aveva già deciso il suo orientamento, come è stato ben ricordato dal relatore, nella passata legislatura, quando l'onorevole Meloni allora era una leader di opposizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Ciò che oggi l'Aula è chiamata a votare non è soltanto una questione tecnica di insindacabilità. È una questione di responsabilità politica, una questione di serietà istituzionale: è il rispetto per la funzione che ciascuno di noi esercita in nome e per conto dei cittadini italiani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, come riportato nella relazione della Giunta, il querelante, il signor Pignalberi, nel 2023 è stato condannato per truffa ed esercizio abusivo della professione di avvocato e tale condanna segue proprio alla denuncia sporta da una delle vittime intervistate dalla trasmissione televisiva Le Iene nel servizio andato in onda il 1° giugno 2021. Ebbene, appena dopo la trasmissione televisiva de Le Iene , l'onorevole Meloni, chiamata in causa per i trascorsi politici di Pignalberi come candidato di Fratelli d'Italia, aveva scritto, appunto, un post su Twitter con cui prendeva le distanze sue e del partito di Fratelli d'Italia dal Pignalberi, chiamandolo “truffatore” e spiegando che si trattava di una persona che non aveva più nulla a che fare con il partito. Da qui, appunto, la denuncia per diffamazione del signor Pignalberi. Rispetto a questa vicenda, dichiaro il voto favorevole alla insindacabilità dell'allora onorevole Meloni, oggi Presidente del Consiglio, contro il querelante Pignalberi, che si è reso responsabile di una serie di truffe e inganni a danno di una molteplicità di persone.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Io sarò coerente. Riportandomi integralmente alle ragioni che ho già esposto nella relazione introduttiva, preannuncio il voto favorevole del gruppo di Forza Italia per la insindacabilità delle opinioni espresse dall'onorevole Giorgia Meloni nella vicenda all'esame di quest'Aula (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307508_19",
+      "politician_name": "GIACCONE Andrea",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, intanto desidero ringraziare il relatore, il collega Pittalis, per l'approfondito e puntuale lavoro svolto, e noi non possiamo che concordare con le conclusioni alle quali è giunto il relatore nella sua proposta di parere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307508",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Non l'ho interrotta, però approfitto del passaggio tra un intervento e l'altro per chiedere all'Aula di conservare il proprio ordine, di stare in silenzio, di non dare le spalle alla Presidenza, di recarsi fuori dall'Aula se c'è bisogno di conversare con qualche collega, di rispettare il diritto di ogni deputato a svolgere il proprio intervento mantenendo la concentrazione, senza rumori di fondo, e quindi nel rispetto generale di quest'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche il gruppo del Partito Democratico aderisce alla relazione dell'onorevole Pittalis ed esprimerà un voto a favore dell'insindacabilità delle opinioni espresse dall'attuale Presidente del Consiglio, allora, in quel contesto, parlamentare dell'opposizione e leader del partito di Fratelli d'Italia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Guardi, si interrompa un attimo, per cortesia. Aspettiamo che i colleghi decidano di guadagnare la propria postazione e di mettersi seduti. Collega Colucci, collega Pella. Possiamo, per cortesia, rientrare nelle proprie postazioni e stare seduti in silenzio? Voi non vi rendete conto che è impossibile parlare in questo clima. Prego, riproviamo. Prosegua il suo intervento, deputato Gianassi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Riproviamo. Peraltro, segnalo che stiamo discutendo di un procedimento penale a carico della Presidente del Consiglio. La maggioranza dovrebbe essere interessata a capire gli esiti di questa decisione dell'Aula, rispetto alla quale l'opposizione sta dichiarando il voto a favore dell'insindacabilità, perché non utilizziamo per interesse di parte le guarentigie costituzionali, ma le difendiamo a prescindere dalla persona rispetto alla quale il tema si pone (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308831_19",
+      "politician_name": "IAIA Dario",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Egregi colleghi, qualche considerazione in merito alle ultime riflessioni fatte dal collega del Partito Democratico, ma anche a quelle precedenti dei colleghi del MoVimento 5 Stelle e di AVS. Purtroppo, anche nel caso in cui si potrebbe votare serenamente all'unanimità su una questione che è più squisitamente tecnica che non politica, non si perde l'occasione per fare polemica e per attaccare in qualche maniera il Governo Meloni e il nostro Presidente del Consiglio (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308831",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308831_19",
+      "politician_name": "IAIA Dario",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). …ancora più tranchant da questo punto di vista, abbiano rappresentato una profonda modifica e una profonda evoluzione della giurisprudenza della Corte costituzionale in favore della libertà di manifestazione del pensiero - e ci mancherebbe altro - da parte dei parlamentari ma, soprattutto, a difesa delle opinioni politiche che i parlamentari hanno il diritto di esprimere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308831",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della Relazione della Giunta per le autorizzazioni su una richiesta di deliberazione in materia di insindacabilità, ai sensi dell'articolo 68, primo comma, della Costituzione, nell'ambito di un procedimento penale in corso nei confronti del deputato Donzelli (Doc. IV- ter , n. 14-A).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308916_19",
+      "politician_name": "FORATTINI Antonella",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie, Presidente. La Giunta per le autorizzazioni riferisce all'Assemblea in merito alla richiesta di deliberazione concernente l'insindacabilità delle opinioni espresse dall'onorevole Giovanni Donzelli, trasmessa alla Camera dei deputati il 17 febbraio 2023 dal tribunale di Roma, sezione del giudice per le indagini preliminari. Tale richiesta trae origine da un procedimento penale per diffamazione a mezzo stampa, promosso a seguito di un esposto-querela presentato dal signor Adriano Panzironi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308916",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. L'articolo 68 della Costituzione non è un privilegio personale, è una barriera civile contro l'arbitrio e una garanzia che il pensiero politico possa esprimersi senza timore. Antonio Gramsci, durante la prigionia, scrisse: La libertà è sempre la libertà di chi la pensa diversamente. Noi oggi dobbiamo custodire quella libertà, anche quando ci costa fatica. Dobbiamo farlo anche quando riguarda parole scomode o dei nostri peggiori e più feroci avversari politici, perché il metro con cui si misura una democrazia non è il favore, ma la coerenza con i propri principi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Anche qui ci troviamo in una fattispecie abbastanza chiara, dove c'è una situazione in cui un parlamentare, nell'esercizio delle sue funzioni, difende l'interesse pubblico collettivo, e lo fa prendendo una posizione chiara in un contesto di dibattito pubblico. È evidente che c'è una funzione parlamentare esercitata che va tutelata, e quindi, alla luce di questo, la decisione della Giunta, peraltro assunta anche unanimemente, non può che essere sostenuta anche da noi (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Onorevoli colleghe, onorevoli colleghi, signori del Governo, l'articolo 68 della Costituzione sancisce un principio molto importante, quello dell'insindacabilità delle dichiarazioni dei parlamentari nell'esercizio delle loro funzioni, quello dei voti che esprimono durante l'attività parlamentare. Non possono essere quindi perseguiti, da un punto di vista penale e civile, per tali reati. Credo che sia un pilastro importantissimo, un elemento fondamentale che garantisce la centralità e l'indipendenza del Parlamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Il caso che qui ci occupa riguarda il collega Donzelli. Io, però, dissento da quanto ho ascoltato nell'intervento che mi ha immediatamente preceduto, che ha immediatamente preceduto quello che io vi sto dicendo, sul fatto che l'onorevole Donzelli debba usufruire di una guarentigia costituzionale perché si è adoperato per la sicurezza e per il bene pubblico. Ebbene, no. Tramite lei, mi riferisco al collega Alessandro Colucci: non è questo il tema di cui discutiamo. Noi stiamo parlando, invece, dei limiti e della sussistenza di una guarentigia, come dicevo prima, stabilita a favore di noi parlamentari, quindi è tutt'altro: è un fatto assolutamente tecnico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Nel ringraziare l'onorevole Forattini per l'esaustività della relazione, preannuncio il voto favorevole del gruppo Forza Italia sulla proposta di insindacabilità delle espressioni rese dall'onorevole Giovanni Donzelli in relazione a una vicenda. Vorrei richiamare qui, signor Presidente, che stiamo trattando di una vicenda specifica. Non si comprende il senso di alcuni interventi che dilatano oltre misura il campo, sempre per buttare ogni questione in caciara: e questo è inammissibile (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) ! Lo dico a tutela delle prerogative di questo Parlamento e della funzione che svolgiamo! Forse, sarebbe stato più dignitoso votare contro, non a favore, e fare una disquisizione su argomentazioni che non hanno alcuna attinenza con la vicenda in esame (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE e Fratelli d'Italia) . Perché la vicenda è quella relativa al signor Panzironi, di professione giornalista, ma che, nella realtà, è stato accertato esercitasse abusivamente la professione medica, promuovendo, attraverso un canale televisivo, cure prive di fondamento scientifico, anche per patologie gravi, diffondendo - come ha ricordato la relatrice - consigli e trattamenti non conformi alle norme sanitarie e potenzialmente dannosi per i pazienti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307285_19",
+      "politician_name": "CAVANDOLI Laura",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Io ringrazio la relatrice, la collega Forattini, per avere svolto uno studio più approfondito e per avere proposto il parere per l'insindacabilità delle dichiarazioni dell'onorevole Donzelli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307285",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308923_19",
+      "politician_name": "PULCIANI Paolo",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie Presidente, grazie onorevoli colleghi. Intanto, voglio unirmi ai ringraziamenti già fatti alla Giunta per le autorizzazioni a procedere, in quanto quello che si svolge in Giunta è un lavoro tecnico - come è stato rammentato tante volte -, che viene fatto precipuamente, caso per caso, in cui si affrontano le questioni sulla sindacabilità dei procedimenti penali o civili, che vengono sottoposte al nostro vaglio. Spiace - lo ripeto ed è già stato ricordato poco prima di me in quest'Aula - che, nel momento in cui questo elemento tecnico e scevro da personalismi, che quindi riguarda la funzione parlamentare e quello che viene riconosciuto come diritto di ogni parlamentare, in base all'articolo 68 della Costituzione, nel momento in cui viene in Aula, viene considerato un elemento personale, o meglio personalistico, cioè non sulla questione che si giudica, ma su chi si giudica e diventa motivo di estensione sulle qualità morali, sull'attività generale politica di un parlamentare, piuttosto che di un altro, così come, addirittura, sull'appartenenza o meno a un gruppo parlamentare, piuttosto che a un altro gruppo parlamentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308923",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della Relazione della Giunta per le autorizzazioni su una richiesta di deliberazione in materia di insindacabilità, ai sensi dell'articolo 68, primo comma, della Costituzione, nell'ambito di un procedimento penale in corso nei confronti del deputato Andrea Delmastro Delle Vedove (Doc. IV- ter , n. 16-A).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. La Giunta per le autorizzazioni riferisce all'Assemblea in merito a una richiesta di deliberazione in materia di insindacabilità, formulata dal tribunale di Biella, Sezione del GIP, e pervenuta alla Camera il 15 gennaio 2024.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. L'articolo 68 della Costituzione non è un privilegio personale, è una garanzia che il pensiero politico possa esprimersi liberamente e senza timore. Ma non crediamo che ciò che descriveremo rientri nell'esercizio delle funzioni parlamentari. È un abuso politico, invece. È una strategia di dissuasione che serve a colpire chi esercita il controllo sull'operato pubblico per dissuadere chi verrà dopo. Il 16 giugno del 2021 l'onorevole Delmastro pubblicò sulla propria pagina Facebook un video e definiva il procuratore Lorelli “l'eroe dei due mondi della sinistra giudiziaria”. “il Torquemada del pensiero unico”, “il Capitan Fracassa della sinistra giudiziaria italiana”, e aggiungeva: “ti staremo con il fiato sul collo, non ti molleremo mai”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Qui il filo è molto sottile, perché in questo caso dobbiamo stare attenti a non votare sulla nostra valutazione se condividiamo o no le cose dette dal collega Delmastro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, signor Presidente. Onorevoli colleghi, ci sono momenti in cui quest'Aula è chiamata a pronunciarsi non solo su un singolo atto o su una persona, ma su un principio molto più ampio che tocca il cuore stesso della nostra democrazia parlamentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Io rimando il contenuto del mio intervento alla relazione che pochi istanti fa ho reso a quest'Aula, aggiungendo soltanto, in relazione alle considerazioni che sono emerse in questo dibattito, che è fondamentale valutare il perimetro che è assegnato al Parlamento per definire se il comportamento, se le frasi del deputato siano sindacabili o insindacabili; ed è un perimetro molto chiaro e molto netto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307285_19",
+      "politician_name": "CAVANDOLI Laura",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Ringrazio il relatore, onorevole Costa, per l'esame approfondito della questione, e anche io faccio un invito all'Aula: a fermarsi a esaminare l'oggettività del sindacato dell'Aula e di quello che ha fatto la Giunta. Perché noi dobbiamo valutare le affermazioni dell'onorevole Delmastro Delle Vedove che ha fatto durante un video Facebook il 16 giugno del 2021. Erano affermazioni, come è stato detto, contro il procuratore regionale per il Piemonte della Corte dei conti, il quale aveva iniziato un'istruttoria preliminare per un presunto danno contabile nei confronti di un assessore regionale della regione Piemonte. Si trattava, è stato detto, dell'acquisto di alcuni testi - siamo nel 2020 - che riguardavano la tragedia delle foibe, testi che non sono poi stati acquistati; dovevano essere consegnati alle scuole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307285",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308916_19",
+      "politician_name": "FORATTINI Antonella",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghi, ancora una volta siamo costretti a occuparci dell'onorevole collega Delmastro Delle Vedove, Sottosegretario dai modi senz'altro controversi, che, in più di un'occasione, è riuscito a far parlare di sé quasi mai per iniziative o provvedimenti assunti sua sponte . Oggi l'Aula si occupa di un'altra vicenda che interessa il Sottosegretario, risalente al giugno del 2021 e che gira attorno a un video prodotto e pubblicato sui suoi canali social , rispetto al quale gli è stato contestato il reato di diffamazione, con l'aggravante di avere recato offesa a un rappresentante di un corpo giudiziario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308916",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308762_19",
+      "politician_name": "BENVENUTI GOSTOLI Stefano Maria",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Onorevoli colleghi, a nome del gruppo di Fratelli d'Italia confermo il nostro voto favorevole alla proposta formulata dalla Giunta per le autorizzazioni in ordine all'insindacabilità delle opinioni espresse dall'onorevole Andrea Delmastro Delle Vedove, ai sensi dell'articolo 68, primo comma, della Costituzione. La richiesta del tribunale di Biella si inserisce nell'ambito di un procedimento penale per diffamazione aggravata promosso dal procuratore regionale della Corte dei conti del Piemonte, dottor Lorelli, in relazione a dichiarazioni pubbliche rilasciate dall'onorevole Delmastro nel giugno 2021, sia tramite social che rese in Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308762",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308936_19",
+      "politician_name": "MEROLA Virginio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signor Presidente. Con questo emendamento, chiediamo di sopprimere la proroga e questa riforma fiscale. So che, agli occhi della maggioranza, potrà sembrare un atto quasi provocatorio. Noi non pensiamo che sia inutile, perché si lavora anche guardando al futuro. Siccome riteniamo che la vostra proposta di regime fiscale sia completamente inadeguata e ingiusta per l'interesse generale del nostro Paese, ma anche per i singoli contribuenti, continuiamo a ripetere che ci divide profondamente il vostro impianto. Noi continuiamo a essere fedeli nell'applicazione della Costituzione e, quindi, riteniamo che la progressività fiscale non vada abbandonata. Voi lo avete fatto, introducendo la flat tax e continuate a farlo con i provvedimenti che state proponendo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308936",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308936_19",
+      "politician_name": "MEROLA Virginio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Con questa proroga, signor Presidente, si è introdotta anche una modifica ai criteri per la determinazione del gioco fisico e, guarda caso, quello che scompare sono i termini “diminuzione della distanza” e “riduzione dell'offerta di giochi”, in cambio di una parola che si limita a una generica “revisione”. Noi continuiamo a pensare che, sul tema dei giochi, sia importante, invece, definire un sistema imperniato sul diritto alla salute delle persone, per una lotta conseguente alla dipendenza patologica da gioco e anche alla criminalità organizzata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308936",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo proprio su questo emendamento che noi crediamo sia molto importante e dispiace che probabilmente non sarà approvato perché quello delle distanze, quello delle sale slot , quello delle aree preposte al gioco e alle scommesse sono temi che le città, molte città hanno affrontato, anche perché questa problematica incide moltissimo sulla qualità della vita dei quartieri dove queste sale slot , queste attività vengono insediate. Si è fatta una battaglia in passato, l'abbiamo fatto anche a Torino, che per un periodo è stata anche vinta; poi, purtroppo, sono state cambiate queste regole per cui le distanze dalle scuole, dalle attività sociali erano importanti nel delimitare i vincoli per poter poi approvare le licenze sulle sale giochi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie Presidente, anche per sottoscrivere, ed io chiederei veramente l'attenzione dell'Aula. Chi ha fatto l'amministratore locale, il sindaco, l'assessore, il consigliere, ma mi sento di dire anche il presidente di regione, vive quotidianamente il dramma della piaga sociale che è la dipendenza dal gioco. Ci sono tanti sindaci, tanti amministratori che, nonostante le minacce, nonostante voci che salgono perché c'è un interesse economico enorme dietro, hanno avuto il coraggio, a livello territoriale, di metterci la faccia; quindi magari fanno delle ordinanze, quindi magari cercano con il loro piccolo spazio di azione di tutelare quelle persone che sono più fragili; anche perché c'è un costo sanitario poi dall'altra parte. E io credo che un Parlamento degno di questo nome non possa fare passi indietro su questo; un Parlamento degno di questo nome deve avere il coraggio di decidere da che parte stare. A fronte di persone fragili, di persone che rischiano di ammalarsi, i cui effetti poi sono drammatici non solo sul sistema sanitario, ma sulle loro famiglie e sulle comunità, è facile decidere da che parte stare, ma voi siete nuovo dalla parte sbagliata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308936_19",
+      "politician_name": "MEROLA Virginio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Mi scusi, Presidente, intervengo nuovamente per sottolineare che su questo fatto c'è troppa disattenzione; davvero è in gioco la salute di molte persone, ma anche la vita familiare di nostri cittadini che si vedono implicati in questo impulso al gioco che sta mettendo in discussione la tranquillità delle nostre famiglie. Per questo insistiamo sul fatto che occorrono misure tecniche e normative finalizzate a garantire la tutela dei cittadini, prevenendo le disfunzioni sociali e sanitarie e aggiornando i livelli essenziali di assistenza e il gioco minorile. La “revisione” - l'avete introdotta al posto di “diminuzione” - per noi è una revisione dei limiti di giocata e di vincita in funzione della prevenzione sanitaria; e continuiamo a ripetere che, oltre all'obbligo della formazione dei gestori e degli esercenti, questo va fatto esclusivamente in collaborazione con il nostro Servizio nazionale; continuiamo a chiedere una semplificazione delle procedure di autoesclusione dal gioco, con tempi non superiori e con adempimenti non dissimili da quelli di registrazione negli account delle piattaforme e dei punti di distribuzione dei giochi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308936",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io chiedo di sottoscrivere chiaramente questo emendamento e lo chiedo con convinzione, ma non riusciamo esattamente a comprendere il fatto che stiate smantellando tutte le misure di contenimento rispetto all'azzardo (Applausi dei deputati del gruppo MoVimento 5 Stelle) , questa è la verità. State smantellando tutte le misure di contenimento che lo Stato dovrebbe mettere in atto rispetto all'azzardo. Quindi, evidentemente, quello che vi interessa è far cassa sul dolore di migliaia di famiglie in questo Paese. L'80 per cento del gettito di 160 miliardi all'anno che l'azzardo genera in questo Paese, ben più di quello che si spende per la sanità in questo Paese, l'80 per cento di quell'introito - che non è un introito dello Stato, ma è una spesa delle famiglie - è dovuto alle situazioni di disturbo da gioco d'azzardo; è dovuto a una dipendenza di massa e voi state facendo cassa su questa cosa. Io credo che sia assolutamente inaccettabile. È assolutamente inaccettabile. Questa questione è una cosa che smaschera completamente l'atteggiamento di questo Governo e di questa maggioranza. State facendo dei piaceri alle lobby del gioco d'azzardo ed è evidente (Applausi dei deputati del gruppo MoVimento 5 Stelle) , è molto evidente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, intervengo di nuovo, perché mi chiedo: ma chi siede tra i banchi e sta per schiacciare il bottone, per me in modo sbagliato, ha mai parlato con qualcuno che ha avuto problemi di dipendenza dal gioco? Ha mai parlato con qualche operatore o operatrice che lavora in quel settore e vive e conosce il dramma di quelle famiglie? Ha mai visto scritti quelli che sono i costi sanitari per tutti noi, per lo Stato, degli effetti drammatici della piaga sociale che è il gioco d'azzardo e la dipendenza?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Innanzitutto per firmare, a nome di tutto il gruppo, questo emendamento, e poi per specificare una cosa a lei, alle Sottosegretarie e a tutti i colleghi. Se volete continuare a fare i soldi con l'azzardo, almeno uscite dall'inganno linguistico: il gioco è un'altra cosa. Il gioco non porta dipendenza, il gioco non porta usura, il gioco non rovina le famiglie, il gioco non porta suicidi. Chiamatele scommesse, chiamatelo azzardo: l'azzardo non è un gioco. Volete fare i soldi così? Almeno non ingannate i nostri concittadini (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questa ulteriore delega a tempo indeterminato, in bianco, questa cambiale che il Governo chiede al Parlamento, alla maggioranza, di sottoscrivere, come è stato ricordato, è la dimostrazione plastica del fallimento nelle politiche fiscali da parte di questo Governo. Perché, mentre il Paese si aspettava che rispettaste quelle che erano state le promesse roboanti fatte in campagna elettorale - quindi, immaginava che con questa delega arrivasse il secondo modulo Irpef, la revisione dell'IRAP o dell'Ires, oppure la riforma organica dell'IVA, oppure finalmente il testo unico del codice tributario -, ve ne siete venuti fuori con degli emendamenti del relatore, in particolare, come è stato ricordato, riscrivendo i principi che sovraintendono il gioco.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Pensi che noi, nel nostro Paese, giochiamo 4.000 gratta e vinci al minuto, giusto per dare un ordine di grandezza. Sono soldi che vengono sottratti alle tasche degli italiani con la falsa promessa, il sogno, di poter cambiare la propria vita. Solo nella regione Toscana si spende in azzardo l'equivalente di 2 mesi di stipendio, ciascun toscano. Due mesi di stipendio che potrebbero rientrare nei consumi a livello locale per fare vacanze, per comprare da mangiare per i propri figli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vorrei che mi chiarisse un concetto, perché il gioco d'azzardo è una droga, ed è una droga a tutti gli effetti, perché chi è affetto da questa dipendenza si comporta come un drogato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308936_19",
+      "politician_name": "MEROLA Virginio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, intervengo come firmatario anche di questo emendamento. Con questo emendamento insistiamo sul fatto che la revisione sia nel rispetto degli interessi pubblici generali in tema di salute. Questo rispetto è anche stato ribadito in un confronto che abbiamo tenuto, come Intergruppo parlamentare, insieme alle associazioni sia delle imprese sia dei consumatori. Il tema della salute resta prioritario per riuscire a giocare responsabilmente e a prevenire la lotta alla dipendenza in questo campo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308936",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie. Prima sono intervenuto, forse sono stato un po' troppo carino e coccoloso, adesso intervengo in maniera più diretta, perché sono decisamente stanco di vedere i gruppi di Fratelli d'Italia e della Lega che fanno battaglie pazzesche per evitare che nascano negozi etnici nelle periferie e poi stanno zitti e muti quando nascono sale scommesse davanti alle scuole, nelle aree depresse delle nostre città, perché le sale scommesse portano depressione economica (Applausi dei deputati del gruppo MoVimento 5 Stelle) . A voi la depressione economica forse piace, visto che siamo al venticinquesimo mese di calo della produzione industriale nel nostro Paese, a noi invece non piace. Quindi, finitela con questa retorica di trovare il nemico quando non porta soldi nelle tasche del fisco; voi siete ricattati dal fatto che dovete trovare soldi per il fisco e usate le scommesse, usate il gioco d'azzardo. Queste sono più potenti come lobby rispetto ad altre, quindi trovate il nemico nel negozio etnico che, chiaramente, va gestito, va gestito anche quello, però non dite nulla su questo. E quando arrivate nei nostri quartieri periferici, nel mio quartiere periferico, e fate quelle cavolate di retorica contro gli immigrati, contro il degrado, io vi porto davanti a una sala scommesse e vi dico: andate dentro e buttateci un po' di soldi, visto che le avete fatte approvare voi queste sale scommesse, che portano depressione economica e degrado sociale nei nostri quartieri (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Presidente, le confesso che quando ero ragazzo pensavo che in Parlamento parlassero per convincersi a vicenda, cioè che fosse possibile saltar su e dire: ma io ho un dubbio, vorrei ascoltare la discussione per convincermi. Poi, ho capito che non funziona così, però oggi voglio ritornare ragazzo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). … il Partito liberaldemocratico abbia dubbi su tutti voi, però mi togliete questo dubbio nel seguito di questa discussione? Cioè, sono vizi dell'animo umano, funziona dire: no, tu questi vizi non li devi avere oppure così rischiamo soltanto che…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io intervengo giusto un minuto, intanto per fugare qualsiasi dubbio. Io non ho i dubbi di Marattin e, da componente della Commissione Infanzia e adolescenza, vorrei invitare, fare un appello a tutti i componenti della medesima Commissione che fanno parte della maggioranza, perché ritengo che questo sia un emendamento di assoluto buonsenso, che loro non possono non votare e non condividere. Si parla di allontanare questi centri, queste sale scommesse dalle scuole e da tutti quei centri frequentati dai soggetti più vulnerabili, ivi compresi i soggetti di minore età. Credo che su questo non ci possa essere alcun dubbio, alcuna divisione. Chiedo anche al collega di poter sottoscrivere l'emendamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Due osservazioni. La prima, tecnica: le dipendenze sono vere e proprie malattie, non sono vizi e, quindi, eliminiamo immediatamente l'aspetto giudicante rispetto a patologie che hanno una grande sofferenza e un grosso problema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Sottoscrivendo l'emendamento, raccolgo l'invito del collega Marattin e cerco di usare questo come luogo dove si parla, si manifestano e si tentano di risolvere dei dubbi. Io ho un dubbio, e cioè che, fra le varie retromarce che sono state elencate, ci sia all'orizzonte anche quella che riguarda la sponsorizzazione delle società professionistiche, nello specifico di calcio, da parte delle società di scommesse sportive; tema che è stato più volte e ripetutamente sollevato dalla Lega calcio e che ha catturato una certa attenzione da parte della maggioranza, almeno questo è quello che si è evocato. Nulla è ancora successo. Io, però, proprio perché - come il collega Quartini diceva - desidero prima di tutto lavorare sulla prevenzione, aggiungo questo elemento. Non vorrei che ci fosse all'orizzonte questo tentativo, peraltro denunciato dall'attuale Presidente del Consiglio, allora deputata di minoranza, Giorgia Meloni (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d302422_19",
+      "politician_name": "CUPERLO Gianni",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Torno anch'io ragazzo. Per suo tramite, al collega Marattin, vorrei rivolgere semplicemente un interrogativo, conoscendo la sua sincera cultura liberale: quale sarebbe, a suo avviso, l'organo dello Stato o il Ministero deputato a stilare l'elenco dei vizi sociali perseguibili sul piano amministrativo o penale (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "302422",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Invito l'Assemblea e gli onorevoli colleghi a prestare grande attenzione a questo emendamento, nei cui confronti, dal punto di vista ideologico, ci dovrebbe essere la massima asseverazione da parte di tutti, anche del centrodestra, in quanto è posto a tutela dei minori, dal punto di vista educativo, della loro crescita psicologica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per sottoscrivere e per ricordare, per l'ennesima volta, a quest'Aula quanto il tema della ludopatia sia una cosa seria. La pongo da un altro punto di vista, proviamo a ragionare così: quali sono le persone più colpite dalla ludopatia? Quelle che si trovano in regioni, dal punto vista territoriale, dove vi è un maggior tasso disoccupazione. Quali sono le fasce di età più colpite? Gli over 55, le persone deboli. Quale è la categoria più colpita? I pensionati. Quali sono le persone che tendono ad essere più soggette e - ripeto - vulnerabili? I fragili di questo Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo mi sembra un emendamento di grandissima importanza, così come sarebbe importante revisionare totalmente la legge sulle giocate e soprattutto sui luoghi di raccolta delle giocate, atteso che diminuisce sempre di più la distanza fra l'una e gli altri, e questo invoglia alla giocata. Ma non solo. Avete visto quanti sono e dove si trovano i punti di raccolta scommesse? Nei quartieri più poveri, dove più domina la criminalità, perché tanti di essi operano per il riciclaggio (Applausi dei deputati del gruppo MoVimento 5 Stelle) . E, quindi, controllare esattamente questi luoghi e impedire, da un lato, che ci si possa dedicare, così come sta avvenendo, con la malattia del gioco, e, dall'altro lato, impedire il riciclaggio è fondamentale. Perciò la legge dovrebbe essere revisionata e questi emendamenti dovrebbero essere condivisi anche dalla maggioranza (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Per sottolineare un aspetto importante che avviene intorno al gioco d'azzardo. È evidente che in molti territori il gioco d'azzardo sia un modo per riciclare denaro. Appare surreale che non esista una mappatura per comprendere come sia possibile che - in particolare in alcune zone del nostro Paese, in alcuni quartieri dove la densità della camorra, delle mafie o della criminalità organizzata, è più pressante - incredibilmente appaiano più strutture di questo tipo. Ed è ancora più paradossale che questo avvenga in zone dove molto spesso c'è maggiore povertà. Questa non può essere semplicemente un'analisi statistica con dei puntini. Dobbiamo interrogarci e intervenire. Perché, anche se io non sono d'accordo con l'implementazione del gioco d'azzardo, almeno che ci sia un controllo, da parte dello Stato centrale, per verificare questi fenomeni. Non possiamo limitarci soltanto a utilizzarli per sanare altri aspetti del bilancio del nostro Stato, che casomai condoniamo: furbetti e grandi evasori, in realtà, vengono condonati, in alcuni casi, grazie a questi sistemi. E appare, troppo spesso nel nostro Paese, che chiudiamo uno o due occhi perché lo sappiamo, ma preferiamo non intervenire. Da questo punto di vista, la nostra sollecitazione è molto forte, perché non intervenire significa, poi, far crescere sistemi criminali, l'usura, in alcuni casi la prostituzione. Sapete che alcune mamme, alcune donne, prese dalla ludopatia, si prostituiscono per giocare?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 512
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2025-07-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oltre a richiedere la possibilità di apporre la mia firma a questo emendamento, mi faccio una sola domanda, anzi, la faccio a questo Governo e alla maggioranza. Questo emendamento non porta oneri per lo Stato; semplicemente dice di evitare di mettere sale scommesse vicino a scuole o altri luoghi sensibili, dove ci sono soggetti più vulnerabili. Allora, per quale motivo un Governo, una maggioranza che, a tratti, dice di essere vicino alle famiglie, vicino alle persone, dice di “no” a un emendamento del genere?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0512",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 512
+      }
+    }
+  ]
+}

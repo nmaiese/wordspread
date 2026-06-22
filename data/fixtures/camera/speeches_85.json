@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0085",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-04-12",
+    "title": "Assemblea — Seduta n. 85 del 2023-04-12",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 85
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 69, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca l'esame e la votazione delle questioni pregiudiziali Fenu ed altri n. 1, Zanella ed altri n. 2 e Merola ed altri n. 3 (Vedi l' allegato A ) riferite al disegno di legge n. 1060: Conversione in legge del decreto-legge 30 marzo 2023, n. 34, recante misure urgenti a sostegno delle famiglie e delle imprese per l'acquisto di energia elettrica e gas naturale, nonché in materia di salute e adempimenti fiscali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ricordo che chi nella scorsa legislatura sedeva ai banchi dell'opposizione puntualmente contestava la presunta assenza della necessità e dell'urgenza dei vari decreti-legge emanati, in particolare proprio di quei decreti-legge emanati durante la pandemia, che invece avevano tutti i necessari presupposti. Quelle stesse persone che contestavano e che oggi siedono ai banchi del Governo ci fanno assistere all'ennesimo abuso della decretazione d'urgenza, in assenza della necessità e dell'urgenza e in assenza della necessaria omogeneità del provvedimento, che infatti contiene di tutto e di più.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …che viene così inibito da questa continua ed inarrestabile, come dicevo, presenza in Parlamento di decreti-legge da convertire, che inibisce il pieno esercizio dell'attività di formazione delle leggi. Un vulnus all'articolo 70 della Costituzione, che affida la funzione legislativa collettivamente alle due Camere. E la continua interferenza del Governo sulla regolare produzione normativa di fonte parlamentare, sorretta o meno da urgenze reali o dichiarate, ha prodotto fino ad oggi, secondo alcuni giuristi, una grave lesione della certezza del diritto, nonché un elevato livello di entropia normativa, a cui si accompagnano l'alterazione della gerarchia delle fonti e la difficoltà di dare attuazione ad una legislazione divenuta ormai alluvionale, instabile e disordinata, sotto gli occhi di tutti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …per alcuni reati tributari, rafforzando così la vigente disciplina improntata ad atti di clemenza generalizzata, che, oltre a offendere i contribuenti onesti, costituisce un'esecrabile manifestazione di impotenza dello Stato, che si arrende alla dilagante piaga dell'evasione fiscale, che non riesce nemmeno a contrastare con questo provvedimento, logicamente. Con questo si manifesta la violazione, del provvedimento, dell'articolo 2 della Costituzione, laddove si richiede a tutti i cittadini l'adempimento dei doveri inderogabili di solidarietà economica e sociale. Anche la facoltà accordata ad alcuni contribuenti…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Concludo, Presidente. Stavo dicendo che anche la facoltà accordata ad alcuni contribuenti, con le previsioni di cui all'articolo 17, in tema di adesione agevolata e definizione agevolata degli atti del procedimento di accertamento, costituisce una inaccettabile violazione dell'articolo 53 della Costituzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Do importanza al suo appello in ragione del valore della materia e non di chi prova a spiegarla. Condivido il fatto che, su materie di questo tipo, noi dovremmo davvero ritrovarci, non fare un ammassamento di distrazione, ma ritrovarci con il cuore e il cervello, perché la materia, come dice il direttore generale Ruffini, confermato con ampia fiducia da tutti, consente il nostro costituirci.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Non mi soffermo sulla tematica della decretazione d'urgenza, perché già è stato detto molto. Lascio parlare i numeri, che sono da record, come è stato segnalato e sottolineato più volte. L'abuso è evidenziato, poi, naturalmente, dalla mancata omogeneità delle norme che vengono inserite nei decreti stessi, al punto che il Capo dello Stato è intervenuto in questo senso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307142_19",
+      "politician_name": "ZUCCONI Riccardo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, colleghi, intervengo a nome del gruppo di Fratelli d'Italia per esprimere una posizione di contrarietà rispetto alle questioni pregiudiziali presentate e di cui riteniamo infondate le motivazioni. Intanto sulle contestazioni relative al principio di omogeneità del contenuto del decreto-legge, cosa prevista dall'articolo 15, comma 3, della legge n. 400 del 1988, laddove si afferma che i decreti devono contenere misure di immediata applicazione e il loro contenuto deve essere specifico, omogeneo e corrispondente al titolo, cosa che avviene puntualmente per il decreto-legge n. 34. Segnaliamo, innanzitutto, che il decreto-legge è una fonte a contenuto aperto, non vi è limite alla compresenza di oggetti diversi. L'unico limite è che questi oggetti debbano rientrare all'interno dei casi straordinari di necessità e urgenza. Altro elemento è che, come per la legge ordinaria, il decreto-legge è certamente emendabile dalle Camere. Se si applicasse, del resto, in altro modo l'articolo 15 della legge n. 400, si dovrebbe dedurre l'incostituzionalità di tutti i decreti pluricomprensivi, cioè di quei decreti che contengono disposizioni su più soggetti e materie, mentre è ad una finalizzazione unitaria che si deve guardare, cioè che siano teleologicamente finalizzati a un unico scopo comune, che si deve dedurre all'interno del decreto-legge stesso. Per quanto riguarda, in generale, il requisito della necessità e urgenza previsto dall'articolo 77 della Costituzione, è evidente che le misure adottate nel decreto n. 34 siano dettate da inconfutabili presupposti di necessità e urgenza, dovuti alla crisi energetica che stiamo vivendo, dalla necessità di sostenere il settore sanitario, provato dalla pandemia, e da correttivi indispensabili dati i presupposti della legge di bilancio in materia di fiscalità. In particolare, riguardo al punto delle pregiudiziali Fenu e Merola sulle cause speciali di non punibilità dei reati tributari, laddove si sostiene che sotto il profilo penalistico e costituzionale al riconoscimento della non punibilità…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307142",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307142_19",
+      "politician_name": "ZUCCONI Riccardo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). …nell'ambito delle procedure di definizione agevolata entro limiti temporali più ampi rispetto all'istituto ordinario conseguirebbe la violazione dell'articolo 3 della Costituzione, si vuole evidenziare che, in realtà, l'articolo 23, comma 1, prevede che non siano punibili i contribuenti che si avvalgano delle procedure di definizione agevolata introdotte con l'articolo 1 della legge n. 197 del 2022, la legge di bilancio, per regolarizzare la propria posizione contributiva. Le misure tributarie a favore del contribuente contenute nella legge di bilancio 2023 si allineano, del resto, a precedenti misure di pace fiscale, ad esempio al decreto-legge n. 119 del 2018, per le quali non era stata tuttavia introdotta una normativa specifica che ne disciplinasse gli effetti penali. In merito la Corte di cassazione, con la sentenza n. 43062 del 2021 si è pronunciata sulle possibili interferenze fra la disciplina della definizione agevolata e le norme penali, e ha confermato la validità di questa normativa. La circostanza esimente, dunque, opera esclusivamente se le violazioni sono state comunque definite e il contribuente ha provveduto ad effettuare l'integrale pagamento dell'importo dovuto, secondo le modalità e nei termini stabiliti dalla procedura agevolata stessa di cui ha usufruito, prima che venga pronunciata la sentenza di appello. Qui non vorrei che si confondesse una questione di costituzionalità con il merito della norma, cosa che ho rilevato, invece, negli interventi precedenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307142",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307142_19",
+      "politician_name": "ZUCCONI Riccardo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). …elencare tutte le misure previste in questo decreto-legge. che del resto sono conosciute. Dunque, con queste motivazioni, il gruppo Fratelli d'Italia chiede che la Camera respinga tutte le pregiudiziali presentate (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307142",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca l'esame e la votazione delle questioni pregiudiziali Bonelli ed altri n. 1 e Ilaria Fontana ed altri n. 2 (Vedi l' allegato A ) riferite al disegno di legge n. 1067: Conversione in legge del decreto-legge 31 marzo 2023, n. 35, recante disposizioni urgenti per la realizzazione del collegamento stabile tra la Sicilia e la Calabria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Siamo arrivati a oltre 20 decreti-legge approvati dal Governo dall'inizio della legislatura, 24, se non sbaglio, e tanti altri ne arriveranno, più di 4 al mese, praticamente uno alla settimana, un vero record, e questo nonostante l'eccessivo ricorso alla decretazione di urgenza sia stato più volte censurato dai richiami del Capo dello Stato e da numerose sentenze della Corte costituzionale, che hanno sollecitato il ripristino di un corretto percorso dei provvedimenti legislativi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Nel presentare questa pregiudiziale sul decreto-legge relativo al Ponte sullo Stretto di Messina, apriamo di nuovo il dibattito relativo alle grandi opere in modo errato. La tattica del Governo e del Ministro Salvini è chiara ed è quella di annunciare e subito creare le squadre del “sì” e del “no”, senza studiare e senza affrontare il progetto nel merito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Onorevoli colleghi, in questa occasione mi pare abbastanza chiaro che emergano in questo Parlamento due visioni della nostra società. Emergono due visioni che, attraverso le questioni pregiudiziali presentate dai colleghi della sinistra e dai colleghi del MoVimento 5 Stelle, vorrebbero, ancora una volta, fermare non già la realizzazione del Ponte sullo Stretto, ma quello che da tempo avrebbe dovuto essere il naturale sviluppo di un rapporto tra la Sicilia e il resto del Paese, che non ha continuità territoriale, anche perché devo aggiungere che questi colleghi - così come avviene con l'elastico - alcune volte sono europeisti e altre invece non lo sono.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Anche su questo tema bisogna riflettere, con particolare riferimento all'abuso dello strumento della decretazione d'urgenza, ma anche all'utilizzo delle pregiudiziali. Nel merito siamo aperti all'ipotesi della costruzione del Ponte, ma queste sono valutazioni di merito. Oggi discutiamo di una pregiudiziale che, secondo noi, non ha ragione d'essere. Si tratta di uno strumento che va utilizzato con parsimonia, con attenzione, con senso delle istituzioni, mentre invece c'è quasi una certa automaticità con la quale si devia anche il normale corso, il normale senso degli istituti costituzionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308900_19",
+      "politician_name": "CARRA' Anastasio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Presidente e onorevoli colleghi, il decreto-legge in questione, riguardante la riattivazione della società Stretto di Messina Spa rispetta pienamente i principi stabiliti dalla nostra Costituzione. Desidero soffermarmi su alcuni aspetti giuridici rilevanti per chiarire la nostra posizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308900",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308900_19",
+      "politician_name": "CARRA' Anastasio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Rispetto alla presunta lesione dell'articolo 9 sulla tutela dell'ambiente, della biodiversità e dell'ecosistema, va tenuto presente che la costruzione del Ponte determina una drastica riduzione dei livelli di inquinamento dell'area dello Stretto di Messina, e su questo potrei indicare i coefficienti per quanto riguarda il monossido di carbonio, il materiale particolato, e altro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308900",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghi, il Partito Democratico, negli ultimi anni, ha convintamente stimolato il dibattito sull'attraversamento stabile dello Stretto di Messina. Lo ha fatto con atti parlamentari, sia nelle Commissioni, con la risoluzione n. 8-00091 , votata congiuntamente dall'VIII e dalla IX Commissione della Camera, sia in Aula, con la mozione 1-00399 , entrambe approvate nel novembre 2020, ma lo ha fatto anche con specifici atti nell'azione di Governo, come lo studio di fattibilità sulle quattro ipotesi di attraversamento stabile durante l'operato del Ministro De Micheli e il successivo studio del Ministro Giovannini. Lo abbiamo fatto convinti, come siamo, che la necessità di un attraversamento stabile sia ormai indifferibile per colmare il gap infrastrutturale tra Nord e Sud, per connettere il Mezzogiorno alla rete TEN-T e per garantire la connessione della vetusta rete ferroviaria siciliana con l'Alta velocità del continente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Signor sottosegretario, onorevoli colleghi, da un punto di vista strettamente tecnico, sarebbe molto agevole rispedire al mittente le considerazioni che sono state svolte nelle pregiudiziali presentate dalle opposizioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Tutte le considerazioni svolte riguardano, infatti, quasi esclusivamente l'assenza dei requisiti di necessità e urgenza. Allora, noi ci chiediamo: il Ponte sullo Stretto è necessario? Un collegamento stabile tra la Sicilia e il continente è urgente? Quando, come in questo caso, la contestazione è rivolta al provvedimento nel suo complesso, basterebbe ricordare a tutti e a quest'Aula l'articolo 87 della Costituzione, commi terzo e quarto, ma in questo intervento io preferisco sollevare delle questioni più politiche, perché, cari colleghi, il Ponte sullo Stretto di Messina è da sempre una questione politica e chi lo ha contrastato ancora oggi in quest'Aula continua a contrastarlo e lo fa su basi politiche. La prima disposizione normativa che riguarda la realizzazione del Ponte sullo Stretto è del 1971. Forza Italia, dopo tutto questo tempo, ritiene, sì, che questo sia un decreto assolutamente necessario e urgente. Se consideriamo che i primi provvedimenti concreti, che hanno provato a dare un impulso a quest'opera, sono quelli del Governo Berlusconi all'inizio degli anni Duemila, dunque 23 anni fa, allora, per Forza Italia questo decreto è addirittura urgentissimo. Se consideriamo che un collegamento stabile tra la Sicilia e la Calabria dal 2013, quindi da 10 anni, è considerato parte strategica del Corridoio scandinavo-mediterraneo nell'ambito delle reti europee, questo provvedimento è necessario e urgente non solo per Forza Italia o per la Sicilia, ma per l'Italia e per l'Europa intera. Era stato proprio il Governo Berlusconi, con la legge obiettivo, ad inserirlo tra le infrastrutture strategiche e, a questo proposito, consentitemi di mandare un saluto e un abbraccio, da parte di tutti noi, al Presidente Berlusconi (Applausi). Forza Italia si è da sempre battuta per quest'opera e spesso lo ha fatto, come nella scorsa legislatura, in totale solitudine. Cito solo alcuni atti che testimoniano, carte alla mano, la coerenza, il coraggio e la determinazione che questo gruppo e questo partito hanno sempre avuto su questo tema, che consideriamo strategico. A novembre 2020, Forza Italia ha presentato e calendarizzato in Aula, in quota opposizione, la mozione n. 1-00355 , a prima firma della collega Stefania Prestigiacomo, che impegnava il Governo a riavviare l'opera e ad inserirla tra quelle ricomprese nei finanziamenti del Recovery Fund : quella mozione fu respinta dall'allora maggioranza. Nel corso della scorsa legislatura, Forza Italia è stata promotrice di innumerevoli ordini del giorno, a firma tra l'altro della collega onorevole Matilde Siracusano - che oggi siede con noi, tra i banchi del Governo -, che hanno impegnato l'Aula in lunghi e accesi dibattiti, a volte con esiti positivi, spesso con esiti negativi. Per esempio, vorrei citare l'ordine del giorno n. 9/3146-AR/62 Prestigiacomo, del 23 luglio 2021, che venne sottoscritto in corso di seduta anche da alcuni parlamentari del Partito Democratico. Un'altra battaglia di Forza Italia nella scorsa legislatura, che in questa sede voglio citare, fu quella condotta contro l'allora Ministro Enrico Giovannini, che, a fronte di una sensibilità politica profondamente mutata nei confronti del Ponte - perché si opposero soltanto i colleghi del MoVimento 5 Stelle -, stanziò ben 50 milioni per una tattica dilatoria: soldi buttati soltanto per erigere un muro di gomma. Ebbene, quando come oggi, siamo chiamati a fare valutazioni di carattere giuridico, rischiamo di dimenticarci dell'oggetto del nostro dibattito, di quali effetti producono le nostre decisioni sulle donne e sugli uomini e, in particolare, su chi vive in Sicilia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Salutiamo gli studenti e ai professori dell'Istituto di istruzione superiore «Rita Levi Montalcini» di Sabaudia, che oggi sono in visita alla Camera dei deputati. Benvenuti (Applausi) . Ha chiesto di parlare l'onorevole Vinci. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307334_19",
+      "politician_name": "VINCI Gianluca",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Ho ascoltato con molta attenzione questa discussione sulle pregiudiziali. C'è stato il ritornello, che sentiamo spesso, sull'abuso della decretazione d'urgenza. Ritengo, invece, che, in questo caso specifico, vi sia un abuso delle questioni pregiudiziali, perché tutti voi vi siete riempiti la bocca con l'abuso della decretazione d'urgenza e poi avete depositato delle questioni pregiudiziali che in realtà entrano nel merito del provvedimento. Allora, se volete parlare del merito del provvedimento, non fate questioni pregiudiziali, ma aspettate la discussione generale e il lavoro in Commissione: le questioni pregiudiziali sono un'altra cosa. Per entrare nel merito della questione pregiudiziale di costituzionalità, che alcuni partiti dell'opposizione hanno pensato di sollevare, voglio partire innanzitutto dalla necessità e urgenza del provvedimento. Ciechi nella volontà di contrastare questo provvedimento, addirittura nella pregiudiziale vi è un ribaltamento della realtà, perché vi è contenuta una raccomandazione della Corte dei conti che dice esattamente che la società Stretto di Messina, così com'è, inattiva, è un costo non sopportabile per lo Stato e, quindi, va chiusa. Questo nel 2017. Andava chiusa, perché, in quel momento, vi era una parte politica che voleva accantonare il Ponte. Oggi che il Ponte, invece, vogliamo farlo, è un problema tenere chiusa e inattiva quella società, perché rimane un costo inattivo. Pertanto, quella raccomandazione della Corte dei conti fonda questa urgenza e non il contrario. Bisogna sapere leggere gli atti e non guardarli con la volontà politica di contrastare un provvedimento. Quella raccomandazione della Corte dei conti dice proprio che la situazione attuale non può più andare avanti. Va risolta e, per risolverla, occorre riattivare la società Stretto di Messina, che altrimenti, tra l'altro, pagherebbe un miliardo soltanto per i contratti già fatti e di risarcimento danni. Questo per entrare nel merito di quelle pregiudiziali, che nel merito non dovevano entrare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307334",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, dovremmo ora passare al seguito dell'esame della proposta di legge in materia di equo compenso, in relazione alla quale - vi ricordo - occorre procedere alla votazione dell'articolo 7, all'esame degli ordini del giorno, alle dichiarazioni di voto finale e alla votazione finale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, intervengo sull'ordine dei lavori per chiedere, tramite lei, che il Ministro dell'Ambiente venga in Aula a rispondere sulla vicenda del runner morto perché aggredito da un'orsa. Rispetto a questo, chiediamo che il Ministro venga a riferire, perché il presidente della regione avrebbe chiesto l'abbattimento dell'animale, mentre, pur ovviamente essendo solidali e vicini al dolore della famiglia che ha subìto la grave perdita, non riteniamo che l'abbattimento dell'orsa - perché oggi è stata individuata: è un'orsa - sia la soluzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Borrelli, il suo richiamo sull'ordine dei lavori, se fossero state preannunciate le motivazioni che lei ha esposto, avrebbe consentito di dare seguito ad una richiesta che, precedentemente, era arrivata sempre sullo stesso tema dall'onorevole Cattoi, se non vado errato, e che avevamo rinviato a fine seduta. Quindi, a questo punto, chiedo all'onorevole Cattoi se intenda intervenire, e mi scuso, ma, lo ripeto, non conoscevo il motivo della richiesta. Se vuole, può intervenire adesso, onorevole Cattoi, visto che precedentemente aveva avvertito la Presidenza. Prego.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307716_19",
+      "politician_name": "CATTOI Vanessa",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Sì, grazie, Presidente. Anch'io sarei intervenuta a fine seduta. Oggi volevo portare questo tema all'attenzione dell'Aula, più che altro perché nel pomeriggio sarà celebrato il funerale del giovane Andrea Papi, un ragazzo trentino di 26 anni, la cui unica colpa è quella di essersi dedicato ad una corsa vicino casa, nei pressi dei boschi del Trentino, ed è stato purtroppo colpito a morte da un orso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307716",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d302838_19",
+      "politician_name": "BRAMBILLA Michela Vittoria",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Signor Presidente, onorevoli colleghi, non posso che unirmi alla vicinanza e alle condoglianze alla famiglia, che ha visto il giovane ragazzo perdere la vita in questo modo. Quindi, questa è la premessa del mio intervento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "302838",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307210_19",
+      "politician_name": "DI LAURO Carmen",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Naturalmente anche il MoVimento 5 Stelle si unisce alle condoglianze e  al lutto della famiglia purtroppo colpita da questa tragedia, perché è di una tragedia che stiamo parlando e purtroppo ne accadono tante. L'orso, semplicemente, segue il suo  istinto. L'orso è un animale, gli animali seguono i propri istinti. L'orso, se attacca, lo fa principalmente per difendersi e in questo caso è ancora più probabile, perché stiamo parlando di una femmina che aveva già attaccato, qualche anno fa, proprio perché aveva dei cuccioli. Quindi, che cosa stiamo punendo noi oggi? L'istinto degli animali? Stiamo punendo un fatto naturale perché, come è stato detto anche in più sedi, l'orso fa l'orso e il bosco è la casa dell'orso. Ognuno di noi, quando si reca in montagna, nei boschi - io stessa ci vado spesso - deve essere consapevole dei rischi che si corrono. Se accade un incidente, se c'è qualcosa che non va, evidentemente in quel luogo, in quelle amministrazioni, forse c'è un'incapacità di gestire il rapporto con la fauna selvatica, in particolare con i grandi carnivori. Oggi stiamo infatti parlando di orsi, ma in passato abbiamo parlato anche di lupi, volpi, cinghiali. Allora, cosa vogliamo fare? Vogliamo svuotare la Terra dagli animali? Vogliamo sconvolgere gli ecosistemi? Nel momento in cui andiamo a sconvolgere gli ecosistemi, poi sono gli esseri umani anche a stare male, perché non siamo separati dalla natura, non siamo separati dall'ambiente. L'uomo stesso è natura e, ogni volta che andiamo a manovrare, a manipolare questi equilibri, qualcosa va storto, si verificano incidenti, l'uomo entra in contatto con la fauna selvatica, cosa che in genere non dovrebbe accadere. Se accade, vuol dire che un equilibrio non c'è più e, se un equilibrio non c'è più, quasi sempre è a causa dell'essere umano. Anche in Trentino è stato così: era stato avviato questo progetto di ripopolamento e oggi, invece, questo progetto non va più bene, perché gli orsi, secondo loro, oggi sono diventati troppi. Quindi, cosa facciamo? Diciamo: cari orsi, siete diventati troppi, quindi vi ammazziamo. Non credo che questa sia una soluzione. Quindi, se non si sa gestire un problema, diamo le colpe a chi ha le colpe, sicuramente non le dobbiamo dare agli animali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307210",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche noi, a nome del Partito Democratico, esprimiamo le nostre condoglianze alla famiglia di Andrea Papi. Crediamo che questa sia stata una vera disgrazia in un momento felice e di svago. Quello che è successo veramente ci addolora e ci rattrista. Logicamente, però, la politica deve riuscire anche, come sempre, a trovare soluzioni. Credo che il tema della biodiversità, un tema caro a noi della Commissione ambiente, deve tenere conto non solo delle specie che oggi devono sicuramente ripopolarsi. Siamo d'accordo sul fatto che però le specie non debbano, come in questo caso, prevaricare altre specie. Faccio l'esempio della questione dei lupi che oggi esistono e insistono in gran parte delle regioni italiane e mettono a rischio allevamenti, famiglie, imprese e sicuramente sono un rischio anche per l'uomo. Credo che un grande ruolo lo possano giocare l'ISPRA e i territori. Credo che ISPRA oggi debba avere il mandato pieno da parte di tutto il Parlamento per capire come poter agire su tale problema, soprattutto per riuscire, grazie anche a un rapporto stretto con i territori, a verificare non solo la pericolosità ma anche la coesistenza fra biodiversità e uomo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307134_19",
+      "politician_name": "BAGNASCO Roberto",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente, la illustro. Signor Ministro, con il decreto legislativo n. 155 del 2012 vennero soppressi 31 sedi di tribunale, 220 sedi distaccate di tribunale e 667 uffici del giudice di pace, nell'ottica della revisione e dell'ottimizzazione della spesa pubblica, nonché di un recupero complessivo di risorse ed efficienza del sistema giustizia. Tuttavia, è passata ormai una decina d'anni, o qualcosa di più, e non solo il risparmio ipotizzato non è stato conseguito, ma tale riforma non ha garantito neppure la celerità dei giudizi, aumentando, al contrario, i disagi per l'utenza e offuscando, in troppi luoghi, la luce della legalità rappresentata da una sede giudiziaria. Conosco il caso specifico, evidentemente…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307134",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307134_19",
+      "politician_name": "BAGNASCO Roberto",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Ne conosco più di uno, ma ricordo quello di Chiavari, dove erano stati conclusi i lavori per la nuova sede giudiziaria - molto bella, devo dire, collegata direttamente con le carceri - che non ha mai iniziato i propri lavori. La giustizia di prossimità ha un valore che non può essere ignorato. Per questo, le chiedo quali siano le reali intenzioni dell'Esecutivo in ordine a una nuova riforma della geografia giudiziaria del Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307134",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, Presidente. In effetti, come è stato ricordato, quella spending review , datata oltre 10 anni, era stata orientata verso una razionalizzazione delle spese, una riduzione degli uffici giudiziari, per implementare, come si dice, la loro efficienza. Sono anch'io molto perplesso sull'esito di questa operazione, che vorrei paragonare a quella negativa di alcune regioni d'Italia quando, in tema di sanità, si è preferito privilegiare l'eccellenza di alcuni posti di riferimento, trascurando la sanità di prossimità. Si è constatato durante la pandemia che questa scelta, giusta sotto certi aspetti, per creare dei centri di eccellenza, poi, in realtà si era rivelata sbagliata sotto il profilo dell'utilità generale e della tutela della salute collettiva. Nella giustizia sta accadendo la stessa cosa; ci sono centri che sono necessariamente e devono essere centri di eccellenza - chiamiamola così, magistratuale - per ragioni di competenza e per ragioni di efficienza, ma, in effetti, l'intenzione di questo Ministero e anche di questo Governo è di riconsiderare tutta questa serie di riduzioni che sono state fatte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307134_19",
+      "politician_name": "BAGNASCO Roberto",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Grazie, signor Ministro, è la risposta che in qualche modo speravo che lei formulasse, evidentemente. Lei, che conosce perfettamente il sistema giudiziario del nostro Paese, sa che le intenzioni del decreto legislativo del 2012 erano sicuramente positive, perché si tentava di diminuire la spesa pubblica, ma non ci si è riusciti, la spesa pubblica è rimasta più o meno inalterata, almeno nelle situazioni che io conosco, e sono abbastanza numerose, e, invece, questa giustizia non di prossimità in qualche modo ha allontanato il cittadino dalla giustizia stessa, almeno per quanto riguarda alcune realtà, che poi non sono del tutto minori, anzi, sono già centri piuttosto importanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307134",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307689_19",
+      "politician_name": "BISA Ingrid",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Ministro, buongiorno. I fenomeni di criminalità giovanile impongono un'attenzione alla giustizia minorile: violenze e aggressioni di detenuti minori nei confronti della Polizia penitenziaria, misure cautelari in carcere per i minori di 14 anni solo nei casi in cui vi sia reclusione superiore ai 9 anni, un processo telematico che incombe, ma di cui i tribunali per i minorenni sono sprovvisti, la carenza di risorse e di personale amministrativo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307689",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, Presidente. Grazie, collega. La problematica che lei ha posto, ovviamente, estremamente complessa, si inserisce in quella più vasta, del sistema carcerario. Ho già illustrato, a suo tempo, le linee programmatiche di questo Ministero e di questo Governo per quanto riguarda il trattamento della Polizia penitenziaria, l'ampliamento delle carceri e gli investimenti. Nel breve tempo che mi è concesso, mi limiterò, nella prima parte, a elencare alcuni aridi numeri, per far capire cosa il Governo abbia fatto fino a ora e, poi, nella seconda parte, cosa intenda fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . …nella risistemazione di caserme dismesse - ho finito, scusi - che hanno una struttura compatibile con quella carceraria e darebbero la possibilità sia di praticare lo sport sia di esercitare l'attività lavorativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Grazie, Ministro, le sue parole sono rassicuranti in ordine allo scorrimento delle graduatorie per i dirigenti e per il personale di seconda fascia, perché spesso i tribunali per i minorenni sono le cenerentole della giustizia italiana. Inoltre, ci dimentichiamo che i tribunali per i minorenni gestiscono anche tutte le fattispecie civili legate al cattivo esercizio della responsabilità genitoriale. Quindi, il compito è complicato e, pertanto, sono uffici giudiziari sempre in affanno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ministro Sangiuliano, nel settore dello spettacolo operano migliaia di lavoratori e lavoratrici con contratti atipici, inevitabilmente intermittenti e con poche tutele. Al termine della scorsa legislatura, l'approvazione della legge n. 106 del 15 luglio 2022 ha recato una delega al Governo per il riordino e la revisione degli ammortizzatori sociali e delle indennità in favore dei lavoratori dello spettacolo. Con quella legge sono stati fissati alcuni principi fondamentali e introdotti strumenti innovativi: la definizione di nuove norme in materia di contratti di lavoro e di equo compenso per i lavoratori autonomi, il riconoscimento del ruolo professionale degli attori, l'introduzione dell'indennità di discontinuità e benefici previdenziali ed è stato redatto un vero e proprio codice dello spettacolo fondato su due grandi valori costituzionali, cioè il diritto al lavoro e la promozione e la diffusione culturale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Le chiediamo, dunque, quali aggiornamenti intenda fornire in merito all'attuazione della legge 15 luglio 2022, n. 106, ovvero quando intendete fare in modo che i lavoratori dello spettacolo ricevano l'indennità di discontinuità che loro spetta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d309046_19",
+      "politician_name": "SANGIULIANO Gennaro",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Cultura . Onorevole, in primo luogo la ringrazio per aver posto tale quesito, che mi consente di fare chiarezza su una questione che - le dico subito - sta a cuore a me e all'intero Governo. Siamo pienamente consapevoli della rilevanza del corposo processo di riforma che siamo chiamati a realizzare. Vogliamo procedere speditamente per l'attuazione delle deleghe previste da questa legge.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "309046",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d305815_19",
+      "politician_name": "ORFINI Matteo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ministro, se fossimo a gennaio io sarei soddisfatto della sua risposta, ma purtroppo siamo ad aprile. Lo dico perché, come anche lei ha ricordato, noi abbiamo approvato, praticamente come ultimo atto della scorsa legislatura, questa norma, per certi versi, rivoluzionaria, partendo da una proposta del Partito Democratico ma approvata da tutto il Parlamento, maggioranza e opposizione di allora. Come ha ricordato ancora lei, nella prima legge di bilancio di questa legislatura abbiamo trovato, partendo da un emendamento del Partito Democratico ma con il sostegno e il consenso della maggioranza, le risorse per finanziarne almeno l'avvio. Abbiamo a disposizione 100 milioni di euro che non sono sufficienti, probabilmente, ma consentono di partire. Forse servirebbe qualcosa in più, come ci siamo detti durante quella discussione. Insieme abbiamo scritto e approvato la norma nella scorsa legislatura e insieme abbiamo trovato le risorse nella prima legge di bilancio di questa legislatura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "305815",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Ministro Sangiuliano, il settore delle sale cinematografiche e della distribuzione, già fortemente colpito dalla pandemia, continua a vivere una situazione di oggettiva difficoltà, nonostante il 2023 abbia fatto registrare miglioramenti rispetto agli anni precedenti. Mentre, infatti, la produzione audiovisiva è in un momento di particolare dinamismo, le presenze in sala continuano a registrare numeri insoddisfacenti. In Italia, come sa - abbiamo avuto modo di parlarne in Commissione -, a differenza della maggior parte degli altri Paesi, è prevista una finestra temporale per la distribuzione, ovvero un obbligo di fruizione nelle sale cinematografiche per un certo numero di giorni prima della diffusione sulle piattaforme, ma tale strumento ha dimostrato di non essere idoneo, almeno non da solo, a incentivare la fruizione dei film nelle sale, anzi talvolta tende ad innescare reazioni nell'industria audiovisiva che hanno un effetto opposto a quello auspicato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d309046_19",
+      "politician_name": "SANGIULIANO Gennaro",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Cultura . Onorevole Grippo, la ringrazio per il quesito. Il Governo ha affrontato con serietà e impegno le problematiche degli imprenditori del settore cinematografico. Uno dei primi miei atti è stato quello di firmare un decreto che ha stanziato 10 milioni di euro per incentivare il ritorno in sala del pubblico dopo la pandemia. In questo senso, va anche l'attenta valutazione delle forme e dei metodi di erogazione dei crediti di imposta alle imprese che lavorano e allo sviluppo, alla produzione e alla distribuzione nazionale e internazionale di film, a cui ho provveduto con una serie di decreti e, ancora, alla repressione della pirateria cinematografica ed audiovisiva.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "309046",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Ministro, non siamo soddisfatti della sua risposta per due ragioni. La prima è che - come ho anticipato - è noto che il sistema delle finestre cinematografiche, presente in maniera massiccia solo in Francia, con 6 finestre (è molto articolato), ha dimostrato di non essere efficace. E noi, addirittura, pensiamo di ampliare la platea, non solo ai film che finanziamo direttamente, ma a tutti gli investimenti anche internazionali: questo avrà il banale effetto di non portare più gli investimenti in Italia, cosa che non auspichiamo per il cinema italiano e per le coproduzioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. In un anno, a 19,6 milioni di italiani è stata negata almeno una prestazione dei livelli essenziali di assistenza. Su 100 tentativi di prenotazione, 28 hanno fatto poi ricorso al privato a causa delle liste di attesa interminabili. Ministro, questi sono dati Censis e Agenas. Faccia così: faccia anche lei una telefonata da privato cittadino. In Piemonte, ad esempio, se si chiama per una colonscopia, si trova posto nel pubblico, a Chieri, nel 2025. Ecco, la pandemia ha accelerato tutto questo processo: meno 12,8 milioni di prime visite l'anno, che vuol dire meno ecografie, meno mammografie, meno elettrocardiogrammi. Oggi, chi può, paga, gli altri attendono o rinunciano direttamente alle cure. Ecco, si potrebbe dire, Presidente: benvenuti nell'era dei solventi! Con una carta di credito, la stessa visita fissata tra un anno può essere fatta domani. Oltre 4 milioni di persone rinunciano alle cure per motivi economici. Il diritto ad una salute pubblica e gratuita per tutte e tutti sta scomparendo, invece nessuno dovrebbe esserne privato. Ecco, anziché armarci fino ai denti, stanziamo le risorse sul sistema sanitario nazionale!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Ministro, non ci siamo proprio, non ci siamo e siamo andati anche fuori tema, se mi consente. Il ricorso, sotto gli occhi di tutti, alla sanità privata è sempre più diffuso e questa è la conseguenza di un Servizio sanitario nazionale che sta per collassare. La causa prima è il sottoinvestimento a livello di bilancio, la scelta, quindi, di escludere dall'accesso alla sanità pubblica milioni di cittadini e cittadine. Se hai i soldi, puoi facilmente garantirti visite, esami ed interventi. La spesa privata dei cittadini e delle cittadine italiani per la sanità, infatti, è passata dal 34,85 miliardi di euro del 2019 ai 37 miliardi del 2020 e del 2021, il 6 per cento in più. Secondo l'Istat, 4 milioni di persone rinunciano a curarsi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Quando parliamo di dolore cronico, parliamo di autosufficienza, dignità della persona. Alcune condizioni sono così debilitanti da pregiudicare la capacità di condurre una vita normale e sono diverse da quelle trattabili unicamente con le cure palliative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Nelle relazioni del rapporto del Parlamento sullo stato di attuazione della legge del 2010, si rilevano i progressi compiuti per le cure palliative, ma non risultano avanzamenti in merito alla terapia del dolore. Le chiediamo, pertanto, un approfondimento sugli interventi previsti per l'accesso dei malati cronici alle terapie del dolore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d309048_19",
+      "politician_name": "SCHILLACI Orazio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Salute . Con riferimento alla questione sollevata dagli interroganti, rappresento che la finalità della legge n. 38 del 2010, secondo quanto previsto dall'articolo 1 della medesima, è quella di garantire il diritto del malato ad accedere tanto alle cure palliative, quanto alla terapia del dolore, per assicurare il rispetto della dignità e dell'autonomia della persona umana, il bisogno di salute e l'equità nell'accesso all'assistenza, la qualità delle cure e la loro appropriatezza riguardo alle specifiche esigenze, rappresentando un punto fermo normativo preso a modello a livello internazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "309048",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Ringrazio il Ministro Schillaci e il Sottosegretario Gemmato - il Ministero al completo, oggi - per un tema importante sul quale, come Noi Moderati, ci dichiariamo soddisfatti rispetto alle valutazioni del Ministro, perché ci ha rassicurato, attraverso lo strumento della legge di stabilità, sulle risorse che vengono destinate alla rete per le cure palliative e alla rete per la terapia del dolore. Ci ha rassicurato sull'insistenza nei rapporti con le regioni, perché possano declinare in modo concreto la realizzazione di queste reti - e la nostra interrogazione insiste sul tema, dal nostro punto di vista, maggiormente trascurato, della terapia del dolore - e sulla necessità di monitorare che tutto ciò avvenga. Noi crediamo che questa sia la legislatura in cui la legge 15 marzo 2010, n. 38, fatta dal centrodestra, possa trovare definitiva soddisfazione. Stiamo parlando, infatti, di un percorso di cura di persone che nel nostro Paese soffrono, persone che arrivano a condizioni di inabilità a causa delle croniche sofferenze, per dolori che potrebbero essere superati a fronte di giusti strumenti, nell'ambito di una rete certamente sviluppata dalle regioni, ma con la regia del Ministero e del Governo, e attraverso percorsi formativi che creino figure specializzate che possano essere attive negli ospedali e alleviare finalmente quei milioni di cittadini che maledicono certe volte la mattina in cui si svegliano, perché hanno mal di schiena o perché hanno dolore alle gambe. Veramente ci sono la possibilità e le condizioni perché la terapia del dolore possa essere efficace nel migliorare la qualità della vita degli italiani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Signor Ministro, come sicuramente saprà, dal 2019 vi è la possibilità per i medici in formazione specialistica, a partire dal terzo anno di specializzazione, di poter partecipare ai concorsi pubblici per dirigente medico e, quindi, di poter essere assunti nel Servizio sanitario nazionale. È possibile essere assunti previo accordo da parte delle università, le quali, se la struttura non fa parte della rete formativa, devono autorizzare l'accordo e costituire un progetto formativo individuale. Ebbene, attualmente sono 25.000 i medici specializzandi di terzo, quarto e quinto anno, che potrebbero essere assunti nelle strutture sanitarie e dare un notevole contributo a un Servizio sanitario nazionale in forte emergenza, sia per mancanza di personale che per il sottofinanziamento degli anni passati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d309048_19",
+      "politician_name": "SCHILLACI Orazio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Salute. Grazie, Presidente. Rispondo a questa interrogazione ed è un'occasione per sottolineare la portata innovativa del recente intervento normativo, per quanto attiene ai medici in formazione specialistica di cui al decreto-legge 30 marzo 2023, n. 34, attualmente in fase di conversione. Le norme portate avanti dal Ministero della Salute si pongono l'obiettivo di superare le criticità del sistema sanitario nazionale ricollegate alla carenza di personale ed essenzialmente dovute a una scarsa attività del sistema sanitario nazionale stesso. Nonostante negli ultimi anni si sia provveduto a incrementare il numero di contratti di formazione specialistica, è stata riscontrata su tutto il territorio nazionale una scarsa partecipazione ai relativi concorsi. Da qui la necessità di un recente intervento normativo, con il quale sono state introdotte misure volte a garantire un inserimento graduale e strutturale dei medici in formazione specialistica nel sistema sanitario nazionale. A tal riguardo, si segnala la modifica dell'articolo 1, comma 548- bis , della legge di bilancio per il 2019, con la quale è stata inserita a regime la possibilità, per le aziende e gli enti del sistema sanitario nazionale, di assumere con contratto di lavoro subordinato a tempo determinato, con orario a tempo parziale, in ragione delle esigenze formative, coloro che, a partire dal terzo anno di corso di formazione specialistica, regolarmente iscritti, si siano utilmente collocati nella graduatoria in esito alle procedure concorsuali per l'accesso alla dirigenza del ruolo sanitario. Questa misura non è più temporalmente limitata al 31 dicembre 2025 e consentirà di fidelizzare i medici in formazione specialistica al Servizio sanitario nazionale, strutturandoli il prima possibile all'interno delle aziende e degli enti facenti parte delle reti formative e favorirà, altresì, il necessario trasferimento generazionale di competenze e abilità tra professionisti. La previsione di tale istituto, a regime, congiuntamente alle modifiche apportate allo stesso comma 548- bis, che consentiva la proroga del contratto a tempo determinato per una sola volta sino al conseguimento del titolo di formazione medica specialistica e comunque per un periodo non superiore a 12 mesi, contribuiranno certamente ad assicurare un più ampio utilizzo dell'istituto su tutto il territorio nazionale, laddove ne ricorrano i presupposti. Una particolare attenzione, inoltre, deve essere dedicata alle strutture di emergenza-urgenza, che ad oggi risultano particolarmente interessate dalla carenza di personale, in ragione dei notevoli carichi di lavoro, del rischio legato alle aggressioni, al burnout, nonché all'elevato livello di responsabilità, quali elementi che determinano la scarsa attrattività dell'impiego in pronto soccorso. Anche in tal caso il contributo dei medici in formazione specialistica, che, tuttavia, non possono in nessun caso essere considerati sostitutivi del personale strutturato, costituisce una risorsa fondamentale, che l'intervento normativo portato avanti dal Ministero della Salute ha voluto valorizzare mediante l'introduzione di norme speciali temporaneamente limitate, che derogano alla disciplina vigente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "309048",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ringrazio il Ministro per la sua risposta, ma, purtroppo, non può soddisfarci e spiego perché. Vi è un tema su questo punto: i dinieghi da parte delle università, che si oppongono a stipulare i contratti di formazione individuale. Il problema principale è che non vogliono vedersi sottrarre manodopera a basso costo, che possono utilizzare per pubblicazioni e per ricerca. Il punto è che le università stanno bloccando migliaia di medici specializzandi, che potrebbero dare un reale contributo a sollevare le sorti del nostro Servizio sanitario nazionale. Bene è aver reso strutturale una nostra norma, con il recente decreto Bollette, ma, purtroppo, resterà soltanto sulla carta, se non si vanno a risolvere queste criticità. La soluzione ve la stiamo proponendo ed è far sì che le autorizzazioni siano automatiche, che non debbano più sottostare all'autorizzazione da parte delle università, oggi tenute a stipulare questo contratto di formazione individuale con le aziende che ne facciano richiesta. Il punto è che lei non sta rispondendo soltanto a me. Lei sta rispondendo a 25.000 persone, medici in formazione specialistica che sono pronti a dare una mano reale, per dare un contributo al nostro Paese e sollevare le sorti del Servizio sanitario nazionale. Sta rispondendo a migliaia di cittadini che stanno aspettando di sapere se potranno curarsi o meno tra un mese o dovranno aspettare un anno nelle liste d'attesa. Sta rispondendo a quei cittadini che stanno aspettando stipati su barelle nei pronto soccorso. Questo è il motivo per cui la sua risposta non può soddisfarci e non può soddisfare il Paese (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308868_19",
+      "politician_name": "ROSSO Matteo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, la situazione dei nostri pronto soccorso certamente è molto complessa per carenze organizzative che hanno radici lontane. Basti pensare alle continue aggressioni che avvengono nei nostri pronto soccorso. Nel pomeriggio della giornata di Pasqua, un malintenzionato ubriaco è entrato, armato con un coltello, nel pronto soccorso di Pescara, seminando il terrore tra i nostri operatori sanitari che meritano tutto il nostro rispetto (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308868",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308868_19",
+      "politician_name": "ROSSO Matteo",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Concludo. Uno sforzo lo avete fatto in avanti, però bisogna fare ancora di più e sono convinto che lei abbia altre proposte da farci. Dobbiamo affrontare questa criticità con altre proposte per far sì che i nostri pazienti non stiano delle ore in barella, e sono convinto che lei abbia le capacità di farlo (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308868",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d309048_19",
+      "politician_name": "SCHILLACI Orazio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Salute. Grazie, Presidente. Si sta facendo finalmente qualcosa. Quando questo Governo si è insediato, e ho avuto l'onore di iniziare ad occuparmi del Servizio sanitario nazionale, ho trovato una sanità ingolfata e piena di contraddizioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "309048",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d309048_19",
+      "politician_name": "SCHILLACI Orazio",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Salute. Inoltre, con l'articolo 14, abbiamo consentito alle aziende di assumere, con contratto di lavoro subordinato a tempo determinato, con orario a tempo parziale, gli specializzandi, dal terzo anno, del corso di formazione specialistica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "309048",
+        "seduta": 85
+      }
+    },
+    {
+      "politician_id": "camera_d308917_19",
+      "politician_name": "COLOSIMO Chiara",
+      "date": "2023-04-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie davvero, Ministro Schillaci. Grazie davvero al Governo Meloni. Lo voglio dire chiaramente ad alta voce, a nome non solo del gruppo Fratelli d'Italia, ma di tutto il personale del Servizio sanitario nazionale: il cambio di passo c'è e si vede. C'è e si vede perché io tante volte ho raccontato le storie vere di pazienti che hanno subìto delle vere e proprie odissee nei nostri pronto soccorso. Ma allo stesso tempo c'è e si vede perché noi sappiamo che, dietro a quelle storie, ci sono tante altre storie, quelle che le trasmissioni televisive non raccontano, quelle che noi abbiamo il dovere di difendere. Le trasmissioni non ci dicono quello che il nostro personale tutti i giorni fa e di cui ci rende orgogliosi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0085",
+      "metadata": {
+        "id_persona": "308917",
+        "seduta": 85
+      }
+    }
+  ]
+}

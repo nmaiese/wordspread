@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0397",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-12-11",
+    "title": "Assemblea — Seduta n. 397 del 2024-12-11",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 397
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 99, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Presidente della XI Commissione . Grazie, Presidente. D'accordo con i relatori, rispetto e in pancia al provvedimento - dispiace -, sono a chiedere almeno una mezz'ora di tempistica aggiuntiva per quanto riguarda un' impasse che si è creata rispetto ad una proposta emendativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Sono a chiederle un'informativa urgente al Ministro Piantedosi. Come avrà letto, ahimè, c'è un fatto accaduto a Torino, che ogni giorno sale all'onore delle cronache. Mi riferisco all'edificio di corso Verona, un ufficio pubblico che ospita l'ufficio immigrazione della questura di Torino e che vede, ogni giorno, d'estate sotto il sole cocente, d'inverno al freddo e all'addiaccio, centinaia di migranti chiedere il permesso di soggiorno in balia del tempo, del caldo, del freddo. Soprattutto - lo dico - restano per ore e ore al gelo non solo gli stranieri in coda, ma anche gli ufficiali e i funzionari della Polizia di Stato, i funzionari del Ministero dell'Interno. Quell'ufficio è dichiarato inagibile ed è dichiarato inagibile dalla Commissione dei lavori pubblici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305757_19",
+      "politician_name": "BOLDRINI Laura",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signora Presidente, intervengo perché questa veramente sta diventando un'emergenza. In tantissime città italiane, di fronte alle questure, ci sono persone lasciate lì per giorni, in attesa di essere convocate, per andare a fare una domanda d'asilo, per la compilazione del modulo C3, per andare a fare un rinnovo del permesso di soggiorno. Sembra quasi che quella dell'attesa sine die stia diventando una strategia messa in atto per scoraggiare le domande d'asilo, per dire alle persone di non venire in Italia, perché in Italia non c'è posto per i richiedenti asilo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305757",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 2119-A ​: Conversione in legge, con modificazioni, del decreto-legge 28 ottobre 2024, n. 160, recante disposizioni urgenti in materia di lavoro, università, ricerca e istruzione per una migliore attuazione del Piano nazionale di ripresa e resilienza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308879_19",
+      "politician_name": "TENERINI Chiara",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice per la XI Commissione. Grazie, Presidente. Sugli emendamenti 1.3 Soumahoro, 1.4 Scotto, 1.5 Gribaudo, 1.6 e 1.7 Scotto, 1.8 Caramiello, 1.9 Barzotti, 1.10 e 1.11 Scotto, 1.100 Faraone, 1.1 Gribaudo, 1.14 Tucci, 1.15 Carotenuto e 1.17 Barzotti, invito al ritiro o parere contrario, così come sull'articolo aggiuntivo 1.04 Gribaudo, invito al ritiro o parere contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308879",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308929_19",
+      "politician_name": "SOUMAHORO Aboubakar",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Grazie, Presidente. Presidente, questo è importante per chi ci segue da fuori, in particolar modo per le cittadine e i cittadini e, in questo caso, parlo degli agricoltori rispettosi delle regole, parlo dei contadini rispettosi delle regole, parlo dell'insieme delle lavoratrici e dei lavoratori della terra, di chi zappa la terra dalla mattina alla sera, di chi raccoglie nei campi, di chi si spacca la schiena per 4 euro al giorno, 12 ore di lavoro. Questo emendamento cosa chiede? Chiede, sostanzialmente, di istituire a livello provinciale un'articolazione del tavolo nazionale per il contrasto al caporalato e allo sfruttamento in agricoltura. Allora, qui, c'è il parere favorevole della Commissione Bilancio a questo emendamento. Non si riesce a capire il motivo per il quale il Governo esprima un parere contrario. Il punto sarà che tutto ciò che parte dalle opposizioni è da respingere, o tutto ciò che parte dall'insieme di ogni singolo deputato e ogni singola deputata in quest'Aula è da approfondire e verificare. Non si può dire che lottiamo contro il caporalato a Latina, a Foggia, a Saluzzo, nel Nord, nel Centro e nell'Ovest del nostro Paese, e poi quando i prefetti chiedono di avere uno strumento capace di rafforzare l'attività, i sindacati, le organizzazioni datoriali…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308929",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo emendamento, che ci apprestiamo a ritirare per ripresentare un ordine del giorno, è un emendamento molto importante. È un emendamento che interviene sulla tutela dei lavoratori delle piattaforme che lavorano in condizioni climatiche estreme.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intendo sottoscrivere questo articolo aggiuntivo della collega Gribaudo. Voglio chiedere all'Aula un po' di attenzione anche perché questa proposta emendativa è frutto di un'elaborazione e di un'iniziativa comune della Commissione d'inchiesta della Camera dei deputati che si occupa delle condizioni di lavoro e di sfruttamento nei luoghi di lavoro e che in più di un'occasione, compresi gli Stati generali che si sono recentemente tenuti qui alla Camera, alla presenza della Ministra del Lavoro e del Presidente della Repubblica Sergio Mattarella, ha proposto, tra le varie misure di contrasto agli infortuni sul lavoro, l'introduzione del badge elettronico di cantiere o cosiddetto tesserino parlante.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d306412_19",
+      "politician_name": "GUERRA Maria Cecilia",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per due ragioni su questo articolo aggiuntivo. Dapprima, per una ragione di merito, perché questo articolo aggiuntivo pone un problema che continua ad essere trascurato nell'azione di questa maggioranza - sia per quanto riguarda questo provvedimento e ancor più per quanto riguarda la manovra di bilancio -, ossia il tema di come affrontare, anche con strumenti nuovi, le forti crisi industriali determinate da processi necessari di reindustrializzazione e di riconversione e anche dalla necessità di costruire un sistema di ammortizzatori maggiormente in grado di accompagnare questi processi, in termini di durata e di caratteristiche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "306412",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signora Presidente. Per rafforzare le parole della collega Guerra. Vedete, questo articolo aggiuntivo è una riforma, perché prova a interpretare la sfida che c'è davanti, che è oggetto di una discussione che attraversa il Paese e il dibattito parlamentare. Veniamo ieri da un esito positivo, anche se parziale, della vertenza Trasnova, con il rinnovo della commessa di un anno. Però noi entriamo dentro un 2025 - questo vorrei che fosse chiaro a chi ci governa e alla maggioranza - molto delicato sul piano della tenuta occupazionale, sul piano della tenuta degli insediamenti produttivi e sul piano della sfida della transizione. Servono strumenti straordinari; serve un Fondo che abbia natura nazionale, ma anche europea, per governare questi fenomeni e per garantire ammortizzatori sociali adeguati e formazione a quei lavoratori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signora Presidente. Con questo emendamento cerchiamo di dare una sterzata a quella che è la direzione terribile che questo Governo e questa maggioranza hanno preso nell'ambito dell'università e della ricerca. Di fatto, con questo emendamento e con altri emendamenti successivi, proponiamo e chiediamo di attivare un vero e proprio piano straordinario di reclutamento dei ricercatori, attualmente precari, all'interno sia delle università sia degli enti di ricerca.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Io vorrei, a nome mio e del collega Franco Mari, sottoscrivere questo emendamento del collega Caso, perché interviene su un tema fondamentale e importante come quello del lavoro e dei contratti dei nostri ricercatori nonché del finanziamento delle università. Segnalo che ne parliamo qui, oggi, ma questo è solo l'inizio di una battaglia che intendiamo portare avanti anche in legge di bilancio, perché la situazione - come diceva anche il collega - è davvero grave e, a tratti, sicuramente vergognosa. Siamo di fronte a un disinvestimento da parte del Governo in tutti i settori dell'istruzione, che si configura come una totale mancanza di rispetto nei confronti di migliaia di lavoratori e di ricercatori che oggi sono impiegati nei nostri enti di ricerca; ma se vogliamo, in maniera ancora peggiore, si configura come un danno alla competitività economica del nostro Paese, al suo futuro, allo sviluppo di nuove tecnologie e di nuove politiche industriali e di innovazione sociale. Siamo, quindi, qui a dare ovviamente il nostro voto favorevole a questo emendamento, ma anche a ribadire che emendamenti come questo ci saranno anche nella discussione sulla legge di bilancio, perché fuori da queste Aule c'è una grande mobilitazione di questo mondo, dalle università agli enti di ricerca, e quella mobilitazione è bene che irrompa nella nostra discussione. Bisogna dare risposte al Paese, bisogna dare risposte a queste persone e fa specie che dalle parti della maggioranza arrivino solo pareri negativi e un assordante silenzio (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, intervengo per sottoscrivere l'emendamento del collega Caso che, devo dire, si associa a un lavoro che, come forze di opposizione, insieme ai colleghi di AVS e del MoVimento 5 Stelle, abbiamo…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …che fa seguito a un lavoro comune, che su un tema essenziale, come quello della ricerca, come quello dell'istruzione, abbiamo promosso in sede di legge di bilancio, proprio perché in realtà questo è solo un antipasto - mi verrebbe da dire - di quello che è il tema più generale, che riguarda i mancati investimenti che il Ministero dell'Università e della ricerca, che il Governo ha posto rispetto al settore della ricerca. Abbiamo ascoltato le parole preoccupate della Conferenza dei rettori, della presidente della Conferenza dei rettori in sede di audizione in Commissione bilancio, durante appunto le audizioni, e abbiamo cercato di tradurre quegli allarmi che riguardano la pesante decurtazione del Fondo di finanziamento ordinario, che andrà ad incidere anche sui livelli occupazionali, sulle aspirazioni al ruolo dei docenti, dei futuri docenti universitari, sul blocco del turnover , sulla limitazione del turnover .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Grazie, Presidente. Questo sarà uno dei voti contrari più convinti che ho espresso in sei anni in quest'Aula e lo dico non solo da deputato, ma da appartenente al sistema universitario. Su questo settore - che è vero, è cruciale per la competitività del nostro Paese - noi da decenni osserviamo o provvedimenti inutili, come questo, da parte della destra, o sempre le stesse ricette da parte della sinistra. Le ricette della sinistra, su questo tema, sono sempre di una sola matrice: stabilizziamo i precari. Fra l'altro, con argomentazioni anche un po' strane, perché se quelli immessi col PNRR, che è un programma a tempo, hanno l'implicita promessa di rimanere per sempre, allora non era un programma a tempo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Vorrei informare quest'Aula che da stamattina abbiamo riunito il Comitato dei nove - com'era normale che fosse - perché eravamo in trepida attesa di una riformulazione, da parte della Commissione, con il beneplacito del Governo, di una serie di emendamenti che intervenivano sulla vicenda degli ammortizzatori sociali del settore moda, che è il cuore di questo provvedimento, almeno per quello che riguarda la parte del lavoro, di competenza del Ministero del Lavoro e delle politiche sociali, per allargare la possibilità di fruire di questi ammortizzatori sociali fino al 31 gennaio. C'era un'intesa di tutti, di tutti i partiti, di tutti i gruppi rappresentati in Parlamento, maggioranza e opposizione, e un impegno solenne da parte nostra a ritirare gli emendamenti in merito, di fronte alla riformulazione. Chiuso il Comitato dei nove, dopo un'attesa, diciamo, abbastanza lunga di una riformulazione - abbiamo avuto persino la riformulazione della riformulazione - ora apprendiamo, ambasciator non porta pena, dal relatore che questo emendamento non avrebbe le coperture e che, dunque, il lavoro che abbiamo fatto fino a questo momento è stracciato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308869_19",
+      "politician_name": "MARI Francesco",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Sì, Presidente. Per unirmi alla richiesta del collega Scotto di sospensione e di convocazione del Comitato dei nove, per tornarci un attimo sulla questione, che è sicuramente una questione di merito per la rilevanza del tema, il settore della moda, le sue difficoltà, la necessità di ampliare gli ammortizzatori, di venire incontro a quella specifica condizione di un comparto importante del nostro sistema produttivo e del nostro - lo dico con parole vostre - tanto caro made in Italy . Però qui c'è, dietro la nostra richiesta, davvero, a questo punto, una grande questione che riguarda il nostro modo di lavorare, che non è riferito, come dire, ai nostri tempi; no, si tratta della possibilità politica di intervenire e di incidere su un provvedimento da parte di tutti, della maggioranza come dell'opposizione. Invece, qui, ancora una volta abbiamo registrato, guardate - ed è grave -, una sorta di tecnica del carciofo, per cui un po' alla volta ti viene meno, ti viene tolto quello che hai provato a fare, fino all'ultimo atto di stamattina ma che è l'ultimo, ce n'erano stati altri prima. Non è possibile che noi questa mattina abbiamo un emendamento, una riformulazione da parte della maggioranza e del Governo, arriviamo qua e questa riformulazione non c'è più. Questo ci mette nell'impossibilità di valutare complessivamente un provvedimento e la valutazione complessiva del provvedimento riguarda, evidentemente, anche la nostra possibilità di incidere nel provvedimento. A questo punto, chiediamo sicuramente la sospensione e la convocazione del Comitato dei nove, ma va anche detto che la nostra valutazione complessiva sul provvedimento a questo punto cambia (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308869",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ci accodiamo anche noi alla richiesta dell'onorevole Scotto, perché troviamo che ci siano due ordini di problemi. Ce n'è uno proprio etico di lavori, dei rapporti tra maggioranza e opposizione, perché, se si prendono degli impegni e poi non si mantengono, va da sé che c'è un problema. Poi c'è poi un tema anche di messaggio che diamo al Paese. Io trovo veramente paradossale che, in questo Paese, si trovano i soldi per condonare le multe ai no-vax e non si trovano mai i soldi per i lavoratori (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Quindi, riconvochiamo il Comitato dei nove e rimettiamoci al lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d306160_19",
+      "politician_name": "BOSCHI Maria Elena",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Sì, grazie, Presidente. Per unirci alla richiesta di sospensione e dare la possibilità al Comitato dei nove di approfondire la questione delle coperture. Guardi, Presidente, alle considerazioni dei colleghi ne aggiungo un'altra, ancora più grave, se vogliamo. Noi la scorsa settimana abbiamo presentato un question time al Ministro Urso proprio sul tema del settore moda e il Ministro Urso, in quest'Aula, con la solita arroganza, ha risposto dicendo che ci sarebbero state le risorse, che avrebbero dato risposte a quei lavoratori attraverso proprio questo provvedimento legislativo. In realtà, ci rendiamo conto, a pochi giorni di distanza, che il Ministro Urso e il Governo non soltanto hanno preso in giro i lavoratori del settore della moda, ma hanno preso in giro anche quest'Aula, facendo annunci e proclami per fare bella figura sui giornali, salvo, pochi giorni dopo, smentire tutti gli impegni e le promesse che hanno fatto (Applausi dei deputati del gruppo Italia Viva-il Centro-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "306160",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Abbiamo già avuto modo, questa mattina, durante il Comitato dei nove, di manifestare la nostra perplessità rispetto a questo modo di operare, non solo evidentemente perché non rispetta le prerogative del Parlamento e di quello che siamo chiamati a fare qui, ma soprattutto perché non rispetta i lavoratori di un comparto che, come è stato detto da chi mi ha preceduto, è ampiamente in sofferenza in questo momento e aspetta di avere delle risposte che non siano un emendamento rimandato, trasformato in ordine del giorno, rimpallato sulla legge di bilancio senza sapere se arriverà o meno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Presidente della XI Commissione . Presidente, la ringrazio per la parola. Sul punto, ricordo che non tutti i colleghi che sono intervenuti qui in Aula erano, evidentemente e ovviamente, presenti prima, durante la celebrazione del Comitato dei nove, fatta stamani in Commissione lavoro. Le faccio una richiesta, se possibile, considerato che, d'accordo con il Vice Ministro Bellucci, già in seno al Comitato dei nove, prima (penso che possa essere tranquillamente detto da tutti e riferito da tutti), abbiamo trovato su di un'altra proposta - e mi riferisco, nello specifico, anche alle parole del collega Mari, del collega Scotto, ovvero delle persone che stamattina sono intervenute in Commissione lavoro -, voi sapete a che cosa mi riferisco, una sorta di punto di caduta rispetto al fatto che, su un'altra proposta, che non è stata fondamentalmente confermata stamattina, così come aveva fatto prima la Commissione lavoro - con il Governo presente, assolutamente, attenzione -, abbiamo rimandato quel tipo di copertura che giace e che verrà rifinanziato sulla base del cosiddetto Fondo sociale per occupazione e formazione. Quella era un'altra proposta, non quello a cui attiene quanto - giustamente, secondo me, lo dico - sollevato dalle opposizioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Per ribadire la richiesta di sospensione per una semplice ragione, interloquendo con quello che diceva il presidente Rizzetto. Noi siamo usciti dal Comitato dei nove - è vero - con un accordo su un ordine del giorno condiviso riguardante le addizionali sulla cassa integrazione per le imprese che stanno reindustrializzando e un accordo su un emendamento unitario delle Commissioni rispetto agli ammortizzatori sociali del settore moda. Non sfuggirà al presidente Rizzetto che da quell'accordo derivava anche un atteggiamento e un comportamento rispetto al resto del provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "A questo punto dovrei chiedere ai relatori il parere sulla richiesta di sospensione. Collega Bignami, è già intervenuto il collega Rizzetto sull'ordine dei lavori e, quindi, non posso far intervenire un altro del suo gruppo, com'è stato prima.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308786_19",
+      "politician_name": "CANGIANO Gerolamo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore per la VII Commissione . Grazie, Presidente. Chiediamo altri 30 minuti di sospensione (Commenti dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308786",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente Ascani. Scusate per queste interruzioni. Penso di parlare a nome delle due Commissioni riunite. Grazie al Governo, grazie all'interlocuzione avvenuta in questi minuti, grazie ai relatori e grazie anche alla pazienza, tra maggioranza e opposizione, su una proposta emendativa, laddove evidentemente non avevamo raggiunto un accordo, ossia, ricordo a me stesso, l'emendamento 2.300 dei relatori e, quindi, delle Commissioni; abbiamo trovato, in seno al Comitato dei nove, secondo me, un ottimo punto di caduta, addirittura aumentando non tanto le settimane in termini di cassa integrazione, ma aumentando e confermando la filiera, con risorse aggiuntive da parte del Governo e da parte delle casse dello Stato, con una copertura che, da 33,2 milioni, passa, per l'anno 2025, a 36,8 milioni. Quindi, abbiamo raggiunto un'intesa. Ringrazio, evidentemente, tutti. È altrettanto chiaro che, come lei mi insegna, Presidente Ascani, devo chiedere un'ulteriore sospensione di qualche minuto (Commenti) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Non attiene - collega Marattin, per suo tramite - a specifiche politiche, ma semplicemente è un rispetto del Regolamento, ossia serve che la V Commissione si riunisca, veramente per pochi secondi, per dare il via libera alla proposta su cui abbiamo trovato un accordo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che le Commissioni hanno presentato l'emendamento 2.300, che è in distribuzione, in relazione al quale risulta alla Presidenza che tutti i gruppi abbiano rinunciato alla fissazione del termine per la presentazione dei subemendamenti e sul quale la Commissione bilancio ha espresso il prescritto parere (Vedi l' allegato A ) , che è in distribuzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signora Presidente. Con questo emendamento - e anche qualcuno dei successivi a mia prima firma - interveniamo sulla questione degli alloggi universitari per gli studenti fuori sede. Intervengo su questo, ma in generale anche sui successivi, senza reintervenire dopo. Noi possiamo, a tutti gli effetti ormai, decretare - ma anche dalle parole stesse della maggioranza, della Ministra Bernini e dell' ex Ministro Fitto - che uno dei più grandi fallimenti da parte di questo Governo e questa maggioranza sulla gestione del PNRR è proprio quello legato alla creazione di nuovi alloggi; una missione che doveva essere importante, importantissima, per garantire quel che dovrebbe essere, almeno in uno Stato democratico, un diritto, ovvero quello di poter studiare indipendentemente dai soldi che si hanno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Anche noi di Alleanza Verdi e Sinistra abbiamo depositato questo emendamento per impegnare il Governo a rimpinguare il Fondo di cofinanziamento degli interventi del PNRR rivolti alla realizzazione di alloggi e residenze per studenti universitari. Fa molta specie che, nella discussione di questo provvedimento, ci sia stata, dal mio punto di vista, giustamente, grande attenzione al tentativo di finanziare gli ammortizzatori sociali per il settore della moda, ma a questa grande attenzione e al grande dibattito che è stato portato avanti è corrisposto e corrisponde, anche qui in Aula oggi, un totale disinteresse, invece, per un problema che attanaglia migliaia e migliaia di famiglie, e che sta rendendo davvero difficile la vita dei nostri studenti e delle nostre studentesse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, solo pochi minuti per illustrare il senso di questo emendamento, che è stato introdotto, tra l'altro, nel corso dell'esame in Commissione. Interviene su un tema di cui quest'Aula si è lungamente occupata, quello relativo al liceo del made in Italy e alla tutela e alla salvaguardia dell'indirizzo economico e sociale del percorso del liceo delle scienze umane. Fortunatamente, il Ministero è intervenuto correggendo un grave errore che lo stesso Ministro aveva prodotto, ovvero quello di non garantire il percorso economico e sociale del liceo delle scienze umane, che, in un primo momento, nella versione iniziale del provvedimento, era stato addirittura soppresso, mentre nel testo finale, poi, si è prevista la confluenza, senza garanzie, però, sull'organico, sui posti che sarebbero stati tutelati, di salvaguardia, di quella che è stata ed è un'esperienza scolastica importante e significativa che, tra l'altro, come dice il numero stesso delle iscrizioni, è stata confermata anche negli anni e come dice, mi pare evidente, anche il numero al contrario molto ridotto, quasi 300 alunni su scala nazionale, di iscritti al liceo del made in Italy .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). L'invarianza dell'organico, in questo senso, riuscirà a garantire davvero il percorso economico e sociale delle scienze umane? Vorremmo queste risposte da parte del Governo, che ci rassicurerebbero. Anche ammettere - nessuno vuole fare la Cassandra della situazione - che si era sbagliato a prendere la decisione che era stata assunta nel provvedimento iniziale, approvato lo scorso anno in quest'Aula, e sì, forse la scelta inerente al liceo del made in Italy non è stata propriamente felice (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento cerchiamo di far ragionare la maggioranza e il Governo, perché quello che a noi è poco chiaro è come questo Governo e questa maggioranza vogliano pensare di riformare, di sostenere, di migliorare il sistema dell'istruzione del nostro Paese, senza mai investire soldi; anzi puntando a tagliare gli investimenti, a tagliare la cosiddetta spesa, perché tutto ciò che riguarda la crescita sociale e culturale del nostro Paese viene ancora una volta interpretata come una spesa, oppure senza aumentare gli organici, quindi i docenti e il personale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signora Presidente. Non volevo intervenire, ma è doveroso perché si gioca con la vita delle persone. Parliamo del personale ATA e non è la prima volta che lo facciamo in quest'Aula, anzi è una costante. Il personale ATA - per chi non lo sa - è rappresentato dagli amministratori e dai tecnici all'interno delle scuole, così come anche i collaboratori scolastici. E qui parliamo del famoso organico aggiuntivo. Quell'organico aggiuntivo che è stato a tempo determinato inserito nelle scuole per vari motivi: prima per fronteggiare l'emergenza COVID, poi per l'attuazione dei progetti legati al PNRR e all'Agenda Sud.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questo Governo si regge su un patto tra le tre principali forze di maggioranza, che consiste nel barattare fra loro, come se fosse un mercato privato, tre riforme istituzionali e costituzionali: l'autonomia differenziata - già pesantemente affossata dalla Corte costituzionale - per la Lega, la separazione delle carriere per Forza Italia e il premierato per Fratelli d'Italia. In mezzo alle vostre bandierine politiche, però, finisce per scomparire il Parlamento, sempre più declassato a mero ratificatore delle decisioni politiche del Governo. Il quesito che poniamo è quindi il seguente: che tipo di legge elettorale ha in mente il Governo per garantire la sopravvivenza di una democrazia parlamentare (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d200012_19",
+      "politician_name": "ALBERTI CASELLATI Maria Elisabetta",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra per le Riforme istituzionali e la semplificazione normativa . Grazie, Presidente. Ringrazio gli interroganti che mi offrono l'opportunità di tornare sul punto cruciale del metodo della riforma costituzionale, ovvero il rapporto di logica consequenzialità tra forma di governo e legge elettorale. Ho più volte chiarito - e voglio qui ribadirlo - che riteniamo corretto introdurre l'esame della legge elettorale solo a seguito del consolidamento della riforma costituzionale - quindi, al termine della prima lettura da parte delle Camere - perché la legge elettorale rappresenta lo sviluppo della disciplina costituzionale. È la legge elettorale, infatti, a doversi conformare al superiore ordine normativo costituzionale, sagomandosi perfettamente su ogni sua piega e ricevendone indirizzi e limiti. Non il contrario. Solo allora il Governo potrà aprire il cantiere della legge elettorale. Sarò io stessa ad avviare questo percorso, ispirandomi al metodo, che ho fin qui seguito, di prioritario confronto con tutti i partiti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "200012",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Innanzi tutto, di fronte a questa che è stata chiamata la madre di tutte le riforme, assieme al gruppo che in questo momento rappresento, dico: si tratta di una riforma che accentra il potere; si tratta di una riforma che indebolisce la attuale figura del Presidente della Repubblica; si tratta di una riforma che sicuramente minerà la funzione centrale del Parlamento. E, quindi, il fatto che di legge elettorale si parlerà dopo, dopo la prima lettura - suppongo - della riforma stessa, mi preoccupa, perché, in realtà, proprio per questo tipo di riforma il sistema elettorale è parte integrante della riforma stessa. Voi, così facendo, avete inibito un possibile confronto con l'opposizione e andate avanti come treni, ignorando le critiche di fondo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ministro, questo è il calendario della Polizia di Stato ( La deputata Serracchiani mostra alcune fotografie tratte dal calendario promosso dal DAP ): vi sono poliziotti in ospedale con un bambino, qui abbracciano degli immigrati all'arrivo, qui ci sono i Carabinieri, sono sempre con un bambino, qui salvano un'anziana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, Presidente, grazie collega. No, la differenza non la fa il Ministro - a parte che anche nel calendario della Polizia penitenziaria vi sono rappresentazioni, per così dire, “pacifiche”, e anche negli altri calendari vi sono rappresentazioni di elementi armati -, la differenza la fa l'immagine della giustizia. La giustizia, come sapete, reca la bilancia e la spada. La bilancia senza la spada sarebbe impotente, ma la spada senza la bilancia sarebbe arbitria. Ecco, occorre coniugare entrambe le cose. La spada, oggi, è sostituita dalle armi da fuoco e non c'è nulla di strano se questo è accaduto, vista l'evoluzione tecnologica. Le armi sono elementi neutrali, sono buone nelle mani di chi vim vi repellere licet , vuole respingere la forza con la forza, sono cattive nelle mani dei rapinatori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Allora, stavo appunto concludendo, se mi è data la cortesia di concludere, che la giustizia è rappresentata - ripeto - non solo dalla bilancia e dalla spada, ma da un motto latino, che è inciso in molti palazzi di giustizia, a cominciare da quello di Parigi: “Gladius legis custos” , ossia che la spada che è custode della legge. La nostra Polizia penitenziaria, alla quale va il mio omaggio, il mio reverente ossequio (Applausi dei deputati del gruppo Fratelli d'Italia) , che lavora in condizioni, purtroppo, anche molto difficili, vista la documentata violenza che molto spesso viene esercitata nei loro confronti, ha il diritto di difendersi. Se questo viene rappresentato nel modo che oggi la tecnologia consente, gli scudi che qui dentro ci sono, e se serve, purtroppo, anche l'arma da fuoco questa è soltanto una garanzia del rispetto della legge e della nostra sicurezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308843_19",
+      "politician_name": "DI BIASE Michela",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Ministro, l'unica cosa che io non le ho sentita citare è l'articolo 27, terzo comma, della Costituzione italiana (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) ! Lei doveva partire da qui, lei doveva partire dal significato che ha la pena nel nostro Paese. Noi le chiediamo, Ministro, di ritirare immediatamente questo calendario e, visto che c'è, Ministro, faccia un favore a questo Parlamento: ritiri le deleghe al Sottosegretario Delmastro Delle Vedove (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista – Commenti di deputati del gruppo Fratelli d'Italia) ! Mi chiedo come lei non sia stremato: sono due anni Ministro che lei viene in quest'Aula a fare l'avvocato difensore del Sottosegretario, due anni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308843",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Parto dal significato della giustizia, che la collega Di Biase ha appena citato. Quest'anno, il 2024, non è ancora finito, ma sarà sicuramente un anno record e non è il record dell'orgoglio italiano. Sono 86 le persone che si sono tolte la vita dentro le carceri italiane, un record mai visto, ha superato addirittura gli 85 del 2022; sono 7 gli agenti di Polizia penitenziaria che si sono tolti la vita; c'è il record assoluto di detenuti minorenni nelle carceri italiane e due terzi dei reati commessi fuori dal carcere sono commessi da coloro che in carcere ci sono già stati. È un totale fallimento del nostro sistema giudiziario e, evidentemente, è anche un totale fallimento di quel decreto Carceri che ci avete propinato come la soluzione di questi problemi e che non solo non ha risolto nulla, ma ha anche, in qualche modo, peggiorato le cose. Ministro, le chiediamo quando ha intenzione di prendere in mano questo problema che sappiamo le è caro, ma evidentemente ancora non abbiamo trovato le soluzioni per risolverlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, Presidente. Grazie, collega. Purtroppo, ancora una volta, rispondiamo a una situazione che si è posta nella sua gravità maggiore durante il periodo estivo, quando le proiezioni lasciavano supporre addirittura il superamento della soglia del centinaio di suicidi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Ministro, non possiamo che condividere con lei il dolore e anche la responsabilità, ma sono due le responsabilità. La prima è etica, perché la maggior parte di chi si toglie la vita aveva meno di 30 anni, perché tanti lo fanno nei primi 30 giorni dall'ingresso in carcere, altri addirittura lo fanno a poche settimane dall'uscita, per la paura di quello che li aspetta fuori. Non è vero che sono tutti colpevoli: un terzo di chi si suicida è in attesa di giudizio, e questo è un grosso problema che non possiamo non avere sulle nostre coscienze, nella consapevolezza che molti di loro potrebbero essere innocenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministro, le faccio 3 nomi: Raffaele Galatolo, detto lo strangolatore dell'Acquasanta: da articoli di stampa apprendiamo che oggi, grazie alla vostra legge sull'ergastolo ostativo, gode della semilibertà e di permessi premio; Giovanni Formoso, colui che caricò l'autobomba della strage di via Palestro: da articoli di stampa apprendiamo che oggi, grazie alla vostra legge sull'ergastolo ostativo, gode della semilibertà; Paolo Alfano, uno dei killer più fidati e spietati della famiglia di Corso dei Mille: da articoli di stampa apprendiamo che oggi, grazie alla vostra legge sull'ergastolo ostativo, gode della semilibertà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie. Di tutte le cose che mi sorprendono, vi è l'accusa a questo Governo di avere ceduto sull'ergastolo ostativo. Tutti ricorderete che abbiamo esordito, un paio d'anni fa, proprio tenendo fermissima la barra dritta, il timone, per quanto riguardava il caso Cospito sull'ergastolo ostativo. Per quanto risulta dalle informazioni del Dipartimento dell'amministrazione penitenziaria, i detenuti cui fate riferimento risultano tutti e tre beneficiare del regime di semilibertà dagli anni 2018 e 2019, e, quindi, da epoca ben precedente alla novella attuata da questo Governo con il decreto-legge n. 162 del 2022.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Ministro, non ci sembra per nulla soddisfacente quello che lei ha detto perché non ha considerato l'elemento fondamentale, cioè la legge che avete adottato è una legge che non rispetta i parametri che sarebbero invece necessari perché il mafioso, prima di uscire, sia effettivamente controllato come soggetto non più mafioso, e questo lo sarebbe stato soltanto inserendo determinati elementi, e, in particolare, l'elemento più significativo: il compiuto ravvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Signor Ministro Lollobrigida, un annetto fa - qualche giorno in meno - eravamo qui a discutere del suo disegno di legge, così fortemente voluto, per vietare la produzione e commercializzazione della cosiddetta carne coltivata e per vietare le denominazioni meat sounding ; per chi ci ascoltasse da casa: la bistecca di soia; avete vietato che la bistecca di soia si possa chiamare bistecca. Vi avevamo avvertito, è una legge antiscientifica, antitaliana e antieuropea. Vi avevamo detto che non avrebbe retto a giudizio delle Corti europee, e cos'è successo? Che su un'identica legge francese, che lei richiamava - ma come, lo fanno i francesi! - la Corte di giustizia ha detto che il divieto di meat sounding è illegittimo; e la Commissione, di fronte all'Ungheria, che ha fatto la stessa legge per vietare la carne coltivata, ma seguendo le procedure corrette - non quelle del Governo italiano -, ha presentato il testo prima e gli hanno detto che è un testo illegittimo, perché non si può vietare la cosiddetta carne coltivata. Cosa farete per evitare un danno alla ricerca scientifica, un danno ai settori economici e un danno ai contribuenti europei? Perché così andremo, anzi, andrete incontro alle sanzioni europee.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307463_19",
+      "politician_name": "LOLLOBRIGIDA Francesco",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Agricoltura, della sovranità alimentare e delle foreste . Grazie, Presidente. Onorevole Della Vedova, la voglio rassicurare, intanto, rispetto alla sua interrogazione, perché l'Italia non è esposta in alcun modo al rischio di procedure di infrazione né per la disposizione che stabilisce il divieto di produzione, commercializzazione e importazione della cosiddetta carne sintetica, coltivata - la chiami come vuole, ma ci siamo capiti perfettamente -, né per quella che pone il divieto di utilizzo di denominazione meat sounding per gli alimenti di origine vegetale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307463",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Signor Ministro, io non sono soddisfatto, nonostante lei mi abbia dato ragione. Rilegga il suo speech , la legge era sbagliata e contraria al diritto europeo. Dovete cambiarla, io vi suggerisco di ritirarla, che è meglio. Per quanto riguarda la pronuncia sul caso ungherese, si dice che il divieto è ingiustificato; quindi, non ce n'è, sia sul meat sounding sia sul divieto assoluto e universale che voi volete introdurre sulla carne coltivata siamo fuori strada. Poi, certo, se riscrivete la legge, riproporremo gli stessi temi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Se quel settore dovesse essere un settore promettente, caro signor Ministro, lei avrà sulla coscienza che un pezzo di economia, che avrà successo in Europa, voi lo vietate in Italia. Avete sempre bisogno del capro espiatorio: chi produce carne è un buono, chi produce alternativa alle carne, proteine - che potrebbero essere magari non consumate in Italia ma esportate in giro per il mondo, di qualità - è un cattivo; i taxi sono buoni, gli NCC cattivi, ma questa è una visione antiscientifica e reazionaria. Ministro, ritiri quella legge, consenta in Italia, come fanno in altri Paesi europei, le aziende che vogliono sperimentare, magari, oppure no, ma non lo decideremo né io, né lei. Lo deciderà l'EFSA, l'Autorità europea per la sicurezza alimentare che sta Parma, se quei prodotti sono nocivi oppure no, non lo decideremo noi. Tuttavia, consenta a queste imprese, a questo pezzo di economia in embrione, di crescere anche in Italia. Evitate questo divieto, che non ha senso, è antiscientifico, antieuropeo e anti-italiano (Applausi dei deputati del gruppo Misto-+Europa e di deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d306158_19",
+      "politician_name": "CASTIGLIONE Giuseppe",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente, grazie, signor Ministro, grazie anche per la immediata disponibilità che ha dato nel rispondere a questa interrogazione. Essa nasce da una trasmissione televisiva di qualche giorno fa, Mi manda Raitre , dove addirittura si ironizzava sulla città di Bronte, una cittadina di mille abitanti, e sulla quantità e qualità dei pistacchi che, a detta del conduttore, quasi non esistono più.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "306158",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307463_19",
+      "politician_name": "LOLLOBRIGIDA Francesco",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Agricoltura, della sovranità alimentare e delle foreste . Grazie ancora, Presidente. Grazie, onorevole Castiglione, perché sollecita uno degli obiettivi principali del Ministero, che è proprio quello di tutelare l'origine dei prodotti, per difendere e promuovere le nostre produzioni agroalimentari, che hanno un valore importante, come lei ricordava.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307463",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d306158_19",
+      "politician_name": "CASTIGLIONE Giuseppe",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor Ministro, la ringrazio per la risposta che è stata molto esauriente sul versante dei controlli e, soprattutto, per la rete dei controlli che è stata messa in campo per tutelare l'origine delle nostre produzioni agroalimentari e dei nostri prodotti e, soprattutto, per il prestigio delle nostre aziende ed eccellenze agroalimentari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "306158",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Signor Ministro, i contratti di filiera sono strumenti importantissimi per promuovere aggregazione delle imprese e innovazione, sempre che non si scontrino con la burocrazia, con l'opacità e con la non trasparenza. Ci sono 690 milioni del 2022, del quinto bando, che sono bloccati da oltre 60 ricorsi al TAR. Oggi ci sono 2 miliardi in più che consentirebbero di far scorrere le graduatorie. E oggi le voglio chiedere, in quest'Aula, se si sente formalmente di dare piena garanzia rispetto all'equità dello scorrimento della graduatoria e, quindi, all'effettiva erogazione delle risorse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307463_19",
+      "politician_name": "LOLLOBRIGIDA Francesco",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Agricoltura, della sovranità alimentare e delle foreste . Ringrazio l'onorevole Gadda perché mi permette di fare il punto sullo stato di attuazione della misura dei contratti di filiera del settore agroalimentare, condividendo come strategico il sostegno alle filiere anche per il contrasto alla disarmonia che nel mercato porta a redditi più bassi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307463",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, signor Ministro. Io apprezzo lo sforzo ma non sono soddisfatta e soprattutto non saranno soddisfatte le imprese, molte delle quali non ritireranno i ricorsi al TAR perché, come ha detto lei stesso, voi avete cambiato in corso lo schema di gioco, perché passare dal Piano nazionale complementare al Piano nazionale di ripresa e resilienza cambia eccome i requisiti, perché l'ha detto lei stesso e se guardiamo i requisiti, così come sono stabiliti oggi - ad oggi e poi magari tra dieci anni ne discuteremo -, gli essiccatori vanno a gas, le macchine trebbiatrici vanno con il carburante e, quindi, gran parte degli investimenti e dei progetti che le imprese hanno costruito non saranno accessibili.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d308761_19",
+      "politician_name": "PISANO Calogero",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Signor Ministro, l'articolo 33 della nostra Costituzione afferma che il lavoratore ha diritto a una retribuzione equa. Come sappiamo, il settore agricolo europeo vede da anni un drastico calo delle aziende attive, dei margini di guadagno e delle retribuzioni. Per questo assistiamo a numerose proteste degli agricoltori, che chiedono alle istituzioni europee e nazionali un sostegno reale. Il 4 settembre la Presidente della Commissione europea, Ursula von der Leyen, ha presentato un rapporto finale sul dialogo strategico per il futuro dell'agricoltura europea, per affrontare le sfide del settore. Ieri, inoltre, ha annunciato la presentazione di due iniziative legislative per tutelare il reddito degli agricoltori e proteggere i margini di guadagno. Le chiediamo, pertanto, quali iniziative intenda adottare per tutelare la posizione degli agricoltori italiani e rafforzare il mercato unico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "308761",
+        "seduta": 397
+      }
+    },
+    {
+      "politician_id": "camera_d307463_19",
+      "politician_name": "LOLLOBRIGIDA Francesco",
+      "date": "2024-12-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Agricoltura, della sovranità alimentare e delle foreste . Ringrazio l'onorevole Pisano, che mi offre la possibilità di affrontare oggi una tematica prioritaria per il Governo Meloni. Sin dal nostro insediamento, ci siamo impegnati per ridare all'imprenditore agricolo la centralità che gli spetta nel sistema economico e sociale della nostra Nazione e per assicurare l'equa distribuzione del valore all'interno della filiera agroalimentare. Solo un'adeguata remunerazione dei fattori della produzione nel settore agricolo assicura, infatti, un adeguato reddito ai produttori e ai lavoratori e previene, allo stesso tempo, l'insorgere di comportamenti illegali. Siamo stati tra i primi a raccogliere le istanze del mondo agricolo e ad avviare un percorso di riforma della Politica agricola comune, al fine di ricondurla agli obiettivi originari dei Trattati, ossia un adeguato sostegno al reddito e la garanzia di approvvigionamento di alimenti sicuri a prezzi accessibili e di tutela dell'ambiente, i cui veri custodi restano gli agricoltori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0397",
+      "metadata": {
+        "id_persona": "307463",
+        "seduta": 397
+      }
+    }
+  ]
+}

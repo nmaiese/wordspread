@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0530",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-09-15",
+    "title": "Assemblea — Seduta n. 530 del 2025-09-15",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0530",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 530
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-09-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 75, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0530",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 530
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2025-09-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice . Grazie, Presidente. Onorevoli colleghi, oggi siamo chiamati a discutere su una proposta che non riguarda soltanto il calendario delle festività civili, ma tocca l'identità profonda della nostra Nazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0530",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 530
+      }
+    },
+    {
+      "politician_id": "camera_d308859_19",
+      "politician_name": "MURA Francesco",
+      "date": "2025-09-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Onorevoli colleghi, signor Sottosegretario, come puntualmente descritto ed esposto dalla relatrice, che ringrazio per il lavoro svolto su questa proposta di legge, oggi siamo chiamati a discutere una proposta di legge semplice nella forma, ma di grande rilievo nel merito: l'istituzione della festa nazionale di San Francesco d'Assisi, da celebrarsi il 4 ottobre.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0530",
+      "metadata": {
+        "id_persona": "308859",
+        "seduta": 530
+      }
+    },
+    {
+      "politician_id": "camera_d308849_19",
+      "politician_name": "AMATO Gaetano",
+      "date": "2025-09-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Innanzitutto, ringrazio il sottosegretario Mazzi, perché, anche se io e lei non ci troviamo d'accordo su nessun argomento, lei ci mette sempre la faccia ed è sempre presente. Questo va a suo merito, sicuramente. Dunque, Presidente, ci troviamo a discutere di una mozione che si è rivelata necessaria per il coma profondo in cui è sprofondato, appunto, il cinema italiano. È un coma dovuto, devo dirlo chiaramente, alla cattiva gestione che questo Governo ha fatto. Innanzitutto, devo ricordare a chi ci ascolta e ai colleghi tutti che è da ben 5 anni che il cinema italiano è sotto la guida della Sottosegretaria Borgonzoni, da ben prima di questo Governo, e nel corso di questi 5 anni abbiamo visto fare ben poco per rispondere alle reali esigenze del comparto artistico cinematografico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0530",
+      "metadata": {
+        "id_persona": "308849",
+        "seduta": 530
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2025-09-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe, onorevoli colleghi, rappresentante del Governo, noi, come Partito Democratico, nelle Commissioni competenti della Camera e del Senato, chiediamo da oltre un anno di parlamentarizzare quello che è un dibattito che interessa il Paese: quello sulla crisi che sta vivendo il cinema italiano e sulle conseguenze di questa crisi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0530",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 530
+      }
+    },
+    {
+      "politician_id": "camera_d308786_19",
+      "politician_name": "CANGIANO Gerolamo",
+      "date": "2025-09-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Prima di iniziare, consentitemi di portare il nostro augurio a tutti gli studenti che in Italia oggi riprendono l'anno scolastico, che rientrano nelle nostre scuole (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0530",
+      "metadata": {
+        "id_persona": "308786",
+        "seduta": 530
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2025-09-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. L'Italia vanta una tradizione cinematografica e audiovisiva universalmente riconosciuta, che costituisce parte integrante del patrimonio culturale nazionale e, come tale, è tutelata dall'articolo 9 della Costituzione quale espressione dell'identità della Repubblica e della sua funzione di promozione e salvaguardia della cultura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0530",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 530
+      }
+    }
+  ]
+}

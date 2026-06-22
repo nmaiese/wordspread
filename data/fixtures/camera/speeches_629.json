@@ -1,0 +1,201 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0629",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-03-09",
+    "title": "Assemblea — Seduta n. 629 del 2026-03-09",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 629
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 78, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge costituzionale, già approvato, in prima deliberazione, dalla Camera e approvato, senza modificazioni, in prima deliberazione, dal Senato n. 2473-B: Modifiche allo statuto speciale per il Trentino-Alto Adige/Südtirol.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d308862_19",
+      "politician_name": "URZI' Alessandro",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . La ringrazio, Presidente. Onorevoli colleghi, l'Assemblea avvia oggi, in vista della seconda deliberazione, l'esame del disegno di legge costituzionale che reca modifiche allo statuto speciale per il Trentino-Alto Adige, già approvato dalla Camera il 7 ottobre 2025 e, in identico testo, dal Senato il 21 gennaio scorso. Si è perfezionata così la prima deliberazione delle due previste dall'articolo 138 della Costituzione per le leggi costituzionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "308862",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d32530_19",
+      "politician_name": "CALDEROLI Roberto",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per gli Affari regionali e le autonomie . Grazie, Presidente. Ringrazio il relatore Urzi', che ha rappresentato puntualmente tutti i contenuti. Volevo fare una piccola cronistoria di questa riforma. Nasce da un incontro del sottoscritto e della Presidente Meloni al Festival delle regioni nel dicembre 2022, laddove il Presidente Kompatscher, a nome di tutti i presidenti delle regioni e delle province autonome presenti all'incontro, presentò una loro proposta di revisione dei rispettivi statuti, un'unica proposta che trovò poi recepimento nelle dichiarazioni programmatiche della Presidente Meloni, che tuttavia il Governo preferì individuare in singole riforme per le singole specialità. Credo che questo corrisponda ampiamente proprio alle specificità di queste regioni e province a statuto speciale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "32530",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione delle mozioni Conte ed altri n. 1-00553 e Zanella ed altri n. 1-00554 concernenti iniziative volte alla celere riduzione delle liste di attesa nell'ambito del Servizio sanitario nazionale (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. La questione sanitaria è una questione di classe ormai, purtroppo. Per curarsi occorre la tessera sanitaria oppure occorre la carta di credito? Considerando che 6 milioni di cittadini rinunciano alle cure per le liste d'attesa o per risorse economiche assenti, direi che a questo punto ci vuole proprio la carta di credito e non la tessera sanitaria per curarsi. Si chiama “classismo”. Del resto, classista è la politica di questo Governo su tasse, sugli extraprofitti, sul contrasto alla povertà, sui salari da fame, sull'orario di lavoro, sugli armamenti, sulle politiche sociali e sul welfare , sulle politiche abitative, sull'ambiente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Comincio con l'affermare, anche con grande dispiacere se vogliamo, proprio per i motivi che sono stati or ora spiegati in maniera molto dettagliata dal collega che mi ha preceduta, che questo decreto, su cui il Governo aveva fatto molto affidamento per risolvere il problema delle liste d'attesa, il decreto-legge n. 73 del 2024, non è stato, di fatto, attuato: la relativa Piattaforma nazionale non è trasparente ed è di scarsa utilità per i pazienti. Insomma, certifica uno dei più grandi fallimenti di questo Governo e delle sue politiche sociali e sanitarie. Per cui, è indispensabile porvi rimedio con un intervento strutturale e coordinato; che garantisca cosa? Il diritto alla salute e la sostenibilità del sistema sanitario nazionale - che vuol dire investire di più e dare risposte alle tante attese disattese - nonché la riduzione delle diseguaglianze di accesso che sono ancora troppo - troppo - accentuate sul nostro territorio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Onorevoli colleghe, onorevoli colleghi, rappresentanti del Governo, intervengo oggi in Aula per affrontare una questione che riguarda milioni di cittadini italiani e che tocca uno dei pilastri fondamentali del nostro Stato sociale: il futuro del Servizio sanitario nazionale e il problema, sempre più grave, delle liste d'attesa. Il nostro punto di partenza non può che essere la Costituzione. L'articolo 32 della Costituzione stabilisce con chiarezza che “La Repubblica tutela la salute come fondamentale diritto dell'individuo e interesse della collettività, e garantisce cure gratuite agli indigenti”. Non si tratta di una semplice dichiarazione di principio, è un impegno preciso dello Stato. A questo si affianca l'articolo 3 della Costituzione, che impone alla Repubblica di rimuovere gli ostacoli di ordine economico e sociale che limitano l'uguaglianza dei cittadini. Tra questi ostacoli rientra, senza dubbio, anche la difficoltà di accedere in tempi adeguati alle necessarie prestazioni sanitarie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …è una questione di giustizia sociale, è un diritto costituzionale e, come tale, deve essere garantito a tutti. Uno Stato che non garantisce davvero a tutti questo diritto rischia di indebolire uno dei fondamenti della propria democrazia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Grazie, Presidente. Io ringrazio i colleghi parlamentari per il livello del dibattito. Mi permetto di palesare qualche dubbio rispetto agli interventi che ho ascoltato, che - vivaddio - sono il sale della democrazia e costituiscono le differenti posizioni che dobbiamo avere, però, voglio ricordare a me stesso, prima che all'Aula e ai colleghi, che una mozione è un atto di indirizzo al Governo. Come tale, sono contento del fatto che possano venire dei suggerimenti da parte dei gruppi parlamentari a migliorare le performance del nostro sistema sanitario nazionale con particolare riferimento alle liste d'attesa, alla sanità territoriale, però, a mio avviso - e questo è un richiamo che faccio sempre e che non mi stancherò mai di fare - vorrei che, in tema di sanità, non vi fosse speculazione politica o, peggio ancora, partitica, e che, invece, tutti quanti insieme contribuissimo alla validazione dell'articolo 32 della nostra Costituzione e, quindi, allo straordinario universalismo del nostro sistema sanitario nazionale pubblico che, voglio ricordare a tutti quanti, ancora oggi viene quotato fra i primissimi sistemi sanitari nazionali pubblici al mondo. È un dato questo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d308922_19",
+      "politician_name": "MILANI Massimo",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. Onorevoli colleghi, la proposta di legge all'esame dell'Assemblea reca disposizioni per l'istituzione della Giornata nazionale del riciclo della carta, con l'obiettivo di promuovere la cultura della sostenibilità ambientale e di accrescere la consapevolezza dell'importanza del riciclo della carta, contribuendo alla riduzione dell'impatto ambientale e alla conservazione delle risorse naturali. L'Italia vanta uno dei più alti tassi di raccolta e di riciclo della carta in Europa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "308922",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Molto brevemente, Presidente, la ringrazio. Io volevo soltanto aggiungere alcune considerazioni rispetto a quanto introdotto dal relatore sulla legge che oggi ci apprestiamo a discutere. Come rappresentanti del Ministero dell'Ambiente abbiamo guardato sicuramente con estremo favore a questa proposta di legge, perché si inserisce in un contesto generale di economia circolare - lo ha già detto anche lei, relatore - nel quale il nostro Paese è considerato tra i più virtuosi, ma soprattutto in un contesto di educazione ambientale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Governo, colleghi, io inizio con il dire che il nostro voto sarà di astensione, e vi dico i motivi. Astensione perché ci fa piacere che anche dalla maggioranza si ha questa sensibilità, e quindi si ritiene che la transizione ecologica sia qualcosa di reale e non sia nulla di ideologico. Perché, appunto, questa Giornata sul riciclo della carta personalmente ritengo che sia positiva, perché si inizia a parlare di riciclo, si inizia a parlare delle tre “R”, e finalmente, magari, abbiamo abbandonato quei concetti che a volte sento ancora dalla maggioranza, ossia che prima viene il modello economico e la sostenibilità economica, ma non riusciamo ancora a capire che la sostenibilità economica è collegata a quella ambientale e a quella sociale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 629
+      }
+    },
+    {
+      "politician_id": "camera_d308762_19",
+      "politician_name": "BENVENUTI GOSTOLI Stefano Maria",
+      "date": "2026-03-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie mille, Presidente. Onorevoli colleghi, la proposta di legge oggi all'esame dell'Assemblea reca l'istituzione della Giornata nazionale del riciclo della carta, che è individuata nella data del 18 settembre. Si tratta di un intervento normativo di struttura molto semplice, composto solamente da 3 articoli, ma che assume un significato rilevante sotto il profilo educativo, culturale ed ambientale, inserendosi nel quadro delle politiche di promozione della sostenibilità e dell'economia circolare, come ci ha già illustrato il relatore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0629",
+      "metadata": {
+        "id_persona": "308762",
+        "seduta": 629
+      }
+    }
+  ]
+}

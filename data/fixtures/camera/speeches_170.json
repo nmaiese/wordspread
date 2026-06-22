@@ -1,0 +1,604 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0170",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-10-03",
+    "title": "Assemblea — Seduta n. 170 del 2023-10-03",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 170
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 81, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307622_19",
+      "politician_name": "LOCATELLI Alessandra",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra per le Disabilità . Grazie Presidente, e grazie all'onorevole Simiani e a tutti gli altri interroganti, perché questa interrogazione ci dà modo di trattare alcuni temi importanti, quali la legge n. 112 del 2016 sul “Dopo di noi” e il “Progetto di vita”, che mi stanno particolarmente a cuore e che sono anche stati trattati nel corso di EXPO AID, di questa grande prima edizione a livello nazionale dedicata alle persone con disabilità che si è svolta di recente a Rimini, dove ho potuto anche rincontrare Elena Improta, con la quale abbiamo un rapporto di amicizia che stiamo continuando a coltivare anche in questo periodo. L'interrogazione descrive nel dettaglio la vicenda di Elena Improta, di suo figlio Mario Mazzarino e della sua famiglia. “La casa di Mario” è un progetto dell'associazione Oltre lo sguardo Aps, un luogo di accoglienza e di condivisione, un luogo sicuro e familiare, nel quale i ragazzi possono esprimersi vivendo come a casa loro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307622",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie Presidente. Grazie Ministro per questa sua riflessione. La storia di Elena Improta ha toccato tutti profondamente, non solo a livello politico nazionale, ma anche sul territorio. È una storia che noi abbiamo vissuto personalmente, giorno dopo giorno, che ha visto la creazione de “La casa di Mario”; la capacità di creare, insieme alla sua famiglia e insieme anche ai ragazzi che sono stati accolti attraverso un progetto di cohousing , un progetto volto a sviluppare soprattutto la legge del “dopo di noi”, facendola diventare anche del “durante”. Credo che questo sia un fatto eccezionale che dobbiamo assolutamente supportare in maniera trasversale. L'obiettivo di quest'Aula credo sia quello di tutelare chi oggi veramente ha bisogno, anche e soprattutto nell'ambito delle disabilità. Questo è un progetto da prendere ad esempio a livello nazionale perché riesce ad includere e soprattutto a sostenere, nella vita di tutti i giorni, anche nei piccoli particolari, le persone con difficoltà motorie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307426_19",
+      "politician_name": "BELLUCCI Maria Teresa",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministra del Lavoro e delle politiche sociali . Grazie, Presidente. Ringrazio l'onorevole interrogante che chiede informazioni circa l'attuazione del reddito alimentare, introdotto dal Governo con la legge di bilancio 2023, con la quale è stato costituito il fondo per la sperimentazione di questa nuova misura, con una dotazione di 1,5 milioni di euro proprio per l'anno 2023, innalzata di 2 milioni per gli anni a decorrere dal 2024.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307426",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ringrazio la Vice Ministra per la risposta che, in realtà, ha fornito informazioni già note a tutti noi, tramite anche i tanti canali di comunicazione e tramite la stampa. Ha ripetuto più volte che saranno veloci, che agiranno in tempi brevi, consapevoli dell'emergenza, che faranno presto: in realtà, parliamo di un decreto attuativo che doveva essere deliberato entro 60 giorni, previsti dalla legge, ma così non è stato. Quindi, tutta questa velocità e tutta questa consapevolezza sull'urgenza delle persone che, in questo momento, stanno soffrendo per una crisi economica e sociale che ha pochi precedenti, per il caro energia, per l'inflazione, per l'aumento delle disuguaglianze, penso che siano sintomatiche del lavoro che sta facendo questo Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307479_19",
+      "politician_name": "DELMASTRO DELLE VEDOVE Andrea",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Giustizia . Grazie, Presidente. In merito a quanto segnalato dall'onorevole interrogante, si rappresenta che la questione trae origine dalle vicende giudiziarie instauratesi a seguito dell'emanazione del DPCM 10 agosto 2016 e del suo successivo annullamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307479",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sottosegretario, la ringrazio per questa risposta, perché praticamente ci state dicendo che, quindi, un Piano c'è e si sta portando avanti, c'è una strategia di azione, perché quello che chiediamo è che sia quantificata, dal punto di vista stechiometrico, qual è l'esigenza sul territorio della parte, dobbiamo ricordarlo, di residuo. Questo Piano dovrebbe prevedere, prima di tutto, un'economia circolare: cerchiamo veramente di recuperare tutto quello che c'è, perché le materie prime sono necessarie, abbiamo prezzi elevati delle materie prime, abbiamo rifiuti che possono diventare materie prime e l'Italia la prima cosa che deve fare - e fortunatamente abbiamo imprese che lo stanno facendo, in Italia - è riciclare il più possibile quello che abbiamo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La illustro. Presidente, onorevoli colleghi, rappresentante del Governo, le norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della legge n. 354 del 26 luglio 1975 recitano, al primo comma dell'articolo 1: “Il trattamento penitenziario deve essere conforme a umanità e deve assicurare il rispetto della dignità delle persone”. È per questo che, nel maggio scorso, abbiamo depositato, con alcuni colleghi, che ringrazio, un'interpellanza che ci è sembrata necessaria ai fini di un chiarimento sulla situazione che si viveva e che si vive, ahimè, ancora, nelle carceri italiane, relativamente alle telefonate e alle norme a esse collegate. Il carcere, infatti, è un piccolo mondo, una parte di città, abitata da cittadini che hanno compiuto reati, ma che rimangono sempre persone e cittadini e, con loro, tutte le persone che si occupano per lavoro di questi luoghi: la Polizia penitenziaria, chi lavora nell'amministrazione penitenziaria, i servizi sociali, il personale medico e infermieristico, i volontari. È tutto un unico mondo ed è sciocco pensare al carcere come a qualcosa di estraneo alla città e alla vita comune. Non per nulla, infatti, il 15 febbraio 2023, è stato lanciato un appello dal titolo eloquente: “Quelle telefonate che ti riattaccano alla vita”, sottoscritto dalla Conferenza nazionale volontariato giustizia, da Ristretti Orizzonti, dall'associazione Sbarre di zucchero; una lettera aperta ai direttori degli istituti penitenziari, un appello che, in pochi giorni, ha ottenuto centinaia di firme di singoli e di associazioni, una campagna volta a consentire ai detenuti ristretti nelle carceri italiane di poter continuare ad avere contatti a distanza tramite videochiamate e telefonate con i propri affetti. Si è resa necessaria questa mobilitazione, perché dal febbraio 2023, non essendo state prorogate, né messe a regime le norme in materia di corrispondenza telefonica delle persone detenute, previste durante l'emergenza legata al COVID-19, di fatto, pare sia tornata una stretta sulle chiamate all'esterno. Attualmente, infatti, in molte carceri si è tornati alla disciplina precedente a quella del COVID-19 e ciò di cui soffre maggiormente la popolazione detenuta sono le limitazioni alle telefonate con i familiari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307479_19",
+      "politician_name": "DELMASTRO DELLE VEDOVE Andrea",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Giustizia . Grazie, Presidente. Con l'atto di sindacato ispettivo in oggetto, gli onorevoli interroganti avanzano quesiti in ordine alla possibilità di ripristinare le disposizioni in materia di colloqui telefonici in vigore nel corso della pandemia, sorte per affrontare la pandemia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307479",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Grazie, Sottosegretario. Purtroppo speravo in qualcosa di più, nel senso che le parole del Ministro, in questi mesi, a maggio e ad agosto, e soprattutto l'attualità drammatica delle nostre carceri mi facevano auspicare che questa scelta di venire a rispondere ora a un'interpellanza di maggio fosse per darci notizie migliori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente, la illustro. Si tratta di una vicenda che ha colpito e sta tuttora colpendo molte famiglie soprattutto dell'Italia del Nord, in particolare nella regione Veneto, nella regione Friuli-Venezia Giulia e in Lombardia. Si tratta di una vicenda che è avvenuta tra il 2020 e il 2022, che ha avuto a oggetto i lavori di efficientamento energetico dentro il sistema del superbonus 110 per cento, fatti dal general contractor , un general contractor di Treviso chiamato Gruppo Zero.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307479_19",
+      "politician_name": "DELMASTRO DELLE VEDOVE Andrea",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Giustizia . Chiedo scusa all'onorevole interpellante se, a fronte delle diverse suggestioni anche su un tema spinoso, che trae origine occasionalmente in questo caso da una denuncia nota, e che però coinvolge il più grande tema delle truffe relative ai crediti fiscali, non potrò rispondere nel dettaglio ad ogni domanda, perché contenuto dalle camicie di Nesso della formulazione del quesito esatto da parte dell'onorevole interpellante. La vicenda tratteggiata nell'atto di sindacato ispettivo è nota. Confermo che vi sono state decine e decine di denunce, anzi, confermo che sono 420 le denunce che a noi constano esserci, presentate presso la procura di Treviso, nei confronti del consorzio, complessivamente inteso come Casa Zero. Vi è da dire che è nato un procedimento penale, il n. 3038 del 2022, che si è in particolar modo concentrato sui controlli della Guardia di finanza nei confronti del predetto consorzio. Dai suddetti controlli sarebbero emerse - è d'obbligo il condizionale - gravi irregolarità correlate alle agevolazioni fiscali previste dalla normativa finalizzata a favorire le ristrutturazioni edilizie, nonché la riqualificazione energetica degli immobili, confermando quindi quanto ha detto l'onorevole interpellante in premessa della interpellanza. È bene precisare, anche a vantaggio dei cittadini, ma in particolar modo delle asserite persone offese, che sono stati sottoposti a coercizione reale crediti fiscali per un importo pari a 6.900.000 euro, somme di denaro per un importo pari a un 1.440.000 euro e 2 immobili. All'inizio del mese di settembre dell'anno 2023 la Guardia di finanza di Treviso ha depositato le annotazioni conclusive delle indagini, questo per dare quello che si può dare in ordine alla tempistica presunta e presumibile. Ha però successivamente depositato ulteriori 2 annotazioni, con le quali sono stati trasmessi ulteriori 52 verbali di denunce e querele, corredati da numerosissimi e nutriti verbali di sommarie informazioni relative a queste ulteriori 52 denunce e querele. Le attività d'indagine possono comunque ritenersi a questo punto e fortunatamente sostanzialmente concluse, e si prevede, è verosimile attendersi, che entro il prossimo mese di novembre potrà essere emesso l'avviso di conclusione delle indagini ai sensi dell'articolo 415- bis del codice di procedura penale. Questo per quanto riguarda la vicenda da cui trae origine la richiesta dell'onorevole interpellante in ordine alle scoperture delle piante organiche, sia amministrative sia giudiziarie, del territorio di Treviso. È bene premettere, in una risposta complessivamente articolata alle domande fornite, quanto al personale amministrativo, che la scopertura nazionale è attualmente del 21,83 per cento. Per fare fronte a questa scopertura, questo Dicastero ha avviato, onestamente sin dall'anno 2020, quindi non assumendoci meriti che non abbiamo, se non pro quota , un imponente reclutamento, con l'assunzione di 8.607 risorse umane nell'intero territorio nazionale. Quantificazione che fortunatamente può dirsi per approssimazione, in quanto difetta delle assunzioni concernenti gli addetti dell'ufficio per il processo e il personale a supporto dell'ufficio del processo, perché, se si tenesse conto anche di queste unità, dovrebbero essere aggiunte in verità alle 8.607 prima indicate altre 11.427 unità relative agli addetti del processo e al personale a supporto dell'ufficio del processo, giungendo così complessivamente dal 2020 ad oggi a 20.034 assunzioni per quanto riguarda il piano nazionale sotto il profilo del personale amministrativo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307479",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Partiamo dal presupposto che la vicenda è nota ed è nota già da parecchio tempo. Peraltro, faccio notare anche che l'attività d'indagine, che - ripeto - è un'attività corposa, complicata e investe davvero molte situazioni diverse, ha avuto una durata anche superiore all'anno, il che mi farebbe pensare che, qualora venisse approvato il testo - non ho ancora fatto i conti - appena proposto in Commissione giustizia sulla prescrizione, non si sa che fine faranno questi processi. E non so se la prenderanno bene in Veneto, in Friuli-Venezia Giulia e in Lombardia tutti quei cittadini che, invece, speravano - e sperano - in un intervento rapido, di fronte a una situazione conclamata come questa, che lei, Sottosegretario – per il suo tramite, Presidente -, ricordava essere una vicenda eccezionale, che richiede un'attenzione evidentemente straordinaria. Serve un'attenzione straordinaria anche perché sono coinvolte veramente tantissime famiglie e anche il montante - diciamo così - oggetto di questa situazione è particolarmente importante, trattandosi di una vicenda sulla quale si innestano anche situazioni familiari particolarmente delicate. Quindi, un'attenzione va sicuramente data a chi tra queste famiglie ha una situazione di fragilità più evidente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge, già approvato dal Senato, n. 1436: Conversione in legge, con modificazioni, del decreto-legge 10 agosto 2023, n. 104, recante disposizioni urgenti a tutela degli utenti, in materia di attività economiche e finanziarie e investimenti strategici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307340_19",
+      "politician_name": "LUCASELLI Ylenja",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie Presidente. Colleghi, l'Assemblea è chiamata oggi a esaminare il disegno di legge di conversione del decreto-legge 10 agosto 2023, n. 104, recante disposizioni urgenti a tutela degli utenti, in materia di attività economiche e finanziarie e investimenti strategici, approvato dal Senato della Repubblica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307340",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Onorevoli colleghe e colleghi, consentitemi di iniziare il mio intervento ricordando che oggi è il 3 ottobre, la giornata nazionale in memoria delle vittime dell'immigrazione. Sono passati 10 anni dal tremendo naufragio in cui persero la vita 368 migranti, quasi tutti eritrei, al largo di Lampedusa. Era il 3 ottobre 2013 e in quella giornata venne proclamato il lutto nazionale. Da allora, la gestione del fenomeno migratorio, non certo emergenza ma fenomeno strutturale, è andata via via peggiorando. Si stima che da allora abbiano perso la vita nel nostro mar Mediterraneo almeno altre 28.000 persone, un mare che si è trasformato in un enorme cimitero a cielo aperto. Sono state via via smantellate tutte le strutture di accoglienza, si fanno patti con i dittatori, si criminalizzano i disperati che arrivano sulle nostre coste. Si negano i diritti perfino ai bambini. Volete violare le norme e qualsiasi principio di solidarietà e buon senso. Come fate a non vergognarvi? Ora volete negare ai ragazzi stranieri persino il cosiddetto ius soli sportivo, una pratica virtuosa di integrazione e inclusione sociale. Auspico sinceramente un cambio di rotta, perché le parole e gli atti della Presidente del Consiglio e di alcuni membri del Governo sono davvero intollerabili, Presidente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308890_19",
+      "politician_name": "BARABOTTI Andrea",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Presidente, onorevoli colleghi e onorevoli colleghe, la Camera si appresta a convertire in legge una serie di disposizioni urgenti a tutela degli utenti e in materia di attività economiche e investimenti strategici. I primi articoli del testo riguardano il trasporto aereo e affrontano l'annosa questione delle tariffe gonfiate a causa degli algoritmi impazziti, con l'obiettivo - del Governo - di consentire ai cittadini italiani, indipendentemente dalla stagionalità, di attraversare il Paese da nord a sud senza essere letteralmente dissanguati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308890",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308903_19",
+      "politician_name": "MASCARETTI Andrea",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Presidente, onorevoli colleghi, vorrei innanzitutto ringraziare la relatrice, l'onorevole Ylenja Lucaselli, e tutti i colleghi della V Commissione per l'importante lavoro svolto. Oggi ci troviamo a discutere, qui nell'Aula di Montecitorio, un provvedimento di particolare importanza per gli italiani, il cosiddetto decreto Asset , un testo che si articola in ben 41 articoli suddivisi in 5 distinti capi. Tutti gli articoli meriterebbero di essere affrontati dettagliatamente in questa discussione, ma la mancanza di tempo mi obbligherà a prendere in considerazione, peraltro velocemente, soltanto una parte. Durante la discussione nelle Commissioni e in Aula i rappresentanti delle opposizioni hanno tentato di minimizzare l'importanza di questo provvedimento e qualcuno ha addirittura sostenuto che il testo affronterebbe troppe tematiche, tutte insieme. Tuttavia sarebbe stato grave se così non fosse stato, perché è chiaro a tutti quanti siano numerosi e grandi i problemi ereditati dal passato, che il Governo è determinato ad affrontare e a risolvere durante la legislatura: se ne faccia una ragione chi sperava il contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308903",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d306417_19",
+      "politician_name": "LAI Silvio",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Colleghe, colleghi, rappresentante del Governo, oggi siamo chiamati in tutta fretta a ratificare un decreto-legge che il Governo ha varato il 10 di agosto, con grande rappresentazione in pompa magna, annunciando sostegni per famiglie e imprese, attraverso misure che avrebbero consentito di disporre di ulteriori risorse e di garantire importanti diritti come quello alla mobilità. Poi, passate le festività estive, Governo e maggioranza ci ripensano e trasformano il decreto, così pieno di promesse e di aspettative, in un omnibus e fanno marcia indietro sui capitoli più importanti, azzerando, di fatto, qualsiasi elemento che faceva parte della comunicazione precedente. Naturalmente, si prendono tutto il tempo loro necessario per incartare questo nuovo decreto e consegnarlo alla Camera una settimana prima della scadenza. Stamattina, un'ora e mezzo per esaminare quasi 200 emendamenti nella Commissione di merito, Presidente. Insomma, una prova di democrazia fantastica, che certamente non rimarrà negli annali del Parlamento, ma, di questo, ne riparleremo anche in altra sede, richiamando la sottile linea di irresponsabilità che state facendo percorrere al Parlamento e al Paese e dei rischi che stiamo assumendo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "306417",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308865_19",
+      "politician_name": "TOSI Flavio",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor Presidente, onorevoli colleghi e colleghe, questo decreto-legge, cosiddetto Asset , perché interviene su una serie di materie strategiche per la nostra economia e la società - trasporti, attività produttive, agricoltura, ambiente, telecomunicazioni, economia e  finanze -, è un provvedimento completo. Prevede misure che sono delle risposte: proprio adesso  abbiamo sentito un intervento critico, ma che non fa proposte, non dà soluzioni, non dà alternative, ma si limita semplicemente ad una sterile critica, che è classica di quella parte politica. È un provvedimento che è stato limato, modificato positivamente dai colleghi senatori. Contiene, come detto, una serie di misure - alcune sono state già illustrate da altri colleghi di maggioranza -, io mi concentrerò su alcune poche tematiche che riteniamo più rilevanti e che presentano, in qualche caso, alcune criticità da risolvere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308865",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Rappresentante del Governo, gentili colleghi e colleghe, nonostante avessimo lasciato in dotazione a questo Governo oltre 200 miliardi di investimenti per il PNRR, che avrebbero dovuto far volare la nostra economia, e nonostante nel biennio 2021-2022 abbiamo avuto una crescita del PIL del 12 per cento - da “tigre asiatica” - e, si badi bene, contemporaneamente una riduzione del 10 per cento del debito pubblico - non un aumento, una riduzione del 10 per cento del debito pubblico - il provvedimento in discussione arriva in un momento tutt'altro che facile per il Paese. L'economia vacilla sotto il peso di un PIL passato addirittura in territorio negativo, la produzione industriale è in picchiata, i tassi sono andati alle stelle e causano il blocco degli investimenti, le famiglie devono far fronte ad un carrello della spesa alleggerito dal caro prezzi, la benzina è sopra i 2 euro ormai stabilmente e il caro mutui rischia di far finire all'asta molte delle case degli italiani. In un contesto così difficile, ci saremmo aspettati, dunque, misure anticicliche per far ripartire l'economia, ma in questo provvedimento non ne abbiamo trovata neanche una. Ci saremmo aspettati misure per contrastare l'inflazione e il rialzo dei tassi di interesse. Dopo la drammatica caduta del PIL - lo ricordo, meno 0,4 - nel secondo trimestre di quest'anno, Confindustria stima un PIL debole anche nel terzo e nel quarto trimestre. Sono calati, sempre secondo Confindustria, la manifattura, le costruzioni e i servizi. Credito e liquidità sono in caduta, sono particolarmente colpite le famiglie che hanno acceso mutui per la casa. Quale politica è posta in essere dal Governo per aiutare le famiglie che rischiano di vendere o, meglio, rischiano di trovarsi nella condizione di vedere la propria casa messa all'asta? Nessuna. Risale anche il costo dell'energia e dei carburanti. Il Governo, per contenere i rincari, ha previsto l'obbligo di esposizione del cartello con i prezzi medi ai distributori, ma è sotto gli occhi di tutti che ha ottenuto l'effetto contrario, cioè di far alzare il prezzo medio della benzina nel nostro Paese. Calano, sempre secondo Confindustria, anche i consumi e gli investimenti e latita la domanda estera. Quali politiche per contrastare questo andamento? Nessuna. Ancora, sugli obiettivi prefissati, quali l'efficientamento energetico, la riduzione dei costi dell'energia elettrica in bolletta, la riduzione delle emissioni climalteranti a vantaggio della salute, lo slancio del mercato del lavoro, avete fatto qualcosa? Non avete fatto nulla.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Sarò decisamente più breve di chi mi ha preceduto in questa discussione, anche se un po' mi spiace, perché quando parliamo di disposizioni urgenti a tutela degli utenti in materia di attività economiche e finanziarie e di investimenti strategici - il provvedimento è chiamato, in gergo, decreto Asset - credo che si debba dire tanto. E ritengo che anche noi che siamo all'opposizione avremmo dovuto dire tanto rispetto a un tema che oggi è così sentito dal Paese, dalle famiglie e dal nostro sistema economico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307762_19",
+      "politician_name": "BRUZZONE Francesco",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Presidente, la ringrazio. Il mio sarà un intervento piuttosto breve e non certamente articolato per tutti i contenuti di questo decreto. Il collega è già intervenuto prima e ha svolto molto bene la relazione per conto del nostro gruppo. Io intendo soffermarmi su alcuni passaggi, in modo particolare uno, che è stato oggetto - e, mi pare di capire, ancora oggi - di polemiche che ritengo sterili e strumentali, solo per fare pubblicità, e prive di contenuto. In modo particolare, mi soffermo sull'applicazione del Regolamento (UE) 2021/57 che stabilisce un divieto un po' particolare, sicuramente curioso, quello dell'uso delle munizioni al piombo all'interno delle aree umide. Questo sommariamente è il contenuto di questo Regolamento europeo che giustamente viene affrontato con l'obiettivo di fare un po' di chiarezza - perché comunque ci sono utenti fortemente interessati da questo Regolamento nel nostro Paese - su quello che si può fare e su quello che non si può fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307762",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d302794_19",
+      "politician_name": "MORASSUT Roberto",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Credo che il dibattito che si è svolto, nel quale sono intervenuti anche numerosi colleghi dell'opposizione, abbia chiarito i termini della discussione e delle posizioni che sono in campo, quindi mi limiterò ad alcuni giudizi politici e ad alcune riflessioni su alcuni punti specifici di questo decreto. Un provvedimento che, come ha ricordato il collega Lai che mi ha preceduto per il gruppo del Partito Democratico, è ancora una volta, per parlare gentilmente, un decreto omnibus , ma ormai questo termine è diventato talmente consuetudinario che è entrato persino, direi, nella dialettica parlamentare in maniera ordinaria. Un decreto “aspiratutto” che, ancora una volta, viene presentato dal Governo e, in corso d'opera, viene modificato con emendamenti del Governo. Il ruolo dell'opposizione parlamentare viene annullato dall'impossibilità di incidere con proposte che pure sono state presentate in modo numeroso già al Senato. Le Commissioni parlamentari vengono trasformate in cinghie di trasmissione di quello che si decide al Governo, nei decreti del Governo, fino al voto di fiducia che ormai funziona più come una forma di compattamento della maggioranza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "302794",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 82, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Riprendiamo il seguito della discussione del disegno di legge, già approvato dal Senato, n. 1436: Conversione in legge, con modificazioni, del decreto-legge 10 agosto 2023, n. 104, recante disposizioni urgenti a tutela degli utenti in materia di attività economiche e finanziarie e investimenti strategici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, signor Presidente. Io vedo, per il prosieguo della discussione, che abbiamo il Ministro per i Rapporti con il Parlamento Ciriani che, sono certo, ci stupirà entrando nel merito della discussione del provvedimento. Temo, invece, che stia per accadere, signor Presidente, quello che, ahimè, sta accadendo, mortificando questo Parlamento dall'inizio di questa legislatura, cioè l'ennesima richiesta di fiducia rispetto a un decreto-legge omnibus , che è stato approvato al Senato e che qui passa de plano .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Presidente, veramente con grande pacatezza, per permettermi di dare un suggerimento alla maggioranza. Non c'è motivo per mettere questa fiducia, perché l'atteggiamento delle opposizioni, che è molto diversificato, non giustifica le scelte di mettere questa fiducia. Al Governo converrebbe recuperare queste 24 ore che stiamo buttando via in termini di lavoro, consentire la discussione sugli emendamenti, magari proponendo alle opposizioni - lo dico io, signori - di cercare di evitare l'inutilità del rito degli ordini del giorno. Sugli emendamenti, che almeno hanno un effetto legislativo, seppur respinti, c'è una discussione di merito e si eviterebbe quella discussione che domani pomeriggio o domani sera avremo sugli ordini del giorno, che, oggettivamente, è una discussione deprimente dal punto di vista dell'incisività di questa istituzione nella vita del Paese. Io propongo a persone che, a cominciare dal Ministro, hanno competenza politica, esperienza, ai colleghi che seguono i lavori d'Aula di ragionare se questa è una procedura conveniente per la maggioranza, anche su provvedimenti che di divisivo hanno poco. Ci sono situazioni in cui la fiducia serve anche per comprimere eventuali divergenze ma ci sono situazioni, come questa, in cui non ci sono neanche questi problemi. Quindi, io chiedo che ci sia una riflessione da parte della maggioranza su questo tipo di procedure.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente, sulla medesima questione. A parte la novità che interveniamo su una fiducia in maniera preventiva, perché normalmente c'è la richiesta di fiducia da parte del Ministro e, poi, gli eventuali interventi che la stigmatizzano o la giustificano, prendo spunto dall'intervento del presidente Rosato per dire che, sì, c'è disponibilità a ragionare. Ovviamente, ragionamenti del genere devono essere complessivi ed è giusto dire che ha più senso ragionare di un emendamento che non passare la notte a parlare degli ordini del giorno. Per fare questo, però, certamente bisogna trovare una condivisione massima, totale e c'è disponibilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, onorevoli colleghe e onorevoli colleghi, giustamente, ci è stato ricordato quello che è successo nella scorsa legislatura, ma noi non dimentichiamo le frasi che ripeteva, a ogni intervento in cui veniva chiesta la fiducia, l'allora capo dell'opposizione, oggi, Presidente del Consiglio, Giorgia Meloni. L'unica cosa che chiediamo, però, dato che alle elezioni i risultati possono essere differenti, si può essere al Governo e si può essere all'opposizione, è: cerchiamo di recuperare una linearità. Il fatto che si stiano raggiungendo numeri record, in questa legislatura, per quanto riguarda non solo il ricorso alla fiducia ma anche questo combinato disposto di monocameralismo alternato e ricorso alla fiducia, che comprime gli spazi parlamentari, sta trasformando questo Parlamento in una vera e propria buca delle lettere, dove vengono depositati i decreti e dove vengono depositate ratifiche di accordi internazionali. La stragrande maggioranza degli atti che abbiamo votato va in questa direzione. Non è un tema delle forze politiche, è il tema della tenuta delle nostre istituzioni e della nostra capacità anche di fronteggiare il tempo che abbiamo di fronte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghi, Governo, per associarmi alla richiesta dei colleghi di opposizione su questa prassi, che ormai si è ingenerata, di andare avanti con decreti-legge quando non c'è nessuna ragione di necessità e di urgenza a giustificarli. Inoltre, tali decreti sono disomogenei e, quindi, in contraddizione con le indicazioni della giurisprudenza della Corte costituzionale, dimostrando già questo l'abuso di uno strumento, quello della decretazione d'urgenza, finalizzato a contrastare situazioni straordinarie e che, invece, è utilizzato come strumento ordinario e usuale. A ciò si aggiunga la bocciatura sostanziale di tutti, o quasi tutti, gli emendamenti presentati dalle opposizioni nelle Commissioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Intanto ringrazio la collega e i colleghi che mi hanno preceduto negli interventi, perché effettivamente sta diventando un abuso, direi quasi un abuso di potere da parte del Governo, questo ricorrere alla fiducia anche quando non è o non sarebbe necessario, né tantomeno opportuno porla, perché la Camera - in questo caso la Camera dei deputati, ma anche il Senato - si trova a esaminare nelle Commissioni, a lavorare per proporre emendamenti, a discutere, a ragionare, a cercare di approfondire i provvedimenti. Ma si vede poi che è un lavoro non dico inutile ma davvero frustrante, perché non c'è niente di più mortificante che sapere che il tuo lavoro, onestamente portato avanti e con una certa volontà di miglioramento del provvedimento stesso, quindi con un orizzonte di buonsenso, è stato alla fine assolutamente inutile. Questo diventa anche deprimente, perché ti senti all'interno di una giostra che funziona a prescindere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . …Può intervenire, ma non vorrei innescare un altro dibattito. Sarò molto veloce, visto che i colleghi sono intervenuti in rappresentanza di tutti i gruppi, ci tengo a replicare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Presidente e colleghi, vorrei, a nome del Governo e autorizzato dal Consiglio dei ministri, porre la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge, già approvato dal Senato, n. 1436: “Conversione in legge, con modificazioni, del decreto-legge 10 agosto 2023, n. 104, recante disposizioni urgenti a tutela degli utenti, in materia di attività economiche e finanziarie e investimenti strategici”, nel testo della Commissione, identico a quello approvato dal Senato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "A seguito della posizione della questione di fiducia, la Conferenza dei presidenti di gruppo è convocata alle ore 16,45 presso la Biblioteca del Presidente, al fine di stabilire il prosieguo dell'esame del provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, signor Presidente. Voglio, in qualche modo, ringraziare il Ministro Ciriani, anche se credo che, soprattutto nella prima parte del suo intervento, non abbia ben difeso la causa, perché non si capisce cosa c'entrano, in questo specifico luogo, eventuali urgenze sottolineate da altri esponenti e altre associazioni. Noi stiamo facendo un confronto di natura parlamentare, e, come tale, deve essere ricondotto. Cosa c'entrino altre cose lo trovo abbastanza strano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Signor Ministro, lei, poc'anzi, ha affermato che, siccome la società civile vi chiede di fare presto, ponete la fiducia. Ora non so chi sia questa società civile, so che cos'è, però, il Parlamento della Repubblica italiana, conosco la Costituzione e i Regolamenti parlamentari e francamente questo atteggiamento e questa affermazione li ho trovati francamente molto irritanti e urticanti. Non può rivolgersi al Parlamento e dire che c'è qualcuno fuori che vi chiede di fare presto, perché qui non c'è stata mai un'opposizione che ha fatto un ostruzionismo come quello che si poteva ricordare una volta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307219_19",
+      "politician_name": "DEIDDA Salvatore",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Non voglio entrare in questa discussione, ma mi fa piacere intervenire e dare una comunicazione anche all'Aula proprio sui lavori di Montecitorio e, per una volta, trasmettere all'esterno che qui non stiamo solo a porre questioni di fiducia o a non lavorare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307219",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministro, io non ho tutta l'esperienza dei colleghi che mi hanno preceduto rispetto a come sono andate le cose, per poterle definire in termini appunto esperienziali a livello personale, tuttavia, se non sbaglio, siamo alla ventisettesima fiducia. Sono passati 12 mesi, quindi sono state poste più di due questioni di fiducia al mese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Sono davvero sorpreso su questa direi “innocente” sorpresa delle opposizioni che si meravigliano di una situazione di cui loro stessi sono maestri, perché non c'è stato Governo, da Renzi in poi, compreso il Governo Letta, compreso soprattutto il Governo del presidente Conte, che non abbia posto la fiducia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ho ascoltato con attenzione tutti gli interventi che si sono svolti, però vorrei dire innanzitutto una cosa: non manchiamo di rispetto sicuramente, mi unisco al presidente Deidda, ai ringraziamenti ai funzionari della Camera, alle persone che ogni giorno rendono possibile il lavoro delle nostre istituzioni, però questo procedimento lo stiamo vedendo anche con il decreto che stiamo affrontando adesso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Io colgo con un po' di stupore e anche con un po' di rammarico le osservazioni fatte da parte di tanti colleghi della maggioranza. Questo dibattito che stiamo facendo vede, da parte del nostro gruppo, da parte dell'onorevole Rosato, un atteggiamento assolutamente costruttivo. Noi concordiamo con lei, signor Ministro, sul fatto che al Paese servano delle risposte immediate sulle tante crisi, sulle tante questioni, sui tanti bisogni che cittadini e imprese vivono quotidianamente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che nell'odierna riunione della Conferenza dei capigruppo, a seguito della posizione della questione di fiducia sull'articolo unico del disegno di legge n. 1436 - Conversione in legge, con modificazioni, del decreto-legge 10 agosto 2023, n. 104, recante disposizioni urgenti a tutela degli utenti, in materia di attività economiche e finanziarie e investimenti strategici (approvato dal Senato – scadenza: 9 ottobre 2023) , nel testo della Commissione, identico a quello approvato dal Senato, è stata convenuta la seguente articolazione dei lavori per il periodo 4-6 ottobre 2023.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d305757_19",
+      "politician_name": "BOLDRINI Laura",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Chiedo la parola in quest'Aula per ricordare una ricorrenza importante e molto triste. Presidente, 10 anni fa davanti a Lampedusa, annegavano almeno 368 persone, prevalentemente eritrei. Erano uomini, donne e bambini in fuga da un regime spietato, quello eritreo appunto, in cerca di pace e di sicurezza. Fu una delle più grandi tragedie del mare. Ricordo, Presidente, che io allora presiedevo questa Camera e andammo, con una delegazione di deputati e di deputate che volevano esserci, insieme a Lampedusa. Lo strazio di tutte quelle bare nell' hangar dell'aeroporto dell'isola non lo dimenticheremo mai. Anche l'allora Premier Enrico Letta volle rendere omaggio alle vittime e non rimase indifferente e subito dopo si prese la responsabilità di istituire la missione di soccorso Mare Nostrum , che durò 12 mesi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "305757",
+        "seduta": 170
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2023-10-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi è la Giornata nazionale in memoria delle vittime dell'immigrazione, in memoria dei 10 anni da una delle più grandi tragedie del mare, il naufragio di Lampedusa, in cui, a pochi poche centinaia di metri dalla costa, persero la vita 368 migranti, uomini, donne e bambini ingoiati dal mare. Ci eravamo promessi: mai più. Si stima, invece, che, da allora, oltre 28.000 vittime abbiano perso la vita nel Mediterraneo, circa 2.300 solo quest'anno. Pesano sulla nostra coscienza perché i numeri, che non mentono, dicono che noi, la terra promessa dei tanti disperati che affrontano il viaggio più incerto e la rotta più fatale del mondo, abbiamo tradito questa promessa fatta il 3 ottobre 2013. Abbiamo tradito la memoria di quei morti in quello che è il più grave dei naufragi, quello dell'umanità, che annega nel mare del cinismo, dell'indifferenza, della dimenticanza per la quale le persone sono ormai uguali a numeri, in un mondo alla rovescia in cui chi si adopera per salvare vite umane, viene criminalizzato, invece che ringraziato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0170",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 170
+      }
+    }
+  ]
+}

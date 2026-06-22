@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0431",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-02-19",
+    "title": "Assemblea — Seduta n. 431 del 2025-02-19",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 431
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro dell'Agricoltura, della sovranità alimentare e delle foreste, il Ministro della Giustizia e il Ministro delle Imprese e del made in Italy .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308791_19",
+      "politician_name": "PIERRO Attilio",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevole Ministro, onorevoli colleghi, il settore dell'ortofrutta è tra i più colpiti dai cambiamenti climatici e dalla riduzione della produttività agricola, con danni economici ingenti per il comparto. Il caso del kiwi è emblematico: un calo della resa fino al 43 per cento, con una perdita stimata di circa 180 milioni di euro all'anno. Allo stesso tempo, la produzione di pere è crollata da 800.000 a 184.000 tonnellate dal 2015 al 2023. A questo si aggiunge il problema dell'utilizzo dei fitofarmaci. Molte sostanze efficaci sono state ritirate, riducendo la competitività del nostro settore. Andrebbero forse introdotte alternative adeguate, per salvaguardare opportunamente le coltivazioni, garantendo, allo stesso tempo, la competitività delle nostre aziende agricole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308791",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307463_19",
+      "politician_name": "LOLLOBRIGIDA Francesco",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Agricoltura, della sovranità alimentare e delle foreste . Grazie, Presidente Ascani. Ringrazio l'onorevole Pierro, per avermi dato l'occasione di rispondere su un tema strategico, come quello dell'ortofrutta e delle sue produzioni in Italia, che arriva a sfiorare i 20 miliardi di euro, circa il 30 per cento dell'intero settore agricolo nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307463",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307463_19",
+      "politician_name": "LOLLOBRIGIDA Francesco",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Agricoltura, della sovranità alimentare e delle foreste . Concludo. Si deve prendere atto definitivamente che, dove non c'è agricoltura, viene giù tutto. Il nostro Governo proteggerà, in sede nazionale ed internazionale, questo settore (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307463",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308791_19",
+      "politician_name": "PIERRO Attilio",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Ministro, la sua disponibilità ad affrontare con urgenza questa problematica rappresenta un segnale positivo per tutto il settore ortofrutticolo italiano. La crisi che sta colpendo i nostri agricoltori - aggravata dai cambiamenti climatici, dalla concorrenza sleale di Paesi dell'Unione europea (lei faceva riferimento alla Grecia e ad altri Paesi extra Unione europea, dove si applicano standard sociali ed ambientali meno rigorosi) e dalla mancanza di un'armonizzazione normativa sull'uso dei fitofarmaci richiede risposte concrete e tempestive.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308791",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308766_19",
+      "politician_name": "CALDERONE Tommaso Antonino",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Signor Ministro, ogni mese, 100 cittadini italiani vengono ingiustamente privati della libertà personale, 3 cittadini al giorno; significa che, ogni otto ore, viene arrestato ingiustamente un cittadino italiano; 1.293 sono stati i casi di ingiusta detenzione nel 2024, per i quali è stato corrisposto un indennizzo, circa 100 in più rispetto al 2023.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308766",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie Presidente e grazie al collega. Effettivamente, i dati che abbiamo - e che lei ha illustrato - sono allarmanti: i detenuti ristretti con posizione giuridica in attesa di primo giudizio sono complessivamente 9.531 su un totale di detenuti pari a 62.000, quindi, in misura percentuale pari al 15 per cento. Per contribuire alla riduzione della popolazione carceraria noi stiamo valutando varie opzioni, già illustrate qui, per i detenuti stranieri, per i tossicodipendenti, che possono essere ricoverati nelle comunità, e per la riduzione di chi si trova in situazioni di carcerazione preventiva. Qualcosa l'abbiamo già fatto. Forse avete letto oggi sui giornali che è stata evitata una misura restrittiva a carico, tra l'altro, di un noto architetto, perché, in base alla cosiddetta riforma Nordio, l'interrogatorio preventivo, prima dell'emissione della custodia cautelare, ha consentito di evitare questa misura restrittiva.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308766_19",
+      "politician_name": "CALDERONE Tommaso Antonino",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Ministro. Siamo soddisfatti della sua risposta, però ci permettiamo di suggerire velocità e celerità, perché sono già trascorsi due anni e mezzo. A nostro modo di vedere, bisogna incidere e riformare gli articoli 273 e seguenti del codice di procedura penale: è lì il vero problema e, in particolare, bisogna riformare immediatamente e urgentemente la lettera c) dell'articolo 274, il cosiddetto pericolo di reiterazione, perché è lì che si va a conclamare non voglio dire l'arbitrio del giudice ma un'estensione assolutamente inaccettabile del potere discrezionale, perché basta confrontare un GIP rispetto a un altro, dove il decorso del tempo per un GIP vale un mese mentre per l'altro GIP vale un anno. È lì il vero problema. Forza Italia ha depositato una interessante proposta di legge, che preghiamo di valutare e di porre massimamente sotto attenzione, a proposito della riforma dell'articolo 274, lettera c). Quindi, è importante intervenire, signor Ministro, anche perché - e concludo - soltanto lo 0,000 sono i magistrati che hanno pagato per avere ristretto ingiustamente i cittadini italiani (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308766",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Ministro, sarò particolarmente telegrafico nella illustrazione di questa interrogazione. È un tema che portiamo in quest'Aula da mesi. Ci sono sue dichiarazioni in cui si dice che il tema è parzialmente risolto, sia quello dei suicidi sia quello del sovraffollamento. Noi sappiamo benissimo, dai dati, che il decreto Carceri non ha risolto nulla di questo grande problema: non ha risolto né il tema dei suicidi né il grande tema per cui quando le persone escono tornano a delinquere. Dunque, abbiamo perso la capacità di portare a casa quel principio costituzionale di rieducazione che la detenzione carceraria deve avere e, detto ciò, in questi mesi abbiamo tante grandi parole - noi non dubitiamo della sua - ma le azioni non vanno in questa direzione, soprattutto sul tema del lavoro. Quindi, le chiediamo cosa intende fare davvero, al di là delle parole, per risolvere questa grande problematica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie Presidente e grazie a lei. È un argomento drammatico che viene periodicamente portato alla nostra attenzione ed è giusto che sia così, proprio per la drammaticità della situazione, ma è altrettanto vero che, a distanza di pochi mesi, non è che si possano produrre o rivelare delle soluzioni rivoluzionarie, però possiamo dire quello che stiamo facendo. Fino ad oggi, in effetti, abbiamo già nove suicidi, questi risultano a noi per questo anno….",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Quindi, diciamo che nell'immediatezza c'è stata una iniezione di risorse finanziarie che sono tutte mirate al benessere - si fa per dire - di chi è privato della libertà personale e la dimostrazione è quella di potenziare - la cosa più importante è questa - il supporto psicologico e lo staff multidisciplinare. A questo proposito, noi abbiamo istituito uno specifico gruppo di lavoro per lo studio e l'analisi degli eventi suicidari delle persone detenute, con il compito di - non è soltanto uno studio, ma è proprio la definizione di un protocollo operativo - elaborare momenti di formazione per il personale penitenziario, al fine di tutelare la salute psicofisica dei detenuti e di prevenire i suicidi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Ministro, sono partito con grande rispetto. Non credo che faremo una guerra se sono tredici o nove. Ma non prendiamoci per i fondelli davanti agli italiani (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe, dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista e di deputati del gruppo Italia Viva-il Centro-Renew Europe) ! Sappiamo bene, in quest'Aula, come siano di più i suicidi. Se lei conta i morti in carcere, e non contiamo quelli che, dal carcere, sono morti in ospedale, non diciamo che non si sono suicidati e poi son morti da un'altra parte, perché oggi siamo al 14° suicidio nelle carceri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Signor Ministro, la Polizia penitenziaria - come lei sa - svolge un ruolo fondamentale, non solo nella custodia e vigilanza dei detenuti, ma anche nel sostegno ai percorsi di rieducazione e di reinserimento sociale; contribuisce alla sicurezza della società e alla rieducazione della pena.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, Presidente. Grazie alla collega. Allora, darò alcune cifre per mettere gli appartenenti al Corpo in condizione di esercitare questo difficile compito. Con la legge di bilancio n. 207 del 2024, abbiamo stanziato: 2 miliardi e 104 milioni per il 2025; 2 miliardi e 100 milioni per il 2026; 2 miliardi e 280 milioni per il 2027.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Ministro, i dati che ha appena letto testimoniano l'importanza del ruolo della Polizia penitenziaria, ma noi siamo preoccupati - fortemente preoccupati - per come lei e il Governo non stiano tutelando l'immagine della Polizia penitenziaria. Il calendario del 2025, oggetto di un nostro precedente question time , in cui veniva oscurato il dettato costituzionale: l'articolo 27, con la funzione rieducativa della pena. Poi il tema del sovraffollamento delle carceri, su cui il Governo è inerme, rende ogni giorno più difficile il lavoro della Polizia penitenziaria. Poi, da ultimo - lo ha già ricordato la collega Serracchiani -, la vicenda oscura, inquietante, dell'uso dello spyware “Graphite” di Paragon, dove - stando alle notizie di stampa - tutte le Armi di polizia hanno smentito di avere in uso questo strumento, tranne la Polizia penitenziaria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Ministro, ci sorprenda: lei è qui soltanto perché costretto, ha costretto noi a cambiare domande al question time. Avremmo voluto porvi quesiti che sono stati stracciati e dovremmo porvene altri. Ministro, perché ha paura di rispondere alla domanda sulla Polizia penitenziaria e dirci se ha usato il software di Paragon?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Come sapete, lo svolgimento delle attività di intercettazione, e quindi anche quelle condotte sia dal Nucleo investigativo centrale sia dal Gruppo operativo mobile, è sempre delegato, secondo l'articolo 370 del codice di procedura penale, dalle autorità giudiziarie, quindi, dalle procure ordinarie e DDA, nel rispetto e con le modalità previste dal codice di procedura penale. Ora, dalla parte, diciamo così, preliminare, scritta nell'interrogazione - che io salto, perché non è stata formulata - passo direttamente alla parte finale. Allora, le spese liquidate per le intercettazioni sono liquidate direttamente dall'autorità giudiziaria e, successivamente, comunicate al Ministero della Giustizia e, quindi, nessuna competenza in merito è del DAP - da cui dipendono… - e i relativi contratti sono direttamente stipulati dall'autorità giudiziaria procedente. Ora, con queste premesse, posso assicurare che nessun contratto - ribadisco - nessun contratto è mai stato stipulato dal DAP e/o dalle dipendenti direzioni generali GOM e NIC con qualsivoglia società (Applausi del deputato Deidda) . “ Questo ” - direbbe Dante - “ sia suggel ch'ogn'omo sganni ”; le intercettazioni si fanno solo su autorizzazione dell'autorità giudiziaria, ci sono quelle preventive e ci sono quelle ordinarie; le spese vengono liquidate; la nostra amministrazione, il nostro DAP non ha mai stipulato nessun contratto con qualsivoglia società di qualsiasi tipo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Dopo la risposta del Ministro Nordio che devo dire mi ha sorpreso, speravo mi sorprendesse, mi ha sorpreso, ma la Repubblica con la Meloni Premier è sempre più la Repubblica delle banane. Perché, signor Presidente, signor Ministro, ieri ci avete detto che non potevate rispondere perché c'era il segreto di Stato (Applausi dei deputati dei gruppi Italia Viva-il Centro-Renew Europe, Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle, Alleanza Verdi e Sinistra e Azione-Popolari Europeisti Riformatori-Renew Europe) ; ce l'ha detto il Sottosegretario alla Presidenza del Consiglio che non potevate rispondere e lei viene qua e ci viene a spiattellare tutto quello che ieri era secretato (Applausi dei deputati dei gruppi Italia Viva-il Centro-Renew Europe, Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle, Alleanza Verdi e Sinistra e Azione-Popolari Europeisti Riformatori-Renew Europe – Il deputato Giachetti: “ Vergogna! ”).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Ministro, siamo arrivati addirittura agli ordigni incendiari, mentre nei magazzini si lavora. Siamo al terzo, non so se ha letto; la chiamano la guerra delle grucce: tre esplosioni con timer. Si dice che fra Prato e Campi Bisenzio ci sia il far west , siamo davanti a un salto di qualità. Una di queste è la Acca di Seano, ne ho parlato più volte, perché ogni tot spaccano la testa a qualcuno di quegli operai che chiede diritti, più salari. Ora siamo a una vera e propria guerra di mafia, una faida tra imprenditori per il controllo del mercato, ma a rischiare la pelle sono solo i lavoratori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . Lo sfruttamento lavorativo e del caporalato è un'infamia che va contrastata in ogni sede; a questo è dedicato un apposito tavolo presso il Ministero del Lavoro, che ha adottato il Piano nazionale per la lotta al lavoro sommerso, entrato in vigore il 21 dicembre 2022. Tale piano si raccorda al processo di riforma del sistema delle politiche attive del lavoro, che mira a rafforzare i centri per l'impiego, al fine anche di contrastare il fenomeno del lavoro sommerso in tutti i settori economici, tra i quali emerge anche quello del tessile e della moda.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Ministro, non ci ha convinti ma, secondo me, non ci ha nemmeno provato, perché la questione è molto complicata ma anche molto semplice. Questi brand della moda fanno quasi tutti capo a dei fondi finanziari stranieri, ma il made in Italy gli serve: gli serve a valorizzare il prodotto, ma non solo; usano l'Italia come terra di lavoro sfruttato per massimizzare i profitti e lo fanno fare a delle scatole cinesi che ogni giorno cambiano nome. Altroché chiuderle! Chiuderne una per aprirne un'altra e non basta delegare alle Forze dell'ordine e alle procure questo lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307142_19",
+      "politician_name": "ZUCCONI Riccardo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, premesso che il Governo e il Parlamento sono impegnati a colmare un vuoto normativo e storico per rafforzare la sicurezza nazionale e disciplinare l'attività dei privati nello spazio in modo trasparente e competitivo; che l'economia spaziale riveste oggi un ruolo centrale nell'economia, sia in termini di PIL mondiale sia per le implicazioni nei campi della difesa e delle telecomunicazioni; che, secondo quanto riferito dalla relazione del Governo alle Camere sull'attività e i risultati nel settore dello spazio e dell'aerospazio, l'83 per cento del valore del comparto è rappresentato da imprese che operano nei campi delle telecomunicazioni e aziende che forniscono servizi sulla base di dati di navigazione satellitare; che questo è un settore che, di solito, è stato prerogativa dello Stato e della finanza pubblica, mentre negli ultimi anni si è registrata un'inversione di rotta, alla luce degli ingenti investimenti nel settore da parte dei privati, come quelli delle società SpaceX; che, secondo alcune inchieste giornalistiche, sussisterebbe il rischio di un monopolio di Starlink nella gestione delle comunicazioni italiane e dei sistemi di sicurezza nazionale; che tale ricostruzione dei fatti, infine, risulta smentita dalle sue recenti dichiarazioni, Ministro Urso, nelle quali è stato ribadito l'impegno dell'Italia nel settore spaziale, siamo a chiederle, quindi, se ella possa fornire ulteriori spiegazioni in merito e, in particolare, con riferimento ai contenuti delle suddette inchieste giornalistiche, oltre che alle ulteriori iniziative di competenza…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307142",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . È necessario evidenziare subito le gravi palesi falsità divulgate nel servizio di Report , andato in onda domenica scorsa, per evitare che una campagna di disinformazione inquini il dibattito politico e le libere e consapevoli decisioni che il Parlamento deve assumere, proprio in queste ore, in merito al disegno di legge sulla politica spaziale, una pietra miliare per l'Italia e per l'Europa. Nel servizio si afferma, in maniera totalmente infondata, che la legge sullo spazio sia stata concepita per favorire Elon Musk nell'ottenere un appalto per la gestione del cloud satellitare dei dati governativi. Si tratta di una ricostruzione priva di ogni supporto documentale, che ho già smentito nell'intervista rilasciata alla stessa trasmissione; intervista, però, volutamente manipolata attraverso tagli e montaggi selettivi, che hanno alterato del tutto il senso delle mie dichiarazioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308903_19",
+      "politician_name": "MASCARETTI Andrea",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, io devo dire che non sono soddisfatto perché non si può essere soddisfatti in un momento come questo, in cui l'Italia sta facendo grandi passi avanti nel tema della space economy , in cui lei, come ha ricordato prima, sta creando le basi per sviluppare un sistema satellitare in orbita bassa nazionale e, quindi, per uscire dall'angolo, in cui ci troviamo adesso, di monopolio da parte di qualcun altro. Mentre lei sta lavorando con i suoi colleghi, i Ministri di Francia e Germania, per recuperare quel ritardo incredibile che c'è e che l'Europa ha accumulato nella corsa allo sfruttamento delle orbite basse, in questo momento un servizio, mandato in onda su una rete pubblica nazionale, va a minare quello che è il dibattito parlamentare, esattamente pochi giorni prima che la legge sullo spazio, quella che lei ha voluto, quella che fissa delle regole che prima non c'erano - e, a casa mia le regole sono fissate perché senza regole sicuramente chi vince è il più forte e lì, sì, che si va verso un monopolio - proprio in quel momento, dicevo, questo servizio va a minare la serenità del dibattito parlamentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308903",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308903_19",
+      "politician_name": "MASCARETTI Andrea",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). …del Ministro Urso e del confronto in sede di mediazione, precisiamo che la prima dichiarazione è frutto di una conversazione informale, riportata in un breve filmato realizzato all'insaputa dei diretti interessati, mentre la seconda proviene da una persona, la quale, a precisa richiesta di offrire prove documentali, non ha fornito riscontri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308903",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308903_19",
+      "politician_name": "MASCARETTI Andrea",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Chiudo. In tale contesto Report fa fede la smentita del Ministro Urso e ci rammarichiamo per il disagio arrecato all'interessato. Aspettiamo la nuova smentita (Applausi dei deputati del gruppo Fratelli d'Italia).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308903",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, signora Presidente. Signor Ministro, relativamente a Piaggio Aerospace, che è stata ceduta, dopo un lungo periodo di amministrazione straordinaria, al gruppo turco - come si diceva -, ricordo che lei, il 14 febbraio, è stato in visita a Villanova d'Albenga, in presenza dei vertici dell'azienda turca, dove è stato annunciato l'accordo sindacale, per cui c'è soddisfazione in generale. Per quanto riguarda il tema di fondo, resta da chiarire bene quali siano le prospettive. Lei ha parlato anche di un interessamento di Leonardo, insomma, tante cose.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . La cessione di Piaggio Aerospace al gruppo turco Baykar rappresenta un risultato straordinario per il futuro dell'industria aerospaziale italiana. È la migliore soluzione possibile in termini di sviluppo industriale, tutela occupazionale e proiezione strategica dell'azienda.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, signor Ministro. Noi la ringraziamo. Lei sa bene che, per quanto riguarda questo tema, considerati i 10 anni di martirio - se possiamo usare questa espressione - che abbiamo conosciuto, traguardare questo risultato straordinario, come ha detto lei, sarebbe per tutti motivo di festeggiare il suo lavoro, di chi l'ha preceduto e dell'amministrazione straordinaria in generale. Dopodiché, le notizie che ci ha dato, che in parte erano state anticipate già nell'incontro del 14 febbraio, vanno in quella direzione. Noi ci auguriamo che il 27 febbraio - se ho capito bene la data del nuovo tavolo - ci possa essere lo sviluppo e la spiegazione di tutto il piano industriale, degli investimenti, che lei ha citato ora, rivolti alla trasformazione di Villanova d'Albenga.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Signor Ministro, lei è Ministro delle Imprese e del made in Italy da 28 mesi e, proprio da 28 mesi circa, c'è un calo della produzione industriale nel nostro Paese. Contemporaneamente crescono le bollette e cresce in maniera veramente preoccupante la cassa integrazione. Il PIL è ormai allo 0 virgola, così come anche gli stipendi degli italiani che sono al palo. Come se non bastasse, nell'anno appena trascorso, nel 2024, 285.000 aziende hanno chiuso i battenti e questo, signor Ministro, è il record negativo degli ultimi vent'anni. Se dovessimo giudicarla in base ai risultati che avete prodotto - voi dovreste essere quelli della meritocrazia -, ebbene, dovrebbe essere rimosso, senza appello (Applausi dei deputati del gruppo MoVimento 5 Stelle) , anche perché avete riportato l'economia nazionale al periodo della pandemia, senza avere la pandemia! Quando siete entrati al Governo, dal 2019 al 2023, l'Italia aveva avuto un prodotto interno lordo superiore alla Germania, superiore alla Francia, superiore alla Spagna, superiore alla media dei Paesi dell'Unione europea! Quindi, siete entrati al Governo con il vento in poppa da un punto di vista economico. Tutto ciò premesso, le chiediamo, dunque, quali iniziative - e speriamo, per una buona volta, che siano anche utili - intenda assumere per il mantenimento dei livelli produttivi e occupazionali e per stimolare la crescita e la sostenibilità delle nostre imprese (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . La flessione della produzione industriale non è una dinamica solo nazionale, ma coinvolge l'intera Europa a partire proprio da Germania e Francia: le altre grandi Nazioni industriali. Infatti, dal 2019 ad oggi, la Germania ha subito una contrazione industriale di quasi il 12 per cento e la Francia del 5,4 per cento. L'Italia sta mostrando una maggiore resilienza, con un meno 4,7 per cento, ed è diventata, però, nel contempo (l'Italia), quarto Paese esportatore al mondo, superando Corea del Sud e Giappone. Questo ci ha consentito di creare, negli ultimi due anni, quasi un milione di nuovi posti di lavoro: molto più di Francia e Germania e record storico di occupazione nel nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministro, io mi vergogno per lei. Io mi vergogno, provo disgusto per questa “supercazzola” inutile (Applausi dei deputati del gruppo MoVimento 5 Stelle) ! Aspetteremo, vedremo, capiremo... Ministro, governa da due anni!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sveglia, Ministro! Torni nel mondo reale, perché capirebbe - e chi ci ascolta da casa lo sa - che le famiglie sono strozzate dal carovita e dal caro bollette. Le imprese chiudono dopo anni di sacrifici. Le do una notizia, Ministro: no, lei non ha fatto nulla per aiutarle, zero assoluto (Applausi dei deputati del gruppo MoVimento 5 Stelle) ! Allora, Ministro, lei ha promesso a queste imprese sostegno e sviluppo e le ha vendute e svendute per 30 denari di propaganda e di immobilismo. Lei è Giuda delle imprese! Questo è. Le ha tradite, se ne rende conto, Ministro (Applausi dei deputati del gruppo MoVimento 5 Stelle) ? Lei ha tradito chi lavora, lei ha tradito chi crea occupazione, lei ha tradito chi investe in questo Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Signor Ministro, ci rivolgiamo a lei per conoscere lo stato di avanzamento della consultazione pubblica prevista dal Libro verde “ Made in Italy 2030”, elaborato dal suo Ministero in collaborazione con il CNEL, volta all'adozione di un Libro bianco sulla nuova strategia italiana di politica industriale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d39200_19",
+      "politician_name": "URSO Adolfo",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Imprese e del made in Italy . Grazie, presidente. Il Libro verde “ Made in Italy 2030” delinea la politica industriale del Paese per i prossimi 5 anni, con una visione strategica ultradecennale, ed è stato presentato in Parlamento l'11 dicembre scorso. In quell'occasione, le forze politiche hanno potuto esprimere le posizioni dei propri gruppi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "39200",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Grazie, signor Ministro, per la sua risposta. Prendo alcuni passaggi che ritengo fondamentali, come il fatto che abbia portato i numeri di questa consultazione pubblica. Il numero che ha colpito di più è quello dei 500 stakeholder che sono stati coinvolti: credo che sia un numero assolutamente positivo e significativo. Aspetteremo, ovviamente - parlo non soltanto a nome del mio gruppo, di Noi Moderati, ma anche come vice presidente della Commissione attività produttive -, il momento in cui lo illustrerà nuovamente, anche nello specifico, alla Commissione nei vari passaggi istituzionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 105, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2245: Conversione in legge, con modificazioni, del decreto-legge 27 dicembre 2024, n. 202, recante disposizioni urgenti in materia di termini normativi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). La ringrazio signora Presidente. Colleghi, signor Sottosegretario, siamo, se non ho fatto male i conti, all'ottantesima fiducia che viene posta dal Governo. Ora, se penso alla prima, era sicuramente in un contesto molto diverso: era appena formato il Governo, c'era un grande entusiasmo, c'era anche il senso e il segno, forse, di qualcosa di importante che sarebbe potuto capitare in questo Paese, cioè un Governo che, dopo i Governi tecnici, dopo tanti problemi che ci sono stati, avrebbe potuto rappresentare effettivamente una novità per il nostro Paese. L'ottantesima fiducia si trasforma, soprattutto dopo la giornata odierna, nella fiducia al Governo delle banane.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Presidente, sto argomentando la ragione per la quale noi voteremo contro la fiducia a un Governo delle banane e, siccome devo spiegare perché è un Governo delle banane, purtroppo l'essere un Governo delle banane sta trascinando il nostro Paese in un Paese delle banane, di cui due organi costituzionali come la Camera e il Senato, purtroppo, fanno parte e rischiano di essere vissuti dai nostri cittadini come due rami di un Parlamento delle banane.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Ho già finito il tempo, Presidente. Purtroppo, mi sono concentrato sullo “Stato delle banane” (Applausi dei deputati del gruppo Italia Viva-il Centro-Renew Europe) e sulla mia solidarietà al Presidente della Camera e ho consumato una parte del tempo che avrei voluto dedicare anche alle questioni di merito. Potrei dedicare del tempo, e chiudo con questo, alle questioni che non ci sono e che non avete voluto mettere dentro questo decreto, nonostante quello che abbiamo proposto in Commissione attraverso gli emendamenti e che abbiamo fatto anche con gli ordini del giorno. Avete bocciato anche gli ordini del giorno. Per esempio, per quel che riguardava la cassa integrazione nel settore della moda, avete bocciato l'emendamento in Commissione e avete bocciato anche gli ordini del giorno che, ormai, sono l'unica cosa che ci è rimasta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, colleghe e colleghi, ancora una volta avete rimosso la realtà, le condizioni reali e materiali in cui tante e tanti vivono in questo Paese. E ancora una volta avete umiliato il Parlamento e le opposizioni, non solo, annunciando di voler porre la fiducia su questo Milleproroghe, ma dando alle Commissioni poco più che qualche ora per esaminare centinaia di emendamenti. Resta, per voi, tutto questo, un contenitore giusto per soddisfare le brame di alcuni partiti, anzi di frammenti. E magari per pesarli. In ogni caso, la Lega andava blandita. Da qui la riammissione alla rottamazione quater per i contribuenti decaduti perché insolventi. Oltre 3,8 milioni di contribuenti di cui meno della metà è stato puntuale con il pagamento delle rate. Volevate fare molto di più. Siete stati fermati, giusto, solo dall'Agenzia delle entrate. Ma guardate già oltre. È all'esame del MEF la rottamazione quinquies per tutti i crediti compresi tra il 2000 e il 2024. Praticamente una sanatoria per oltre venti annualità, che cancellerebbe sanzioni e interessi e spalmerebbe, di fatto, il debito in 120 rate. Devo dire che una logica ce l'ha: far sì che, quello che è successo alla Lega coi 49 milioni, valga per tutti gli italiani. E infatti la promessa è questa: dopo il quater ci sarà il quinquies , poi decidete voi dove arriviamo. Sexies? Ma io, credo, che arriveremo a undecies . E sa perché? Perché la premessa è come la promessa, cioè vi promettiamo che, di qui in avanti, ne arriveranno altri. A quel punto la vostra logica rimane quella dei guanti di velluto per chi non ha pagato le tasse e continuerà a non pagarle, di fatto. E il peso del fisco, di fatto, dove è scaricato? Sulle spalle del lavoro e di chi ha sempre pagato, come i pensionati. Vedete, nella vita reale, non pagare una multa o un adempimento ha un effetto: si accumulano more e sanzioni. Invece, voi avete introdotto un meccanismo premiale per chi si sottrae al fisco.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …voi avete perso - ho finito - ogni credibilità e ogni rispettabilità ai nostri occhi e non solo, ogni residuo della nostra fiducia. Non daremo certo fiducia a questo provvedimento. E così annuncio il voto contrario di Alleanza Verdi e Sinistra (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d306064_19",
+      "politician_name": "SOTTANELLI Giulio Cesare",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Membro del Governo, gentili colleghi, arriva un'ulteriore richiesta di fiducia da parte di questo Governo, addirittura la seconda in una sola settimana, su un decreto - il cosiddetto Milleproroghe - che, ovviamente, tratta di tutto, di tutte le proroghe che sono in atto e non solo. Quindi, avrebbe meritato certamente una maggiore attenzione, un certo lavoro. Invece, è arrivato, qui alla Camera, venerdì, in giornata. Sono passati sabato e domenica. Lunedì notte era in Commissione e martedì mattina in Aula per la discussione sulle linee generali, per poi arrivare oggi al voto sulla richiesta di fiducia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "306064",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d306064_19",
+      "politician_name": "SOTTANELLI Giulio Cesare",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Allora, per tutti quanti questi provvedimenti esprimiamo un voto contrario sulla richiesta di fiducia, come giudizio di metà mandato di questo Governo (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "306064",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Ho ascoltato con attenzione gli interventi di due autorevoli colleghi, che godono della mia stima e, per certi versi, direi anche della mia amicizia. Però, il collega Sottanelli, quando parla di un provvedimento che non accoglie proposte, omette di dire che, al momento del suo varo presso il Consiglio dei ministri, il provvedimento era composto da 22 articoli e da 82 commi e, invece, dopo l'intervento parlamentare il testo è composto di 32 articoli, per un totale di 207 commi. Cosa significa? Che noi oggi votiamo un provvedimento dove il Governo ha posto la questione di fiducia e io, a memoria, non ricordo che provvedimenti analoghi in passato siano stati approvati senza aver posto la questione di fiducia da parte del Governo. Ciò perché? Perché nonostante ci sia un contributo importante da parte del Parlamento alla modifica, attraverso le proposte dei parlamentari, del provvedimento che viene varato dal Consiglio dei ministri, il provvedimento di fiducia è un acceleratore di decisioni che devono essere prese entro la scadenza di 60 giorni per potere diventare legge a tutti gli effetti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307356_19",
+      "politician_name": "LOVECCHIO Giorgio",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente, membri del Governo, colleghe e colleghi, intervenire oggi sul decreto Milleproroghe significa affrontare un provvedimento che ogni anno diventa il crocevia di tante questioni cruciali per il nostro Paese. È un decreto che, a prima vista, può sembrare tecnico, persino arido, perché parla di proroghe, di scadenze e di termini, ma dietro ogni proroga c'è una storia, un'esigenza, una risposta attesa da cittadini, imprese, enti locali, lavoratori e famiglie. Ecco perché non possiamo considerarlo un semplice atto amministrativo, ma uno strumento che incide profondamente sulla vita quotidiana di milioni di persone.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307356",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307234_19",
+      "politician_name": "TORTO Daniela",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Prendiamo atto che la maggioranza ci crede un sacco a questa fiducia, perché, considerati i deputati qui, in Aula, i 15, 20 deputati, bisognerà - non lo so - fondare un club esclusivo dei superstiti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307234",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307234_19",
+      "politician_name": "TORTO Daniela",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sarò davvero velocissima. A Giorgia Meloni dico di essere molto meno trionfalistica, perché calpestare le regole della democrazia è una cosa che, prima o poi, si paga. E quel conto non lo presenteremo noi, ve lo presenterà il popolo, ve lo presenteranno i cittadini che avete ignorato e, soprattutto, quelli che avete tradito (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307234",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307716_19",
+      "politician_name": "CATTOI Vanessa",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente, onorevoli colleghi, Governo. Mi lasci, Presidente, per il suo tramite, innanzitutto, rispondere in replica a qualche affermazione che ho sentito, qui in Aula, da parte di qualche mio collega che ha sbeffeggiato questo Governo, definendo il Governo, anzi lo Stato, quindi, ci ha ricompresi tutti, come lo “Stato delle banane”. Presidente, reputo, innanzitutto, veramente offensivo questo appellativo che ci viene marchiato addosso, perché, forse, i colleghi sono distratti dalla lettura dei principali quotidiani nazionali che si occupano in particolar modo, soprattutto, degli aspetti finanziari che sono legati al nostro Paese, perché altrimenti avrebbero certamente notato come, invece, sotto l'aspetto proprio economico-finanziario i principali quotidiani nazionali proprio in questi giorni rechino titoli di questo tipo: Piazza Affari regina dei rendimenti; finalmente abbiamo il nostro indice FTSE MIB che supera quota 208, piazzandosi come migliore indice sia tra i titoli europei sia rispetto a New York. Quindi, se qualcuno ci dice che questo è il Governo delle banane, ben venga, perché allora vuol dire che questo Governo delle banane sta operando al meglio (Applausi dei deputati del gruppo Lega-Salvini Premier) e, forse, qualcuno è distratto dalla lettura di quotidiani che non solo ci dicono questo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307716",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308891_19",
+      "politician_name": "ROGGIANI Silvia",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ci ritroviamo, come hanno già detto in precedenza altri miei colleghi, a votare - o meglio, noi, ovviamente, a non votare - l'ennesima fiducia, nello specifico l'ottantesima. È un numero che, francamente, fa spavento, cioè pensare che in quest'Aula per 80 volte si è messa la fiducia. Devo dire che questa volta la finta della discussione si è trasformata, francamente, in farsa. Abbiamo avuto, in Commissione, quattro ore, quattro ore per affrontare il Milleproroghe. Prima il collega ci ha ricordato che stiamo parlando di 32 articoli; abbiamo avuto quattro ore. Quindi è stata una farsa non solo e non certamente per le opposizioni ma, io direi, per l'Aula tutta, per tutto il Parlamento. È un discorso che facciamo a ripetizione, che ormai ha quasi stancato noi stessi, ma lo facciamo rivolgendoci a chi, dai banchi dell'opposizione, un tempo gridava allo scempio del ruolo del Parlamento e invece questa settimana - solo questa settimana! - ci impone due fiducie. Incredibile a dirsi, ma è la realtà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308891",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308907_19",
+      "politician_name": "TREMAGLIA Andrea",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Ringrazio il Governo, ringrazio la relatrice Giorgianni, che ha seguito quest'oggi - non solo quest'oggi, ovviamente - la discussione in Aula e ringrazio anche l'onorevole Vinci per alcuni spunti precisi e puntuali. Oggi noi abbiamo una difficoltà, evidentemente, nella discussione, nel senso che mi rendo conto che il tema del Milleproroghe sia già di per sé un tema per sua natura eterogeneo e variegato, si aggiunge il refrain, al quale siamo abbastanza abituati, sulla fiducia. Ogni volta che il Governo pone una questione di fiducia si apre, sostanzialmente, una abbastanza ormai ripetitiva, mi permetto di dire, sequela di lamentele sul fatto che il Governo ponga le fiducie, come se fossero un'invenzione di questa maggioranza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308907",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308859_19",
+      "politician_name": "MURA Francesco",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signora Presidente. Io intervengo per chiedere una informativa urgente al Ministro per gli Affari regionali e le autonomie, Roberto Calderoli, affinché venga in Aula a riferire su quanto sta accadendo nella regione Sardegna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308859",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d306417_19",
+      "politician_name": "LAI Silvio",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Devo dire che sono abbastanza sconcertato per quello che ho sentito, perché chiedere un intervento o un'informativa del Governo di fronte a una vicenda che chiaramente è ai confini giuridici significa spostare la vicenda dalla dimensione giuridica alla dimensione politica. Io penso che, in questo caso, occorra essere coerenti rispetto a quello che ogni giorno manifesta la maggioranza di quest'Aula - quindi anche il collega, che è un autorevole esponente di quella maggioranza - tutti i giorni anche con gli atti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "306417",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Collega Deidda! Mi scusi, collega Lai. È assolutamente previsto che, in caso di richiesta di informativa, si intervenga per chiedere l'informativa o per dire che non si ritiene opportuna l'informativa, così come tante volte fa la maggioranza alla rovescia…è così, adesso faranno loro (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle – Commenti del deputato Deidda) . Collega Deidda, è così e se vuole le illustriamo tutti i precedenti del caso assolutamente. Prego, collega Lai.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d306417_19",
+      "politician_name": "LAI Silvio",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Dicevo che io considero questa richiesta impropria e sbagliata. Impropria perché significa disconoscere una distinzione dei ruoli tra il potere che esprime la magistratura e il potere esecutivo, cioè, quello che esprime il Governo. Ed è sbagliato perché così si crea soprattutto una pressione inadeguata sulla magistratura che è chiamata a decidere (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "306417",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308770_19",
+      "politician_name": "GIAGONI Dario",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Perfetto. Grazie, Presidente. Anche noi chiediamo un'informativa urgente al Ministro Roberto Calderoli perché le ultime azioni della governatrice Todde sono sinonimo di apatia, sono sinonimo di superficialità, sono sinonimo di immobilismo. L'attuale governatrice, in uno stato di confusione dopo aver compiuto errori come candidata alle regionali, ora che gestisce la regione Sardegna sta cercando di guadagnare tempo, allunga il brodo per evitare nuove elezioni. Ricordo che prima, da parte sua, è stato presentato un ricorso davanti al giudice civile del tribunale ordinario sia per la sanzione economica di 40.000 euro, sia per la decadenza che, a cascata, farebbe sciogliere l'intero consiglio regionale sardo. Ieri, giusto per salvare la poltrona, in consiglio regionale è stata approvata la mozione per far deliberare alla giunta di aprire un conflitto di attribuzione dei poteri con lo Stato davanti alla Corte costituzionale; alla faccia del diritto. La cara governatrice sta aggirando l'ordinanza di decadenza che le è stata notificata dal collegio elettorale della Corte d'appello, che le è arrivata subito dopo Capodanno, le è arrivata il 3 gennaio scorso. Questo giusto per salvare la poltrona.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308770",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sull'informativa, ma devo fare una premessa, perché mi chiedo, Presidente, se sia peggio l'ignoranza o la malafede (Applausi dei deputati del gruppo MoVimento 5 Stelle) , perché in questo caso si registra una macroscopica ignoranza nella conoscenza dei fatti giuridici. E dispiace molto che personalità che siedono in questa Aula esprimano questo senso di ignoranza! È malafede, è malafede perché si strumentalizza (Applausi dei deputati del gruppo MoVimento 5 Stelle) , per finalità politiche e di propaganda, una fattispecie che è chiara ed è limpida agli occhi di chi l'abbia almeno studiata. Ed è per questo che l'informativa richiesta non è corretta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Il collega Francesco Mura ha posto un giusto problema, e lo ha posto anche con i termini adeguati. Se ne facciano una ragione coloro che, utilizzando ormai il loro consueto strumento della propaganda fine a sé stessa, come ancora continuano i 5 Stelle (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE, Fratelli d'Italia e Lega-Salvini Premier), di fronte all'evidenza di una realtà che palesa una serie di violazioni sistematiche di legge, ma, siccome la legalità… l'onestà vale per gli altri, per loro vale soltanto (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE, Fratelli d'Italia e Lega-Salvini Premier - C ommenti di deputati del gruppo MoVimento 5 Stelle)… per loro vale soltanto metterci un coperchio sopra …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 431
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2025-02-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). …l'informativa del Ministro per gli Affari regionali riteniamo sia assolutamente necessaria. Perché? Proviamo a mettere in ordine le cose. Il consiglio regionale, o meglio, la maggioranza che sostiene la presidente della regione autonoma della Sardegna, Alessandra Todde, ha approvato, nella giornata di ieri, una mozione con la quale si dà mandato alla stessa di sollevare conflitto di attribuzione davanti alla Corte costituzionale in relazione alla ben nota vicenda, onorevole Colucci…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0431",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 431
+      }
+    }
+  ]
+}

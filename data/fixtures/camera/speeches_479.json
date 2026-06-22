@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0479",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-05-13",
+    "title": "Assemblea — Seduta n. 479 del 2025-05-13",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 479
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 98, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo alle prime interrogazioni all'ordine del giorno Casu n. 3-01938 , Sarracino ed altri n. 3-01939 , Scotto ed altri n. 3-01940 , Bonafe' ed altri n. 3-01941 , Casu n. 3-01942 , Laus e Casu n. 3-01944 , Roggiani ed altri n. 3-01945 e Auriemma ed altri n. 3-01943 (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d301573_19",
+      "politician_name": "CASTIELLO Giuseppina",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Onorevoli colleghi, il tema sollevato dagli onorevoli interroganti mi permette di fornire gli opportuni chiarimenti, oltre che sulla vicenda che ha interessato Roma Capitale, anche in merito all'utilizzo delle graduatorie vigenti, questione che viene posta in termini ricorrenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "301573",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ringrazio la Sottosegretaria per essere qui oggi, ringrazio le onorevoli colleghe e gli onorevoli colleghi presenti. Non possiamo essere soddisfatti di questa risposta, anche perché è una risposta che arriva a 7 interrogazioni che, come gruppo del Partito Democratico, abbiamo presentato a partire dal 29 novembre 2022. Quello che ci viene detto, per esempio, in relazione alla questione che abbiamo posto relativa alla richiesta di convenzione che era stata attivata dal comune di Roma è paradossale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. No, non sono soddisfatta, anche perché l'oggetto della nostra interrogazione riguardava soprattutto la volontà del Ministro della Pubblica amministrazione di incentivare l'assunzione nella pubblica amministrazione. Faccio presente che l'allora Ministro Brunetta aveva sancito in 4 milioni di dipendenti pubblici l'obiettivo da raggiungere per quanto riguarda la realizzazione del PNRR, e, quindi, la necessità di rafforzare la nostra pubblica amministrazione, che vive un momento, per quanto riguarda il personale, molto, molto critico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d301573_19",
+      "politician_name": "CASTIELLO Giuseppina",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. A fronte della richiesta avanzata dal presidente della regione Toscana il 14 marzo 2025, il Ministro per la Protezione civile e le politiche del mare, con decreto del 14 marzo 2025, ha dichiarato lo stato di mobilitazione del Servizio nazionale della Protezione Civile, in conseguenza delle avverse condizioni meteorologiche che hanno interessato il territorio della regione Toscana a partire dal 14 marzo 2025. Successivamente, il presidente della regione Toscana, con nota del 15 marzo 2025, ha chiesto la deliberazione dello stato di emergenza di rilievo nazionale. Il Consiglio dei ministri, alla luce anche della nota del 3 aprile 2025 dello stesso presidente della regione Toscana e all'esito dei sopralluoghi effettuati nei giorni dal 24 al 28 marzo 2025 dai tecnici del Dipartimento della Protezione Civile, unitamente ai tecnici della regione Toscana e degli enti interessati, ha dichiarato, nella seduta del 9 aprile 2025, lo stato di emergenza di rilievo nazionale per la durata di 12 mesi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "301573",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 100, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo in quest'Aula proprio per far presente che, pochi minuti fa, di nuovo i Campi Flegrei hanno fortemente tremato, con una scossa di 4.4, ricordo a profondità bassissime, sotto i 3 chilometri, e dopo poco una scossa di 3.5. Non è la prima volta che intervengo in quest'Aula sui Campi Flegrei, ma diciamo che è l'ennesima. Innanzitutto, sono qui per dare la vicinanza ai miei concittadini e a chi ora si sta adoperando tra le forze della Polizia municipale, dei Vigili del fuoco e i volontari della Protezione civile per dare supporto ai miei concittadini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2362: Conversione in legge, con modificazioni, del decreto-legge 19 marzo 2025, n. 27, recante disposizioni urgenti per le consultazioni elettorali e referendarie dell'anno 2025.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Siamo abituati ad approvare ormai tutto senza discutere. Farò un unico intervento sugli emendamenti 1.2 e 1.5, che sono i nostri due unici emendamenti presentati al decreto, e sono anche, come dirò poi in dichiarazione di voto, le ragioni del nostro voto contrario. Noi avevamo proposto, credo, una cosa ragionevole, in una fase complessa anche della vita della nostra democrazia, con livelli di astensionismo e di disaffezione molto elevati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La nostra proposta, come dicevo, era che le consultazioni referendarie si potessero e si dovessero svolgere in concomitanza con il primo turno delle elezioni amministrative. La scelta del Governo e della maggioranza è stata, invece, quella di uno svolgimento in concomitanza con il secondo turno di ballottaggio per quei comuni sopra i 15.000 abitanti che arriveranno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Credo che, quindi, da questo punto di vista, si sia sbagliato, sia un errore. Ma non un errore perché questo poteva favorire e spostare di qualche punto percentuale il numero di votanti al referendum, ma perché sarebbe stato un segnale; un segnale di attenzione rispetto a una questione, quella della disaffezione e della diserzione, della fuga dalle urne, che credo non sia un problema di questa maggioranza o di questa opposizione, ma un problema delle nostre istituzioni, che dovrebbe quindi interessare tutti. Per queste ragioni abbiamo presentato questi due emendamenti che voteremo convintamente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo su questo primo emendamento per esprimere la nostra contrarietà a questo disegno di legge che oggi, in seconda lettura, viene presentato all'Aula della Camera dopo essere stato approvato dal Senato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento fa seguito a quanto ho appena detto e, quindi, invita quest'Aula ad anticipare le date per il voto referendario alla data fissata per lo svolgimento del primo turno delle elezioni amministrative e questo per ristabilire un principio di partecipazione democratica a quella che è la forma più diretta di esercizio della sovranità popolare, perché ricordo che la nostra Costituzione recita che la sovranità spetta al popolo, che la esercita nelle forme di legge. Queste non sono parole al vento. Indicano un principio fondamentale, che è il principio per il quale sono i cittadini, con la loro libera e massiccia, se possibile, partecipazione al voto, ad improntare e a definire davvero la democrazia in Italia. Quindi, con questo emendamento noi chiediamo di anticipare al primo turno delle elezioni amministrative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento, a prima firma dell'onorevole Auriemma del MoVimento 5 Stelle, propone le seguenti modifiche: in primo luogo, propone l'incremento della percentuale per il rimborso delle spese elettorali, con sostituzione della soglia del 15 per cento con il 20 per cento, al comma 1 dell'articolo 3 di questo disegno di legge; inoltre, prevede la ridefinizione della copertura finanziaria, che è prevista dal provvedimento, con lo stanziamento complessivo di 3.461.395 euro per l'anno 2025, ripartite quanto a 2.596.046 euro al Fondo per le spese elettorali e referendarie del MEF e, quanto ad euro 856.349, alla riduzione del Fondo di cui all'articolo 10, comma 5, del decreto-legge n. 282 del 2004.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vorrei sottoscrivere l'emendamento della collega ed illustrarlo. Io sono contenta quando ci sono emendamenti di tale buonsenso, come a dire che l'acqua è bagnata, il sole sorge ad est, il sole è caldo, il sole dà la luce; quando sono cose così scontate, mi sembra anche assurdo doverne parlare. Questo emendamento, in realtà, cosa chiede? Si vogliono evitare possibili abusi da parte dei rappresentanti di lista che, ogni tanto, si sono verificati durante le tornate elettorali. Infatti, è successo che abbiano espresso il loro voto due volte: sia nelle sezioni in cui erano presenti per l'espletamento della propria funzione, sia nel comune elettorale in cui erano iscritti. Dunque, cosa sto chiedendo? Niente, sto chiedendo di dirmi se il sole è caldo, se il sole dà la luce.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307726_19",
+      "politician_name": "TUCCI Riccardo",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per sottoscrivere l'emendamento della collega Alifano e per sottolineare quanto appena detto dalla collega Cherchi, perché non è la prima volta, e invito tutti i colleghi a riflettere su quanto si sta discutendo. Molto spesso durante le elezioni è successo e si è sentito parlare del fatto che il rappresentante di lista si sia trovato a votare in due seggi differenti. È una pratica schifosa che è accaduta in ogni tornata elettorale (Applausi dei deputati del gruppo MoVimento 5 Stelle) . È una pratica che accade da anni e non si è mai posto rimedio a questa operazione, perché, banalmente, cosa succede? Sappiamo che il rappresentante di lista può votare nel seggio in cui svolge la mansione di rappresentante di lista, ma, se è residente in un altro paese, in un altro comune o, comunque, il suo voto si riferisce alla lista di altri collegi elettorali, può anche votare in quei collegi. Quindi, la stessa persona vota due volte. Pertanto vi chiedo di riflettere prima di dire di “no” a questo emendamento, perché pone fine, comunque, a una pratica che fa davvero schifo (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307726",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Chiedo anch'io di sottoscrivere questo emendamento perché, si sa, il tema dei rappresentanti di lista, in quest'Aula e in Giunta delle elezioni sul ricorso presentato dal collega Gentile, è la prova provata che, in molti casi, gli elettori presiedono i seggi elettorali in maniera inappropriata, fungendo addirittura le funzioni che dovrebbero spettare ai rappresentanti di lista.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io sono molto contenta che i colleghi abbiano sottoscritto questo emendamento che ritengo assolutamente di pregio, perché, se accolto, potrebbe eliminare un abuso che è facilmente eliminabile proprio attraverso le innovazioni digitali. Quindi, io chiedo un ripensamento da parte del Governo perché, invece, venga accolto questo emendamento, se vogliamo tutti in quest'Aula che le operazioni elettorali si svolgano in modo corretto. Se poi non lo vogliamo, allora siamo solo noi del MoVimento 5 Stelle con buona pace degli altri a volerlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io vorrei tornare sui superpoteri di alcuni rappresentanti di lista. La mia collega Orrico ha già parlato di cosa è successo in Calabria. Oltre a poter votare due volte - e questo emendamento cerca di bloccare questa pratica -, il grande potere di riuscire a vedere delle irregolarità in diversi seggi è stato anche certificato da una vergognosa Giunta delle elezioni e da una vergognosa maggioranza, che ha portato a far sedere qui, in Parlamento, un deputato che non avrebbe il diritto di essere qui (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307219_19",
+      "politician_name": "DEIDDA Salvatore",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, richiamandomi sempre alla responsabilità dei deputati quando fanno dichiarazioni in Aula e parlano di favori a certe famiglie o ad altre, vorrei ricordare che certe accuse non sono da critica politica, ma sono anche magari di altro tipo. Quindi, vorrei richiamare la Presidenza a controllare sempre.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307219",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. La confusione regna sovrana in quest'Aula, perché la procura della Repubblica ha già aperto un fascicolo per acclarare le responsabilità penali e questa è la sede nella quale fare la valutazione politica di quanto successo (Applausi dei deputati del gruppo MoVimento 5 Stelle) . “Onestà” è rispettare il voto dei cittadini (Applausi dei deputati del gruppo MoVimento 5 Stelle) , “onestà” è non mortificare quelle popolazioni della Calabria che si sono espresse liberamente e con il voto della maggioranza sono state mortificate nell'esercizio democratico. Presidente, rimettiamo in ordine le cose in quest'Aula (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308849_19",
+      "politician_name": "AMATO Gaetano",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente, anche meno. Una parte delle cose che volevo dire all'onorevole Deidda le ha dette già l'onorevole Colucci. Quindi lo avvertiamo che la magistratura si è già mossa, perché noi il ricorso alla magistratura l'abbiamo fatto (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Se lo fate anche voi, vuol dire che siete anche voi d'accordo sul fatto che la magistratura vada a scavare dove non dovrebbe secondo voi (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308849",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308845_19",
+      "politician_name": "PENZA Pasqualino",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sarò breve. Questo emendamento mira a sopprimere il comma 7 dell'articolo 2, che attribuisce una grande discrezionalità al sindaco, che può decidere a sua discrezione di nominare, attraverso un elenco in cui sono presenti personalità e persone che hanno i requisiti per farlo, il presidente del seggio speciale nonché i membri dello stesso seggio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308845",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Il collega Colucci prima rammentava l'importanza dell'esercizio del diritto di voto, che è il diritto sicuramente più importante, il diritto fondamentale per la tenuta del sistema democratico. E noi lo ribadiamo anche adesso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Intanto chiedo di sottoscrivere l'emendamento e, poi, a supporto di quanto diceva la collega, evidentemente se già si consente ai fuori sede la partecipazione ai referendum abrogativi, per i quali è previsto un quorum , ancor di più questa partecipazione va estesa il più possibile allorché si tratti di modifiche della Carta costituzionale, la Magna Charta. Tutti i cittadini devono poter concorrere nella decisione di una modifica così importante, soprattutto inteso il fatto che comunque per i referendum confermativi non è necessario un quorum , quindi una maggiore partecipazione possibile va non solo auspicata, ma perseguita.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Come già dicevo, uno dei punti deboli di questo provvedimento sta nel fatto di inserire sia pure il voto a distanza, ma per un periodo limitato e in una modalità del tutto provvisoria e sperimentale. Ecco che l'emendamento 3.1, a firma dell'onorevole Baldino, invece introduce, vorrebbe introdurre, il voto anticipato e presidiato tramite certificato digitale elettorale, quindi mira ad espandere le forme di partecipazione dei cittadini anche mediante l'utilizzo di sistemi digitali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307436_19",
+      "politician_name": "MAGI Riccardo",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Presidente, porto alla sua attenzione e anche a quella dei colleghi il fatto che recentemente la Corte Costituzionale, con la sentenza n. 3 del 2025, ha fatto cadere un tabù: il tabù relativo alle modalità di raccolta delle sottoscrizioni in calce alle liste elettorali. La Corte costituzionale, con la sua pronuncia, ha indotto il Governo ad inserire la norma, che è proprio nell'articolo 4 di questo decreto, e cioè per la prima volta prevedere la possibilità di sottoscrivere liste elettorali con modalità digitale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307436",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307567_19",
+      "politician_name": "FERRO Wanda",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Interno . Sugli ordini del giorno n. 9/2362/1 Giachetti, n. 9/2362/2 Boschi, n. 9/2362/3 Alfonso Colucci, n. 9/2362/4 Alifano, n. 9/2362/5 Auriemma e n. 9/2362/6 Magi si esprime parere contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307567",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306160_19",
+      "politician_name": "BOSCHI Maria Elena",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Intervengo, in realtà, solo per una richiesta di precisazione al Governo. Premesso che non avremmo accettato la riformulazione del Governo proposta per l'ordine del giorno analogo dell'onorevole Zaratti e anche dell'onorevole Fornaro, però non capisco perché nei confronti degli ordini del giorno dei colleghi si sia proposta una riformulazione e nel caso del nostro ordine del giorno, che è sostanzialmente analogo come impegno, invece si sia espresso un parere contrario secco, così come nel caso dell'ordine del giorno dell'onorevole Madia. È solo una richiesta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306160",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307567_19",
+      "politician_name": "FERRO Wanda",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Interno . Occorre tenere conto dell'apposito DDL di iniziativa parlamentare che è, tra l'altro, l'organo deputato a disciplinare nella materia specifica. Invece, nel caso dell'altro ordine del giorno n. 9/2362/7 Zaratti, dove c'è riformulazione, non valuta la possibilità di renderlo definitivo, ma è una semplice informazione rispetto ai fuori sede che in qualche modo sono domiciliati in una provincia differente. Quindi, è posto del tutto in modo differente il testo degli ordini del giorno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307567",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie. Avevo già chiesto di poter sottoscrivere a nome del gruppo ma, dopo il chiarimento del Governo, intervengo anche con due parole, perché ricordo al Governo che quest'Aula, più di un anno fa, ha votato all'unanimità - respingendo le proposte di legge che da tutte le forze politiche dell'opposizione erano state avanzate - una delega al Governo stesso con la quale il Parlamento impegnava il Governo a fare esattamente quello che dice quest'ordine del giorno, cioè a rendere strutturale la possibilità di votare. Quindi, ci sorprende alquanto che oggi il Governo torni sui suoi passi dicendo che non intende dar seguito a quella che a tutt'oggi è una delega e legge dello Stato che dovrebbe ritenerlo impegnato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307567_19",
+      "politician_name": "FERRO Wanda",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Interno . Collega, probabilmente sarà stato un mio modo di esprimermi a non farmi intendere. Questo è un Governo che generalmente gli impegni che assume li ha sempre onorati, a partire dalle sperimentazioni che mi pare, di volta in volta, a distanza di due mesi, si sono ampliate. Avrei gradito che un po' gli apprezzamenti, che sono arrivati anche in 1a Commissione al Senato quando era in discussione, fossero riconosciuti anche qui.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307567",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Io vorrei dire alla Sottosegretaria che oggettivamente anch'io faccio fatica a trovare delle differenze tra l'ordine del giorno n. 9/2362/1 Giachetti e l'ordine del giorno n. 9/2362/7 Zaratti, perché - lo leggo testualmente - l'ordine del giorno del collega Zaratti è stato riformulato con: “a valutare l'opportunità di rendere definitivo, semplice e informato l'esercizio del diritto di voto per i fuori sede”, mentre l'ordine del giorno n. 9/2362/1 Giachetti chiede di “adottare iniziative normative volte a rendere strutturale, definitivo e permanente (…)”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307567_19",
+      "politician_name": "FERRO Wanda",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Interno . Se ho capito bene, comunque l'onorevole Boschi ha detto che non avrebbe accettato la riformulazione. Quindi, accantono per poi fare un'eventuale riformulazione che non viene accettata?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307567",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306160_19",
+      "politician_name": "BOSCHI Maria Elena",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). No, Presidente: la Sottosegretaria ha compreso bene rispetto alla riformulazione sull'ordine del giorno n. 9/2362/7 Zaratti, che mi pare si limiti ai referendum. Quello, però, che sottopongo alla valutazione della Sottosegretaria e che era anche alla base della richiesta di accantonamento, è una diversa ipotesi di riformulazione, perché la Sottosegretaria ha ribadito che l'impegno del Governo, in sede di delega, ad affrontare in modo strutturale il tema del voto dei fuori sede non solo per i referendum, se capisco bene, ma per tutte le consultazioni elettorali rimane, cioè è un impegno che il Governo mantiene e che vuole portare avanti. Allora, alla luce di questo forse una riformulazione che tenga conto di questa volontà del Governo, non solo per i referendum ma per tutto, secondo me sarebbe auspicabile e, a quel punto, accoglibile, ovviamente. Ma la rimetto al Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306160",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307567_19",
+      "politician_name": "FERRO Wanda",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Interno . Allora, se la memoria non mi inganna e non credo, in discussione generale, quando si pensò alla legge delega, siamo stati molto chiari che sarebbe stato step by step , garantendo la partenza dai referendum, piuttosto che dalle elezioni europee. Quindi, mi pare che step by step significa continuare su quello che avevo detto nella discussione generale in occasione della legge delega e non assumere impegni che, eventualmente, non potrei onorare. Step by step significa che la riformulazione, per quanto riguarda le elezioni europee, può rimanere, mentre, per quanto riguarda quest'ordine del giorno, ahimè, ancora non siamo nelle condizioni - per un fatto, ovviamente - di onorare gli impegni come siamo abituati a fare (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307567",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Si è citato più volte il nostro ordine del giorno. Anch'io vorrei esprimere due parole su quest'ordine del giorno n. 9/2362/1 Giachetti, che fondamentalmente - hanno ragione le colleghe e i colleghi che hanno sottolineato questo aspetto - ricalca l'ordine del giorno n. 9/2362/7 . Per quanto riguarda il nostro ordine del giorno, ovviamente, si chiede di rendere definitiva la possibilità dell'esercizio del voto da parte dei cosiddetti fuori sede in tutte le consultazioni elettorali. Quindi, già annuncio che, ovviamente, noi non accettiamo la riformulazione del Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307567_19",
+      "politician_name": "FERRO Wanda",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Interno . Grazie, Presidente. Onorevole Zaratti, non si tratta di fare un paragone sul discorso… sennò torniamo alle suffragette, che tutti inseguiamo come esempio di importanti battaglie. Qui stiamo parlando di un discorso differente, altrimenti, se fosse stato così facile, due Governi, in cui anche la sua parte politica - e sa il rispetto che ho nei confronti delle opposizioni -, avrebbero realizzato d'emblée un sistema elettorale per i fuori sede per cura, questioni varie ed eventuali, studio… con più facilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307567",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d302789_19",
+      "politician_name": "MADIA Maria Anna",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Sottosegretaria Ferro, io non ritengo affatto risibili le due sperimentazioni che abbiamo - mi sentirei di usare questo plurale maiestatis - contribuito ad avviare nel nostro Paese, ogni volta - lo dico io, non lei - puntualmente smentendo il Ministro Piantedosi, che, qualche giorno prima, veniva sempre a dirci che non ci sarebbe stato voto dei fuori sede, né alle ultime elezioni europee né per i prossimi referendum.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "302789",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307567_19",
+      "politician_name": "FERRO Wanda",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Interno . Grazie, Presidente. Intervengo solo per rispondere alla collega Madia che il parere contrario non è rispetto al testo, ma rispetto al disegno di legge, che è proprio quello che dovrebbe essere il contenitore e, quindi, la famosa legge, di cui molti colleghi mi stanno ricordando, la famosa legge delega, nella quale andrebbe inserito. Quindi, riteniamo che l'alveo naturale sia proprio quello e non questo, che è un decreto che riguarda le prossime elezioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307567",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con quest'ordine del giorno chiediamo qualcosa che sembra banale, ma banale non è. Quando c'è un momento elettorale che rappresenta, poi, un momento di partecipazione democratica, le nostre scuole sono costrette a sospendere l'attività didattica. Ora, se ci fosse una contropartita, cioè se, contestualmente, ai nostri ragazzi e alle nostre ragazze venisse spiegato che cosa sta accadendo e, quindi, quanto è importante sollecitare la partecipazione, potremmo anche dire che ciò che avviene è corretto. In realtà, non è così, perché sospendere l'attività didattica va a discapito degli studenti e delle studentesse, che già frequentano una scuola che è corposa non solo di programmi da affrontare, ma anche di attività spesso didattiche ed extradidattiche. Perdere dei giorni di scuola, soprattutto in quei territori dove già esiste un livello di dispersione scolastica e di abbandono notevole, non ci sembra più una buona pratica all'interno del nostro Paese. Esistono tanti immobili, spesso pubblici, in stato di abbandono, che potrebbero essere riqualificati e destinati alle attività che riguardano, appunto, le consultazioni elettorali. Però, sembra veramente un paradosso che in questo Paese, all'interno delle scuole, quando ci sono momenti di partecipazione democratica importanti, come le elezioni o come i referendum, i nostri ragazzi e le nostre ragazze non sappiano assolutamente nulla.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308849_19",
+      "politician_name": "AMATO Gaetano",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sentire la seconda carica dello Stato invitare a non andare a votare effettivamente dà una brutta sensazione proprio perché il voto è un diritto/dovere del cittadino. La partecipazione democratica del cittadino è importante; è importante al punto che, come diceva l'onorevole Orrico, si sospende l'attività scolastica per poter esercitare il diritto/dovere di voto. Se poi l'attività scolastica viene sospesa per non esercitare il diritto/dovere del voto sembra effettivamente una presa in giro nei confronti dei nostri studenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308849",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con quest'ordine del giorno non siamo particolarmente ambiziosi, come, invece, lo è stato il collega Zaratti con l'ordine del giorno a sua prima firma o i colleghi Giachetti e Boschi. No, noi chiediamo molto meno. Quindi, ci meravigliamo del parere negativo espresso dal Governo, dalla Sottosegretaria Ferro. Perché? Noi chiediamo una cosa che, a parer mio, è di buon senso. Tralasciamo le premesse, e mi rivolgo alla Sottosegretaria, sempre, tramite lei, Presidente; tralasciamo le premesse; l'ordine del giorno, se lo esaminiamo, è assolutamente di buon senso e va proprio nella direzione di consentire ai cittadini, i fuori sede per l'appunto, di partecipare, come dicevamo già prima, al voto, che è il diritto fondamentale per la tenuta del sistema democratico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307567_19",
+      "politician_name": "FERRO Wanda",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Interno. Sono certa che non sarà sfuggito alla collega che la sperimentazione è partita già nel 2023 e che nel bilancio approvato a fine anno è stata inserita un'ulteriore cifra per proseguire con la sperimentazione. Quindi, dare un parere favorevole a qualcosa che già il Ministero sta facendo e sta portando avanti sarebbe pleonastico (Applausi dei deputati del deputato Deidda) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307567",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). No, Signor Presidente, ringrazio la Sottosegretaria Wanda Ferro anche per la disponibilità al confronto che la caratterizza e della quale certamente ringraziamo, però non posso accettare; non possiamo accettare perché nelle premesse c'era ovviamente la sostanza dell'impegno perché, altrimenti, l'impegno, come dire, è la semplice attuazione della legge.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Il sabotaggio sui referendum dell'8-9 giugno da parte di questa maggioranza e di questo Governo non è solo evidente, lo possiamo dire, è sistematico. Lo abbiamo visto oggi di nuovo, quando avete deciso di non accorpare il voto dei referendum con il primo turno delle amministrative, che, peraltro, è una cosa di assoluto buon senso, ma no, per carità, non favoriamo la partecipazione, sarebbe gravissimo farlo. Ma non solo questo, è successo di peggio. Abbiamo assistito, nella totale indifferenza - quasi come fosse normale - di questa maggioranza e di questo Governo, Presidente, alla seconda carica dello Stato che ha fatto testualmente propaganda per il non voto. È una cosa gravissima, ci dovrebbe indignare. E riferendomi, tramite lei, Presidente, al Presidente La Russa, con quest'ordine del giorno diciamo che è grave, è gravissimo, e sa perché? Il Presidente La Russa - voglio provare a usare un linguaggio che magari capisce meglio, perché questo linguaggio non lo vuole capire, quello reale, della realtà -, lui è un tifoso accanito di calcio. Bene, è come se il Presidente del Senato, La Russa, fosse il capitano di una squadra di calcio e dicesse ai suoi giocatori: “Guardate, non scendete neanche in campo, state fuori, perché non ne vale la pena”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo ancora proprio per sottolineare, anche a seguito delle importanti e preziose parole che sono state appena spese, la necessità di favorire la partecipazione al voto referendario dell'8 e del 9 giugno prossimo. Perché, la partecipazione al voto, anzi, il favorire la partecipazione al voto è proprio un cardine della democrazia costituzionale nella sua dimensione non solo formale, ma anche sostanziale. Quindi, è fondamentale da parte delle istituzioni - sia delle istituzioni governative, sia delle cariche più alte dello Stato - favorire la partecipazione e stimolare, attraverso il dibattito e la rappresentazione pubblica delle problematiche inerenti ai quesiti referendari, la libera partecipazione da parte di tutti i cittadini al voto. Perché, Presidente, l'articolo 48 della nostra Costituzione, che definisce le caratteristiche e i requisiti del voto come fondamento costituzionale, stabilisce un principio che il Presidente La Russa, evidentemente, oblitera e non considera, ossia che il voto è un dovere civico (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Questo è un fondamento! Non è un dovere giuridico, perché la persona può non recarsi al voto e, in ciò, non può essere sanzionata, ma è un dovere civico e qualsiasi sia l'espressione del voto (sia un voto favorevole, sia un voto contrario, sia un voto di astensione), l'esercizio del voto - e, ripeto, la nostra Costituzione dice che la sovranità spetta al popolo, che la esercita nelle forme di legge, e queste non sono parole vuote, sono ricche di contenuto e non possono essere svuotate da questa maggioranza, che è priva di senso istituzionale! - è la concretizzazione della volontà popolare e, così come la dottrina costituzionalistica ha definito, è un diritto fondamentale della persona! Favorire la partecipazione al voto vuol dire rendere la persona protagonista della vita democratica e non ridurla a un soggetto passivo. Perché, Presidente, questo è il nucleo fondamentale. È evidente che la maggioranza - con queste esternazioni, ma anche con una serie di provvedimenti che sta ponendo all'attenzione di quest'Aula - sta rendendo il cittadino sempre meno protagonista, il cittadino sempre più servo dello Stato! Allora abbiamo la concezione che lo Stato è al servizio della persona, mentre questa maggioranza vorrebbe che la persona fosse al servizio dello Stato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo su quest'ordine del giorno, che vorrebbe stimolare una maggiore partecipazione al voto, per dire che, probabilmente, chi andrà a votare e chi ha già deciso che andrà a votare al referendum lo farà perché ha il timore che i propri figli si troveranno di fronte a un mondo del lavoro precario; il timore che i propri figli dovranno andare a lavorare in una situazione in cui saranno poco tutelati e dovranno, magari, mettere sui due piatti della bilancia, da una parte, il lavoro e, dall'altra, la sicurezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Per una maggioranza che si definisce eletta dal popolo, che finalmente, dopo anni, li ha eletti e li ha portati a salvare il nostro Paese, dire di non andare a votare è veramente scandaloso (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Quindi il popolo vi serve a fasi alterne, no? Vi serve per essere legittimati da un voto che, tra l'altro, è un voto parziale degli italiani, lo ricordiamo, perché purtroppo la gente non va più a votare. E io dico un'altra cosa. Dico che è importante andare a votare, lo direi anche a persone che votano per voi. Voi non fate questo, fate il contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307726_19",
+      "politician_name": "TUCCI Riccardo",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Innanzitutto chiedo di sottoscrivere l'ordine del giorno e vorrei sottoporlo ai colleghi, che sono indaffarati anche a fare gli affari propri. Cosa c'è di strano in quest'ordine del giorno? Si dice: “ad assumere ogni misura e iniziativa utile affinché (…) le condotte degli esponenti di alte cariche istituzionali di governo siano improntate alla correttezza nei termini esposti in premessa”. Non mi pare che ci sia niente di eversivo in quest'ordine del giorno, non mi pare che ci sia nessuna posizione politica né che si vadano a toccare i principi di chissà quale partito. È un ordine del giorno abbastanza aperto e, anche qui, abbiamo trovato una chiusura totale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307726",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306160_19",
+      "politician_name": "BOSCHI Maria Elena",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Anticipo già da adesso il voto contrario su questo provvedimento da parte del gruppo di Italia Viva. Questo è un decreto-legge che si concentra, essenzialmente, sull'individuazione della data per poter svolgere le consultazioni referendarie, e noi non condividiamo la scelta operata dal Governo di abbinare la consultazione referendaria con il secondo turno delle amministrative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306160",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signora Sottosegretaria, questo Governo ha una strana caratteristica - me lo consenta -, quella di far diventare immediatamente difficili e complicate le cose che sono abbastanza semplici. Anche un decreto di convocazione delle elezioni, in mano a voi, è diventato un problema, è diventata un'occasione di scontro a cominciare dal tentare di inserire, in questo decreto, la norma che modifica la legge elettorale sui comuni, cosa che è stata prontamente contrastata dalle opposizioni e opportunamente, a quel punto, la maggioranza ha ritirato come proposta; al fatto di indicare, come data per lo svolgimento delle elezioni del referendum, quella più scomoda possibile, quella dove meno persone potessero partecipare, tant'è vero che non si convoca il referendum nella giornata in cui si votano le amministrative al primo turno, ma si convocano i referendum nel turno di ballottaggio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Noi preannunciamo il voto contrario. Siamo d'accordo sull'opportunità di creare le condizioni per una maggiore efficienza e speditezza per la partecipazione rispetto alle operazioni di voto e comincio con il dire che qualche profilo noi lo condividiamo rispetto a quella che è la normativa. Per esempio, il discorso dell'abolizione della distinzione per genere negli elenchi elettorali e della necessità che prima c'era dell'indicazione del cognome del marito per la moglie, nonché il prolungamento delle operazioni di voto al lunedì e la sottoscrizione della lista attraverso modalità digitali, anche se eravamo d'accordo con quello che era l'emendamento e l'ordine del giorno dei colleghi di +Europa, che abbiamo anche sottoscritto, attraverso cui chiedevano di creare le condizioni per una portata più ampia di quell'indicazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Onorevoli colleghi, Sottosegretario Wanda Ferro, inizio il mio intervento dichiarando sin da ora il voto favorevole del gruppo Noi Moderati al provvedimento, ovvero al decreto-legge relativo a disposizioni urgenti in materia elettorale. Siamo favorevoli perché, tra i vari adempimenti che sono previsti ogniqualvolta arriva una scadenza elettorale, ci sono degli aspetti importanti che cercano di agevolare la partecipazione alle urne. Questo è un elemento importante, sul quale so che c'è grande sensibilità della maggioranza, da parte del Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Le considerazioni che sono state svolte dal collega che mi ha preceduto proprio adesso mi spingono a fare una riflessione. Volevo iniziare questo discorso diversamente, ma purtroppo c'è una sorta di provocazione alla quale non posso non rispondere e non dare atto. Personalmente quello che vedo è che ci sono tanti proclami da parte della maggioranza, ossia che bisogna assolutamente combattere l'astensionismo, che le percentuali dei cittadini che si recano al voto sono allarmanti, che bisogna fare di tutto per aumentare la parte di corpo elettorale che deve recarsi al voto e che poi in questo provvedimento viene addirittura inserita, seppure in via sperimentale e solo per i referendum del 2025, la possibilità anche per i fuori sede di esprimere il proprio voto sulla consultazione referendaria per l'appunto. Quindi, tutte premesse che hanno una logica, solo che poi sono assolutamente contraddette dai fatti. Allora io mi chiedo: o la maggioranza vive di schizofrenia, nel senso che ha una ipotesi alla quale poi segue una tesi assolutamente opposta, oppure c'è di fondo una grande ipocrisia. Perché se si vuole effettivamente aumentare la partecipazione dei cittadini al voto, non può la seconda carica dello Stato dire: “State a casa!”. Non si può stabilire la data delle consultazioni referendarie concomitanti con il secondo turno delle amministrative e dunque con i ballottaggi nei comuni, lì dove si terranno i ballottaggi, perché in altri comuni potrebbe non tenersi un secondo turno di elezioni e quindi i cittadini dovrebbero ritornare una seconda volta a votare solo per i quesiti referendari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevole Sottosegretario, colleghi, questo decreto Elezioni poteva essere il solito, quasi di routine : la data del voto, la conferma delle modalità in uso ormai da tempo e la chiamata alle urne per la domenica e il lunedì. Invece, di consueto ha solamente il nome e contiene disposizioni importanti, addirittura di portata storica, che sono destinate a cambiare per sempre il modo in cui le cittadine e i cittadini esprimono il proprio voto. Aumenta i diritti per chi avrebbe voluto partecipare, ma era impedito per la distanza o per gravi problemi di salute, e sancisce la perfetta parità, cancellando ogni possibile discriminazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d307641_19",
+      "politician_name": "IEZZI Igor",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Sottosegretario, colleghi, la Lega voterà convintamente a favore di questo decreto-legge. Questo provvedimento contiene una serie di norme che, a nostro avviso, sono ovvie e di buon senso. Penso, per esempio, al prolungamento delle votazioni nella giornata di lunedì: uno strumento utile per portare più gente e per dare più possibilità, alle persone che lo vorranno, di votare. Penso, per esempio, all'innalzamento dell'età degli scrutatori da 70 a 75 anni. Chi segue un po' queste tematiche per passione o per dovere sa quanto sia difficile oggi trovare degli scrutatori, anche per una questione di compensi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "307641",
+        "seduta": 479
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-05-13",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Rappresentante del Governo, colleghe e colleghi, come ho già avuto modo di preannunciare nel corso della discussione sugli emendamenti, noi, a differenza di altre volte, di fronte a un decreto, quello sulle elezioni, che, di norma, è un decreto burocratico, voteremo no, per le motivazioni che ho già preannunciato, cioè, fondamentalmente, per il mancato accoglimento della nostra richiesta di accorpamento del primo turno amministrativo con i referendum.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0479",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 479
+      }
+    }
+  ]
+}

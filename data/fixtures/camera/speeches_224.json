@@ -1,0 +1,422 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0224",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-01-11",
+    "title": "Assemblea — Seduta n. 224 del 2024-01-11",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 224
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 79, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione delle mozioni Faraone ed altri n. 1-00224 , Girelli ed altri n. 1-00225 , Marianna Ricciardi ed altri n. 1-00226 (Nuova formulazione), Bonetti ed altri n. 1-00227 , Zanella ed altri n. 1-00229 e Ciancitto, Loizzo, Patriarca, Brambilla ed altri n. 1-00230 concernenti iniziative in materia di disciplina della responsabilità professionale degli operatori sanitari e per il superamento delle criticità connesse alla carenza di organico del personale (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Per quanto riguarda la mozione Faraone ed altri n. 1-00224 , sulle premesse nessuna osservazione fino al capoverso 9), del quale chiediamo l'espunzione, così come per il capoverso 10). Stessa cosa…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Impegno 1), parere favorevole, con la riformulazione: “a valutare l'opportunità di adottare le iniziative di competenza volte a garantire nelle strutture sanitarie, anche favorendo l'assunzione di personale, condizioni di lavoro idonee e tali da contenere il fenomeno della medicina difensiva, che, anche a causa della riduzione dell'organico e del deterioramento delle condizioni di lavoro del personale sanitario, stressato da turni massacranti e da stipendi non del tutto adeguati, rischia di crescere esponenzialmente, con rilevanti conseguenze sulla salute quale diritto esigibile e costituzionalmente garantito”. Questa è la riformulazione, con il parere favorevole sull'impegno 1).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Senza alcuna polemica nei confronti del Sottosegretario Gemmato, vorrei, rivolgendomi ai colleghi di tutti i gruppi, fare questa riflessione, che abbiamo già fatto in altri casi: la formula “a valutare l'opportunità di”, che è invalsa ormai come strumento per accontentare i presentatori degli ordini del giorno, sappiamo che ormai fa parte della nostra prassi. Ma se introduciamo la prassi di riformulare con la locuzione: “a valutare l'opportunità di” anche le mozioni, che sono uno strumento di indirizzo, mi chiedo, a questo punto, la differenza tra l'ordine del giorno e la mozione. La mozione dovrebbe essere - correggetemi se sbaglio - uno strumento con cui il Parlamento, la Camera dà un indirizzo al Governo. Se il Governo non è d'accordo - ci mancherebbe - dice di “no”, può anche riformulare, ma che senso ha dare un indirizzo lasciando che il Governo valuti l'opportunità? Io veramente faccio questa riflessione, senza avere in mente, in questo momento, strumenti regolamentari per impedire al Governo di fare questa riformulazione, però invito davvero il Governo in questo caso, ma comunque gli uffici legislativi in generale, a non usare questo strumento, perché oggettivamente depotenziano ulteriormente uno dei pochi strumenti utili. Mi rivolgo anche ai colleghi di maggioranza perché, quando non si approvano gli emendamenti, rimangono gli ordini del giorno e rimangono, su alcuni temi, le mozioni. Da questo punto di vista, vi invito a riflettere sulla prassi di riformulare con la locuzione: “a valutare l'opportunità di” - che, peraltro, è stata utilizzata anche nei confronti della mozione di maggioranza e quindi non lo vedo come un atteggiamento riservato solo nei confronti delle opposizioni -, perché altrimenti depotenziamo ulteriormente uno dei pochi strumenti che è ancora in mano, non della maggioranza o dell'opposizione, ma di noi parlamentari (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Precisando che sono assolutamente d'accordo con il collega Fornaro, aggiungo due elementi. Intanto, un ringraziamento al Sottosegretario Gemmato, perché comunque sta sul pezzo e sul merito delle questioni e, proprio per questo, penso che abbia anche la capacità di dire se una cosa la valuta positivamente o meno e quindi può entrare nel discernimento e chiudere la questione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, concordo con quanto esposto e argomentato dai colleghi che mi hanno preceduta. Si tratta, tra l'altro, di una mozione che dovrebbe essere largamente condivisa, non soltanto dal Parlamento, ma anche dal Governo. Non è neanche un argomento nuovissimo, anzi è una spinosa questione, che va risolta assolutamente, tanto più in un momento in cui il Servizio sanitario nazionale ha il problema di fidelizzare il personale sanitario e il personale medico. Siamo in una situazione in cui questo atto di indirizzo deve essere forte, condiviso e decisivo per la presa di decisione del Governo, perché di questo si tratta. Mi rendo conto che la mozione in sé non è uno strumento così efficace allo scopo persino di quello in premessa, cioè dello strumento stesso. Quindi, occorre assolutamente, considerando anche i pochi strumenti che abbiamo a disposizione, come parlamentari, ragionare sul tema a livello di Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d306379_19",
+      "politician_name": "DE MONTE Isabella",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Signor Sottosegretario, colleghi e colleghe, non voglio ripetere le considerazioni già fatte, però colgo l'occasione innanzitutto per condividere quanto detto, poco fa, dal collega Fornaro e dagli altri colleghi. Non possiamo ritrovarci su un argomento, tra l'altro così delicato, a fare valutazioni troppo generiche, usando la locuzione: “a valutare l'opportunità di”, dobbiamo prendere davvero impegni precisi perché, se così non è, vuol dire che non abbiamo capito la gravità della situazione. Infatti, oggi portiamo in Aula un tema davvero molto delicato, che è appunto quello della sanità, che riguarda molte regioni italiane, anzi forse possiamo sbilanciarci a dire tutte le regioni italiane, perché la situazione è davvero preoccupante. Non mi riferisco solamente a una questione economica o, per dire meglio, a una questione di sostenibilità finanziaria, perché ormai da anni sappiamo che i bilanci pubblici dello Stato e delle regioni sono proprio appesantiti dalla situazione della sanità, ma mi riferisco in modo particolare anche alla situazione organizzativa delle strutture, cioè alla capacità, in modo particolare, di dare dei servizi ai cittadini. Comunque, dobbiamo sempre ricordare - perché questo è corretto - che dobbiamo essere orgogliosi della sanità, che è stata costruita negli anni, perché è una sanità universale, che garantisce il diritto di curarsi a tutti, però dobbiamo anche dare atto che la possibilità di curarsi, in realtà, spesso confligge con la tempistica delle liste d'attesa - anche questa è una situazione, purtroppo, generalizzata -, quindi la riflessione che noi oggi facciamo è una riflessione innanzitutto di carattere generale, cioè sull'importanza della sanità pubblica, ma non può venir meno una riflessione più profonda in merito al modo in cui dobbiamo affrontare la quotidianità per salvaguardare il Servizio pubblico. E poi dobbiamo soffermarci - perché questo è il senso delle nostre mozioni - sugli aspetti peculiari che riguardano il personale sanitario. Ricordiamoci sempre che il momento più duro che ha attraversato l'Italia durante questi decenni riguarda proprio la sanità e la pandemia da COVID-19 e abbiamo apprezzato tutti coloro che operano nel settore della sanità e ne abbiamo capito davvero forse fino in fondo il valore, non solo dal punto di vista professionale, ma anche dal punto di vista della capacità di sostenere ritmi a volte ai limiti della sopportabilità e forse anche oltre e abbiamo apprezzato la dedizione e l'umanità che ha accompagnato questa professionalità di cui ho appena parlato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "306379",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308761_19",
+      "politician_name": "PISANO Calogero",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Presidente, Sottosegretario, il diritto alla salute costituisce un caposaldo dalla nostra Costituzione. Incorniciato nell'articolo 32, è l'unico diritto che la Carta costituzionale definisce come “fondamentale”. È un diritto tutelato a livello europeo e ce lo ricorda la Carta dei diritti fondamentali dell'Unione europea che all'articolo 35 stabilisce che: “Ogni individuo ha il diritto di accedere alla prevenzione sanitaria e di ottenere cure mediche alle condizioni stabilite dalle legislazioni e prassi nazionali”. E prosegue: “Nella definizione e nell'attuazione di tutte le politiche ed attività dell'Unione è garantito un livello elevato di protezione della salute umana”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308761",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto le ragazze e i ragazzi e i docenti dell'Istituto comprensivo “Roseto 1” di Roseto degli Abruzzi, in provincia di Teramo, che assistono ai nostri lavori dalle tribune (Applausi) . Grazie di essere qui.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Sottosegretario, le mozioni affrontano una questione, come dicevo poc'anzi, tra le più rilevanti e delicate per la salvaguardia del Servizio sanitario nazionale e anche dell'indispensabile relazione di fiducia che lega il/la paziente a chi ne ha la responsabilità di cura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308244_19",
+      "politician_name": "BONETTI Elena",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Colleghe e colleghi, Sottosegretario, intanto io vorrei riprendere le riflessioni che sono state fatte prima dell'inizio delle dichiarazioni di voto sull'importanza di restituire anche a questi momenti non solo di dibattito parlamentare ma di indirizzo al Governo un valore incisivo e significativo. Se questo deve essere, anche se tante mozioni sono state a volte discusse, credo, peccando un po' di superficialità, forse, rispetto all'efficacia, mai come quando si parla di questioni che riguardano la vita delle persone e la sanità, ma in particolare la vita delle persone, il rispetto è dovuto anche nel nostro approccio legislativo e, in questo caso, di indirizzo politico, che deve assumere una concretezza e una rilevanza maggiore. Su questo io ringrazio davvero il Sottosegretario Gemmato che nelle varie fasi e nelle varie occasioni - lo dico da componente dell'opposizione - ha sempre dimostrato un'attenzione e un rispetto dovuto; lo ringrazio anche per i pareri espressi. Mi permetto anche, però, in quest'Aula di condividere un ringraziamento e un riconoscimento al lavoro che è iniziato in Commissione, perché noi oggi arriviamo a discutere questa mozione in Aula ma dopo un percorso, che parallelamente proseguirà, che è iniziato in Commissione sulla medicina difensiva. Ringrazio, quindi, il Presidente Cappellacci, tutti i funzionari e i colleghi che in Commissione avevano posto il tema, la collega Ricciardi, il collega Ciancitto, il collega Girelli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308244",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308852_19",
+      "politician_name": "PATRIARCA Annarita",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Governo, onorevoli colleghi, prima di addentrarci nell'analisi della mozione oggi in discussione, credo sia opportuno chiarire preliminarmente lo scenario di fondo in cui ci muoviamo. In Italia, ogni anno, sono intentate oltre 35.000 azioni legali contro medici e strutture sanitarie pubbliche; sono oltre 300.000 quelle, invece, già presentate e ferme nei tribunali. Di queste, come dichiarano i dati di Anaao-Assomed, il 97 per cento in materia penale e il 70 per cento in materia civile si concludono con decisioni dell'autorità giudiziaria favorevoli ai medici, statistica, questa, che dimostra esattamente quanto sia urgente e indifferibile una riorganizzazione normativa riguardo la tutela degli operatori sanitari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308852",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi e colleghe, la crisi del Servizio sanitario nazionale è letteralmente sotto gli occhi di tutti. Ma perché è in crisi il Servizio sanitario nazionale? Perché nell'anno 2023 le cose sono peggiorate rispetto al 2022? Perché i primi giorni del 2024 la situazione del Servizio sanitario nazionale è peggiore rispetto ai primi giorni del 2023? Perché le liste d'attesa sono più lunghe e si sono allungate malgrado una promessa, e cioè che era stato fatto il più grande investimento nella sanità mai fatto prima nella storia della Repubblica italiana?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308911_19",
+      "politician_name": "LOIZZO Simona",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. La mozione presentata oggi dalla maggioranza sulla responsabilità degli operatori sanitari ha come oggetto, da una parte, mettere al centro i nostri pazienti e la sicurezza delle cure e, dall'altra, contribuire ad aiutare i nostri medici e i nostri operatori sanitari a uscire da logiche di medicina difensiva, in cui il crescente numero di contenziosi potrebbe farli ricadere. Dalla legge Gelli-Bianco sono passati già 6 anni e i dati forniti da numerose ricerche confermano che solo in 3 casi su 10 di contenzioso viene dimostrata per il medico una qualche forma di responsabilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308911",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Indubbiamente oggi ci troviamo ad approvare - mi auguro il più possibile all'unanimità - mozioni che toccano una delle tante criticità che riguardano il mondo della sanità. Certo, farlo con una mozione è più semplice che farlo attraverso l'introduzione di cambiamenti normativi, ma voglio pensare sia il preambolo di un cambiamento di passo per quanto riguarda i lavori di quest'Aula e, soprattutto, i lavori del Governo riguardo alla sanità. Si parla appunto di criticità e, fra queste, si è sempre di più verificato il tema della cosiddetta medicina difensiva che ha portato un'ulteriore perturbazione di sistema, creando non poche difficoltà e criticità sia al personale sanitario che ai cittadini stessi. Parlare del perché si è giunti a questa situazione potrebbe portarci anche molto, molto in là nel tempo nella comprensione di alcuni cambiamenti, anche con riferimento ad alcune inefficienze e criticità con le quali il personale sanitario si è trovato a lavorare. Per fare un discorso più generale, partendo dal principio, voglio sottolineare l'aspetto del cambiamento culturale nel rapporto tra medico e paziente. È già stato illustrato questo aspetto da qualcuno che mi ha preceduto e credo che questa sia una delle questioni fondamentali: con riferimento all'autorevolezza riconosciuta al sanitario, al medico, alla persona dalla quale, per la difficoltà della malattia, si cercava la risposta, è venuto meno quel rapporto fiduciario e si è introdotto il principio di messa in discussione, anche per quanto riguarda la ricerca di un colpevole - per esasperare un po' il concetto, in caso di mancato successo o di risoluzione del problema - cui additare il motivo appunto dell'insuccesso stesso. Il che ci ha consegnato numeri davvero incredibili: si parlava, anche prima, delle 36.000 cause intentate ogni anno, delle 300.000 cause che giacciono appunto inevase e, ancora di più, del 90 per cento delle cause che si risolvono nell'assoluzione. Questo implica di dover prendere immediatamente in esame la situazione e iniziare a introdurre seri cambiamenti. Cominciamo dalla legge Gelli-Bianco, come è stato detto prima: a differenza di chi mi ha appena preceduto, prima di parlare di revisione, mi piacerebbe iniziare a parlare di piena attuazione della legge stessa, magari riguardando i vari decreti attuativi rimasti inevasi e che hanno a che fare con la semplificazione e la chiarezza rispetto ad alcuni processi. Pensiamo all'albo dei periti e dei consulenti tecnici, pensiamo ad alcuni protocolli da seguire che molto spesso sono lasciati più alle indicazioni delle comunità scientifiche che a veri e propri indirizzi condivisi dalle autorità sanitarie preposte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Concludo, Presidente. …parlando di sanità, invece, come diritto-dovere costituzionalmente garantito, perché in fondo, se noi fossimo stati capaci di applicare fino in fondo la Costituzione, e se saremo capaci di introdurre e guardare a essa come a un riferimento nel prosieguo della nostra attività normativa, probabilmente, affronteremo e risolveremo anche il tema della medicina difensiva.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308764_19",
+      "politician_name": "CIANCITTO Francesco Maria Salvatore",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, onorevoli colleghi, signor Sottosegretario, oggi, giungiamo alla discussione di questa mozione dopo un intenso lavoro svolto in XII Commissione, Affari sociali, e per questo intendo ringraziare il presidente Cappellacci, tutti i membri della Commissione, di maggioranza e di opposizione, e anche il Governo. Infatti, durante queste settimane e mesi abbiamo svolto tante e diverse audizioni, di sindacati e ordini professionali, che ci hanno consentito di toccare con mano le vere problematiche che oggi i medici, il personale sanitario e anche i pazienti, perché abbiamo ascoltato anche associazioni di pazienti, vivono in questo momento di grande difficoltà della sanità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308764",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308764_19",
+      "politician_name": "CIANCITTO Francesco Maria Salvatore",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Emergenza che ha imposto un recente intervento normativo, il decreto-legge n. 44, del 1° aprile 2021, volto a prevenire una drammatica crisi di sistema. Con tale provvedimento, infatti, è stata riformulata la punibilità dei fatti integranti le ipotesi di cui agli articoli 589 e 590 del codice penale, commessi nel periodo dell'emergenza pandemica e che trovassero causa nella situazione emergenziale, alla sola ipotesi di colpa grave. Del resto, la stessa Corte costituzionale ha considerato la limitazione della responsabilità alla colpa grave un mezzo per assicurare le finalità del buon andamento e dell'imparzialità di cui all'articolo 97 della Costituzione. Quindi, già la Costituzione dice che nell'atto medico la colpa grave va ridotta. Presidente, io così non riesco a proseguire…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308764",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308764_19",
+      "politician_name": "CIANCITTO Francesco Maria Salvatore",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Un sistema professionale come quello medico, a rischio continuo di indagine penale, non è un sistema più attento e diligente, ma un sistema che riduce i rischi di chi agisce cercando maggiori tutele formali, anche a scapito dell'utenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308764",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Mi sembra di capire che il collega chieda un cambio di parere da favorevole con riformulazione, nel senso di “valutare l'opportunità di”, a un parere favorevole secco. Accolgo tale richiesta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Noi non abbiamo ascoltato la riformulazione del 3° capoverso. Quindi, anche per capire in modo consapevole il voto su che cosa è stato espresso, sarebbe opportuno, perché c'era una parte di quell'impegno che chiaramente per noi non era digeribile, ma non tutto. Quindi, se è riformulato in modo da eliminare quello che per noi era critico, è un altro discorso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, scusi, Presidente, sempre sull'ordine dei lavori. In modo generale, possiamo prendere l'abitudine di fornire per iscritto le riformulazioni, specie quando sono piuttosto articolate (Commenti) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che nell' allegato A al resoconto stenografico della seduta odierna sarà pubblicata l'organizzazione dei tempi già predisposta per la discussione degli argomenti iscritti nel calendario dei lavori per il mese di gennaio (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d305757_19",
+      "politician_name": "BOLDRINI Laura",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, a Gaza, dopo oltre 23.000 morti in 3 mesi, di cui 9.000 minori, parliamo del 70 per cento di vittime civili, quindi di donne e bambini, oggi inizia presso la Corte internazionale di giustizia dell'Aja il procedimento che valuterà l'accusa di genocidio mossa dal Sudafrica contro Israele, proprio per questi attacchi indiscriminati dell'esercito israeliano a Gaza. Il dossier che il Sudafrica ha presentato è un dossier molto dettagliato e ci sono anche tantissime testimonianze. Ora, Presidente, se la Corte riterrà fondata la denuncia, quindi accetterà la richiesta di misure cautelari avanzata dal Governo del Sudafrica, Israele potrebbe dover fermare le azioni militari a Gaza. Da notizie di stampa, però, Presidente, sembrerebbe che il Governo Netanyahu stia tentando di fare pressioni politiche, tramite le ambasciate sugli Stati alleati, proprio perché rigettino le accuse. Infatti, anche su un nostro noto quotidiano nazionale è già apparsa la lettera dell'ambasciatore israeliano. Presidente, sarà la Corte a stabilire come stanno le cose, non i vari ambasciatori o i vari Ministri degli esteri, come ha fatto prontamente il Ministro Tajani. Sarà la Corte a stabilirlo. I giudici debbono poter lavorare senza ingerenze. Cosa devono fare i giudici? Devono valutare l'accusa di violazione degli obblighi che derivano dalla Convenzione contro il genocidio proprio nei confronti di palestinesi a Gaza, perché è questa l'accusa mossa dal Sudafrica. Questo è il lavoro che spetta ai giudici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "305757",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307718_19",
+      "politician_name": "FURGIUELE Domenico",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Durante la discussione della legge di bilancio, appena approvata, ho avuto l'onore di condividere una battaglia a difesa dei lavoratori frontalieri con diversi miei colleghi lombardi, tra tutti l'onorevole Candiani, l'onorevole Zoffili e tanti altri colleghi. Attraverso un ordine del giorno a mia prima firma, si è reinserito un tetto massimo alla spesa, alle tasse, al contributo sanitario che era stato assegnato proprio ai lavoratori frontalieri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307718",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308780_19",
+      "politician_name": "RICCIARDI Toni",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. A titolo personale e rapidissimo. Notoriamente, dalla mia cadenza, visto che sono stato tirato in ballo, si sente che sono dell'alta Padania, perché si sente. Certo che c'è un'enorme differenza, collega Furgiuele, tra una proposta di legge e un ordine del giorno e a me dispiace notevolmente il fatto che ella sia stato tirato in ballo in questo, perché sono convinto della bontà dell'ordine del giorno. Però, c'è un piccolo problema: esattamente l'ordine del giorno era volto a sistemare un problema che non era la Lega che voleva risolvere, ma che la stessa Lega ha prodotto, ovvero quello della tassa sanitaria che è in legge di bilancio, che è stata proposta e avanzata dal Ministro dell'Economia, che mi pare che sia del suo stesso partito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308780",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d306349_19",
+      "politician_name": "CANDIANI Stefano",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). La questione, Presidente, nasce da frasi false dichiarate dall'onorevole Toni Ricciardi. Lui dichiara, nell'intervento di ieri, di non averle mai dette. Quindi, è chiaro che il giornalista ha scritto cose che lui non ha mai detto, però nell'intervento di ieri dice anche: “Ora, se un provvedimento è una proposta di legge o è un ordine del giorno, qualcuno mi spieghi per i frontalieri che differenza fa”. Traduco: tanto non capiscono niente (Commenti) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "306349",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "No, no, finiamola qui, vi prego. In via eccezionale abbiamo consentito questo chiarimento. Vi prego di finirla qui. Se dovete continuare andate fuori dall'Aula, perché l'Aula non può sopportare ulteriori interventi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 224
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2024-01-11",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Mi collego, anche qui, all'intervento, che mi ha preceduto, della presidente Boldrini. In queste ore, stiamo leggendo alcuni comunicati stampa nei quali i gruppi della maggioranza prendono le distanze dalla definizione di genocidio per quanto sta avvenendo in Medio Oriente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0224",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 224
+      }
+    }
+  ]
+}

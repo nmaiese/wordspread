@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0504",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-07-03",
+    "title": "Assemblea — Seduta n. 504 del 2025-07-03",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 504
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 106, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Presidente, interveniamo per chiedere con urgenza un'informativa del Ministro Nordio. Ieri il Ministro Nordio ci ha detto che, finalmente, dopo il decreto-legge Carceri del luglio 2024, era pronto il Piano straordinario per l'edilizia penitenziaria. Bene, abbiamo appreso, pochi minuti fa, che la procura di Milano sta indagando per l'ipotesi di corruzione in un'indagine, in un'inchiesta che riguarda un ingegnere del provveditorato regionale per la Lombardia. Il problema, però, è che pare che questa corruzione sia estesa in tutta Italia, per cui sono in corso in tutta Italia perquisizioni e riguardano proprio l'edilizia penitenziaria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anche noi per richiedere al Ministro Nordio un'informativa urgente, alla luce di quello che abbiamo appreso questa mattina leggendo i giornali, di questa inchiesta che parte dalla Lombardia, ma che in realtà riguarda tutta l'Italia, relativamente all'edilizia penitenziaria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Ancora una volta, ci troviamo qua a commentare un'inchiesta che getta un'ombra pesantissima sulle istituzioni: gare truccate, presunte tangenti e lavori gestiti come se fossero un affare privato. Questa volta a essere coinvolti sono i cantieri edili di uno dei temi più infuocati - e uso apposta queste parole - delle nostre istituzioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io intervengo per chiedere un'informativa urgente del Ministro Pichetto Fratin, anche se l'argomento interessa anche il Ministro Giorgetti. Apprendiamo oggi dell'indagine ARERA, un'indagine relativa agli anni 2023 e 2024. Un'indagine dalla quale emergono dei fatti che definirei inquietanti, ossia che ci sarebbe stato un cartello dei produttori di energia che avrebbe ridotto le forniture per far salire artificiosamente i prezzi in un periodo in cui il nostro Paese era sotto pressione per gli aumenti dovuti a questioni esogene rispetto al costo dell'energia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Per associarci a questa richiesta di informativa, come gruppo di Alleanza Verdi e Sinistra, perché quello che oggi il Fatto Quotidiano ha riportato è un fatto di una gravità inaudita, ovvero che le società energetiche avrebbero, di fatto, alterato il prezzo dell'energia determinando un sovraccosto per le famiglie e le imprese italiane, tra il 2023 e 2024, di 5,3 miliardi di euro. È una notizia grave che non può essere lasciata passare così e cadere nel vuoto. Questa è una notizia che dovrebbe portare il Ministro competente a svolgere un'azione immediata non solo di verifica, ma di coinvolgimento stesso dell'autorità giudiziaria. Perché ci troviamo di fronte, evidentemente, se questa informazione fosse confermata, ad una truffa non solo ai danni dello Stato, ma ai danni delle famiglie e delle imprese italiane.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d309220_19",
+      "politician_name": "PANDOLFO Alberto",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per associarci anche noi, come Partito Democratico, alla richiesta di informativa del Ministro Pichetto Fratin, perché ovviamente la notizia che hanno riportato poc'anzi i colleghi ci lascia con la necessità di un chiarimento da parte del Governo. Oltre alle bollette gonfiate, o presunte tali, ad aggravare i costi della vita degli italiani, così come abbiamo denunciato pochi giorni fa, c'è il costo del caro carburanti, che aggrava, ovviamente, i lavoratori che si devono muovere e i tanti italiani che in queste settimane si devono spostare sulla nostra rete stradale. Quindi, chiediamo con urgenza l'informativa del Ministro in quest'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "309220",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Non mi pare ci siano altre richieste di intervento sull'ordine lavori. Pertanto, colleghi, secondo le intese intercorse tra i gruppi, sospendiamo a questo punto la seduta fino alle ore 10, al fine di consentire la conclusione dell'audizione in corso presso il Senato della Repubblica sugli esiti del vertice NATO, in cui sono impegnate le Commissioni riunite esteri e difesa. La seduta è sospesa e riprenderà alle ore 10.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 2126-A: “Disposizioni per il riconoscimento e la promozione delle zone montane” e delle abbinate proposte di legge nn. 699 ​- 1059 ​.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per presentare questo articolo aggiuntivo, che riguarda un tema importante che ha a che fare con la vita dei cittadini che vivono nei territori montani: riguarda i servizi sanitari di montagna. È un articolo che crediamo sia importante e che tutta la politica, che siede in questo Parlamento, dovrebbe sostenere, proprio perché ha l'obiettivo di garantire una pari dignità di accesso a tutti quei servizi che possono migliorare le condizioni di vita e la sostenibilità dei territori montani, non solo per rendere più attrattivo il territorio, ma anche per creare condizioni di migliore agibilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, perché è molto faticoso parlare così. Dicevo, anche in materia sanitaria, che consentano a tutti i cittadini di scegliere di dimorare in quei territori, siano essi residenti o non, e quindi di fruire dei servizi sanitari e sociosanitari di base accessibili agli altri territori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …gli infermieri di comunità - concludo -, gli specialisti e le farmacie, per avere reti integrate che, grazie al supporto della telemedicina, possano supportare una risposta efficace e puntuale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. In questo emendamento racconto cosa succede nei nostri territori montani. I sindaci dei piccoli comuni organizzano i punti prelievo nei locali comunali, utilizzando, come medici prelevatori, neanche i medici, ma infermieri in pensione. Quindi, la pari dignità di accesso ai servizi non è assolutamente garantita, non è neppure lontanamente garantita. Come pure la presenza diurna e notturna di mezzi di soccorso avanzato: non esiste, se non a distanza di molti chilometri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io credo che, rispetto alla tutela e alla dignità dei cittadini delle zone montane, siano questo e anche quelli a seguire gli emendamenti chiave. È stata fatta un'operazione estremamente discutibile con la stessa autonomia differenziata, con dei divari incredibili tra le regioni del Sud e le regioni del Nord. Le regioni del Sud pagano 4 miliardi e 250 milioni di migrazione sanitaria, divari assolutamente inaccettabili e insostenibili, ma questi divari si manifestano in maniera molto evidente anche nelle aree interne. Ci sono dei divari che generano in maniera inevitabile cittadini di serie A e cittadini di serie B rispetto all'assistenza sanitaria. E non c'è dignità nei confronti dei cittadini quando si fanno queste operazioni che generano disuguaglianze così significative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. La questione del perché si stiano spopolando le aree interne, per suo tramite, la rivolgo ai colleghi. Se stanno chiudendo le scuole, se mancano i servizi di prima necessità, se mancano i poliambulatori, se mancano gli infermieri di comunità, su questo voi dovete chiedervi perché le aree interne, le aree montane, si stiano spopolando sempre di più. Questa è una proposta emendativa di buon senso che chiede proprio di istituire, in questi territori ormai desertificati e depauperati, dei servizi di prima necessità. Quindi, io vi chiedo di rivedere il parere su questa proposta emendativa e votare favorevolmente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Solo per precisare cosa chiediamo con questo emendamento. Chiediamo di favorire l'aggregazione nelle zone montane tra medici, che credo possa essere una risposta particolarmente efficace in territori caratterizzati da piccoli comuni, molte volte composti da frazioni ancora più piccole, con un numero davvero esiguo di abitanti e su un territorio molto vasto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. Questo emendamento parla delle scuole di montagna e chiediamo si consenta agli enti locali, oppure alle regioni, una deroga in materia di assegnazione del personale docente. È una strage annuale quella delle soppressioni delle classi e poi, via via, anche dei plessi. Vanno bene anche le pluriclassi, ma è fondamentale la deroga sui numeri perché altrimenti spariranno anche le pluriclassi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anche noi abbiamo questo emendamento che va a intervenire sul comma 2 e poi, di conseguenza, anche sui successivi dell'articolo 7 relativo alle scuole montane. Lo diceva benissimo la collega, noi abbiamo un Governo che, tra le prime cose che si è preoccupato di fare, è di iniziare a tagliare al mondo della scuola. Ha deciso di avviare tra le prime riforme quella del dimensionamento scolastico che ha portato, poi, all'accorpamento di istituzioni scolastiche, alzando il numero minimo di alunni che una scuola debba avere per essere riconosciuta come tale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anche in questo caso c'è un problema molto serio, nei comuni montani, nelle aree interne: purtroppo, ci sono tante infrastrutture presenti, quindi scuole, ma non ci sono più bambini per un calo demografico e i pochi bambini che ci sono sono costretti, insieme ai genitori, a fare chilometri per andare in altre scuole in comuni limitrofi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche questo emendamento va nella direzione dei precedenti che avete appena bocciato, e cioè quella di rendere evidente che, se davvero è autentico il desiderio di contrastare lo spopolamento della montagna, sostenendo i progetti di vita delle persone e quindi delle famiglie in montagna, non si può prescindere dall'offerta di un servizio all'infanzia e di servizi scolastici che consentano effettivamente, poi, l'esercizio di questo diritto-dovere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308804_19",
+      "politician_name": "CURTI Augusto",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. La bocciatura di questo emendamento in realtà fa emergere, a mio avviso, una verità chiara e innegabile: la verità di quanto questo provvedimento sia lontano dai territori e dalle esigenze di quei territori montani. Ma fa emergere anche con chiarezza un'altra verità, e cioè quanto a questo Governo delle aree interne, in realtà, non interessi assolutamente nulla.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308804",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Con questo emendamento chiediamo di rendere effettiva la misura che prevede il tentativo di salvare le scuole delle aree montane, rendendola non solo una bandierina per una propaganda, ma una misura finanziata, attuabile ed estensibile, anche più in generale, alle aree interne. Questo nostro emendamento interviene esattamente sul punto delle risorse, perché, come spesso accade in quest'Aula, anche questa legge prevede di realizzare delle misure a costo zero, senza spiegare come sia possibile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "La collega Carmina, allora. L'avevo citata, ma lei non ha fatto cenno e, invece, si era manifestata la sua collega. Comunque prego, parli. Le lascio la parola. Quindi va benissimo, è del suo stesso gruppo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Mi permetto di insistere sull'accoglimento di questo emendamento, che è nella logica di vero contrasto allo spopolamento delle zone montane, perché questo Governo e questa maggioranza hanno assentito all'erogazione di un bonus per la natalità per i comuni sotto i 5.000 abitanti, come se la possibilità di evitare lo spopolamento fosse legata alla capacità procreativa delle donne. Ma se poi questi bambini e queste donne non hanno la possibilità di godere dei servizi, a partire dagli asili e dai servizi scolastici e se non si deroga alle regole del dimensionamento scolastico e alle regole del numero minimo di bambini per classe, sicuramente non si avrà un contrasto efficace alla logica dello spopolamento. Quello dei servizi è il nodo centrale e lì si deve operare. Volevo dire solo questo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, Presidente. Intervengo per chiedere di sottoscrivere l'emendamento a prima firma della collega e anche per porre un quesito a quest'Aula, e quindi per il suo tramite, al Ministro Calderoli. Sinceramente, mi sembra paradossale oggi discutere di un disegno di legge per valorizzare le aree montane e favorire il loro ripopolamento - anche attraverso questo emendamento, che purtroppo già sappiamo verrà bocciato - quando questo Governo ha scritto a chiare lettere nel Piano strategico per le aree interne che le aree interne del nostro Paese sono inesorabilmente destinate a morire. C'è una contraddizione rispetto all'azione di questo Governo. Nelle contraddizioni, purtroppo, questo Governo non si smentisce mai, perché fa solo propaganda (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento di buonsenso è proprio per contenere - come diceva anche la collega Orrico - lo spopolamento, che ancora continua nelle aree interne e ha proprio l'obiettivo di evitare la dispersione scolastica. Quindi, sono inconcepibili e sono politicamente inaccettabili il parere contrario su questo emendamento e, sicuramente, il voto contrario da parte della maggioranza. Quindi vi chiedo di ripensarci, perché il tema delle aree interne va affrontato a 360° e la questione della dispersione scolastica in quelle zone, in quelle aree, è molto importante (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. Intervengo molto brevemente. Chiediamo il tempo pieno e l'attività di doposcuola nelle zone montane. È un tema su cui siamo particolarmente sensibili. Per noi sarebbe importante e fondamentale avere il tempo pieno in ogni comune e in ogni regione. A questo punto, in subordine, chiederemmo almeno di attivarlo nelle zone non montane; sarebbe già un passo avanti e un servizio in più.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo emendamento destina 10 milioni del Fondo per il miglioramento dell'offerta formativa alle scuole di montagna per la definizione della relativa indennità di sede disagiata al personale assunto a tempo indeterminato e determinato, in luogo del punteggio aggiuntivo nelle graduatorie. Perché abbiamo bisogno di finanziare con certezza e, in questo caso, aumentare il finanziamento del Fondo per il miglioramento dell'offerta formativa? Perché non è solo il progetto di vita del docente che ottiene un riconoscimento di punteggio nelle sue graduatorie quello che può servire a portare docenti nelle scuole di montagna. Infatti, questi docenti, se non hanno un progetto di vita assistito, accompagnato, una volta finito il periodo di obbligo per ottenere questo finanziamento ulteriore, tornano da dove sono venuti, e, quindi, c'è un turnover continuo di insegnanti nelle scuole di montagna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. In questo caso, parliamo di risorse ai comuni per i servizi di asili nido. I servizi all'infanzia sono strumenti che tutti noi conosciamo come leve per l'incremento della natalità che, come dicevamo prima, è uno dei più grandi problemi che affligge questo Paese oggi e, in prospettiva, questa situazione andrà aggravandosi. Ebbene, se, come dicevo prima, vogliamo che giovani coppie, che giovani individui, che oggi, in controtendenza, stando andando a vivere in montagna, possano costruire un proprio progetto di vita, dobbiamo fargli sapere che lì troveranno la possibilità dei servizi per i propri figli. Ebbene, oggi in questo Paese…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …il servizio di asilo nido - grazie, Presidente - non raggiunge ancora il 33 per cento che era stato stabilito su base europea. Sono solo 11 le regioni che superano questa percentuale e il Paese si attesta, come media, al 30 per cento, con differenze macroscopiche soprattutto tra il Nord e il Sud del Paese, ma anche rispetto alle aree interne. Quindi, abbiamo bisogno di garantire questo tipo di servizi per le famiglie e per i bambini. Perché la regione Trentino-Alto Adige oggi è la regione che ha la natalità più alta di questo Paese? Perché ci sono servizi per l'infanzia, servizi per le famiglie che da anni garantiscono una pluralità di offerta formativa che si dispiega su un territorio che ha moltissimi piccoli comuni, spesso in condizione di montagna, in una collocazione, dal punto di vista orografico, non semplice.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Con questo articolo il Governo e la maggioranza toccano uno dei punti più bassi di questo provvedimento, e dire che di punti bassi ce ne sono. Qui c'è un vero e proprio accanimento nei confronti del lupo, della specie canis lupus , ed è il motivo per il quale, come Alleanza Verdi e Sinistra, non proponiamo neanche una riformulazione, un correttivo di questo articolo, ma la totale soppressione. Davvero il Governo e la maggioranza non vedono l'ora, addirittura, di superare l'errore già commesso, qualche settimana fa, dall'Unione europea con il declassamento della specie da rigorosamente protetta a protetta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che il gruppo Alleanza Verdi e Sinistra ha esaurito i tempi previsti dal contingentamento. Essendone stata fatta richiesta, la Presidenza concederà a tale gruppo un tempo aggiuntivo pari a un terzo rispetto al tempo originariamente assegnato al gruppo medesimo dal contingentamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d309140_19",
+      "politician_name": "FERRARA Antonio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Signor Presidente, onorevoli colleghi, la discussione su questo emendamento al disegno di legge n. 2126 ​ rappresenta un'occasione non solo per entrare nel merito tecnico della disciplina degli ecosistemi montani, ma anche per chiamare quest'Aula, una volta per tutte, a un atto di verità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "309140",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d309140_19",
+      "politician_name": "FERRARA Antonio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). … sudditanza verso le lobby e verso interessi di corto respiro. Allora, onorevoli, non ci si venga a dire che basta cambiare le virgole, inserire una deroga e aggiustare un tasso di prelievo per ridare dignità a un piatto. È ormai evidente che bisogna gettare via questo articolo e andare avanti con quello che è un discorso politico corretto per la nostra società (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "309140",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Tra poco approverete un emendamento terrificante sui valichi montani, facendovi beffa della legge n. 157, delle sentenze e delle norme europee. Tutto per poter sparare agli uccelli migratori e noi voteremo contro. Ora con questo articolo ve la prendete con il lupo. Io vorrei provare a farvi capire che non serve davvero a nulla continuare a costruire dei nemici per poi mostrare che li combattete, perché non si risolve nessun problema in questo modo. Serve ad alimentare la propaganda, questa sì, senza dubbio, ma non certo a risolvere i problemi complessi, perché i problemi complessi non hanno soluzioni semplici e questo modo di fare alimenta solo e soltanto una cultura dell'odio, della sopraffazione, del dominio e della violenza individualista e maschilista. Questo vale anche per la fauna selvatica, per i lupi e per gli orsi, che voi individuate come dei nemici e, quindi, come dei bersagli su cui sparare, accrescendo in questo caso la frustrazione di chi subisce dei danni, la paura nella popolazione, in particolare di chi vive la montagna. State, anche, di fatto, fomentando chi vuol farsi giustizia da sé, come se poi il bracconaggio non fosse già oggi un dannato problema del nostro Paese. Proprio ieri un grave episodio è stato segnalato dal WWF in Calabria: un magnifico esemplare di falco pellegrino, che è uno dei rapaci diurni più maestosi e rari, è stato colpito da una fucilata nelle campagne vibonesi. Ecco perché vogliamo richiamarvi alle soluzioni efficaci e sensate, che esistono, che si basano su attività di prevenzione e informazione e che hanno basi scientifiche. E lo facciamo con questa serie di emendamenti in cui vi ricordiamo, in particolar modo in questo emendamento, che installare dei cassonetti anti-orso, per eliminare l'accesso al cibo da parte di questi meravigliosi animali, è una delle misure prioritarie da dispiegare massicciamente e diffusamente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che il Partito Democratico ha esaurito i tempi previsti dal contingentamento. Essendone stata fatta richiesta, la Presidenza concederà a tale gruppo un tempo aggiuntivo pari a un terzo rispetto al tempo originariamente assegnato al gruppo medesimo dal contingentamento. Ha chiesto di parlare il deputato Ferrara. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d309140_19",
+      "politician_name": "FERRARA Antonio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Comunque, in ogni caso, quello che volevo dire era riferito agli orsi. In questo caso, noi abbiamo delle situazioni in cui i governatori non sanno gestire il territorio, da una parte, perché parliamo di grandissimi spazi che ci sono, ma alla fine anziché mettere gli orsi nelle zone giuste, dove dovrebbero stare, avere il loro ecosistema, ben lontani dalle persone, questo non viene fatto. Dall'altra parte, abbiamo tutto un discorso di speculazioni immobiliari. Perché, alla fine, non dobbiamo dimenticare neanche il perché vengono eliminati da certe zone, perché dicono: sì, danno fastidio, ma la domanda vera è: perché sono andati a costruire in zone, perché dare ancora ulteriore spazio a queste persone anziché limitare, in questi ambienti naturali, il discorso di speculazione immobiliare?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "309140",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sappiamo che questa maggioranza ha una fissazione per la caccia. Più volte sono intervenuti sulla legge n. 157 del 1992. Diciamo che dopo sarà contento, per suo tramite, il collega Bruzzone al quale, forse, finalmente, sarà approvato qualcosa in quest'Aula, visto che in Commissione gli abbiamo sempre bloccato tutto. Lupi e orsi: ve la prendete con esseri senzienti, violando la Costituzione e l'articolo 9 (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307716_19",
+      "politician_name": "CATTOI Vanessa",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice . Grazie, Presidente. Rileggo la proposta di riformulazione. Dopo l'articolo 14 inserire il seguente 14- bis. - (Disposizioni in materia di valichi montani) - 1. Il comma 3 dell'articolo 21 della legge dell'11 febbraio 1992 n. 157 è sostituito dal seguente: “3. Sui valichi montani attraversati dalle rotte di migrazione dell'avifauna in misura rilevante e che, per la loro conformazione orografica caratterizzata da un significativo dislivello tra il punto di valico, sito ad almeno 1.000 metri di quota, e i due contrafforti montuosi vicini, comportano un apprezzabile restringimento lungo un passaggio obbligato delle medesime rotte di migrazione, per una distanza di 1.000 metri dai valichi stessi, individuati sulla base cartografica e con apposite tabelle, con decreto del Ministro dell'Ambiente e della sicurezza energetica, di concerto con il Ministro dell'Agricoltura, della sovranità alimentare e delle foreste, adottato entro 180 giorni dalla data di entrata in vigore della presente disposizione, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, sentiti l'ISPRA e il Comitato tecnico faunistico-venatorio nazionale, sono istituite, ove non già esistenti, zone di protezione speciale, nelle quali l'attività venatoria è consentita nei limiti e nelle condizioni stabiliti dalle regioni, ai sensi dell'articolo 3 del decreto del Ministro dell'Ambiente e della tutela del territorio e del mare del 17 ottobre 2007, pubblicato nella Gazzetta Ufficiale n. 258 del 6 novembre 2007. Nelle more dell'adozione del decreto, di cui al primo periodo, l'attività venatoria è consentita secondo i principi stabiliti dalla Corte costituzionale nella sentenza n. 254 del 20 dicembre 2022, nei limiti e alle condizioni suddette sui valichi individuati dalle regioni e vigenti nella stagione venatoria 2023/2024”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307716",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Qual è lo scopo di questo emendamento e di questa riformulazione? Noi ci aspettavamo qualcosa di più e di meglio dal Ministro. In effetti, cosa si fa invece di fatto? Si cerca di salvare la regione Lombardia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Desidero intervenire su questo emendamento, che, di fatto, vuole cancellare e smantellare la legge n. 157 del 1992 e la tutela dell'avifauna migratrice, in contrasto con la direttiva 2009/147/CE (conosciuta come direttiva Uccelli). Togliendo il divieto, si vuole continuare a favorire le lobby venatorie, perché, in effetti, gli uccelli migratori non votano, mentre i cacciatori (e gli interessi che girano intorno) sì.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, sì. Dev'essere una soddisfazione pazzesca quella di mettersi di nascosto, con i fucili, per trucidare animali stremati dalla fatica, dopo aver percorso migliaia di chilometri di volo. Ma dev'essere una soddisfazione, signori (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Scusi. Secondo me, sarebbe più dignitoso - e qua ci sono molti maschi alfa, che hanno la prestanza fisica - affrontare un grizzly o un leone, ma ad armi pari (Applausi del gruppo MoVimento 5 Stelle) ! Io sono sicura che molti di voi vinceranno, perché avete la prestanza fisica per farlo. Quindi…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …noi siamo contrari a questo articolo aggiuntivo (Applausi dei deputati del gruppo MoVimento 5 Stelle - Applausi ironici dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Le confesso che trovo particolarmente imbarazzante la presentazione di questo articolo aggiuntivo, oltretutto frutto di una serie di rivisitazioni, per dargli un contorno di rispetto della norma e anche per cercare di contestualizzarlo all'interno di un provvedimento che, con tutta onestà, dovrebbe occuparsi di altro e normare altro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Un minuto per ribadire l'ovvio, ossia che questo articolo aggiuntivo è l'ennesimo favore alle lobby dei cacciatori e non è il primo, è almeno il quarto. E allora mi chiedo: ma come mai è il quarto in questa legislatura? Come mai c'è tutta questa sensibilità da parte del Governo e delle forze di maggioranza nei confronti delle lobby dei cacciatori? Non è che per caso qualche associazione di cacciatori ha finanziato la campagna elettorale dei partiti di maggioranza (Applausi dei deputati del gruppo MoVimento 5 Stelle - Proteste di deputati del gruppo Fratelli d'Italia) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Dopo il Salva Milano arriva anche il Salva Lombardia, perché voi, invece che aspettare il Consiglio di Stato, che forse potrebbe darvi ragione, avete paura che dia torto alla regione Lombardia, fate un provvedimento per andare contro il TAR, per salvare i vostri amici della regione Lombardia e fare quello che un Parlamento non dovrebbe più fare, ovvero piegarsi alle lobby della caccia e provare a forzare la giurisprudenza per dire: non c'è un altro livello di giudizio, lo sopprimiamo noi questo dubbio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Quello che sta succedendo in quest'Aula per questo emendamento è una cosa vergognosa. Avete provato in tutti i modi, anche in Commissione agricoltura, a modificare più volte la legge n. 157 del 1992: prima con un emendamento Foti nella prima legge di bilancio, poi in altri provvedimenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha chiesto di parlare la deputata Orrico. Ne ha facoltà (Si odono suoni che riproducono il verso di uccelli - Proteste dei deputati del gruppo MoVimento 5 Stelle) …Non ho capito bene che cosa stia accadendo. Deputata Orrico, lei prende la parola, noi intanto indaghiamo per capire…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, articolo 8 e seguenti. Presidente, ma è possibile che, mentre si fa una discussione sul tema degli animali, sul tema della caccia, sentiamo, in maniera canzonatoria, dei suoni registrati di richiami per gli uccelli, che si usano come richiami per gli uccelli per cacciare, ad alto volume, in quest'Aula, mentre si fa una discussione del genere? Ma a lei sembra un comportamento dignitoso? Dignitoso (Applausi dei deputati del gruppo MoVimento 5 Stelle) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Guardi, ovviamente la Presidenza assume le sue considerazioni. Non siamo riusciti fin qui a capire da chi sia partito questo richiamo, quindi non possiamo effettuare una censura, un richiamo all'ordine. Possiamo soltanto ribadire che non è consentito disturbare i lavori d'Aula, tanto meno dileggiare con scherno e rumori di vario genere chi sta esprimendo le proprie opinioni. Ha chiesto di parlare la deputata Orrico, riprendiamo i lavori dal suo intervento. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, è vergognoso l'atteggiamento che questa maggioranza ha nei confronti di un diritto sancito dalla nostra Costituzione, che è il diritto all'ambiente. È un diritto che non vale soltanto per gli esseri umani ma vale anche per gli animali (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Allora, non contenti di provare a distruggere le soprintendenze per garantire l'abusivismo edilizio e la speculazione sull'eolico e sul fotovoltaico selvaggio, non contenti di lavorare ad un ponte sullo Stretto che ucciderà migliaia di uccelli che migrano, utilizzando le rotte del ponte sullo Stretto di Messina, adesso si inventano anche la caccia nei valichi di montagna. È proprio vero che al peggio non c'è mai fine. Ma mettetevi una mano sulla coscienza, perché i vostri figli e i vostri pronipoti vi chiederanno conto di questa strage ambientale che state perpetrando (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Sin dall'inizio della trattazione del testo, in Commissione e anche nella discussione generale, abbiamo evidenziato la natura lacunosa, l'insufficienza di misure adeguate a trattare le questioni che afferiscono alle zone montane e, in genere, alle aree interne, in particolare a quelle del Mezzogiorno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Con questa proposta emendativa, che coinvolge anche il tema più generale dell'acqua inteso come valore della montagna e quel che ne consegue, anche dal punto di vista della remunerazione e del riconoscimento del territorio montano, si vuole stabilire che l'autorità d'ambito territoriale per la gestione del servizio idrico integrato destini una cifra, non inferiore al 3 per cento della tariffa, per l'attività di difesa del suolo dal dissesto idrogeologico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. È un emendamento particolarmente importante. Non sono sufficienti i fondi ATO, laddove erogati, e chiediamo, come gruppo, di sottoscrivere questo emendamento, se i proponenti sono d'accordo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo emendamento, a dir la verità, è molto collegato a quelli dell'articolo 21 che sono stati già bocciati, perché prevede il riconoscimento della guida ambientale escursionistica tra le professioni di montagna. Anche negli emendamenti che citavo prima ci si limitava a chiedere che queste realtà venissero coinvolte, come effettiva partecipazione, nel predisporre programmi, nel fare una fotografia e un'analisi delle esigenze; con questo andiamo a riconoscerla come professione della montagna. Fa parte di quel riconoscimento necessario delle figure che spontaneamente sono nate, si sono strutturate, si sono formate, sanno dare una risposta ai bisogni della montagna, ma, ancora di più, sanno dare un rimando di quello che è la montagna nella sua fragilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, con questo articolo e con la bocciatura di questo emendamento perdete l'ennesima occasione, non per voi, non per noi, per metà della popolazione italiana, che sono le donne. Dalla prima Premier donna di questo Paese ci si aspettava qualcosa in più, anzi lei stessa ha detto che sarebbero cambiate le condizioni delle donne in questo Paese grazie al suo arrivo. Ebbene, non solo di tutto ciò non si è visto nulla, ma quando vi offriamo uno spunto per rendere credibili quelle parole lo state bocciando.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308891_19",
+      "politician_name": "ROGGIANI Silvia",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Molto brevemente, qua mi collego anche a quello che abbiamo già detto ieri e che abbiamo detto in tanti emendamenti. Voi avete previsto, con questa proposta di legge, di dare degli incentivi allo smart working solo nei piccoli comuni. Ma guardate, se esistesse un trasporto pubblico locale efficiente ed efficace presente nelle aree montane e nelle aree interne potrei anche comprendere questa misura, cioè ci concentriamo nell'incentivare solo laddove effettivamente il trasporto pubblico locale non c'è e non arriva.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308891",
+        "seduta": 504
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-07-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Noi qui stiamo disegnando perimetri sempre più ristretti dell'azione di Governo, che dovrebbe essere volta a intervenire nei territori che sono soggetti a spopolamento e a invecchiamento della popolazione. Siamo passati da aree interne a zone montane, e, nel corpo di questo provvedimento, siamo passati da zone montane a comuni montani, in virtù, però, di una futura classificazione che stabilirà i parametri altimetrici attraverso un DPCM.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0504",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 504
+      }
+    }
+  ]
+}

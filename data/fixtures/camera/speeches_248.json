@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0248",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-02-20",
+    "title": "Assemblea — Seduta n. 248 del 2024-02-20",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 248
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 108, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie, Presidente. Sottosegretario D'Eramo, onorevoli colleghi, l'Aula inizia oggi l'esame del disegno di legge recante delega al Governo in materia di florovivaismo, esaminato dalla XIII Commissione agricoltura in sede referente con l'approvazione di alcune modifiche. Su tale provvedimento hanno espresso parere favorevole le Commissioni competenti, mentre la Commissione bilancio esprimerà il prescritto parere direttamente all'Assemblea.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307306_19",
+      "politician_name": "ROSSI Andrea",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Colleghi, egregio Sottosegretario, oggi ci troviamo di fronte alla discussione di una legge delega che riguarda uno dei settori di eccellenza della nostra produzione italiana, quale è il florovivaismo. Come ha sottolineato giustamente la relatrice, il florovivaismo oggi rappresenta uno dei pilastri dell'agricoltura nazionale e gode di un'importante reputazione sia a livello nazionale che internazionale, settore chiave - come resta tutta l'agricoltura - per la transizione ecologica. Il fatto che oggi siamo qui a parlare del florovivaismo è dimostrazione di quanto sia variegato il settore agricoltura e di quante siano le dimensioni che questo tocca.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307306",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308910_19",
+      "politician_name": "ALMICI Cristina",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Colleghi, oggi inizia la discussione sul disegno di legge delega in materia di florovivaismo. L'obiettivo della delega è quello di fornire un quadro normativo coerente e organico a tutto il settore florovivaistico ma anche di dare impulso alla promozione, commercializzazione, valorizzazione e incremento della qualità e dell'utilizzo dei prodotti del settore florovivaistico e della filiera. In particolare, il provvedimento in esame prevede la necessità di una disciplina dell'articolazione della filiera che comprenda le attività agricole e quelle di supporto alla produzione e una definizione puntuale dell'attività agricola florovivaistica. Per la programmazione si punta all'elaborazione di un piano di settore in collaborazione e con il supporto delle organizzazioni di rappresentanza del settore per generare valore e per avviare azioni innovative per la comunicazione e la promozione dei prodotti per la competitività e per lo sviluppo delle aziende florovivaistiche. La legge delega prevede, inoltre, l'istituzione di piattaforme logistiche per macroaree - Nord, Centro, Sud e Isole - per migliorare la logistica nazionale e verso l'Unione europea e i Paesi terzi nonché la formazione professionale. Si tratta di un provvedimento importante che restituisce finalmente valore a un settore strategico del made in Italy che è parte fondamentale del sistema agricolo italiano. Dopo anni di attesa si accelera sulla definizione di un quadro unico per un settore che in Italia fattura oltre due miliardi e mezzo di euro per la sola parte di produzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308910",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308791_19",
+      "politician_name": "PIERRO Attilio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, onorevole Sottosegretario, siamo oggi chiamati ad esaminare il provvedimento recante una delega al Governo in materia di florovivaismo, che si pone lo scopo di disciplinare, tramite i prossimi decreti legislativi, le attività del settore florovivaistico, caratterizzato da un alto grado di complessità sotto il profilo biologico, tecnico e commerciale, ma, allo stesso tempo, di individuare gli strumenti per favorire una sempre maggiore strutturazione e un rilancio del comparto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308791",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha facoltà di replicare la relatrice, deputata Maria Chiara Gadda. Non intende farlo. Chiedo al rappresentante del Governo se intenda intervenire. Prendo atto che non intende intervenire. Il seguito del dibattito è rinviato alla parte pomeridiana della seduta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione delle mozioni Piccolotti ed altri n. 1-00235 e Orrico ed altri n. 1-00244 concernenti iniziative in materia di tutela della professione giornalistica e della libertà di informazione (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Onorevoli colleghe e colleghi, la libertà di stampa in Italia continua a vivere giorni delicati tanto che la classifica stilata nel 2023 da Reporters sans frontières vede il nostro Paese soltanto al 41° posto nel mondo. Non c'è da stupirsi se si pensa ai tanti operatori dell'informazione minacciati, numerosi sotto scorta, alla rilevante quantità di azioni giudiziarie intimidatorie contro giornalisti, ma soprattutto alla ricorrente tentazione di questa maggioranza di imporre un vero e proprio bavaglio alla libera informazione. Non a caso la Federazione nazionale della stampa italiana e l'Ordine dei giornalisti contestano radicalmente la legge sulla diffamazione in discussione in Senato che non blocca le querele temerarie, comprime invece in maniera ingiustificata il diritto dei cittadini a un'informazione libera e approfondita. Eppure, l'80 per cento delle denunce per diffamazione non arriva a giudizio e di quelle a giudizio l'85 per cento si conclude con l'assoluzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'iniziativa del gruppo Alleanza Verdi e Sinistra è pregevole, perché consente alla nostra Aula, alla Camera dei deputati, di esprimersi su un tema non nuovo, estremamente rilevante, in relazione alla qualità sostanziale della nostra democrazia. Infatti, pur entrando in campo interessi e beni costituzionali, tutti rilevanti, nell'assenza di equilibrio tra quei beni rischiamo che la nostra produzione normativa non tuteli efficacemente il diritto dei giornalisti e, dunque, dell'informazione, alla libertà e all'indipendenza del proprio esercizio. Non è un tema nuovo perché il Parlamento ha affrontato in più occasioni l'esigenza di adeguamento, aggiornamento e modificazione della normativa nazionale. Tuttavia, ad oggi, le iniziative legislative in materia non hanno prodotto risultato. È pur vero che al Senato della Repubblica sono oggetto di esame alcune proposte che si prefiggono l'obiettivo di innovare la normativa e arrivare a tutelare la libertà del giornalista, del giornalismo e, dunque, dell'informazione, dinanzi ad azioni intimidatorie di terzi, finalizzate a comprimere la libertà di esercizio professionale e, dunque, il diritto all'informazione. Da questo punto di vista, noi del Partito Democratico rivendichiamo l'azione che, in questo caso, i nostri colleghi al Senato hanno svolto e stanno svolgendo sin dall'inizio di questa legislatura, nella quale sono andati a recuperare il lavoro già svolto nella precedente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308888_19",
+      "politician_name": "DI MAGGIO Grazia",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, oggi ci troviamo a discutere di un tema veramente molto delicato, che sta particolarmente a cuore sia a Fratelli d'Italia che alla sottoscritta, in quanto giornalista. La libertà di stampa, l'attività informativa del professionista, che si muove oggi su un difficile crinale, giuridicamente, per il rischio che la libertà di informazione travalichi nel reato di diffamazione, e politicamente, perché il giornalista può trasformarsi da cane da guardia della democrazia, come l'ha definito la Corte europea dei diritti dell'uomo. Lo facciamo tornando su un argomento del quale si è molto dibattuto, anche poc'anzi, la cosiddetta “legge bavaglio”, del quale poco in realtà è stato detto nel merito. Cerchiamo allora di fare chiarezza. L'emendamento, che è stato così tanto discusso, non è certo un emendamento di Fratelli d'Italia o delle altre forze di maggioranza, né del Governo. Si aggancia alla direttiva europea sulla presunzione di innocenza e introduce il divieto di pubblicazione integrale o per estratto del dispositivo dell'ordinanza di custodia cautelare finché non siano concluse le indagini preliminari, ovvero fino al termine dell'udienza preliminare, riportando poi, in buona sostanza, anche l'articolo 114 del codice di procedura penale al suo perimetro originario, che è quello in forza del quale è vietata la pubblicazione, anche parziale, degli atti del dibattimento che viene celebrato a porte chiuse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308888",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Sono particolarmente contento di intervenire in Aula sul tema delle cosiddette liti temerarie, perché ne sono stato vittima da giornalista, da esponente politico e perché voglio fare un esempio concreto di che cosa significhi essere al centro di un'azione atta a intimidire l'informazione e, in alcuni casi, anche la libera espressione di idee sociali o politiche. Dovete sapere che nel 2017 morì una donna molto importante legata alla camorra, la vedova Moccia, Anna Mazza, detta la “vedova nera”, uno dei nomi più inquietanti della storia: per intenderci, i Moccia hanno e gestiscono ancora buona parte di Afragola e gestivano e vivevano nel Parco verde, dove hanno scontato sempre i loro arresti domiciliari, in una casa di proprietà dello Stato, data, come tante altre, serenamente, a famiglie di camorra.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Ringrazio i colleghi che hanno portato all'attenzione di quest'Aula la discussione che è oggetto anche di una nostra mozione, come gruppo di Azione, in corso di presentazione, per mettere al centro della discussione anche di quest'Aula un tema che in ambito europeo, sia nel Consiglio d'Europa sia nell'Unione, in questo periodo è molto attenzionato. Come sappiamo, com'è stato detto dai colleghi che mi hanno preceduto, la libertà di manifestazione del pensiero, prevista dall'articolo 21 della Costituzione, si configura come diritto fondamentale della persona, quale libertà strumentale al pieno realizzarsi dell'ordinamento democratico. Non è un diritto come tutti gli altri: la Corte costituzionale l'ha più volte ribadito, l'ha chiamato la pietra miliare della libertà e della democrazia. La libertà e l'autonomia dell'informazione sono pilastri fondamentali per la promozione dello sviluppo democratico. Non dobbiamo dimenticarcelo e darlo per scontato, perché la storia del mondo, sicuramente, ma anche della nostra Nazione è piena di giornalisti che hanno preso sul serio l'impegno civile, fino alle estreme conseguenze: molti sono morti per ricordare la verità. Sappiamo che a tutt'oggi, specialmente in fasi complesse di lotta alla criminalità e di situazioni di conflitto, questa professione assume un ruolo sempre più importante e vitale per le democrazie del mondo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. È necessaria, dal nostro punto di vista, una premessa. Nel nostro Paese siamo in un contesto editoriale dove chi fa informazione ha altri interessi politici o economici, o perfino entrambi. Non ci sono editori puri nel nostro Paese, salvo rare eccezioni. Abbiamo un vero e proprio polo editoriale di destra, che ha fondamentalmente due cognomi: quello legato alla famiglia Berlusconi e l'altro legato ad Angelucci. Non è questa la sede per fare una valutazione di merito, ma è necessario fare i conti con la realtà e, quindi, la raccontiamo e ci domandiamo: cosa può raccontare una testata il cui proprietario è un parlamentare o ha interessi diretti nella politica? E poi c'è un polo editoriale più legato agli ambienti della sinistra o di centrosinistra, che recentemente è stato anche attaccato da esponenti centristi per i suoi interessi, per così dire, diffusi: i legami di GEDI con Stellantis non sono certo un mistero. Infine, ci sono tante realtà che perseguono interessi economici in altri settori: il nome che spicca sugli altri è certamente quello di Caltagirone, che ha enormi interessi nel campo dell'edilizia. E poi ci sono pochissimi editori puri, cioè il cui business è tutto interno al mondo dell'editoria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307376_19",
+      "politician_name": "PANIZZUT Massimiliano",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Buongiorno, Sottosegretario e colleghi. L'Assemblea avvia oggi l'esame della proposta di legge recante disposizioni per il riconoscimento e la promozione della mototerapia, esaminata in sede referente presso la XII Commissione (Affari sociali). Ritengo opportuno far presente, per prima cosa, che la mototerapia prevede lo svolgimento di esibizioni di motocross freestyle all'aperto e all'interno degli ospedali per i ragazzi con disabilità e i pazienti, in particolare pediatrici, con gravi patologie, nonché l'opportunità per gli stessi di salire in sella a una moto, a trazione elettrica in caso di ingresso negli ospedali, per vivere un'esperienza nuova sotto il controllo di un pilota esperto, in accordo con i genitori e i medici curanti. Il progetto nasce da un'idea del campione di motocross Vanni Oddera, che, nel marzo 2020, è stato oggetto di studio da parte di un' équipe medica presso il reparto di oncologia pediatrica dell'ospedale Regina Margherita di Torino. I risultati delle indagini hanno confermato gli importanti benefici assicurati dalla mototerapia in termini di riduzione della percezione del dolore per quanto riguarda i pazienti, nonché di riduzione del livello di stress per i genitori, con l'aumento, per gli uni e per gli altri, delle emozioni positive.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307376",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi, si sta parlando di contesti dolorosi, si sta parlando di malattie croniche, si sta parlando, nello specifico, di malattie significative, che richiedono tempi lunghissimi, a volte solo per il mantenimento di uno stato di benessere, che rimane, comunque, precario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308789_19",
+      "politician_name": "VIETRI Imma",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, una breve considerazione prima di entrare nel merito del provvedimento oggi in discussione. Prendersi carico dei bisogni della persona equivale a considerare centrali sia gli aspetti medico-riabilitativi, sia quelli psicologici, pratici e relazionali. Questi aspetti sono ancora più veritieri quando la persona è ricoverata in ospedale, un luogo spesso associato a immagini di dolore e tristezza, nel quale il malato è spesso considerato un mero portatore di una patologia da curare e non una persona umana. E lo è ancora di più quando ad essere ricoverato è un bambino. Quando è ricoverato in ospedale, spesso si trova in un ambiente sconosciuto e a lui estraneo, privato dei principali riferimenti affettivi e delle figure adulte di riferimento. Di frequente, i bambini ospedalizzati vengono considerati dal personale medico sanitario al pari di semplici pazienti affetti da una patologia da curare, perdendo di vista, come ho accennato, i loro bisogni psicologici, pratici e relazionali, che emergono e si sviluppano durante la malattia, il ricovero in ospedale e il ritorno a casa. Questi bisogni sollecitano le strutture sanitarie ad offrire ai loro pazienti risposte che superano il confine delle terapie e spostano in avanti la frontiera dell'approccio al paziente. Ed è questo l'obiettivo della mototerapia, ossia rendere più positiva l'esperienza del ricovero dei piccoli pazienti in ospedale, contribuire al percorso riabilitativo, accrescere il benessere psicofisico e l'inclusione dei ragazzi e degli adulti con disabilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308789",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Desidero innanzitutto ringraziare il collega Panizzut per aver portato all'attenzione dell'Aula questa proposta di legge, che indubbiamente tende a riflettere in maniera molto seria sulla mototerapia ma più in generale su tutte quelle terapie che non voglio considerare alternative perché non lo sono, ma piuttosto sono integrative rispetto ai tradizionali percorsi di cura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307376_19",
+      "politician_name": "PANIZZUT Massimiliano",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Non mi permetto di replicare, ma vorrei fare solo un appunto. Concordo assolutamente - e l'abbiamo detto- che questa è una terapia complementare, cioè non è alternativa, assolutamente. L'unica cosa che mi permetto di dire è che i dati raccolti fino a oggi devono essere - e sono - il punto di partenza per una regolamentazione, altrimenti si rischia veramente che ognuno poi fa un po' come vuole e questo non è assolutamente il caso. Ha ragione il collega Girelli e auspico che l'invarianza finanziaria sia momentanea e poi ci sia un supporto: purtroppo, come sappiamo, è chiaro che tutte le cose costano. Mi riservo, magari in sede di dichiarazione di voto, di cercare di far cambiare idea o visione ai colleghi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307376",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della proposta di legge, già approvata, in un testo unificato, dal Senato, n. 1306: “Istituzione della Giornata dell'Unità nazionale e delle Forze armate” e delle abbinate proposte di legge nn. 527-644.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307857_19",
+      "politician_name": "PAGANO Nazario",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente, per avermi dato la parola. Onorevoli colleghi, la proposta di legge n. 1306, già approvata dal Senato all'unanimità e recante Istituzione della giornata dell'Unità nazionale e delle Forze armate, giunge oggi alla discussione in Assemblea dopo essere stata oggetto di esame da parte della Commissione affari costituzionali. La Commissione ne ha, infatti, avviato l'esame nella seduta del 18 ottobre 2023, ha proceduto successivamente all'abbinamento delle proposte di iniziativa parlamentare nn. 527 (De Luca) e 644 (Deidda) e l'ha adottata come testo base per il prosieguo dell'esame nella seduta del 24 gennaio scorso. Infine, il 14 febbraio scorso, la Commissione affari costituzionali ha concluso l'esame del provvedimento senza apportare modifiche al testo già licenziato dal Senato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307857",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308845_19",
+      "politician_name": "PENZA Pasqualino",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi abbiamo in discussione la Giornata dell'Unità nazionale e delle Forze armate. Vorrei fare una riflessione: noi festeggiamo il 4 novembre dal 1918, dopo l'Armistizio di Villa Giusti, che vide la resa dell'Impero austro-ungarico. Noi vediamo anche in alcuni passi della nostra Costituzione sancire come sacro dovere del cittadino la difesa della Patria. La difesa della Patria è un sentimento che dovremmo coltivare tutti, indistintamente, oltre il colore politico. Ma la riflessione va anche oltre: il senso di unità che questa giornata deve trasmettere è un senso armonioso, che ci deve unire sotto un'unica bandiera, che è quella del Tricolore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308845",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308940_19",
+      "politician_name": "LOPERFIDO Emanuele",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, è per me un particolare onore poter intervenire rispetto a questa proposta di legge, condivisa appieno da parte del sottoscritto il quale aveva presentato una simile proposta, proprio per il fatto che il 4 novembre deve essere un giorno in cui si devono continuare a educare le future generazioni al rispetto delle Forze armate nel nome dell'unità nazionale. Si parla tra amici e tra conoscenti della Prima guerra mondiale come della guerra del 1915-1918. Per me che abito nella regione Friuli-Venezia Giulia o per coloro i quali abitano in Trentino-Alto Adige la guerra iniziò prima, fu la guerra del 1914-1918. Ecco allora che, sì, la Prima guerra mondiale, che coinvolse i Paesi di tutto il mondo, fu soprattutto vista come la quarta guerra di indipendenza, una sorta di termine del Risorgimento italiano. Ecco allora che insieme ai patrioti si mischiano anche i patrioti redenti che lungo il confine orientale e lungo il confine del Trentino-Alto Adige si immolarono per una causa che da altre parti d'Italia era già nota, ovvero il Regno d'Italia, ma che per tanti era ancora un tentativo di riannettersi a quel destino identitario millenario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308940",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d305698_19",
+      "politician_name": "DE MARIA Andrea",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Il gruppo del Partito Democratico voterà convintamente a favore di questa proposta di legge, peraltro una delle proposte confluita in questa è stata sottoscritta da colleghi del nostro gruppo. È stato ricordato quali sono le caratteristiche di fondo della proposta di legge: prima di tutto, quella che era la Giornata all'Unità nazionale diventa ufficialmente la Giornata delle Forze armate e dell'Unità nazionale, collocata sempre il 4 novembre; poi, c'è un impegno, secondo me molto importante, che la legge indica alle istituzioni locali, a costruire momenti di ricordo in quell'occasione e, ancora di più, un impegno rivolto alle scuole per far conoscere ai nostri studenti e alle nostre studentesse quello che fanno i nostri uomini e le nostre donne in divisa, dalla Protezione Civile, alle missioni di pace all'estero, all'impegno per la difesa del Paese. Credo che questo coinvolgimento delle scuole sia un fatto molto importante, perché penso che anche per tanti giovani la scelta della carriera militare possa essere una scelta importante, che contribuisce alla difesa del Paese e della comunità nazionale e può diventare anche un percorso di vita. E, comunque, è importante che tutte le giovani generazioni sappiano cosa fa il nostro Esercito, quali sono i suoi compiti, come svolge la sua funzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "305698",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevole Sottosegretario e cari colleghi, “il fatto di ricomprendere in questa giornata la Festa delle Forze armate appartiene alla tradizione e a quel sentimento di omaggio alla memoria che trova grande riscontro nella coscienza delle nostre comunità. Credo che sia necessario (…) di assumere in legge la definizione completa e ufficiale del 4 novembre come Giornata dell'Unità nazionale e delle Forze armate”. Con queste parole il Presidente della Repubblica, Sergio Mattarella, il 4 novembre 2022 ribadiva quanto aveva già scritto nel maggio precedente all'allora Presidente del Consiglio, Mario Draghi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308807_19",
+      "politician_name": "CAROPPO Andrea",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Signor Sottosegretario, onorevoli colleghi, a nome della Commissione trasporti e telecomunicazioni riferisco sulla proposta di legge cosiddetta Interporti, il cui esame in sede referente è terminato la scorsa settimana, dopo un'approfondita istruttoria tanto lunga quanto attenta, pur nella dialettica tra i gruppi parlamentari la quale, peraltro, è fisiologica quando ci si confronta sul merito dei temi in discussione. Questo provvedimento introduce una nuova disciplina quadro in materia di interporti che sostituisce, abrogandola, quella attualmente contenuta nella legge n. 240 del 1990. La proposta in larga parte ripropone il contenuto di una proposta di legge già presentata nella scorsa legislatura, sulla quale la Commissione aveva svolto una cospicua attività conoscitiva. Gli interporti costituiscono, insieme ai porti e ai terminal intermodali, uno dei cosiddetti nodi intermodali ossia infrastrutture dedicate allo scambio modale e all'interconnessione fra le reti. Un interporto può essere definito come un complesso di infrastrutture e servizi finalizzati allo scambio di merci tra diverse modalità di trasporto. Si tratta di strutture complesse che si collocano al centro della supply chain e che sono in grado di accogliere non solo imprese di trasporto e logistica ma anche aziende specializzate in lavorazione differenti, imballaggi, assemblaggi o etichettatura. Nessuna sorpresa se, quindi, il comma 5 dell'articolo 1 della proposta definisce gli interporti come infrastrutture strategiche per lo sviluppo e per la modernizzazione del Paese e di preminente interesse nazionale e se il comma 6 specifica che la rete degli interporti costituisce, nel suo insieme, una delle infrastrutture fondamentali per il sistema nazionale dei trasporti ed è strettamente pertinente al perseguimento di interessi pubblici di rilievo generale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308807",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ho ascoltato il relatore. La legge quadro in materia di interporti che affrontiamo oggi parte da un obiettivo condivisibile: introdurre una nuova disciplina quadro sugli interporti, ma, a nostro avviso, lo fa intervenendo in modo inadeguato, talvolta insufficiente, e su alcuni aspetti dannoso. Gli interporti, è stato detto, assumono, in questa fase economica e geopolitica, un grande rilievo, costituendo, insieme ai porti e ai terminal intermodali, uno dei cosiddetti nodi intermodali, ossia infrastrutture dedicate allo scambio nodale e all'interconnessione fra le reti, e quindi strategiche in questo momento storico. Dunque, l'obiettivo prevalente dovrebbe essere proprio la volontà di sostenere il sistema degli interporti per accrescerne l'intermodalità e accrescere l'efficienza dei flussi logistici. Ma alcune novità introdotte, sia rispetto alla legge attuale, sia rispetto anche al confronto sviluppato nella scorsa legislatura su questo tema, generano più di una preoccupazione. Ad oggi, risultano attivi 24 interporti, che evidenziano diverse scoperture sul territorio nazionale. Già dal primo articolo, che individua l'ambito di applicazione, le finalità e gli obiettivi della nuova legge, ci sono alcune novità, a partire dal comma quarto, che tratta la definizione di interporti, e mi riferisco a quando si inserisce per la prima volta la definizione della gestione degli interporti in forma imprenditoriale, che, se associata al regime applicabile ai soggetti gestori individuato nell'articolo 5 - e poi entrerò nel merito -, stride fortemente proprio con la definizione che è stata data, ossia con il concetto di infrastruttura fondamentale per il sistema nazionale dei trasporti strettamente pertinente al perseguimento di interessi pubblici di rilievo generale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308825_19",
+      "politician_name": "AMICH Enzo",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, Sottosegretario Ferrante, onorevoli colleghi, la proposta di legge quadro in materia di interporti all'esame dell'Assemblea ci offre l'opportunità di trattare una nuova disciplina degli interporti, il cui ruolo determinante nel recupero dei costi e nell'assicurare efficienza logistica al sistema Paese è innegabile. Come già richiamato da altri colleghi, la nuova disciplina quadro in materia di interporti sostituisce quanto previsto nella legge 4 agosto 1990, n. 240, recante interventi dello Stato per la realizzazione di interporti finalizzati al trasporto merci e in favore dell'intermodalità. Lo ripeto, si tratta della sostituzione della disciplina recata da una legge del 1990; abbiamo sentito appena adesso dalla collega che mi ha preceduto parole come “inefficienti”, “inadeguati” e “in ritardo”, ebbene, mi sento di dire tranquillamente che questo lavoro andava fatto ben prima di noi, quando le opposizioni erano al Governo, e lo abbiamo fatto con un lavoro corale, sentendo decine e decine di audizioni. Si tratta di un testo il cui impianto normativo è da considerarsi ormai superato, considerato che risale a oltre trent'anni fa, praticamente un'altra epoca, e pertanto non è più in linea con i tempi e con lo sviluppo delle attività di logistica intermodale, che negli ultimi decenni hanno conosciuto una rapida e significativa evoluzione. Era un atto essenzialmente di natura erogativa, collocato in uno scenario di riassetto delle competenze tra i livelli di Governo ancora in evoluzione: da un lato, infatti, lo Stato non aveva ancora delegato alle regioni le competenze necessarie per la programmazione in materia di trasporti e infrastrutture, delegate successivamente, poi, nel 1997; dall'altro, non esisteva ancora un'organica e definitiva politica europea in materia di trasporti. Da allora, i diversi provvedimenti presentati, per la maggior parte di iniziativa parlamentare, sono stati interrotti dallo scioglimento delle Camere. L'unico provvedimento legislativo il cui iter si è concluso positivamente è stato il decreto-legge n. 98 del 1995, convertito, con modificazioni, dalla legge n. 204 del 1995, che ha eliminato la classificazione degli interporti di primo e secondo livello, distinguendoli solo in funzione della loro rilevanza nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308825",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Signor Presidente, l'aggiornamento della legge sugli interporti è di estrema importanza per lo sviluppo della logistica del Paese e richiede un approfondimento attento e una riflessione ponderata. Durante il recente esame di questa proposta, all'interno della Commissione trasporti, abbiamo avuto modo di analizzare dettagliatamente vari aspetti critici e di proporre modifiche volte a migliorare il testo, anche sulla scorta delle audizioni di alcuni importanti stakeholder .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307683_19",
+      "politician_name": "DARA Andrea",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Presidente, onorevoli colleghi, la proposta di legge in esame introduce una nuova disciplina quadro in materia di interporti, che sostituisce quella attualmente contenuta nella legge 4 agosto 1990, n. 240, che necessitava di un aggiornamento anche in relazione allo sviluppo intervenuto in questi anni con la realizzazione dei corridoi europei e dei relativi nodi intermodali. Gli interporti, infatti, costituiscono, insieme ai porti e ai terminal intermodali, uno dei cosiddetti nodi intermodali, ossia le infrastrutture dedicate allo scambio modale e all'interconnessione fra le reti. Si tratta di strutture complesse che sono in grado di accogliere non solo imprese di trasporto e logistica, ma anche aziende specializzate in lavori differenti. La proposta di una nuova disciplina organica persegue, dunque, l'obiettivo di incrementare e potenziare in maniera ampia e proficua l'organizzazione e il coordinamento delle attività interportuali, andando a rafforzare un settore che riteniamo strategico e fondamentale per lo sviluppo del Paese. Tra le altre cose, si prevede che il Ministro delle Infrastrutture e dei trasporti provveda alla ricognizione degli interporti già esistenti e di quelli in corso di realizzazione ai fini dell'elaborazione del Piano generale per l'intermodalità, la cui predisposizione è prevista in coerenza con gli strumenti di programmazione generale e settoriale dei trasporti e della logistica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307683",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Onorevoli colleghe e colleghi, la proposta di legge all'esame dell'Aula, la legge quadro in materia di interporti, ripropone di fatto il contenuto della proposta di legge n. 1259, già presentata nella scorsa legislatura, ma in realtà all'attenzione della Camera da ben 4 legislature, visto che la prima proposta di modifica della datata legge del 1990 risale alla XVI legislatura, sulla quale la Commissione aveva svolto una cospicua attività conoscitiva.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308870_19",
+      "politician_name": "FRIJIA Maria Grazia",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Una premessa, Presidente, perché mi ha stupito l'intervento dell'onorevole Ghio, la quale ha denunciato una mancanza di discussione e di condivisione in Commissione e da parte del Governo. Ebbene, l'intervento della collega che mi ha appena preceduto, la collega Ghirra, dimostra esattamente il contrario, il gran lavoro che è stato fatto in Commissione e dal Governo proprio su un tema così strategico come quello degli interporti. Allora, prendiamo atto che i progressisti oggi sono diventati conservatori dello status quo . Anche di fronte alle esigenze che il settore evidentemente richiedeva e richiede davanti all'evoluzione delle normative che stiamo vivendo in fatto di modernità e digitalizzazione, per l'onorevole Ghio era meglio che ci fermassimo alla legge precedente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308870",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 103, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "(Si leva in piedi e, con lui, l'intera Assemblea e i membri del Governo) . Colleghi deputati, lo scorso 16 febbraio in un cantiere della città di Firenze si è verificata l'ennesima tragedia sul lavoro, che ha visto la morte di cinque operai, anche se la salma di uno di loro, Bouzekri Rachimi, di origine marocchina, non è stata ancora rinvenuta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Alle 8,52 della mattina di venerdì 16 febbraio, un boato terribile ha colpito la città di Firenze nel cantiere di Esselunga, in via Mariti: una trave enorme è crollata, cadendo sul pilone e sui solai sottostanti, che, a loro volta, sono franati al suolo. Sotto tonnellate di macerie sono rimasti cinque operai: tre feriti in ospedale, quattro morti e un disperso, Luigi Coclite, Mohamed Toukabri, Taoufik Haidar, Bouzekri Rahimi e Mohamed El Ferhane. Una strage si è verificata a Firenze pochi giorni fa. Si erano alzati nel buio della mattina per andare a lavorare, un lavoro duro, faticoso, difficile, per assicurarsi uno stipendio e per assicurare un tenore di vita accettabile per sé e per le proprie famiglie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente Rampelli. La prima cosa che voglio dire è sulla scorta anche di quanto abbiamo appena ascoltato: non la promessa, ma vi è la certezza della politica, la certezza che ci può offrire il Governo, la certezza che ci può offrire la maggioranza, le certezze che ci possono offrire le opposizioni. Tutti assieme, evidentemente, serve fare ancora qualcosa su questi temi e questa non è una promessa, ma è una certezza, sulla quale ogni giorno stiamo cercando di fare di più e stiamo cercando di lavorare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Questa resta la più grande ingiustizia che possa esistere. In questo senso, faremo e continueremo a fare qualcosa. Ricordo all'Aula che, entro la fine di questo mese, arriverà, qui, in Aula, la proposta che finalmente istituirà l'insegnamento della cultura della sicurezza in tutte le scuole di ogni ordine e grado (Applausi dei deputati del gruppo Fratelli d'Italia) , perché - e termino, Presidente, ringraziandola -, la politica, secondo me, per quanto può insegnare, ecco, dovrà insegnare ai lavoratori e anche ai giovani che ogni tanto, anche sui luoghi di lavoro, serve dire dei “no”, esattamente quei “no” che molto spesso sono stati sacrificati sull'altare di una malata produttività (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307851_19",
+      "politician_name": "NISINI Tiziana",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. A nome di tutto il gruppo Lega-Salvini Premier, voglio esprimere cordoglio e solidarietà alle famiglie delle vittime di via Mariti, a Firenze. Anch'io mi unisco ai ringraziamenti al Corpo dei vigili del fuoco, a tutte le Forze dell'ordine e alla Protezione civile che immediatamente si sono adoperati per prestare soccorso, per mettere in salvo i feriti, per recuperare le salme di quei lavoratori che sono morti sotto le macerie e per mettere in sicurezza l'area. Queste persone sono ancora al lavoro per recuperare il lavoratore che manca, purtroppo, ancora, all'appello.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307851",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307851_19",
+      "politician_name": "NISINI Tiziana",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Noi non siamo un Paese senza regole, le regole in materia di sicurezza ci sono, ma molto spesso si opera per prassi, per abitudine e per consuetudine e spesso la prassi non coincide con la normativa, una normativa che va migliorata, va incrementata proprio per andare a ridurre tutte queste morti nel mondo del lavoro, il cui numero nel nostro Paese è diventato troppo alto (Applausi dei deputati del gruppo Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307851",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Luigi Coclite, Mohamed El Ferhane, Taoufik Haidar, Bouzekri Rahimi e Mohamed Toukabri, provo dolore, sgomento e rabbia per la vostra morte, che è una strage, un pluriomicidio. Provo dolore, sgomento e rabbia per le vostre famiglie, per i vostri e i loro sogni e speranze infranti. Penso anche ai tre feriti che potrebbero avere danni permanenti. Non dimentico il lavoro dei soccorritori e dei Vigili del fuoco, in particolare, che voglio ringraziare, ma disperazione, pianto e imprecazioni non possono bastare, meritano giustizia. Il Presidente della Repubblica ha anche detto che la sicurezza non è un costo, né un lusso, ma un dovere, a cui corrisponde un diritto inalienabile di ogni persona. Serve un impegno corale di istituzioni, aziende, sindacati, lavoratori, luoghi di formazione, affinché si diffonda ovunque una vera cultura della prevenzione. Basta piangere vittime il giorno dopo. Ci sono proposte sul tavolo che possiamo approvare in tempi rapidi: rafforzare l'Ispettorato nazionale del lavoro; vietare i subappalti a cascata senza limiti, i massimi ribassi penalizzano sicurezza e salari; istituire una procura nazionale del lavoro; garantire l'obbligo di badge nei cantieri edili, perché non semplifica e non incoraggia il lavoro nero; introdurre l'insegnamento della cultura della sicurezza nelle scuole; varare la patente a punti per le imprese; chiudere i cantieri non sicuri e premiare quelli che investono in sicurezza; niente condoni o multe risibili. Su queste proposte noi ci siamo, mettiamoci subito a un tavolo e parliamone. Non può essere un optional la sicurezza sul lavoro, questa va garantita (Applausi dei deputati del gruppo MoVimento 5 Stelle) . È uno scandalo inaccettabile per il Paese e cito nuovamente il Presidente Mattarella. Non possiamo, infine, trascurare l'importanza di contrastare il lavoro precario e il lavoro povero, perché sappiamo bene come si associno pericolosamente alla mancata sicurezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307248_19",
+      "politician_name": "MAZZETTI Erica",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente, colleghi qui riuniti, intanto, da parte del gruppo di Forza Italia, voglio esprimere cordoglio a tutti i familiari delle vittime della tragedia di Firenze: un crollo inaspettato, sicuramente, ma che ha causato molta incredulità da parte di tutti noi, toscani, italiani, imprese di costruzione, categorie economiche e professionali. Dobbiamo, però, fare anche chiarezza, perché in questi giorni, dal punto di vista televisivo, ma anche da parte di sindacati, in particolare della CGIL, di alcuni colleghi di centrosinistra, molto più di sinistra, anche quest'oggi, ho sentito parlare sempre molto, anche a sproposito, di tutto quello che è il codice appalti. Ecco dobbiamo fare chiarezza perché questo era un cantiere di edilizia privata che niente c'entra con opere pubbliche e col codice appalti e tanto meno c'entra con il nuovo codice appalti che, ricordo, è stato approvato ed è in vigore dal luglio 2023, quando questo è un contratto, ripeto, di edilizia privata del 2021. Per cui, meno retorica, meno ideologia e più confronto con le categorie economiche e professionali. So benissimo che tutti noi, a partire dai familiari, ma non solo anche dall'imprenditoria e dai professionisti, vogliamo che ci sia una giustizia veloce e chiara, ma non possiamo noi qui dal Parlamento, ma nemmeno dalle televisioni, dare delle sentenze che spettano ai tribunali. Nemmeno si può sentir dire, come ancora oggi qua abbiamo sentito dire, che la causa di queste morti sono i subappalti a cascata, la mancanza di regole del codice. Non è vero, perché il subappalto a cascata, che fa parte del codice appalti ultimo ed è relativo a lavori pubblici e non all'edilizia privata, non c'entra niente, come non c'entra niente tutto il tema del massimo ribasso, perché ugualmente il materiale va controllato. Io chiedo, veramente, di fare chiarezza da parte dei preposti, ma anche di non usare ideologia e soprattutto voglio rammentare che, per quanto riguarda i lavori nel settore dell'edilizia, siamo certi che il rischio zero non esiste e che ci sono già tante norme che riguardano la sicurezza. Esistono le norme e vanno fatte rispettare con più controlli, con più formazione, sicuramente, ma l'ideologia oggi non serve. Serve fare più controlli e lavorare in modo corretto (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE, Fratelli d'Italia e Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307248",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Signor Presidente, un altro bruttissimo colpo, al di là della retorica che è sempre nemica di queste circostanze. Tutte le morti ovviamente determinano sentimenti di dolore, ma le morti sul lavoro hanno l'automatico effetto di miscelare il dolore alla rabbia, all'amarezza, ai rimorsi, ai rimpianti, allo sgomento e c'è un senso di frustrazione, di lacuna, di tristezza per l'incapacità dello Stato, di un Paese che, per nulla, purtroppo, accompagna compiutamente i processi di garanzia e di tutela per i lavoratori. Oggi siamo al microfono a commemorare, cerchiamo le parole per esprimere i sentimenti e intanto c'è un fatto, che alcuni padri o figli purtroppo ci hanno lasciato, vittime di incidenti sul lavoro. Sia ben chiaro, ci sono a volte anche componenti imponderabili e fortuite, ma quando le statistiche sono impietose, i numeri in aumento, le comparazioni con gli altri Paesi europei a dir poco penalizzanti, allora non si possono offrire letture diversificate sul tema e bisogna ammettere che non si è fatto abbastanza e ancora oggi non facciamo abbastanza (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) . C'è necessità di un approccio determinato, direi duro, rispetto al tema della prevenzione degli infortuni sul lavoro. Questi momenti di commozione e di commemorazione vanno tradotti in azione e non solo sotto il profilo culturale, ma - ne abbiamo il dovere tutti - su di un piano normativo, organizzativo e disciplinare che incida realmente sul sistema di tutela e di garanzia e che sia netto anche sul fronte sanzionatorio. Presidente, anche da parte nostra un grazie ai vigili urbani, Forze dell'ordine e a chi è intervenuto prontamente in soccorso. Questi ultimi secondi me li lasci dedicare alle famiglie delle vittime, a chi non ha più un genitore, un coniuge, un figlio, perché nell'adempimento del proprio dovere, nell'esercizio della propria attività lavorativa ha perso la vita. Noi dobbiamo esprimere loro la vicinanza nel dolore, il sentito cordoglio, ma anche la mortificazione del mondo della politica, che tanto di più avrebbe dovuto fare, tanto di più dovrebbe fare e dovrà fare in questo senso, anche per non rendere vana la morte di queste persone, di questi lavoratori e dovremo farlo subito, tutti insieme, per una volta senza dividerci Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308869_19",
+      "politician_name": "MARI Francesco",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Signor Presidente, sta accadendo troppo spesso e troppo spesso siamo chiamati a questi momenti doverosi di cordoglio e di ricordo. Quando, come in questo caso, le vittime sono più di una ci restano impresse le circostanze, a volte i loro nomi, il Paese d'origine, cosa più difficile però se il loro nome si scrive o si legge in una lingua straniera, se la città o il Paese da cui vengono è lontano migliaia di chilometri e forse non sappiamo neanche indicarlo sulla carta geografica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308869",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Signor Presidente, onorevoli colleghi, signori del Governo, non è la prima occasione in cui ci troviamo a commemorare e ricordare chi ha perso la vita sul luogo del lavoro. Ogni volta si spera che sia l'ultima, lo si dice da anni, e anche in quest'Aula è stato spesso giustamente ripetuto l'altissimo valore che a livello sociale e ordinamentale riveste la sicurezza sul lavoro. Eppure, siamo nuovamente qui di fronte all'ennesima tragedia, che ha spezzato cinque vite nel drammatico incidente avvenuto a Firenze. Il gruppo Noi Moderati, Presidente, esprime cordoglio e vicinanza alle famiglie delle vittime. In questi casi, le parole sull'accaduto diventano superflue. Occorre, invece, agire, ma non basta farlo sull'onda emozionale dell'ennesimo incidente, così facendo si rischia di dare una risposta immediata ad un problema che invece richiede riflessione e concretezza. Non è necessario inventarsi nulla. Basta tornare alla nostra Carta fondamentale dove il diritto al lavoro occupa un posto cruciale. Infatti, la Costituzione riconosce ai cittadini il diritto e il dovere, non solo civile e politico, ma anche attinenti alla sfera economica, alla capacità di contribuire per le proprie competenze e capacità al benessere e allo sviluppo economico, un diritto concreto alla partecipazione che oggi chiameremmo inclusione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Presidente, noi, purtroppo, ci ritroviamo ciclicamente a esprimere il nostro cordoglio e lo facciamo anche oggi. Però, Presidente, mi lasci dire che siamo una classe politica di ipocriti a partire da me, perché, dopo aver compiuto il nostro gesto ciclico di espressione del cordoglio e di commemorazione di vittime, un minuto dopo dimentichiamo totalmente il tema della sicurezza del lavoro e delle vittime degli incidenti sul lavoro e torniamo alla nostra attività politica e parlamentare come se nulla fosse. Lo voglio dire perché molto spesso abbiamo considerato che quello che facciamo per la sicurezza del lavoro non va bene. Sono i numeri che ci dicono che quello che facciamo per la sicurezza del lavoro non va bene, eppure ci saziamo di giustizialismo perché magari qualcuno va in galera, perché si è compiuto un crimine nel non rispettare le norme sul lavoro, ma poi non cambia nulla e andiamo avanti come se nulla fosse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del testo unificato delle proposte di legge nn. 799-988-A: Disposizioni in materia di manifestazioni di rievocazione storica e delega al Governo per l'adozione di norme per la salvaguardia del patrimonio culturale immateriale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308884_19",
+      "politician_name": "AMORESE Alessandro",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. La Commissione esprime parere favorevole sugli emendamenti 2.1004, 2.1005, 2.1000, 2.1006 e 2.1003 Mollicone, l'emendamento 2.2 Manzi è ritirato, e parere favorevole sull'emendamento 2.1007 Mollicone.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308884",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308884_19",
+      "politician_name": "AMORESE Alessandro",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. La Commissione esprime parere favorevole sull'emendamento 3.2 Manzi con proposta di riformulazione, e cioè: Al comma 1, lettera a) , dopo le parole: “quali fattori di sviluppo”, aggiungere le seguenti: “elemento qualificante del Paese e del suo patrimonio storico, artistico e culturale”. La Commissione esprime parere favorevole sugli emendamenti 3.1003, 3.1004 e 3.1005 Mollicone, mentre esprime parere favorevole sull'emendamento 3.1000 Orfini con la seguente nuova riformulazione: Al comma 1, lettera e) , aggiungere, in fine, le parole: “nel rispetto della tutela dei siti e della loro regolare fruizione”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308884",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308860_19",
+      "politician_name": "MAZZI Gianmarco",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Cultura . Parere conforme sugli emendamenti 4.1000 e 4.1002 Mollicone, così come sull'emendamento 4.600, da votare ai sensi dell'articolo 86, comma 4- bis , del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308860",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308860_19",
+      "politician_name": "MAZZI Gianmarco",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Cultura . Aspetti… il parere del Governo è conforme su tutti gli emendamenti (Applausi ironici dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista MoVimento 5 Stelle) , tranne uno, che è l'emendamento 5.1009 Mollicone, che il Governo riformula in tal senso: al comma 4, primo periodo, sostituire le parole da: “delle associazioni di categoria più rappresentative” fino a “istituiti con apposita legge”, con le seguenti parole: “delle associazioni di categoria più rappresentative del settore del turismo del terziario e dell'artigianato nonché (…)”. Questa è la riformulazione. Questo è l'emendamento 5.1009. Lo devo ripetere?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308860",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, chiederei la copia della riformulazione del Governo e credo sarebbe auspicabile avere, a questo punto, consonanza tra il relatore e il Governo. Quindi, penso che forse qualche minuto di sospensione possa essere utile (Commenti).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308884_19",
+      "politician_name": "AMORESE Alessandro",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Presidente, la proposta di riformulazione, a questo punto definitiva, è la seguente: “Al comma 4, primo periodo, sostituire le parole da: del commercio, fino alla fine del periodo, con le seguenti: del terziario e dell'artigianato”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308884",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di passare all'esame dell'articolo 8 e delle proposte emendative ad esso presentate (Vedi l' allegato A ) , avverto che, a seguito dell'approvazione dell'emendamento 2.1004 Mollicone, che ha soppresso alcune parole contenute al comma 1 dell'articolo 8, non sarà posto in votazione il mantenimento dell'articolo, come indicato nel fascicolo. Gli identici emendamenti soppressivi 8.1 Caso e 8.1000 Orfini saranno posti in votazione per le parti non assorbite dall'emendamento 2.1004 Mollicone.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308884_19",
+      "politician_name": "AMORESE Alessandro",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Sugli identici emendamenti 8.1 Caso e 8.1000 Orfini, il parere è contrario. Sull'articolo aggiuntivo 8.01001 Cecchetti il parere è favorevole con la seguente riformulazione; la leggo tutta, anche se è lunghissima: “Dopo l'articolo 8, aggiungere il seguente: Art. 8- bis . (Manifestazioni di rievocazione storica e ricorrenze della tradizione popolare) 1. All'articolo 59 del Testo Unico delle Leggi di Pubblica Sicurezza di cui al R.D. 18 giugno 1931, n. 773, dopo il secondo comma è aggiunto il seguente: «Le norme di cui al presente articolo e gli eventuali regolamenti locali in materia non si applicano in occasione di manifestazioni di rievocazione storica e ricorrenze della tradizione popolare». 2. L'accensione di falò in occasione di manifestazioni di rievocazione storica e ricorrenze della tradizione popolare non rientrano nel campo di applicazione della parte IV «Norme in materia di gestione dei rifiuti e di bonifica dei siti inquinati» del decreto legislativo n. 152 del 2006. 3. Le regioni hanno la facoltà di regolamentare, in conformità alle normative nazionali, la salvaguardia dei falò e dei fuochi rituali delle manifestazioni di rievocazione storica e ricorrenze della tradizione popolare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308884",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d306349_19",
+      "politician_name": "CANDIANI Stefano",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie Presidente, la riformulazione è corretta e apprezziamo che il Governo accetti anche questa proposta emendativa con riformulazione, perché è intesa a consentire lo svolgimento, nel rispetto delle regole, di tutte quelle tradizioni legate all'accensione di falò (penso a quello di Sant'Antonio, tradizionale, piuttosto che a quelli che vengono fatti nelle sagre popolari, nel passaggio tra l'inverno e la primavera), che appartengono alla nostra tradizione popolare più antica, ovviamente, inquadrati, come lo stesso articolo aggiuntivo prevede, anche in regolamenti regionali, laddove si dovesse rendere necessario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "306349",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308884_19",
+      "politician_name": "AMORESE Alessandro",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Signor Presidente, sull'emendamento 9.1001 Mollicone il parere è favorevole, sull'emendamento 9.1 Manzi il parere è contrario, mentre sulla condizione della Commissione bilancio dell'emendamento 9.600, il parere è favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308884",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308884_19",
+      "politician_name": "AMORESE Alessandro",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Signor Presidente, sull'emendamento 10.1000 Mollicone il parere è favorevole, sull'emendamento 10.1 Manzi il parere è contrario e sulla condizione della Commissione bilancio 10.600 il parere è favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308884",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d308884_19",
+      "politician_name": "AMORESE Alessandro",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Signor Presidente, sull'emendamento 14.1000 Orfini il parere è contrario, sull'emendamento 14.1003 Mollicone il parere è favorevole, sull'emendamento 14.1001 Orfini il parere è contrario, mentre sull'emendamento 14.500 (Nuova formulazione) della Commissione il parere è favorevole con la seguente riformulazione: “al comma 2, dopo la lettera t ), aggiungere la seguente: t-bis ) prevedere la costituzione, senza nuovi o maggiori oneri a carico della finanza pubblica, di un forum delle associazioni di categoria, con il compito di salvaguardare e valorizzare il patrimonio culturale immateriale”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "308884",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Però, quella che avete appena ascoltato non è una proposta di riformulazione: è già un'ulteriore formulazione che aveva fatto la Commissione. Siamo ancora all'emendamento 14.600 da votare ai sensi dell'articolo 86, comma 4- bis, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 248
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2024-02-20",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Solo per un chiarimento. Qui si parla di un forum delle associazioni di categoria. Per associazioni di categoria si intende Confcommercio e Confesercenti? Sono associazioni di categoria nazionali o regionali? Cioè, a cosa ci riferiamo? È un chiarimento, non è polemico. È solo per capire cosa stiamo votando.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0248",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 248
+      }
+    }
+  ]
+}

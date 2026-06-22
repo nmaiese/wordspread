@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0377",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-11-06",
+    "title": "Assemblea — Seduta n. 377 del 2024-11-06",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 377
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 101, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307803_19",
+      "politician_name": "FEDE Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo a nome del mio gruppo per parlare della vicenda dell'accoltellamento del capotreno, su cui noi vorremmo chiedere un'informativa urgente al Ministro Salvini. Questa triste vicenda, che è avvenuta lunedì, ha visto coinvolta una persona del personale viaggiante delle Ferrovie dello Stato, aggredita da due soggetti. Chiaramente, questo ha creato grande sdegno e grande preoccupazione per quanto riguarda la sicurezza, in tutto quel personale che quotidianamente serve i cittadini italiani nei loro viaggi, che ha subito questa ennesima aggressione ed è stato fortemente colpito, tanto da indire uno sciopero che ieri ha portato addirittura a bloccare l'Italia e a ritardare anche i lavori di quest'Aula. Uno sciopero sacrosanto. Innanzitutto, parto dall'esprimere e dal rinnovare la solidarietà a Rosario Ventura, che è l'aggredito, così come a tutta la sua categoria e ai suoi cari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307803",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe e onorevoli colleghi, noi rinnoviamo l'impegno costante del gruppo del Partito Democratico e chiediamo, ancora una volta, a Matteo Salvini di venire a riferire in Aula sul tema della sicurezza dei lavoratori dei nostri treni, delle nostre ferrovie, delle nostre stazioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Anch'io intervengo, a nome del gruppo di Alleanza Verdi e Sinistra, per associarci alla richiesta di un'informativa urgente del Ministro Salvini su quanto accaduto, ma direi, più in generale, sulla situazione del trasporto ferroviario del nostro Paese e sulla sicurezza delle lavoratrici e dei lavoratori del comparto. Colgo l'occasione anche per esprimere la nostra vicinanza al capotreno aggredito nonché, davvero, a tutta la categoria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1632-A ​: “Legge quadro in materia di ricostruzione post-calamità” e delle abbinate proposte di legge nn. 589 ​- 647 ​”. Ricordo che nella seduta del 14 ottobre si è conclusa la discussione sulle linee generali e la rappresentante del Governo è intervenuta in sede di replica, mentre il relatore vi ha rinunciato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Volevo intervenire su questo emendamento, perché credo che una riflessione politica vada fatta nell'ambito di questo provvedimento. Come abbiamo visto, abbiamo lavorato insieme in Commissione: dobbiamo premettere, infatti, che questo provvedimento è frutto di un lavoro fatto in Commissione con abbinamenti vari, con il collega Trancassini e la collega Braga, e poi vi è stato un contributo del Governo. Da tanti anni, il codice della... scusi, Presidente...",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Da tanti anni, il codice della ricostruzione è sempre stato uno degli elementi centrali, avere un modus operandi per poter gestire gli eventi catastrofali, soprattutto nei momenti più complicati e più difficili. Il fatto di trovarsi ogni volta a fare un decreto, inserendo risorse o mettendo anche a disposizione alcuni degli aspetti locali o territoriali, è sempre stato, secondo me e secondo noi, spiacevole. Ecco perché era importante fare un codice della ricostruzione. Il punto qual è? È che, nel momento in cui abbiamo cominciato a lavorare su questo, si è intersecato, dal punto di vista legislativo, tutto l'aspetto che riguarda l'autonomia differenziata. Questo è stato un elemento oggettivo di difficoltà, perché l'autonomia differenziata, nel contesto anche del lavoro che avevamo fatto, inseriva nell'articolo 1, comma 2, un elemento che creava una difficoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Collega Simiani, aspetti. Colleghi, capisco che state entrando in Aula, ma c'è il collega Simiani che sta cercando, faticosamente, di svolgere il suo intervento. Quindi, vi prego di entrare in silenzio. Aspetti, collega. Prego, collega Simiani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Come stavo dicendo, la proposta da parte del Governo su questo punto, per quanto riguarda ogni provvedimento - poi lo troveremo sicuramente anche nei prossimi -, per cui l'articolo 1, comma 2, con riferimento all'ambito di applicazione, prevede chiaramente che le disposizioni della presente legge si applicano anche nelle regioni a statuto speciale e nelle province autonome e che sono fatte salve, altresì, le forme e le condizioni particolari di autonomia da attribuire ai sensi dell'articolo 116 della Costituzione. Che cosa vuol dire? Vuol dire che ogni regione può modificare il testo. Voi immaginatevi cosa vuole dire. Vuole dire che, in ogni momento, qualsiasi governatore, illuminato o meno illuminato, può modificare quello che oggi noi stiamo facendo. È veramente complicato, è difficile immaginare oggi di portare a casa uno strumento utile per il nostro Paese, utile per tutti quei cittadini e quegli enti locali che sicuramente avranno bisogno di questo strumento nel momento in cui occorrerà fare delle azioni concrete, quando ogni governatore potrà aggiungere, togliere o completamente cambiare questo tipo di provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308804_19",
+      "politician_name": "CURTI Augusto",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo molto velocemente per esporre questo nostro emendamento. All'articolo 2, comma 2, si prevede che lo stato di ricostruzione duri cinque anni e, giustamente - lo condividiamo -, prevede la possibilità di prorogare questi cinque anni. Questa previsione, lo abbiamo detto fin dall'inizio, può essere applicata a diverse tipologie di emergenza e, quindi, non possiamo conoscerne la durata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308804",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Sugli emendamenti 3.1 Braga, 3.3 Simiani, 3.7 Simiani, 3.8 Santillo e 3.9 Bonelli il parere è contrario. Sull'emendamento 3.500 della Commissione bilancio il parere è favorevole. Sugli emendamenti 3.13 Curti e 3.14 Fenu il parere è contrario. Sugli identici emendamenti 3.16 L'Abbate, 3.17 Bonelli e 3.18 Ferrari il parere è contrario. Sull'emendamento 3.20 Morfino il parere è contrario. Sull'emendamento 3.21 Bonelli vi è invito al ritiro o parere contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo su questo emendamento presentato dalla nostra presidente, in particolare su un aspetto importante, su cui spesso abbiamo visto discutere sui giornali, anche in occasione dell'ultimo importante evento catastrofale, l'alluvione dell'Emilia-Romagna: la questione del commissario. Chi viene nominato come commissario? Questo balletto, che c'è stato per anni, che c'è e che continua a persistere anche in questo provvedimento, secondo me, è assolutamente sbagliato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. L'emendamento di cui stiamo discutendo prevede che il commissario straordinario per la ricostruzione da eventi post-calamità possa avere accesso alla banca dati sui contratti pubblici costituita presso l'Anac, dove c'è tutta una serie di informazioni sul ciclo di vita dei contratti pubblici che riguardano interventi di ricostruzione. Quindi, è né più e né meno che fornire un'altra freccia all'arco del commissario per poter dare delle risposte; non è obbligatorio, bensì è un potere. Pertanto, non si comprende come mai il parere sia contrario. Invito il relatore e anche il Governo a rivedere il proprio parere, magari anche accantonando l'emendamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Quindi, chiede l'accantonamento, collega Santillo? In tal caso, devo chiedere al relatore il parere sull'accantonamento. Il parere è contrario. Insiste per la votazione sull'accantonamento, collega Santillo?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308804_19",
+      "politician_name": "CURTI Augusto",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, anche qui, intervengo solo per illustrare molto velocemente questo nostro emendamento che aggiunge, dopo il comma 3, il comma 3- bis . L'intento è quello di disciplinare un'altra cosa, secondo noi fondamentale: mi riferisco al passaggio alla gestione commissariale, da parte del Governo al commissario, per quanto riguarda le competenze in materia di sospensioni ed esenzioni dei versamenti tributari che interessano le comunità colpite dagli eventi calamitosi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308804",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Come sappiamo benissimo, nel momento in cui si mettono risorse all'interno dei vari capitoli di spesa, nel momento in cui si inizia la ricostruzione, ci sono aspetti che a volte - lo sappiamo benissimo - richiedono una riflessione anche nei rapporti con gli enti locali sulla possibilità non solo di ricostruire quello che è stato distrutto, ma anche di ristrutturare opere pubbliche, soprattutto, quelle opere che oggi sono il centro magari di piccole località in cui le persone si aggregano: un possibile teatro, un possibile cinema, un possibile centro di aggregazione giovanile, per i giovani o, in questo caso, anche i vari circoli che ci sono in giro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Voglio associarmi alle parole appena espresse dal collega Simiani, perché il commissario per la ricostruzione deve prevedere la ricostruzione di un sito, di un'area, di un vasto territorio e non si comprende perché si debba dire di no se, all'interno degli interventi per cui possono operare le deleghe e i poteri commissariali, si prevedono anche centri di aggregazione e quindi dare una speranza; la speranza che si torni a vivere quanto prima e come si viveva prima deve essere associata a un intervento aggregativo, altrimenti le persone sono invogliate ad andare via, invece, così, hanno un motivo in più per rimanere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308804_19",
+      "politician_name": "CURTI Augusto",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, al comma 6 dell'articolo 3 viene affrontato il tema necessario dell'assunzione di personale e noi sappiamo benissimo quanto in quei momenti il personale sia fondamentale. Abbiamo visto emergenze per cui sono state stanziate risorse, ma non sono state stanziate risorse per il personale e quelle risorse sono sui conti, sulla contabilità degli enti, ma non siamo riusciti a spenderle. Quindi, condividiamo molto questo aspetto, un aspetto sul quale noi in Commissione abbiamo avanzato anche proposte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308804",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308891_19",
+      "politician_name": "ROGGIANI Silvia",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per chiedere l'accantonamento di questi emendamenti, perché in Commissione bilancio la Sottosegretaria Albano, dopo una lunga discussione che abbiamo avuto con i commissari, ci aveva anticipato che avrebbe potuto fare approfondimenti che non si sono voluti fare questa mattina in Commissione bilancio. Quindi sono a chiedere ora, salvo intervento della rappresentante del Governo, che ci sia un accantonamento oppure una sospensione, proprio a seguito delle parole di questa mattina della Sottosegretaria Albano in Commissione bilancio (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308891",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d301573_19",
+      "politician_name": "CASTIELLO Giuseppina",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Sono stati fatti una serie di approfondimenti dopo la riunione della Commissione, ma permane un parere del MEF contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "301573",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Quindi, rimane la richiesta di accantonamento, onorevole Roggiani? Sì. Relatore, sull'accantonamento? È contrario. Insiste per votare l'accantonamento, collega Roggiani? Sì. Allora votiamo per accantonare gli identici emendamenti 3.44 Santillo, 3.46 Bonelli e 3.45 Simiani. Naturalmente il parere del relatore è contrario e votiamo senza registrazione dei nomi. Ovviamente devo prima chiedere se qualcuno vuole parlare contro o a favore, ma mi pare di no.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. L'emendamento prevede che, superato lo stato di emergenza - che è lo stato per cui dovrebbe essere stato nominato il commissario e che quindi è funzionale al ripristino delle condizioni di ordinarietà -, per la fase di ricostruzione pubblica, si debba fare riferimento al codice dei contratti pubblici ed evitare di andare in deroga ad esso, anche per evitare che si possano creare storture di mercato. Quindi, è semplicemente per ribadire che, nell'ordinarietà, dobbiamo fare ricorso al codice dei contratti. Il fatto che venga dato un parere contrario ci preoccupa, perché è come dire: no, anche quando abbiamo superato l'emergenza e stiamo ricostruendo la parte pubblica il commissario continuerà ad esercitare poteri derogatori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Sull'emendamento 4.500 della Commissione bilancio il parere è favorevole. Sugli emendamenti 4.2 Scarpa, 4.3 Bonelli, 4.4 Ferrari e 4.5 Bonelli il parere è contrario. Il parere è, inoltre, contrario sugli identici emendamenti 4.6 Simiani e 4.7 Bonelli e sull'emendamento 4.1000 Ilaria Fontana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signora Presidente. All'articolo 4 ci occupiamo di istituire la cabina di coordinamento per la ricostruzione. Dopo eventi calamitosi che distruggono le case, le opere e la vita delle persone, è necessario ricostruire quanto è distrutto, non solo bene e meglio, possibilmente, ma è anche costruire e ricostruire fiducia tra i cittadini e fiducia tra i cittadini e le istituzioni. Per farlo, a nostro avviso servono due ingredienti fondamentali: trasparenza e partecipazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Vorrei chiedere se si può rivedere il parere su questo emendamento. Ci troviamo all'interno dell'articolo che istituisce la cabina di coordinamento, e alle nostre richieste di trasparenza e di tempestività nell'individuazione dei componenti, così come nella definizione precisa e puntuale di quei componenti, avete risposto poc'anzi “no”, bocciando il nostro emendamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Il parere è contrario sugli emendamenti 11.1 Curti, 11.7 Morfino e 11.9 Santillo. Il parere è contrario, altresì, sugli identici emendamenti 11.11 Santillo e 11.12 Bonelli, sull'emendamento 11.13 Simiani, sugli identici emendamenti 11.14 Santillo e 11.15 Bonelli, sull'emendamento 11.18 Ilaria Fontana e sugli identici emendamenti 11.1000 Benzoni, 11.1001 Simiani, 11.1002 Pastorino e 11.1003 Ilaria Fontana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Com'è accaduto nel corso dei lavori in Commissione, dove, sul tema del fascicolo del fabbricato, c'è stata una convergenza, sia nel dibattito, sia negli intendimenti da parte degli stessi colleghi di maggioranza, del relatore e del Governo, nell'impegnarsi per l'introduzione di questo strumento - il fascicolo del fabbricato -, che serve tantissimo per la lotta e il contrasto al dissesto idrogeologico e per la tutela e messa in sicurezza dei fabbricati privati, per questi motivi, comunico di rinunciare, e, quindi, di ritirare l'emendamento; presento un ordine del giorno all'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Il problema è che su questo emendamento ci siamo fermati un po' in Commissione bilancio, perché il parere negativo del Governo veniva giustificato con il fatto di non avere individuato risorse sufficienti, in quanto già assegnate ad altro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Sicuramente, rispetto alla richiesta, da parte del nostro gruppo, di accantonare questo o questi emendamenti, la motivazione è abbastanza semplice. Partiamo dalla nuova legge di bilancio, che intanto riduce le assunzioni negli enti locali al 75 per cento. Vuol dire che, su 100, il 75 per cento verrà - tra virgolette - rimpinguato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308804_19",
+      "politician_name": "CURTI Augusto",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Torno un po' su quello che dicevo prima nel mio intervento, proprio sul personale, di cui ho ribadito con forza la necessità. Guardate, noi abbiamo delle emergenze. Posso portare l'esempio delle Marche. Penso all'alluvione che, nel 2022, interessò le realtà di Ancona e Pesaro, conosciuta come l'emergenza Senigallia, dove, in realtà, devo riconoscere che il Governo nell'immediato ha stanziato risorse. Tuttavia, se voi andate in quei territori, vi diranno che le risposte date dal governo regionale, individuato nella persona del commissario, sono pari a zero. E sono pari a zero perché, anche a fronte di quelle risorse che sono state stanziate, noi sappiamo benissimo che non c'è il personale: basta andare a parlare con i responsabili che stanno gestendo questa emergenza e vi diranno che, senza personale, non c'è la possibilità di utilizzare le risorse su quelle emergenze per le quali, in realtà, sono state stanziate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308804",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, chiedo di accantonare questo emendamento, perché è un elemento di riflessione che chiedo al Governo. Noi oggi dobbiamo dare delle risposte. In un momento in cui sappiamo benissimo che chiediamo - anzi, chiedete - ai comuni un grande sacrificio dal punto di vista economico, noi non possiamo, in questo provvedimento, in un contesto in cui il comune è la prossimità, dire “no” a un sistema in cui, di fatto, il comune è la prima prossimità per dare risposte ai cittadini. Chiediamo, quindi, di accantonarlo e, magari, anche di mettere al voto l'accantonamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Intanto chiediamo il parere sull'accantonamento al relatore: è contrario. Quindi, insiste per la votazione. Prima voleva intervenire il collega Pastorino: vuole intervenire sull'accantonamento o sull'emendamento?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Io mi associo alla richiesta di un supplemento di riflessione. Questo non è un argomento banale - lo ha detto bene la collega Ruffino - nel momento in cui, per esempio, ci stiamo apprestando all'esame di una legge di bilancio che contiene questa regola, ossia un ritorno al passato del turnover al 75 per cento per i comuni con più di 20 dipendenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signora Presidente. Con questo nostro emendamento vogliamo inserire in questo provvedimento un qualcosa che è totalmente assente, ovvero, un riferimento all'adozione delle migliori soluzioni basate sulla natura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Fortunatamente abbiamo inserito all'articolo 3 un riferimento al tema della rinaturalizzazione dei corpi idrici. È una questione quanto mai urgente, che vediamo sempre di più anche negli ultimi giorni con gli ultimi accadimenti, non soltanto nel nostro Paese, ma anche nel resto d'Europa: in particolar modo, mi riferisco a quello che è successo recentemente a Valencia. Questo, dunque, è un qualcosa di necessario e urgente, ma non basta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Per chiedere, anche in questo caso, il ripensamento sul parere negativo, perché questo articolo 15 istituisce una Conferenza permanente composta esclusivamente da rappresentanti istituzionali. Noi crediamo, invece, che sulle scelte che vanno assunte in situazioni come quelle di cui parliamo questa mattina, ci vogliano anche una partecipazione e un contributo di esperienze e di competenze nei diversi campi della conoscenza, sia geografica sia professionale, affinché decisioni e interventi siano più appropriati e, quindi, più efficaci possibile. In passato, durante un mio ruolo istituzionale precedente, sono stata in visita... Presidente, faccio fatica a sentirmi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, la collega Ferrari segnala che fa fatica a sentirsi, il che è un problema che riguarda tutta l'Assemblea e, per andarle incontro, c'è solo un rimedio: fare silenzio. Ci riusciamo? Si sente, onorevole Ferrari? Prego.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie. Dicevo che sono stata in visita, in passato, in una città di 21 milioni di abitanti, in un territorio che ha un tipo di Governo di regime e ho toccato con mano che cosa significa, rispetto in particolare alla realizzazione delle opere pubbliche e alle scelte che riguardano la progettazione territoriale, stare dentro un regime piuttosto che stare dentro ad un Governo democratico come il nostro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Sugli emendamenti 19.4 Ilaria Fontana, 19.5 Simiani, 19.6, 19.7 e 19.8 Ilaria Fontana, sugli identici emendamenti 19.9 Ilaria Fontana e 19.10 Bonelli e sull'emendamento 19.11 Ilaria Fontana, parere contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'esame dell'articolo 21 e delle proposte emendative ad esso presentate (Vedi l' allegato A ) . Se nessuno chiede di intervenire, invito il relatore e la rappresentante del Governo ad esprimere il parere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Sull'emendamento 21.1 Ferrari il parere è contrario, così come sugli identici emendamenti 21.2 Santillo e 21.3 Simiani, nonché sull'emendamento 21.4 Bonelli. Il parere è contrario, altresì, sugli identici articoli aggiuntivi 21.01 Ilaria Fontana e 21.02 Simiani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'esame dell'articolo 22 e delle proposte emendative ad esso presentate (Vedi l' allegato A ) . Se nessuno chiede di intervenire, invito il relatore e la rappresentante del Governo ad esprimere il parere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto gli alunni e le professoresse della Scuola primaria “Carlo Urbani” di Pollenza, provincia di Macerata, che assistono ai nostri lavori dalle tribune. Ragazzi, benvenuti alla Camera dei deputati (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308804_19",
+      "politician_name": "CURTI Augusto",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo solo per illustrare questo nostro articolo aggiuntivo, articolo 23- bis , con il quale chiediamo l'istituzione della zona franca urbana per quelle comunità che vengono colpite dagli eventi sui quali, ovviamente, c'è il riconoscimento dello stato di emergenza e sui quali verrà applicata questa legge che stiamo oggi discutendo qui in Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308804",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, grazie. Intervengo per sottolineare, non perché sia una provenienza teorica, il valore dell'iniziativa assunta dal collega che ha appena parlato, Augusto Curti. Noi ormai siamo pieni in Italia di cantieri che hanno ricostruito le mura: rifare le mura non significa rifare la città, l'anima della città, l'ambizione della città. Attenzione: le mura senza vita raccontano cimiteri, le mura con la vita raccontano le città. Le zone franche urbane, le zone di semplificazione sono necessarie. Basta coordinare ciò che facciamo, spalmando risorse finanziarie, con ciò che la funzione pubblica saprebbe aggiungere come semplificazioni amministrative e semplificazioni economiche (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista)",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'esame dell'articolo 24 e delle proposte emendative presentate (Vedi l' allegato A ). Se nessuno chiede di intervenire, invito il relatore e la rappresentante del Governo ad esprimere il parere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'esame dell'articolo 25 e delle proposte emendative ad esso presentate (Vedi l' allegato A ) . Se nessuno chiede di intervenire, invito il relatore e la rappresentante del Governo ad esprimere il parere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d301573_19",
+      "politician_name": "CASTIELLO Giuseppina",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Sull'ordine del giorno n. 9/1632-A/1 Battistoni il parere è favorevole con la seguente riformulazione: “compatibilmente con i vincoli di finanza pubblica”. Sull'ordine del giorno n. 9/1632-A/2 Colombo il parere è favorevole. Sull'ordine del giorno n. 9/1632-A/3 Braga il parere è favorevole con la seguente riformulazione: “compatibilmente con i vincoli di finanza pubblica”. Il parere è contrario sull'ordine del giorno n. 9/1632-A/4 Ruffino. Sull'ordine del giorno n. 9/1632-A/5 Casu il parere è favorevole e volevo segnalare, a tal riguardo, che il decreto già prevede, all'articolo 3, comma 6, lettera d), n. 4, forme di rafforzamento della capacità amministrativa dei comuni. Sull'ordine del giorno n. 9/1632-A/6 Santillo il parere è favorevole. Sull'ordine del giorno n. 9/1632-A/7 Ilaria Fontana il parere è contrario. Infine, sull'ordine del giorno n. 9/1632-A/8 Barbagallo il parere è favorevole, espunta l'ultima premessa, con la seguente riformulazione dell'impegno: “ad adottare iniziative di competenza volte a garantire, compatibilmente con i vincoli di finanza pubblica, la copertura finanziaria dei lavori di messa in sicurezza del territorio di Stromboli, colpito da anni da danni derivanti dal tempo”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "301573",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Grazie, Sottosegretaria Castiello. Onorevole Battistoni, lei o chi per lei accetta la riformulazione? Colleghi di Forza Italia, mi fate un segnale? Bene, allora diamola per accettata. Sottoscrive l'onorevole Curti. Il parere sull'ordine del giorno n. 9/1632-A/2 Colombo è favorevole. Onorevole Braga, accetta la riformulazione? Ha chiesto di parlare l'onorevole Curti. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308804_19",
+      "politician_name": "CURTI Augusto",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anticipo che accettiamo la riformulazione, considerando l'oggetto che proponiamo in quest'ordine del giorno, cioè valutare l'istituzione di un Fondo di solidarietà a supporto dei familiari delle vittime purtroppo interessate dalle calamità naturali. È un ordine del giorno che arriva dal territorio, una richiesta che ovviamente non sarà stata fatta solo alla nostra parte politica. Credo sia anche un nostro dovere morale ed istituzionale intervenire e dare una risposta, che non può essere solo sul piano pratico, ma credo che ci debba interessare sul piano della dignità. Quindi, accettiamo la riformulazione, perché l'obiettivo è ovvio: abbiamo sempre detto che non ci dobbiamo mai dividere sulle emergenze, figuriamoci se possiamo dividerci sulle vittime di quelle emergenze.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308804",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. È davvero difficile accettare il parere contrario a quest'ordine del giorno. Leggo l'impegno: “ad adottare ogni iniziativa di competenza per aumentare il supporto a livello centrale nei confronti dei territori, protagonisti di opere di ricostruzione post -calamità e di aumentare la dotazione finanziaria dei fondi per la ricostruzione e il funzionamento dei commissari straordinari di volta in volta nominati”. È perfettamente inutile dire che senza risorse non si fa nulla, lo dirò anche nella mia dichiarazione di voto. Ci sono esempi lampanti di ricostruzione che non vedono da parte del Governo la dotazione minima per iniziare a fare alcuni interventi. È proprio su queste cose che fatico a capire la posizione del Governo su questi ordini del giorno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Nel ringraziare il Governo per il parere favorevole, chiedo di metterlo in votazione per rafforzare il nostro comune impegno per lo scorrimento integrale delle graduatorie attraverso le convenzioni che stiamo stimolando con quest'ordine del giorno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Nel ringraziare il Governo, auspico che l'intervento avverrà nel minor tempo possibile, perché così realmente diamo una risposta, come è contenuto nell'impegno, anche per la tutela della persona che abita in quelle case e per l'agevolazione degli interventi manutentivi. Chiedo, pertanto, che venga messo in votazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308760_19",
+      "politician_name": "MANES Franco",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Grazie, Presidente. Dicevo, l'atto che andiamo qui, oggi, ad approvare e che riguarda, sostanzialmente, le modifiche al codice di Protezione civile, di cui al decreto legislativo n. 1 del 2018 (proposta di legge n. 589 ​), appare essere un provvedimento articolato, se non altro, per gli abbinamenti ad altri provvedimenti, quali la proposta di legge n. 647 ​ e il disegno di legge n. 1632 ​ (Delega al Governo per la disciplina organica degli interventi di ricostruzione e legge quadro in materia di ricostruzione post -calamità).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308760",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). La ringrazio, signor Presidente. Il provvedimento che abbiamo in esame prova ad introdurre un quadro giuridico il più possibile uniforme per il coordinamento delle procedure e delle attività che si rendono necessarie nelle fasi conclusive e successive allo stato di emergenza nei territori colpiti da eventi calamitosi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha chiesto di parlare l'onorevole Bonelli. Ne ha facoltà. Mi fa una cortesia, onorevole Bonelli? Saluta, insieme a me, gli studenti e i docenti dell'Istituto comprensivo “Maria Montessori”, che assistono ai nostri lavori dalle tribune?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. Colleghi, Governo, riscontriamo un piccolo impegno per iniziare a costruire il rapporto con i territori. È necessario ricercare questo rapporto, che può fornire delle informazioni e può velocizzare gli interventi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, signor Presidente. Onorevoli colleghi, signora Sottosegretaria, affrontando il tema delle calamità naturali e dei necessari interventi successivi è impossibile non pensare alle immagini di Valencia: la rapidità e la violenza con cui l'acqua ha portato morte e distruzione, il dolore e la rabbia dei cittadini, che abbiamo visto esplodere; tutto mentre ancora si scava nel fango e si combatte ancora per strappare all'acqua luoghi del quotidiano, strade, parcheggi, case.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 377
+      }
+    },
+    {
+      "politician_id": "camera_d307248_19",
+      "politician_name": "MAZZETTI Erica",
+      "date": "2024-11-06",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Sottosegretarie, relatori, colleghi, l'Italia, per le sue particolari caratteristiche geomorfologiche e fisiche, è un Paese estremamente fragile ed esposto a fenomeni alluvionali e di dissesto idrogeologico. Siamo fra i primi al mondo per risarcimento e riparazione di danni da eventi alluvionali e di dissesto, con un costo che il CNR ha quantificato in 3,5 miliardi di euro all'anno, a partire dal 1945. L'esposizione ai pericoli naturali è aumentata in modo significativo a livello globale a causa della crescita e diffusione dei fenomeni di urbanizzazione e deforestazione; pertanto, è di fondamentale importanza identificare le misure più efficaci per intervenire in maniera adeguata durante la fase di emergenza e per realizzare modelli di ricostruzione volti a mitigare gli impianti e aumentare la capacità di resilienza degli insediamenti urbani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0377",
+      "metadata": {
+        "id_persona": "307248",
+        "seduta": 377
+      }
+    }
+  ]
+}

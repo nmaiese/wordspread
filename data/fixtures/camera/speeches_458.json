@@ -1,0 +1,58 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0458",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-03-28",
+    "title": "Assemblea — Seduta n. 458 del 2025-03-28",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0458",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 458
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-03-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 81, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0458",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 458
+      }
+    },
+    {
+      "politician_id": "camera_d309160_19",
+      "politician_name": "ROMEO Nadia",
+      "date": "2025-03-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente, e grazie anche alla Sottosegretaria per essere qui presente. Oggi siamo di fronte - lo dicono i dati Istat di qualche giorno fa - a una crisi sociale ed economica di proporzioni davvero importanti, che non possiamo più ignorare. I dati diffusi ci dicono chiaramente che il 23,1 per cento della popolazione italiana è a rischio di povertà o esclusione sociale, con un numero che è sempre in continua crescita. Stiamo parlando di oltre 13,5 milioni di persone che ogni giorno devono fare i conti con difficoltà economiche che, ovviamente, minano anche la loro dignità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0458",
+      "metadata": {
+        "id_persona": "309160",
+        "seduta": 458
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2025-03-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . Grazie, Presidente. Rispondo all'interpellanza urgente in esame per evidenziare preliminarmente che, non appena si è avuta notizia dell'avvio della procedura di licenziamento per i 480 lavoratori, sui 1.200 impiegati nello stabilimento di Copparo (Ferrara), da parte della multinazionale Berco, è stato convocato, il 14 novembre del 2024, uno specifico tavolo di crisi presso il Ministero delle Imprese e del made in Italy .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0458",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 458
+      }
+    }
+  ]
+}

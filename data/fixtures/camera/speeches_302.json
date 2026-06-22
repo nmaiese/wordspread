@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0302",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-06-03",
+    "title": "Assemblea — Seduta n. 302 del 2024-06-03",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0302",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 302
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-06-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 48, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0302",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 302
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-06-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il Ministro per i Rapporti con il Parlamento, con lettera in data 29 maggio 2024, ha presentato alla Presidenza il seguente disegno di legge, che è stato assegnato, ai sensi dell'articolo 96- bis , comma 1, del Regolamento, in sede referente, alla VIII Commissione (Ambiente):",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0302",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 302
+      }
+    },
+    {
+      "politician_id": "camera_d307447_19",
+      "politician_name": "SILVESTRI Francesco",
+      "date": "2024-06-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Faccio seguito a una richiesta fatta al Presidente della Camera, richiamando l'articolo 60, soprattutto i commi 3 e 4, per un fatto abbastanza grave che è successo la scorsa settimana quando il MoVimento 5 Stelle, visto quello che sta succedendo a Gaza e a Rafah, ha deciso di rappresentare la situazione, in una maniera sicuramente insolita e anche fuori dal Regolamento, esponendo delle bandiere palestinesi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0302",
+      "metadata": {
+        "id_persona": "307447",
+        "seduta": 302
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-06-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Grazie a lei, deputato Silvestri. L'abbiamo ascoltata con attenzione e, come lei ha detto, ha coinvolto direttamente il Presidente della Camera, l'onorevole Lorenzo Fontana. Quindi, attendiamo insieme le sue determinazioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0302",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 302
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-06-03",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che, nell' allegato A al resoconto stenografico della seduta odierna, sarà pubblicata la versione corretta dell'organizzazione dei tempi per l'esame della proposta di legge n. 433-A ed abbinata, recante disposizioni in materia di assistenza sanitaria per le persone senza dimora (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0302",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 302
+      }
+    }
+  ]
+}

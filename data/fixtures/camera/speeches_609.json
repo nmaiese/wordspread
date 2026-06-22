@@ -1,0 +1,786 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0609",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-02-05",
+    "title": "Assemblea — Seduta n. 609 del 2026-02-05",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 609
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 91, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308849_19",
+      "politician_name": "AMATO Gaetano",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo intervento è per denunciare, ancora una volta, una situazione assolutamente vergognosa. Sono mesi che la Vigilanza Rai non riesce a riunirsi perché la maggioranza fa mancare il numero legale. È una maggioranza che vuole imporre una presidente, disponendo anche dei voti a disposizione, appunto, dell'opposizione: vuole quindi arrogarsi il diritto di dirci come debba essere votata la presidenza della Vigilanza Rai. Questo è vergognoso. È vergognoso anche perché la comunicazione di questa maggioranza sta mistificando, ad ogni comunicato, i fatti reali. Non è l'opposizione che sta bloccando la Vigilanza, ma è la maggioranza che non si presenta ad ogni convocazione (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308849",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d302818_19",
+      "politician_name": "GRAZIANO Stefano",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Io penso che ci sia davvero un problema molto forte, molto serio della vicenda della Vigilanza Rai. Lo diciamo da tempo come Partito Democratico e continuiamo a denunciarlo. Continuiamo a dire che in una Commissione, quando l'opposizione non partecipa a una Commissione, dà un segnale politico, ma, quando la maggioranza non partecipa a una Commissione, blocca l'istituzione, sequestra l'istituzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "302818",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Come lei sa, come i colleghi e le colleghe sanno, abbiamo avuto un incontro molto approfondito, con uno scambio pensavo anche importante, per non dire decisivo, con il Presidente della Camera e i capigruppo delle opposizioni. Perché praticamente alla vigilia del referendum sulla revisione costituzionale siamo in una situazione insostenibile dal punto di vista vuoi della democrazia vuoi dell'agibilità politica per far sì che siano pubbliche, pubblicizzate le nostre ragioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo ora agli articoli aggiuntivi riferivi all'articolo 7, a partire dagli identici 7.06 Pandolfo e 7.01005 Appendino, a pagina 48 del fascicolo, per poter seguire, sui quali la Commissione e il Governo hanno espresso parere contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo articolo aggiuntivo propone l'istituzione di un Fondo per l'accesso al credito delle imprese artigiane, delle microimprese e delle piccole imprese. Per dirla in una parola al Governo e alla maggioranza: verrebbe in soccorso di un provvedimento che non fa nulla da questo punto di vista, che non fa nulla di concreto per agevolare l'accesso al credito delle micro e delle piccole imprese che continuano, per l'appunto, ad avere difficoltà ad avere accesso al credito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d309220_19",
+      "politician_name": "PANDOLFO Alberto",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Di fatto, questo emendamento introduce una semplificazione e una standardizzazione in particolare per le autorizzazioni per le attività tecniche nei porti, di fatto con una validità nazionale e biennale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "309220",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento chiediamo al Governo di istituire un Fondo per la formazione in digitalizzazione e intelligenza artificiale per i piccoli esercizi commerciali e le piccole strutture ricettive extra-alberghiere e questo perché sappiamo bene che il nostro Paese ha la necessità di formare affinché possiamo avere maggiore professionalità nell'accoglienza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308932_19",
+      "politician_name": "GNASSI Andrea",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'emendamento si pone l'obiettivo di istituire e rafforzare il dialogo e il coordinamento tra le imprese e le istituzioni nel settore HoReCa, che sappiamo essere uno dei comparti anche di snodo per quanto riguarda i settori che vanno dalla ristorazione all' hotellerie , dagli alberghi al catering , dai bar a tutte le attività a essi riferibili. Sappiamo essere, il comparto HoReCa, uno dei comparti più rilevanti per la nostra economia nonché tra i più colpiti dalla crisi, con i cambiamenti dei consumi e le complessità normative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308932",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo articolo aggiuntivo affrontiamo due temi: il tema della desertificazione commerciale e il tema del declino demografico delle aree interne, un tema che ritorna tanto, ma che, ahimè, non vede alcuna azione della maggioranza tesa a contrastarlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo articolo aggiuntivo segue un po' l'iter della proposta della collega Alifano, non ripeterò i numeri per quanto riguarda il commercio. Il commercio ha necessità di avere un aiuto sostanziale in varie forme e allora, con questo articolo aggiuntivo, chiedo degli investimenti, da parte di questo Governo, in digitalizzazione, in efficientamento energetico, in riorganizzazione e rilancio dell'attività commerciale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'articolo 19 disciplina la tutela dalle recensioni online false o fraudolente, che è un tema molto rilevante per le piccole e medie imprese, in particolare nei settori del commercio, del turismo, della ristorazione e dei servizi. Il fenomeno delle recensioni manipolate produce effetti economici diretti, perché altera la concorrenza, condiziona la scelta dei consumatori, danneggia le imprese corrette, soprattutto quelle più piccole che non dispongono di strumenti adeguati per difendersi. Quindi, l'obiettivo di contrastare le recensioni illecite è condivisibile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo, anch'io, su questo emendamento, ma anche sui successivi per rilevare quelle che sono le criticità introdotte dall'articolo 19 e di cui condividiamo gli obiettivi, perché prevedere delle disposizioni che hanno l'obiettivo di contrastare le false recensioni, evidentemente, incontra il favore del MoVimento 5 Stelle dato che il problema c'è.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d309220_19",
+      "politician_name": "PANDOLFO Alberto",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'articolo 25 interviene di fatto sulla legge n. 180 del 2011, lo Statuto delle imprese, rafforzando ruolo e funzioni del Garante per le micro e per le piccole e medie imprese. In primo luogo, l'emendamento aggiorna il quadro di riferimento europeo, in cui il Garante si deve muovere. Accanto allo Small Business Act e le sue revisioni, vengono ricomprese le più recenti comunicazioni della Commissione europea, tra cui quella del 2021 (la cosiddetta “legiferare meglio”) e quella del 2023 (il pacchetto di aiuti per le piccole e medie imprese). Quindi, di fatto, si allinea l'azione nazionale agli indirizzi europei.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "309220",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Perfetto. Allora, ritorniamo all'ordine del giorno n. 9/2673-A/1 Barabotti, dove il parere del Governo è favorevole, quindi andiamo avanti. Sull'ordine del giorno n. 9/2673-A/2 Nisini, il parere è favorevole e andiamo avanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308901_19",
+      "politician_name": "MARINO Maria Stefania",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Vorrei provare a far cambiare idea al Governo su quest'ordine del giorno dove chiediamo di assumersi finalmente una responsabilità che finora ha evitato: quella di difendere il lavoro, l'industria e un intero territorio davanti alla chiusura dello stabilimento Cargill di Giammoro, in provincia di Messina. Parliamo di un presidio industriale storico, specializzato nella produzione di pectina che per anni ha garantito l'occupazione stabile e qualificata a decine di lavoratori e a tutto l'indotto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308901",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d301559_19",
+      "politician_name": "VALENTINI Valentino",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministro delle Imprese e del made in Italy . La riformulazione è la seguente: “impegna il Governo a monitorare gli effetti della norma introdotta in via sperimentale al fine di valutare l'opportunità di renderla strutturale”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "301559",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307829_19",
+      "politician_name": "LOMUTI Arnaldo",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Davvero non riesco a interpretare il parere contrario a questo semplice ordine del giorno che chiede - semplicemente - neanche tanto un impegno ma, quantomeno, di aprire una riflessione da parte del Governo sulla possibilità di estendere l'istituto dei contratti di rete anche a tutte le piccole e medie imprese dotate di soggettività giuridica. È un ordine del giorno attraverso il quale il Governo ha la possibilità, ha lo strumento, ha l'occasione di lanciare un messaggio politico chiaro proprio in direzione favorevole verso le piccole e medie imprese che vanno sostenute sempre, non soltanto in base alla motivazione del semplice profitto, ma anche perché hanno la possibilità di costruire insieme un percorso che guarda all'altro insieme di valori che solo indirettamente non guarda al profitto, ma poi, nella sostanza, invece, è un ottimo strumento per agevolare lo stesso. Perché abbiamo visto che tutte quelle imprese che guardano a tutto quell'insieme di valori - lo dico molto semplicemente - funzionano meglio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307829",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Volevo chiedere al Vice Ministro se la può rileggere - perché c'era un po' di confusione in Aula - sia per l'ordine del giorno n. 9/2673-A/22 Zaratti sia per l'ordine del giorno n. 9/2673-A/23 Zanella perché non sono sicura di aver compreso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d301559_19",
+      "politician_name": "VALENTINI Valentino",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministro delle Imprese e del made in Italy . La riformulazione sull'ordine del giorno n. 9/2673-A/22 Zaratti è la seguente: “impegna il Governo ad accompagnare le misure previste dal provvedimento in esame con ulteriori misure idonee a calmierare i costi dell'energia, al fine di ridurre la significativa consistenza del costo dell'energia che grava sulle imprese, minandone la competitività”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "301559",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. No, non possiamo accettare questa riformulazione, perché con quest'ordine del giorno chiediamo di rivedere il disaccoppiamento che viene utilizzato per determinare il costo dell'energia, legandolo al costo del gas, e chiediamo di implementare l'utilizzo di energia da fonti rinnovabili, che è esattamente quello che questo Governo si rifiuta di fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, io chiedo di sottoscrivere quest'ordine del giorno, che mi pare particolarmente importante. Peraltro, come MoVimento 5 Stelle, avevamo presentato anche degli emendamenti che andavano in questa direzione e che sono nel fascicolo, ma non sono stati votati, in quanto non segnalati. Ora, io chiedo al Governo: ma come è possibile che ci sia, da una parte, la Presidente del Consiglio dei ministri che, a reti unificate, dichiara che il problema delle bollette è il primo problema del Paese, e, dall'altra, abbiamo maggioranza e Governo che, di fronte a un ordine del giorno così di buonsenso, va a sminuirne la portata?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d301559_19",
+      "politician_name": "VALENTINI Valentino",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministro delle Imprese e del made in Italy . “Impegna il Governo ad accompagnare le misure previste dal provvedimento in esame con ulteriori misure volte a rafforzare la competenza delle piccole e medie imprese in materia di intelligenza artificiale e a sostenerne l'adozione, al fine di accrescerne la competitività, innovazione e sostenibilità, nonché di colmare il distacco con le grandi imprese italiane e internazionali”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "301559",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Suo tramite, Presidente, vorrei dire al Vice Ministro che l'intervento che farò non sarà dedicato al Governo, ma sarà dedicato ai colleghi e alle colleghe, perché in relazione a quello di cui noi stiamo discutendo e al voto contrario che il Governo ha dato - io non so se lo avete letto, ma vi invito a leggerlo -, sostanzialmente il Governo ha detto “no” ai possibili sussidi per maternità o per possibili chiusure aziendali di microimprese, per imprenditori e aziende agricole, commercianti, artigiani, piccoli imprenditori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Onorevoli colleghi, signori del Governo, la legge annuale sulle piccole e medie imprese rappresenta l'occasione principale, forse l'unica che abbiamo, per misurare le capacità reali di questo Governo in materia di pianificazione economica. Infatti, sappiamo fin dall'inizio della legislatura che non credete nella pianificazione industriale. Lo ha dichiarato il Ministro dell'Economia, peraltro se ne sono viste le conseguenze, avendo assistito oltretutto al susseguirsi di leggi di bilancio sempre più scialbe fino all'ultima, in cui avete celebrato addirittura l' austerity come virtù cardinale di questo Governo - la famosa “prudenza” del Ministro Giorgetti -, avendo praticamente in precedenza sabotato le misure create dai Governi precedenti, soprattutto Industria 4.0 del Governo Renzi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Siamo così nuovamente di fronte a un provvedimento che, dietro un titolo ambizioso, nasconde un'allarmante povertà di contenuti e una preoccupante assenza di visione strategica per il tessuto produttivo italiano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Colleghi, signor Sottosegretario, è con senso di responsabilità che intervengo per dichiarare - lo dico subito - il voto favorevole, a nome del gruppo di Noi Moderati, a questo disegno di legge annuale sulle piccole e medie imprese, a testimonianza della grande attenzione che da sempre riserviamo alla colonna vertebrale del nostro tessuto economico e imprenditoriale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di passare oltre, salutiamo le ragazze e i ragazzi, le docenti e i docenti, del Liceo Statale “Erasmo da Rotterdam”, di Sesto San Giovanni, in provincia di Milano. Benvenuti a Montecitorio e grazie di essere qui (Applausi).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). … il gruppo di Alleanza Verdi e Sinistra voterà contro l'approvazione di questo provvedimento, ma, in ogni caso, ci tengo a ringraziare il relatore, l'onorevole Pietrella, e il presidente Gusmeroli, perché, durante l'esame della legge annuale sulle piccole e medie imprese in Commissione, è stato possibile un confronto leale e sincero che ha portato alla modifica del testo, con la soppressione di un intero capo, nonostante la norma fosse già stata approvata dal Senato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Partirò da una cosa che ci piace molto di questa legge, a cui oggi poniamo il voto del Parlamento, che è il titolo, questo ci piace molto. La legge annuale sulle piccole e medie imprese è qualcosa che non solo era attesa da molto tempo, è una legge che premia quel tessuto che conosciamo essere la forza del nostro Paese, che dovrebbe premiare… Scusate, interessa così tanto all'Aula che c'è un po' di brusio. La legge sulle piccole e medie imprese doveva essere quell'occasione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi e colleghe, oggi, io voglio portare, per un attimo, voi e il Ministro Urso in un posto in cui credo non andiate abbastanza spesso, cioè nel capannone di Stefano. Stefano è un piccolo imprenditore del manufatturiero, di terza generazione; non l'ha fondata lui l'azienda. Stefano sa bene cosa significa oggi fare impresa. Stefano la notte non dorme, non dorme proprio perché sa cosa significa fare impresa e guarda il soffitto perché ha paura del calendario, ha paura di quel 27 del mese perché lui vuole pagare gli stipendi ai suoi dipendenti, sono una famiglia per lui, ma non sa se avrà la liquidità per farlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308928_19",
+      "politician_name": "BERGAMINI Davide",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Grazie, Vice Ministro. Colleghi, oggi siamo qui ad intervenire in quest'Aula per approvare un provvedimento che rappresenta un passaggio importante e strutturale di quella che è la nostra politica economica nazionale e industriale. Parliamo di piccole e medie imprese. Sono quelle imprese che da sempre mantengono la struttura economica del nostro Paese. È un provvedimento che va nella giusta direzione, proprio perché permette alle micro, piccole e medie imprese di crescere e, soprattutto, di riuscire anche a mantenere oggi quella competizione internazionale che ha permesso, comunque, al nostro Paese di restare sempre fondamentale all'interno dell'economia europea.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308928",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307475_19",
+      "politician_name": "GUSMEROLI Alberto Luigi",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghe e colleghi, perché è importante questa legge sulle piccole e medie imprese? Intanto, dal punto di vista simbolico, perché questa è una legge che doveva essere fatta tutti gli anni e non è mai stata fatta, mai stata affrontata; da adesso, verrà fatta tutti gli anni. È il primo anno in assoluto, dopo un decennio e oltre, che si parla di una legge annuale, come la manovra di bilancio, come la legge sulla concorrenza. Adesso, da oggi, c'è una legge annuale sulle piccole e medie imprese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307475",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308783_19",
+      "politician_name": "DI SANZO Christian Diego",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Colleghe e colleghi, oggi discutiamo la legge annuale sulle piccole e medie imprese, che dovrebbe rappresentare uno degli strumenti più importanti della politica industriale del Paese. Un provvedimento che dovrebbe parlare al cuore produttivo dell'Italia, a quell'ossatura fatta di artigiani, microimprese e PMI diffuse nei territori che rappresentano il 99 per cento del nostro sistema imprenditoriale, una parte decisiva della nostra identità economica e sociale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308783",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308889_19",
+      "politician_name": "PIETRELLA Fabio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, grazie. Ringrazio anche il Vice Ministro Valentino Valentini. Ci esprimiamo su un provvedimento che non è un atto tecnico qualunque, ma rappresenta una scelta politica chiara e consapevole sul modello di sviluppo del nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308889",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, grazie Presidente. Noi di Alleanza Verdi e Sinistra abbiamo voluto questa commemorazione perché i fatti accaduti lontano da qui, in una città del Minnesota il cui nome è ormai entrato nelle nostre case, Minneapolis, sono terrificanti, ci interrogano e ci riguardano. Due persone, cittadini statunitensi, sono stati brutalmente uccisi da agenti (Commenti) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). No comment . Renée Good e poi Alex Pretti sono stati massacrati in due momenti diversi, il 7 e il 24 gennaio, in due luoghi diversi della città. Non si conoscevano - per quel che ne sappiamo - ma entrambi stavano prendendo parte, in modo assolutamente pacifico insieme ad altre cittadine e cittadini, a un'azione di monitoraggio delle incursioni degli agenti della polizia schierata dal Presidente Trump alla caccia di immigrati, la famigerata ICE, braccio operativo del dipartimento della sicurezza interna degli Stati Uniti d'America. L'ICE ormai è per il mondo, democratico e libero, un nome che risuona spaventoso per l'efferatezza dei suoi atti, tra i quali perfino il rapimento di creature piccole. Alex Pretti e Renée Good sono sue vittime: “due morti, lasciati morire su strade innevate”, ha cantato Bruce Springsteen, rendendo loro omaggio e gridando contro l'orrore, contro l'esercito privato di re Trump con le armi allacciate ai cappotti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308863_19",
+      "politician_name": "MORGANTE Maddalena",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, desidero unirmi, a nome del gruppo di Fratelli d'Italia, a un momento di riflessione e di cordoglio per la tragica uccisione di Renée Nicole Good e Alex Pretti avvenuta a Minneapolis, negli Stati Uniti d'America. Nel ricordare questi drammatici eventi, è doveroso farlo con rispetto, senso delle istituzioni e senza strumentalizzazioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308863",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d305757_19",
+      "politician_name": "BOLDRINI Laura",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signor Presidente. Colleghe e colleghi, “ we'll remember the names of those who died on the streets of Minneapolis ”, ossia “ricorderemo i nomi di coloro che sono morti per le strade di Minneapolis”. Così, Presidente, ha cantato Bruce Springsteen nella sua Streets of Minneapolis . E noi, noi li ricorderemo, oggi, qui nel Parlamento italiano, e li ricorderemo sempre.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "305757",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Buongiorno a tutti. Non si è mai vista una commemorazione ad horas che sa tanto di provocazione. Se questo ricordo dei (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Per cortesia, silenzio. Per cortesia, ascoltiamo la deputata. Per cortesia, colleghi, per favore (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) . Per favore, per favore, ascoltiamo. Per favore, prego, deputata Matone.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Ripeto, non si è mai vista una commemorazione ad horas, che sa tanto di provocazione. Se questo ricordo dei morti di Minneapolis serve ad attirare la maggioranza in una trappola dialettica, il tentativo è fallito dall'origine (Applausi dei deputati del gruppo Lega-Salvini Premier – Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) . Voi volete alzare una cortina fumogena sui fatti di Torino per i quali stiamo ancora aspettando parole (Commenti di deputati del gruppo Partito Democratico-Italia Democratica e Progressista) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, per favore! Per favore, per favore. Per favore colleghi, vi prego (Proteste di deputati del gruppo Partito Democratico-Italia Democratica e Progressista). No, no per favore (Dai banchi del gruppo Partito Democratico-Italia Democratica e Progressista: “ È una commemorazione! Vergogna! ” - La deputata Matone: “ Fascisti!”)… Per favore. No, deputata Matone la prego, questo non lo può dire (Proteste di deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Colleghi, no, per favore, colleghi. Deputata Matone, aspetti un attimo (Proteste di deputati del gruppo Partito Democratico-Italia Democratica e Progressista) … Aspettate, fatemi parlare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Voi volete alzare una cortina fumogena sui fatti di Torino, per i quali stiamo ancora aspettando parole inequivocabili di lontananza e di condanna (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra – Dai banchi del gruppo Lega-Salvini Premier: “Fate silenzio! Basta!” – Il deputato Fornaro: “ Vergognati! \")",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Silenzio, silenzio. Per favore, colleghi! Per favore, per favore, non dimentichiamo che è una commemorazione. Per favore! Colleghi, per favore. Colleghi (Commenti) … Per favore! Prego, tengo il tempo bloccato, comunque deputata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Noi fortunatamente viviamo in uno Stato di diritto con regole chiare, precise, dove le forze di Polizia fanno il loro lavoro con abnegazione e spirito di sacrificio, nervi saldi, nervi messi costantemente alla prova da provocazioni di ogni genere e da assalti fisici. Se da voi non abbiamo risposte concrete di condanna per fatti che lo richiederebbero, al contrario, da noi - so di sorprendervi - avrete una chiara presa di posizione su quanto accaduto a Minneapolis.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). …discutiamo del nuovo pacchetto di norme sulla sicurezza e rispetto alle quali sarebbe auspicabile trovare unità. Perché le morti (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra)…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308836_19",
+      "politician_name": "MATONE Simonetta",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). …le morti non si usano (Applausi dei deputati del gruppo Lega-Salvini Premier - Dai banchi del gruppo Partito Democratico-Italia Democratica e Progressista: “ Questa è la commemorazione sul decreto Sicurezza! ”) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308836",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente, il gruppo di Forza Italia si unisce al cordoglio per i tragici fatti avvenuti a Minneapolis ed esprime sincera solidarietà alle famiglie di Renée Nicole Good e di Alex Pretti (Applausi) . Fatti tragici che hanno suscitato comprensibile dolore nelle comunità coinvolte e che hanno avuto risonanza ben oltre i confini degli Stati Uniti. In circostanze così gravi il linguaggio della politica e delle istituzioni deve essere, a mio avviso, sobrio e responsabile (Applausi) . Ogni perdita di vite umane merita vicinanza, ascolto e l'impegno a ricostruire i fatti con serietà, senza strumentalizzazioni e senza pregiudizi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307447_19",
+      "politician_name": "SILVESTRI Francesco",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vedo con piacere che l'inseguimento a Vannacci è partito e sono contento, perché questo li porterà verso la via dell'estinzione (Applausi dei deputati del gruppo MoVimento 5 Stelle) e perché l'ignoranza li acceca nel sapere che la richiesta dell'informativa è avvenuta, colleghi, prima dei fatti di Torino (Applausi dei deputati dei gruppi MoVimento 5 Stelle, Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra) . Quindi, le vostre accuse, in una commemorazione come questa, vi descrivono.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307447",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Oggi ci ritroviamo qui per un gesto che mai avrei immaginato di dover compiere per ben due volte in pochi mesi. Ci troviamo a commemorare vite spezzate perché esercitavano i loro diritti democratici in quello che per tutti noi è uno dei luoghi simbolo della democrazia, ovvero gli Stati Uniti. Qui, in quest'Aula, abbiamo ricordato Charlie Kirk, ma ciò che è accaduto a Minneapolis colpisce e inquieta in maniera particolare e ben diversa. Inquieta perché la morte, anzi, l'omicidio, di Renée Good e Alex Pretti è avvenuto in circostanze che ricordano scene degne delle peggiori autocrazie, scene che non dovrebbero trovare spazio in un Paese che fonda la propria legittimità sul rispetto della persona e dello Stato di diritto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Renée Good e Alex Pretti erano delle persone normali, non avevano nemmeno 40 anni quando sono stati freddati, quando sono stati uccisi dagli agenti dell'ICE, un'Agenzia federale che è diventata una milizia privata, che è diventata una milizia a uso e consumo del Presidente Trump.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Come è stato richiamato, qualche mese fa abbiamo commemorato Charlie Kirk, vittima di una violenza politica brutale, probabilmente in quel caso isolata. Ma oggi siamo chiamati - e ringrazio i colleghi di AVS per averci dato questa possibilità, questa opportunità - a commemorare due vittime dello Stato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308845_19",
+      "politician_name": "PENZA Pasqualino",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Per il suo tramite, desidero portare all'attenzione dell'Aula un fatto grave che colpisce il buon nome e la dignità dei cittadini di Caivano, una comunità già duramente provata. È stata prima travolta da grande bluff del cosiddetto decreto Caivano, che si è rivelato inutile nei contenuti e utile solo a passerelle politiche. Oggi a questo fatto se ne aggiunge uno nuovo: una fiction della Rai, La preside , che mescola una storia di fantasia con fatti di cronaca reali, nomi cambiati, scene girate altrove ma un solo elemento resta invariato, ed è il nome del paese di Caivano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308845",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, grazie. I numeri, alla fine, smascherano sempre la propaganda. Mentre questo Governo continua a raccontare di successi inesistenti, arriva l'Istat che ci dice che il carrello della spesa, anche in questo mese, aumenta ancora e che per milioni di famiglie la vita quotidiana diventa una sfida ogni giorno più difficile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. In queste ultime ore, nel territorio del napoletano sono avvenuti fatti allucinanti. Un ragazzo, che, tra l'altro, era seguito - oggi è emerso - addirittura dalla comunità di Don Luigi Merola, Giuseppe Musella, ha ucciso la sorella con una coltellata, sembra per un litigio familiare. Erano figli di un delinquente che attualmente sta scontando una pena in carcere. Contemporaneamente, un giovane pregiudicato, da poco rimesso in libertà, ha ucciso a Sarno un altro cittadino, un salumiere, Gaetano Russo. Stanotte, è stato ucciso, dentro una Smart , un cittadino, dalle prime notizie sembrerebbe che facesse il muratore; non si sa ancora il motivo dell'uccisione, ma a fianco a lui c'era un ragazzo di 25 anni, incensurato, che sembrava stesse commissionando la realizzazione del suo locale da barbiere. E poco fa, una persona, un giovane ha accoltellato la fidanzata, è stato arrestato e ha tentato di suicidarsi in carcere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Il 7 febbraio, si celebrerà la giornata nazionale antibullismo. Come sappiamo, in questa legislatura, abbiamo fatto un grande lavoro su questo tema, che ha portato all'approvazione della legge n. 70 del 2024. In particolare, con quella legge a mia prima firma abbiamo modificato la legge n. 71 del 2017, il cui articolo 3, comma 6, prevede che il Ministro dell'Istruzione trasmetta alle Camere, entro il 31 dicembre di ogni anno, una relazione sugli esiti delle attività svolte dal tavolo tecnico per la prevenzione e il contrasto del bullismo e del cyberbullismo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 609
+      }
+    },
+    {
+      "politician_id": "camera_d306008_19",
+      "politician_name": "GRIBAUDO Chiara",
+      "date": "2026-02-05",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo in quest'Aula perché sono ormai trascorsi dieci anni dalla scomparsa di un grande uomo, Gino Borgna, che è stato un grande sindacalista e un politico importante per il mio territorio, ma più in generale per la storia di tante e tanti di noi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0609",
+      "metadata": {
+        "id_persona": "306008",
+        "seduta": 609
+      }
+    }
+  ]
+}

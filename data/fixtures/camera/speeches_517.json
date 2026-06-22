@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0517",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-07-24",
+    "title": "Assemblea — Seduta n. 517 del 2025-07-24",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 517
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 89, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io intervengo nuovamente per tornare a chiedere un'informativa urgente al Ministro Pichetto Fratin, relativamente alla questione sollevata dall'ultimo report ARERA sul mercato elettrico, il quale sembrerebbe confermare l'ipotesi che, negli anni 2023 e 2024, ci sia stata una manipolazione dei prezzi da parte degli operatori, finalizzata a gonfiare le bollette elettriche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 2488-A ​: Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l'organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questo articolo aggiuntivo prevede un intervento necessario, urgente. Qui si prevedono aumenti, nuove previsioni di spesa, eccetera, per tutto, ma per l'ambiente si trascura l'essenziale. Il Piano straordinario per il potenziamento di misure di monitoraggio e di messa in sicurezza del territorio dai rischi derivanti dalle colate detritiche, che si sono verificate nel corso delle ultime settimane nel territorio della valle del Boite, è un intervento che proponiamo almeno per quanto riguarda la copertura, con una previsione di spesa di 50 milioni di euro per quest'anno, e che va a porre un rimedio, ancorché non definitivo, a un problema enorme. Pensate che la strada, la SS 51 Alemagna, è ancora bloccata per molte ore; si può percorrere solo di giorno; è stata chiusa per giorni e giorni. È l'unica strada, se non vogliamo parlare dei vari passi di montagna, che fa comunicare Cortina con Belluno, Venezia e tutte le altre città della pianura e altrove.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo emendamento, che insiste sull'articolo 4, riguarda un tema che è quello che contraddistingue un po' tutto questo decreto e che riassumerei con un'immagine, ossia la rapacità, la voracità di occupazione di spazi e di poltrone nella governance , in questo caso, dei grandi eventi sportivi, perché - ricordo all'Aula - questo articolo prevede che nel comitato organizzatore Fondazione Milano-Cortina si passi dagli attuali 14 membri a un massimo di 18.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie. Dicevo che ci è stata data una spiegazione tecnica, che è quella di mantenere l'equilibrio e la simmetria fra la componente sportiva - in questo caso con riferimento specifico al CONI - e la componente politica. Ora semplicemente faccio una domanda: del fatto che Giovanni Malagò non sarebbe più stato il presidente del CONI si sapeva da almeno tre mesi a questa parte, forse due mesi e mezzo. Perché questo emendamento - domanda retorica - è arrivato due giorni fa, se ricordo bene, nottetempo alle 20,30, a uffici chiusi, con apertura ai subemendamenti fino alle 9 del mattino successivo? Ripeto, a uffici chiusi. Poi è stato posticipato questo limite, ma poco cambia. Perché non vi siete accorti un po' prima che occorreva mantenere quella simmetria sapendo che il CONI avrebbe eletto un nuovo presidente, qualunque fosse stato? Certamente non sarebbe stato più Giovanni Malagò. Perché si è arrivati a ridosso di questa situazione proponendo questo emendamento in quel modo e in quella maniera? Ecco, la nostra risposta - ripeto - è il senso del nostro emendamento; ribadisco, voglio essere lucido, ho recepito la questione tecnica che ci è stata presentata, però mi fa pensare che o vi siete un po' distratti oppure siete arrivati, per l'ennesima volta, a ridosso per evitare, diciamo così, di sollevare un polverone.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Presidente, sì, abbiamo anche noi presentato un analogo emendamento per le ragioni che ha illustrato il collega Berruto, fra l'altro, in un ambito nel quale - la Sottosegretaria e il Ministro lo sanno - Azione ha collaborato, nella fase emendativa, a migliorare questo testo e ne condivide l'impianto in larga misura e nella parte in cui porta valore sui territori e realizza grandi eventi sportivi. Ciò nondimeno, riteniamo che non aiuti questo processo il fatto che, nottetempo, con riferimento al Comitato, costituito da 14 persone, con un emendamento fatto alle 21 e con termine per i subemendamenti la mattina dopo alle 8, poi spostato a più riprese… per qualche ragione ci sembra di capire che non ci fosse accordo nella maggioranza su come riuscire a dipanare la questione e la mattina dopo i rappresentanti miracolosamente diventano 14. Ecco, questo secondo me, non aiuta neanche il processo di una norma che, invece, è utile allo sport e abbiamo chiesto di riflettere se sopprimerlo. Ci sembra di capire che il parere sia contrario e riteniamo che questo sia un errore da parte del Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questo è un emendamento che va spiegato, perché qui siamo alle solite. L'oggetto è la Simico, la società Milano-Cortina, che ha il compito di organizzare, realizzare e concretizzare le infrastrutture in funzione dei Giochi olimpici del 2026.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Molto rapidamente. Dando parere negativo a questo emendamento, il Governo sta dicendo che i lavoratori e le lavoratrici, che saranno la spina dorsale di questo evento, il giorno dopo saranno senza alcuna forma di protezione, senza alcuna forma di paracadute. E parliamo di migliaia di donne e di uomini: saranno quelli che consentiranno queste Olimpiadi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Sull'ordine dei lavori, Presidente. Non entro nel merito di questo emendamento, che è agghiacciante. Ognuno può leggerlo e semplicemente ricorda che viene d'autorità trasformata la società Infrastrutture Milano Cortina, che dovrebbe terminare il suo compito - finisco la premessa, per poi arrivare all'ordine dei lavori - e viene trasformata in una società che prosegue la sua attività fino al 2033, così.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Però, l'intervento sull'ordine dei lavori si riferisce al fatto che, nella nostra Commissione, è da 2 settimane abbondanti che siamo continuamente convocati e sconvocati. Su questo emendamento, come su altri, c'è stata una sequenza di inviti al ritiro infinita, compreso questa mattina. Nel Comitato dei nove di questa mattina, la prima versione su questo emendamento era un invito al ritiro, poi successivamente è stato accantonato. Ora, sono passate 3 settimane, siamo stati convocati e sconvocati continuamente: la risolvono i colleghi di maggioranza in 20 minuti?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308849_19",
+      "politician_name": "AMATO Gaetano",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Mi associo a quello che ha detto l'onorevole Berruto. Noi stamattina, alle 9, abbiamo avuto un Comitato dei nove. Siamo andati e il parere del relatore su questo emendamento era ritiro; due secondi prima che finisse la riunione ci hanno detto “è accantonato”. È vero che stiamo facendo questo da 3 settimane: ritiro, accantonato. Quando chiediamo gli accantonamenti, noi della minoranza, non c'è possibilità; li chiedono la maggioranza, quelli da ritirare vengono accantonati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308849",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Anch'io mi unisco alle giuste contestazioni dei colleghi di PD e MoVimento 5 Stelle, perché sono giorni e giorni che assistiamo a un balletto imbarazzante intorno a questo emendamento. Si tratta di un balletto, tra inviti al ritiro, accantonamenti, conflitti interni, che la dice lunga sulla reale natura di questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'onorevole Grippo chiede la medesima cosa. L'onorevole Amato chiede la sottoscrizione per tutto il gruppo. Anche le onorevoli Prestipino, Gadda e Piccolotti chiedono di sottoscrivere per i rispettivi gruppi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo sull'emendamento 7.1. Volevo soltanto ricordare all'Aula che la maggioranza ha appena votato contro un emendamento che evoca i principi di non discriminazione, pluralismo, diversità, inclusione e uguaglianza di genere, come stabilito dal codice etico del CIO (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) ! Se il Governo volesse tornare indietro su questo parere, saremmo pronti ad accettare la retromarcia. Credo sia veramente vergognoso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Sì, volevo specificare la motivazione per cui il parere del Governo era contrario su questo emendamento. Ovviamente, questo spirito è insito in tutte le attività poste in essere dal Ministero dello Sport, soprattutto nei grandi eventi. È chiaro che, però, con una proposta emendativa, bisogna definire cosa si intenda per la promozione di attività e quantificarle. È un emendamento generico che sembra più un ordine del giorno. Ripeto: è uno spirito già insito nell'attività del Ministero dello Sport in tutti i grandi eventi. Quindi sarà sicuramente espresso in molteplici situazioni. Tuttavia, per presentare una norma devi definire cosa intendi nello specifico per “promozione di eventi” e quantificarla, perché ogni evento ha un costo (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE e Fratelli d'Italia), semplicemente per questo, poi sul principio lo sottoscriviamo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Credo che la spiegazione che abbiamo ricevuto rispetto all'emendamento precedente si commenti da sola. Io credo non sia mai sufficiente ribadire che vanno rispettati i principi di non discriminazione, il pluralismo, la diversità e l'eguaglianza di genere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, intervengo per chiedere di sottoscriverlo a nome del gruppo del MoVimento 5 Stelle. Del resto è molto simile a quello che abbiamo presentato noi. Vorrei inoltre motivare la sottoscrizione, perché stiamo parlando di un grande evento, come l'America's Cup, che certamente è una grande occasione e nessuno può negarlo, ma neanche si può negare che questo investa un territorio che è già fragile, ha varie fragilità: ecologiche, sismiche e sociali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308856_19",
+      "politician_name": "SARRACINO Marco",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Molto brevemente: a noi pare abbastanza evidente che la scelta di far fuori dal comitato organizzatore città metropolitana e regione Campania è una scelta politica della destra che, non riuscendo a mettere le mani su quelle istituzioni anche in futuro, ha pensato di farle fuori, anche perché, fino ad ora, non abbiamo avuto una spiegazione rispetto a questa scelta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308856",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307561_19",
+      "politician_name": "DE LUCA Piero",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Innanzitutto per apporre anche la mia firma all'emendamento e per ribadire le valutazioni che sono state svolte dai colleghi. È davvero inimmaginabile, per ragioni di efficienza, di economia procedurale nelle pratiche amministrative e di buona riuscita dell'evento immaginare di tener fuori dal comitato che si occuperà della governance , dell'organizzazione e della gestione di questo evento così importante due enti che hanno delle competenze e delle prerogative indispensabili per portare avanti i progetti di riqualificazione, di ammodernamento e di efficientamento anche delle aree necessarie allo svolgimento di questo evento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307561",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307561_19",
+      "politician_name": "DE LUCA Piero",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …con spirito costruttivo, chiediamo un supplemento di riflessione al Governo: o l'accantonamento o di cambiare il parere e approvare questo emendamento, che è indispensabile per la buona riuscita dell'evento (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307561",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …quello che sta succedendo. Denuncio una grave violazione regolamentare, perché abbiamo un deputato che vota per due persone. Ma le aggiungo anche di valutare, poiché noi sappiamo che il voto serve anche per accordare la diaria al deputato assente (Applausi dei deputati del gruppo MoVimento 5 Stelle) , se questo comportamento non configuri ipotesi di reato, di peculato, in ragione dell'utilizzo dei fondi della Camera. Perché in questo modo il deputato che sarebbe assente, verrà ad essere, invece, remunerato per la diaria. E questa è una violazione del bilancio della Camera, dell'utilizzo dei fondi pubblici e, verosimilmente, anche un reato penale (Applausi dei deputati del gruppo MoVimento 5 Stelle - Commenti). Presidente, parlo a nome degli straccioni del Movimento 5 Stelle (Applausi dei deputati del gruppo MoVimento 5 Stelle)!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, ovviamente con l'aiuto dei deputati Segretari verificheremo. Perché è ovvio che, in questo momento, se mai è accaduto, a me è sfuggito. Quindi, con l'aiuto dei deputati Segretari noi verificheremo e ovviamente le conseguenze saranno valutate dopo la verifica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento è, come diceva prima il collega Berruto, sulla stessa linea anche del successivo Piccolotti, che sottoscriviamo essendo molto simile al nostro. Parliamo dell'America's Cup. Come dicevo anche ieri in discussione generale, noi riconosciamo innanzitutto il grande risultato di aver portato sul nostro territorio per la prima volta questa grande manifestazione, però non possiamo nascondere, anche perché evidentissima e ha permeato l'intero provvedimento, che c'è una precisa, costante azione famelica da parte di questo Governo, di questa maggioranza, di occupare tutto quello che è occupabile, anche nel mondo dello sport, come stiamo vedendo anche nel mondo della cultura. Questo emendamento è di buonsenso e siamo veramente basiti che non sia stato approvato, né il nostro, né quello degli altri colleghi dell'opposizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d305931_19",
+      "politician_name": "AMENDOLA Vincenzo",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Io, se il collega Caso accetta, vorrei sottoscrivere. Penso che sia da fare un discorso di buonsenso. Lo dico alla Sottosegretaria. Mi appello anche agli amici colleghi della Lega-Salvini Premier, che una volta erano federalisti e ci tenevano tanto al potere decentrato. Ma voi che avete amministrato - ci sono altri amministratori e sindaci - sapete come funziona un evento del genere? Perché è evidente che anche in un quadro di regole - c'è un comitato a 11 per l'organizzazione della Coppa America e parlo di un evento che avrà un impatto mondiale dal punto di vista della comunicazione e degli investimenti pari anche alle Olimpiadi, se me lo permettete - per organizzare un evento del genere ci vogliono tutti i poteri dello Stato, tutte le funzioni e tutte le amministrazioni coinvolte, perché è evidente che il Comitato dovrà dare pareri sanitari, ambientali, amministrativi. Sarà un lavoro complicato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "305931",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Intervengo per sottoscrivere, come loro hanno fatto col nostro, questo emendamento del collega Caso. Ma soprattutto, visto che l'intervento del collega Amendola proprio in questo momento citava anche i colleghi della Lega e faceva appello a una loro riflessione sulla necessità di avere tutte le soggettività e le istituzioni che sul territorio possono lavorare alla buona riuscita di un evento, io vorrei ricordare che in Commissione c'era un emendamento dei colleghi della Lega che prevedeva l'introduzione anche della regione Campania dentro il comitato di gestione dell'America's Cup. Quindi, non si comprende per quale ragione, in questo momento, si stia invece prendendo una decisione diversa, ovvero per quale ragione i colleghi della Lega, di fronte ad emendamenti così scarni, così tecnici, così indiscutibilmente giusti e ragionevoli e che ricalcano le previsioni che erano contenute in un loro emendamento, stiano rinunciando a tenere la posizione e stiano danneggiando Napoli, la Campania e un evento di portata internazionale così importante come l'America's Cup.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Intervengo per sottoscrivere anch'io, se il collega lo consente, questo emendamento, ma non per rivendicare ragioni tecniche, perché quelle del collega Amendola sembrano abbastanza chiare e condivisibili, ma per sottolineare un dato politico. Dal punto di vista della costruzione di un provvedimento e di un comitato che ha la natura e la necessità di rappresentare le esigenze del territorio, escludere la regione Campania veramente non trova alcuna motivazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Presidente, la ringrazio. Siccome questo argomento è stato affrontato in Commissione ampiamente, il Ministro Abodi, che è stato presente, ha motivato il parere contrario rispetto a questi emendamenti, spiegando che la governance del Comitato di gestione non può essere modificata, perché non è nelle facoltà del Governo. Per quanto riguarda, invece, il coinvolgimento dei territori, che ovviamente è una legittima richiesta sia della maggioranza che dell'opposizione e, infatti, avete sottolineato che vi erano anche emendamenti della Lega che andavano in questa direzione, verrà istituito - lo sapete, ne ho discusso anche con l'onorevole De Luca - a settembre uno steering group , che è un gruppo operativo sostanzialmente, un Comitato di gestione, che coinvolgerà, avrà al suo interno dei componenti della regione, della città metropolitana e dell'Autorità di bacino. Quindi, su questo vi è una garanzia assoluta da parte del Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Abbiamo ascoltato le motivazioni della Sottosegretaria Siracusano, ma intendiamo sottoscrivere in ogni caso l'emendamento e chiediamo che il Governo davvero mantenga questo impegno, perché, come è già stato ricordato dai colleghi, dal collega Amendola e da tutti coloro che sono intervenuti, questi grandi eventi richiedono il massimo del coordinamento. Quindi, escludere dal punto di vista tecnico e dal punto di vista politico la regione Campania è un comportamento che non comprendiamo. Quindi, chiediamo di sottoscrivere l'emendamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Intervengo a completamento dell'intervento che ho fatto poc'anzi. Vedrete, infatti, successivamente, che sugli ordini del giorno che vanno in questa direzione vi sarà un parere favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308849_19",
+      "politician_name": "AMATO Gaetano",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sottosegretaria, è vero che il Ministro Abodi è intervenuto, ma non è intervenuto su chi, è intervenuto sul numero. Il Ministro Abodi ha detto che non poteva essere aumentato quel numero di tre, tanto è vero che noi abbiamo presentato un emendamento diverso da quello del PD, che lasciava invariato il numero di tre.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308849",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, intervengo e poi reinterverrò anche sull'emendamento che abbiamo presentato noi come AVS. Ovviamente, tramite la collega Piccolotti, ma in particolare io e il collega Mari, che siamo campani, vorremmo specificare due cose.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308856_19",
+      "politician_name": "SARRACINO Marco",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, va bene tutto, però le prese in giro no, perché l'argomentazione usata dalla Sottosegretaria, che riprende le parole del Ministro Abodi, è il solito gioco delle tre carte. Togliete un membro del Governo e mettetene uno della regione Campania, questo è il punto. Voi non potete dire: “non possiamo rimuovere quelli del Governo” e fate fuori quelli del territorio!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308856",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, grazie, Presidente. Davvero le motivazioni che ha addotto la Sottosegretaria sono risibili, perché non hanno alcun pregio. Cioè, ci sono due situazioni praticamente identiche, Olimpiadi e Coppa America, che sono due eventi che hanno una risonanza mondiale, importantissimi. Nel primo si coinvolgono le regioni Lombardia e Veneto, guarda caso amministrate dalla destra, nel secondo caso non si vuole coinvolgere la regione e la città metropolitana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, Presidente, anche io voglio ribadire che è grave che il Sottosegretario ci abbia detto una cosa che poi non è corrispondente al vero. È una scelta politica, e allora io ribadisco: questo è un territorio molto fragile, dalle varie fragilità, è sottoposto al fenomeno bradisismico, abbiamo visto persone che sono veramente al limite. Abbiamo casi personali, sono veramente delle fragilità enormi. E allora, per queste persone, avere dei riferimenti territoriali è davvero importante.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308780_19",
+      "politician_name": "RICCIARDI Toni",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Io credo che nel merito della vicenda debba aggiungere poco, per come è stata descritta, argomentata e per come è stato anche scoperto il gioco finto che si stava facendo. Però io mi interrogavo, Presidente, su un concetto, e chiederei, suo tramite, ove mai fosse possibile, che qualche collega di maggioranza, anche campano in questo caso, ci spiegasse il concetto di viltà. Perché io sto iniziando a vivere una confusione mentale, mi chiedo: che ci state a fare? Che siete venuti a fare?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308780",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308780_19",
+      "politician_name": "RICCIARDI Toni",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). E abbiate il coraggio di dirlo, assumetevi la responsabilità, perché quello che state facendo è una vergogna! È una vergogna per questo Paese, è una vergogna per questa istituzione, è una vergogna per questi territori (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308780",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, grazie, Presidente. Questo è uno sgarbo politico-istituzionale soprattutto anche verso i colleghi meridionali e soprattutto verso i campani, a cui chiedo di esprimersi nel merito e sul perché dei meridionali, e quindi dei campani, vengano estromessi da una scelta così importante. La filiera istituzionale va collegata tutta, dalla città metropolitana fino al Governo. E quindi spero che soprattutto i campani tirino fuori quell'orgoglio, si facciano sentire e votino in dissenso rispetto alla scelta della maggioranza (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d305931_19",
+      "politician_name": "AMENDOLA Vincenzo",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Dato che il Governo è intervenuto, ma non ha chiarito il punto, e qui abbiamo la fortuna di avere il Ministro dell'Economia e delle finanze che, tra l'altro, sovraintende anche Sport e Salute, ci potreste dire, innanzitutto, se questi tre membri del Governo si possono un attimo assottigliare e far entrare la regione, come per le Olimpiadi? E poi avete un'idea di chi sono questi tre membri? Perché, se mi dicono che sono il MEF, Palazzo Chigi e il Ministero degli Affari esteri, alzo le mani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "305931",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Io volevo solo ricordare che, per esempio, per altri eventi sportivi ci si è comportati in altro modo, come le ATP Finals di Torino, in cui sono stati coinvolti i territori. E poi volevo ricordare che il figlio di La Russa lo avete già sistemato, e quindi non è necessario trovare un'altra poltrona (Applausi dei deputati del gruppo MoVimento 5 Stelle) , o forse c'è ancora l'altro figlio di La Russa o qualcun altro. Io capisco tutto, quindi quella poltrona l'avete già data all'ACI, potete liberarne una per la città metropolitana di Napoli o per la regione Campania (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. A questo punto, come primo firmatario, chiedo e sottolineo la necessità di accantonare e ragionare bene su questo emendamento, e a questo punto di mettere in votazione la richiesta di accantonamento. Io ribadisco nuovamente, e l'ho detto fin dall'inizio, ancor prima che il Sottosegretario intervenisse, che le ragioni tecniche portate dal Ministro Abodi in Commissione non valgono per questo emendamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Per un richiamo al Regolamento, sull'articolo 8 e seguenti. Abbiamo appena assistito, Presidente, a un miracolo; o un miracolo o una magia, un gioco di prestigio. Mi spiego: è stato prima denunciato dal collega Colucci che, in una postazione di un deputato del partito della Lega, c'era una postazione che votava in autonomia, senza la presenza del deputato, oppure c'era qualcuno vicino che magari faceva il “pianista”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Concludo con la richiesta. Intanto andrebbe chiesto al collega Caparvi chi ha votato per conto suo oppure se ha votato lui, perché se ci sono stati dei voti in sua assenza è un grosso problema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). No, Presidente. Visto che il collega Trancassini, quando ci sono anche delle questioni economiche, perché sappiamo che con il voto elettronico (Commenti di deputati del gruppo Fratelli d'Italia - Il deputato Trancassini: “ Ho aperto un'istruttoria! ”) … Non capisco perché i colleghi si agitino. Con la presenza e con i voti in Aula viene garantita la percezione della diaria odierna, altrimenti si perde, sono circa 250 euro. Poi danno degli straccioni a noi e fanno questi giochetti per 250 euro (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Preciso, per procedura, che già abbiamo iniziato la verifica, come ho detto al collega Colucci poc'anzi. I Segretari sono qui per questo. C'è il tempo tecnico di verificare e intanto andiamo avanti. Però, ovviamente, è iniziata la verifica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, il gruppo AVS ha presentato un emendamento che è molto simile a quello che abbiamo votato poc'anzi. Lo vogliamo illustrare nuovamente, per un motivo molto semplice: perché dev'essere chiarito in modo inequivocabile che la scelta di estromettere la regione Campania, intesa come ente terzo e territoriale, dal Comitato di gestione per l'America's Cup è una scelta politica e non tecnica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Io ascolto sempre gli interventi dei colleghi, non manco mai di rispetto e non ho mai urlato nei confronti di nessuno. Mi dispiace che venga utilizzato questo atteggiamento nei confronti di una persona che è sempre molto rispettosa delle regole e dei comportamenti all'interno di quest'Aula. Mi dispiace molto, perché io non mi comporterò mai come fa qualcuno che mi urla in faccia o altre cose del genere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Approfitto della presenza del Ministro Giorgetti per dirgli che io, se posso, sottoscrivo questo emendamento e penso che noi lombardi, che stiamo organizzando felicemente e mi auguro con grande successo, le Olimpiadi Milano-Cortina che si terranno in buona parte anche in Valtellina, dovremmo accettare questa richiesta e che lo debba fare lei, signor Ministro, visto che è qui: inserire un rappresentante della regione nel comitato organizzativo. Francamente, non riesco a capire perché in Lombardia sì, in Veneto sì, e in Campania no.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Per sottoscrivere, a nome del gruppo, anche questo emendamento, che va nella stessa direzione di quello precedente, anch'io per appellarmi al Ministro Giorgetti. Non ci sfugge la correttezza tecnica della spiegazione che la Sottosegretaria ci ha dato, e la ringraziamo sia in Commissione, sia in questa sede, né riteniamo che ci sia cattiva fede nel dire che ci sarebbe la volontà da parte del Governo di vedere rappresentata la regione Campania, ma che c'è un ostacolo tecnico. Ciò che, invece, riteniamo - e siamo contenti, Ministro, che ci sia anche lei in Aula in questo momento - è che forse è stato sottovalutato dal Governo, nella discussione in Commissione, e per questo chiediamo un accantonamento ed una riflessione su questo emendamento. Evidentemente, se c'è una comune volontà politica ed una comune consapevolezza del fatto che è inaccettabile e intollerabile che la regione Campania sia esclusa e non possa dare un contributo, peraltro necessario, non è una concessione che si fa alla regione Campania; il contributo dell'ente di prossimità che sarà più coinvolto negli aspetti organizzativi, insieme al comune e alla città metropolitana, è fondamentale ed è fondamentale che dia il proprio indirizzo, come è altrettanto evidente una sperequazione al limite della costituzionalità con gli altri grandi eventi e le altre regioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Noi vorremmo avere maggiore precisione da parte del Governo su quali siano le norme e gli accordi che impediscono, tra i sei membri nominati dagli organizzatori, di comprendere anche la regione Campania. Perché qui, il Governo, più volte, è venuto ad addurre motivazioni che però risultano molto vaghe.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …e ho chiuso, che non è possibile fare questa operazione. Perché, se ci fosse stata una menzogna o una dichiarazione imprecisa, questo sarebbe ancora più grave (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Già avevo annunciato la richiesta di sottoscrivere l'emendamento della collega, che va sulla scia di quello che stiamo dicendo sia con il precedente emendamento, sia con il precedente ancora. Questo, a differenza dell'emendamento 7.1000 Caso, è leggermente più light , quindi, magari, il Governo avrebbe potuto assecondarlo, perché voglio che si capisca chiaramente di cosa stiamo parlando.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Apriamo un altro fronte del capitolo “voracità”. Entriamo nell'articolo che regola la nuova governance del comitato per le finali ATP di tennis assegnate, riassegnate all'Italia fino al 2030. Bisogna ricostruire i fatti, nel senso che questo articolo del decreto cambia, stravolge completamente la governance esistente; impone una nuova governance . È un fatto che avviene 14 mesi dopo l'accordo siglato da parte dei proprietari del torneo, che è l'ATP (l'Associazione dei Tennisti Professionisti), e 14 mesi dopo il rinnovo di un torneo che, come sapete, ha disputato la sua quarta edizione e ne disputerà una quinta a novembre; e lo ha ottenuto proprio in virtù dei suoi risultati, non solo quelli sportivi e agonistici (abbiamo anche la fortuna di avere il numero 1 del ranking mondiale che ha vinto questo torneo l'anno scorso a Torino), ma anche in termini di ricadute, di impatto economico che ha avuto sul territorio e, nello specifico, parlo della mia città, che è Torino.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). … ho concluso, Presidente… si può ricostruire sia il curriculum di quei consulenti sia la componente economica. Allora, rischiamo, anzi, credo di poter presagire che ci troveremo di fronte ad un ennesimo torneo, sperando che l'ATP non cambi idea e lo mantenga in Italia, occupato da Sport e salute Spa, e al proliferare…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo sull'ordine dei lavori. Sono mesi, ormai quasi tre anni, che denuncio “i pianisti” in quest'Aula (Commenti dei deputati dei gruppi Fratelli d'Italia e Lega-Salvini Premier) . Purtroppo anche oggi, nelle file di Forza Italia, nel momento in cui lei, Presidente, dichiara la chiusura del voto, c'è qualcuno che spinge un fogliettino per far votare il collega assente. Allora, siccome, Presidente, sono stata sospesa per aver sostato fuori da un'Aula, sono stata ammonita un paio di settimane fa, sempre dalla Presidenza e dai Questori, per non aver ridato una bandiera della Palestina ai commessi, io chiedo formalmente…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). … che chi non è presente debba togliere il tesserino. Presidente, è inaccettabile che chi non è qui oggi continui a votare (Commenti di deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier e Forza Italia-Berlusconi Presidente-PPE) grazie al collega vicino…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì. Perché, invece di chiamare MoVimento 5 Stelle “straccioni”, io direi che forse è il caso che qualcuno faccia pace con il cervello (Commenti di deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier e Forza Italia-Berlusconi Presidente-PPE) e invece…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Dicevo che faccio appello alla Sottosegretaria Siracusano e alla sua riconosciuta correttezza e onestà intellettuale. Poche ore fa, nel bocciare l'articolo aggiuntivo 6.01000 Soumahoro, che chiedeva di promuovere, durante l'organizzazione e lo svolgimento di grandi eventi sportivi, il principio di non discriminazione, il pluralismo, la diversità, l'inclusione e l'uguaglianza di genere, come stabilito dal codice etico del CIO, la Sottosegretaria ha detto: lo bocciamo perché è appunto un principio sottinteso, vale necessariamente, e dunque è scontato. Ebbene, per non incorrere in una chiara incoerenza fra quello che si dice e quello che si fa, in questo caso noi chiediamo concretamente che…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 517
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-07-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …che nella composizione degli organi di indirizzo, coordinamento, gestione, vigilanza o consultazione istituiti per l'organizzazione e per la realizzazione dei Giochi Olimpici e Paralimpici invernali Milano-Cortina 2026, America's Cup 2024, Giochi del Mediterraneo Taranto 2026, ATP Finals Torino, Campionato Europeo di Calcio UEFA 2032 e ogni altro evento sportivo dichiarato di interesse strategico nazionale con decreto del Presidente del Consiglio dei ministri o dell'Autorità di Governo delegata in materia di sport, deve rispettare e garantire la presenza di entrambi i generi. Attenzione, non ho chiesto equilibrio, non ho chiesto parità di genere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0517",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 517
+      }
+    }
+  ]
+}

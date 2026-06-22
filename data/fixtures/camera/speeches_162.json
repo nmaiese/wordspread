@@ -1,0 +1,539 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0162",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-09-14",
+    "title": "Assemblea — Seduta n. 162 del 2023-09-14",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 162
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 84, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Grazie, Presidente. Ringrazio chi ha chiesto e sollecitato questo intervento, visto che, anche ieri pomeriggio, parlando di sicurezza sul lavoro in Senato, abbiamo, ahimè, ricordato altri tre operai che, in contesti diversi, sono morti in Abruzzo nelle ultime ore. Quindi darò dei dettagli tecnici, ovviamente, per spiegare quello che è tragicamente accaduto, senza sovrapporci alla magistratura che sta facendo rapidamente ed egregiamente il proprio lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307464_19",
+      "politician_name": "MONTARULI Augusta",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Ringrazio il signor Ministro e il Governo tutto per aver voluto relazionare il Parlamento con questa puntuale ricostruzione, non solo dei fatti, ma anche dei meccanismi normativi che è nostro dovere controllare, nell'ottica di migliorare sempre la nostra normativa, la nostra legislazione, a favore delle persone, a favore dei lavoratori per la loro sicurezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307464",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie signor Presidente, signor Ministro Salvini, lei oggi si è limitato a descrivere informazioni sui tragici fatti di Brandizzo, di cui questo Parlamento era perfettamente a conoscenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307851_19",
+      "politician_name": "NISINI Tiziana",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Grazie, Ministro Salvini per essere qui oggi, rappresentanti del Governo, come gruppo Lega, ci uniamo al cordoglio delle famiglie delle vittime. Visto che il mio è il terzo intervento e altri ne seguiranno, chiedo, per rispetto a chi quella notte ha perso la vita, di non strumentalizzare (Applausi dei deputati dei gruppi Lega-Salvini Premier , Fratelli d'Italia, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) : lo chiedo anche per le famiglie che stanno vivendo un profondo dolore per i cari persi nella tragedia di Brandizzo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307851",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Innanzitutto, ribadiamo il nostro cordoglio e la vicinanza alle famiglie delle vittime dei lavoratori di Brandizzo, ma anche alle famiglie delle vittime dell'incidente che si è verificato ieri alla fabbrica di Chieti. Grazie, Ministro, di essere venuto in Aula, però non la ringrazio della sua relazione, perché, effettivamente, ci ha detto cose che sapevamo già. Specialmente alla fine della sua relazione lei ha cercato di puntualizzare che il Governo non ha colpe, che il Governo, in questo caso, ha fatto tutto il possibile. Nessuno in quest'Aula vuole dare colpe: sappiamo benissimo che questa è una situazione complessa e difficile, che c'è un'indagine della magistratura. Quello di cui dobbiamo discutere, invece, oggi è la cultura della sicurezza sul lavoro (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Ed è per questo che siamo preoccupati delle nuove evoluzioni del codice degli appalti, siamo preoccupati dei subappalti a cascata, non per fare una mera critica al Governo, lo abbiamo fatto anche in sede di approvazione di quel codice degli appalti. Riprendo di nuovo il concetto della sicurezza sul lavoro, citando, purtroppo, la frase che è stata detta in quel famoso video fatto da uno dei lavoratori della ditta Sigifer: “Ragazzi, cominciamo. Se vi dico treno, andate da quella parte”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308807_19",
+      "politician_name": "CAROPPO Andrea",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente, e grazie al Ministro Salvini per l'informativa asciutta e completa che fornisce un contributo anche per la nostra discussione. Qualche giorno fa abbiamo commemorato le 5 vittime di Brandizzo. C'è stata l'occasione, da parte di tutti, di esprimere il nostro cordoglio e le condoglianze alle famiglie e ai parenti, ma quella di oggi, come già avvenuto qualche giorno fa, è l'occasione per approfondire un incidente ferroviario e per comprendere se quanto accaduto nella notte a Brandizzo, sulla linea in cui quel treno passeggeri vuoto rientrava verso Milano, sia legato a errori o a fattori umani, a superficialità, a sottovalutazione del rischio o a un sistema generale che invece, come qualcuno sostiene, non funziona.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308807",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. A me, signor Ministro, non ha impressionato la solitudine del Presidente Mattarella, il giorno dopo la strage di Brandizzo, come simbolo di colpevolizzazione di un Governo assente. A me ha impressionato quella solitudine del Presidente come un segnale, da parte di un'intera classe politica, di mancanza di consapevolezza rispetto a quel segnale e rispetto a un tema che diventa oggetto delle nostre attenzioni a corrente alternata, soltanto subito dopo una strage. Quindi, non critico lei per quell'assenza o per la mancanza di un Sottosegretario ma critico un'intera classe politica perché credo che quella solitudine sia stata assolutamente emblematica. Siamo - lo dico innanzitutto a me stesso - sempre pronti a stare in prima fila quando ci sono nastri da tagliare, quando si devono inaugurare nuove opere, quando dobbiamo dimostrare la nostra efficienza; lì siamo sempre pronti a metterci la faccia. Di fronte a episodi come quello che è accaduto qualche settimana fa scatta un senso in noi di deresponsabilizzazione collettiva. Non faccio riferimento soltanto alla classe politica, signor Ministro, faccio riferimento anche a tutti coloro che rappresentano una società come Ferrovie dello Stato, come RFI. Anche la loro assenza si è sentita in quei giorni. Ho avuto quasi la sensazione che ci fosse l'idea, sottintesa, che qualcuno potesse pensare che la presenza a una commemorazione doverosa, a un momento di cordoglio importante, potesse essere sovrapposta anche a un'idea di responsabilità. Per cui, la mia sensazione è che molto spesso c'è un'idea - l'ho detto poco fa e lo ribadisco - di allontanamento del problema da parte della classe politica e manageriale, anziché affrontarlo e affrontarlo nei momenti giusti. Purtroppo, signor Ministro, al di là di tutti i futuri processi penali, e quindi di tutto quello che la magistratura metterà in campo, ognuno di noi fa i conti con la propria coscienza. Qui dentro abbiamo tutti governato il Paese e, se si è verificato il fatto che sul tema della sicurezza sul lavoro c'è stata una sottovalutazione da parte della classe manageriale, della classe politica, delle istituzioni e dei sindacati, questa responsabilità ce la dobbiamo prendere fino in fondo. Soprattutto, dobbiamo evitare che a una presa di coscienza di una responsabilità non corrispondano fatti concreti, signor Ministro, a maggior ragione in un periodo in cui, come lei stesso ha detto, gli investimenti, per fortuna, in questo Paese aumenteranno grazie al Piano nazionale di ripresa e resilienza. Se noi continueremo a considerare secondari gli investimenti sulla sicurezza sul lavoro, noi moltiplicheremo i morti nei cantieri. Noi, purtroppo, signor Ministro, abbiamo tutti accettato l'ideologia della velocità. La velocità è diventata il simbolo della modernità e dell'efficienza, come se il tema delle morti sul lavoro non riguardasse anche questo aspetto. Che modernità e che efficienza ha un Paese che non si occupa di italiani che muoiono nei cantieri? Non mi pare che un Paese che sottovaluti questo aspetto dimostri la sua modernità, al contrario, dimostra la sua arretratezza. Signor Ministro, su questo vorrei che trovassimo la forza per individuare percorsi e strumenti unitari. Sono d'accordo che bisogna evitare le strumentalizzazioni, però sono anche impressionato dal fatto che accendiamo i riflettori soltanto dopo che le stragi accadono: Pioltello nel 2018, il ponte Morandi, sempre nel 2018, la funivia del Mottarone, nel 2021, e ora Brandizzo. Accendiamo i riflettori e li spegniamo un minuto dopo che la tragedia si è compiuta e abbiamo celebrato i nostri stanchi riti, le nostre procedure, per cui ci si riunisce, se ne parla, ma poi tutto quello che ci siamo detti passa nel dimenticatoio. Siamo troppo presi dalla nostra immagine e dalla nostra voglia di apparire efficienti e poco interessati a occuparci di investimenti che hanno meno share . Come ho detto poco fa, tagliare i nastri e occuparsi di grandi opere fa molto più share di investimenti sulle manutenzioni, di investimenti sulla sicurezza sul lavoro. A me ha impressionato, ad esempio, che soltanto nei primi mesi dell'anno ci siano stati 559 morti e che rispetto all'anno scorso si siano incrementate le morti sul lavoro. C'è una crescita delle morti sul lavoro inversamente proporzionale al miglioramento e alla crescita dell'innovazione tecnologica. C'è anche il fatto che quegli uomini lì comunicassero oggi soltanto attraverso le telefonate e i fonogrammi. Al di là di quello che lei dice, Ministro, ossia che c'è la responsabilità umana, a me ha colpito che, quando sfrecciano treni a 160 chilometri orari, tutto avviene esclusivamente con strumenti di comunicazione, fra il ponte di comando e il lavoratore che è al binario, che sono gli stessi strumenti di comunicazione che abbiamo utilizzato negli anni passati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). C'è una prassi che è messa in campo in nome di una velocità che può determinare cinque morti sul lavoro in questo caso; credo dobbiamo interrogarci su come investiamo in nuove tecnologie per la sicurezza nei cantieri e in manutenzioni, le quali in questo Paese hanno un ruolo centrale innanzitutto per la nostra sicurezza (Applausi dei deputati del gruppo Azione-Italia Viva-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Onorevoli colleghe e colleghi, signor Ministro, consentitemi di iniziare questo intervento, ricordando i cinque operai investiti e uccisi da un treno la notte del 30 agosto, mentre lavoravano sui binari vicino alla stazione piemontese di Brandizzo: aveva solo 22 anni Kevin Laganà, 34 Michael Zanera, 43 Giuseppe Sorvillo, 49 Giuseppe Aversa e 52 Giuseppe Saverio Lombardo. Erano tutti dipendenti della Sigifer, impresa leader nel settore di costruzione e manutenzione degli impianti ferroviari. A nome del gruppo Alleanza Verdi e Sinistra, voglio rivolgere ancora un pensiero a queste vittime del lavoro e alle loro famiglie, ma anche ai due macchinisti del convoglio che li ha travolti, ignari della presenza di operai sui binari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente. Signor Ministro, alla conclusione di questo dibattito sull'informativa che il Ministro delle Infrastrutture Salvini ha reso alla Camera dei deputati, credo che si possano fare alcune considerazioni. Ciò, ovviamente, al di là del doveroso cordoglio, che non può essere solo formale. E lei ha fatto bene, signor Ministro, a ricordare che le ferrovie, le istituzioni e lo Stato devono essere, comunque, a fianco delle famiglie di quei lavoratori. Non potranno essere restituite le vite, ma certamente non dovranno essere lasciati soli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1001-A: Ratifica ed esecuzione dell'Accordo sullo spazio aereo comune tra l'Unione europea e i suoi Stati membri, da una parte, e l'Ucraina, dall'altra, firmato a Kiev il 12 ottobre 2021.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Presidente, intervengo per annunciare il nostro voto e dire - veramente in trenta secondi - che quest'accordo è molto importante, perché è iniziato ed è stato sottoscritto ancora prima dell'inizio dell'invasione dell'Ucraina da parte della Russia e rappresenta un passo essenziale, che già quella volta si faceva, per l'integrazione nell'Unione europea e con l'Unione europea dell'Ucraina. Ne testimoniamo l'importanza anche con il nostro voto a favore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307602_19",
+      "politician_name": "FORMENTINI Paolo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Presidente, credo che la valenza geopolitica della ratifica dell'Accordo in esame, che mira a creare gradualmente uno spazio aereo comune euro-ucraino, non possa sfuggire a nessuno. Consolidiamo, oggi, la scelta di campo occidentale di Kiev e ribadiamo, votando a favore, il convinto sostegno italiano al processo di associazione politica e integrazione economica dell'Ucraina con l'Unione europea.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307602",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d302902_19",
+      "politician_name": "PORTA Fabio",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, l'Accordo tra l'Unione europea e l'Ucraina sullo spazio aereo è stato firmato a Kiev il 12 ottobre del 2021, pochi mesi prima dell'inizio della guerra, in occasione del 23° vertice tra l'Unione europea e l'Ucraina. Si tratta di un avvicinamento, quello tra Ucraina e UE, che, di lì a poco, la guerra ci avrebbe ricordato quanto fosse importante e urgente. È un Accordo, questo, che riveste - i colleghi ne saranno consapevoli - un significato rilevante per i rapporti che intercorrono tra l'Unione europea e questo Paese, anche nella prospettiva di un'adesione, sulla quale vi è già stato un pronunciamento ufficiale del Consiglio europeo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "302902",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 1040: Ratifica ed esecuzione dell'Accordo sulla protezione degli investimenti tra l'Unione europea e i suoi Stati membri, da una parte, e la Repubblica di Singapore, dall'altra, fatto a Bruxelles il 19 ottobre 2018.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Annuncio anch'io il voto favorevole del nostro gruppo su quest'Accordo internazionale che sancisce il rafforzamento dei rapporti commerciali dell'Unione europea con Singapore; un'economia in crescita e rapporti che sono particolarmente importanti per il nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307829_19",
+      "politician_name": "LOMUTI Arnaldo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Chiedo di consegnare il testo del mio intervento e mi limito ad annunciare il voto favorevole del MoVimento 5 Stelle. D'altronde, non potrebbe che essere così, dato che è la ratifica di un Accordo già siglato durante il Governo “Conte 1” e che mira a tutelare i nostri imprenditori con riferimento al principale partner dell'Europa nel Sud-Est asiatico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307829",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307602_19",
+      "politician_name": "FORMENTINI Paolo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Vorrei ricordare l'importanza di Singapore, centro nevralgico e nodo strategico dell'Indo-Pacifico e confermare oggi il voto favorevole, già espresso dal gruppo Lega-Salvini Premier al Senato, su questa ratifica, che è volta a garantire un livello elevato di protezione degli investimenti fornendo una cornice giuridica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307602",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d302902_19",
+      "politician_name": "PORTA Fabio",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ratifica di questo Accordo sulla protezione degli investimenti tra l'Unione europea e i suoi Stati membri, da una parte, e la Repubblica di Singapore, dall'altra, fatto a Bruxelles il 19 ottobre 2018 - tra l'altro, in un tempo relativamente recente ed è un auspicio che tutte le ratifiche vengano approvate senza aspettare decenni, come è accaduto in passato - è importante anche per l'Italia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "302902",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 1041: Ratifica ed esecuzione dell'Atto di Ginevra dell'Accordo dell'Aja concernente la registrazione internazionale dei disegni e modelli industriali, fatto a Ginevra il 2 luglio 1999.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Quest'atto è particolarmente importante e rappresenta un cambiamento veramente strutturale nella protezione dei disegni dei modelli industriali. Infatti, consentirà ai titolari di opere creative di ottenere la protezione in più Paesi con una sola domanda redatta in una sola lingua e consegnata in un solo ufficio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307151_19",
+      "politician_name": "BILLI Simone",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. In breve, con questo provvedimento si semplifica e si agevola la protezione dell'innovazione nel nostro Paese, allineandola a quella dei maggiori Paesi, in particolare la protezione del design italiano, eccellenza riconosciuta globalmente e importante volano per la crescita economica del nostro Paese. Annuncio il voto favorevole del gruppo Lega-Salvini Premier.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307151",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per dichiarare il voto favorevole del gruppo del Partito Democratico, confermando il voto espresso al Senato dal nostro gruppo lo scorso 22 marzo. Peraltro, Presidente, il testo in esame è pressoché identico al disegno di legge presentato nel corso della XVII legislatura, approvato da questa Camera, il cui iter non si concluse a causa dello scioglimento della legislatura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308866_19",
+      "politician_name": "TESTA Guerino",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Buongiorno ai colleghi. Oggi è stata una giornata particolare, dopo l'informativa del Ministro Salvini in merito alla strage di Brandizzo. Voglio utilizzare pochi istanti per ricordare quello che è successo, nella giornata di ieri, in una fabbrica di esplodenti nel comune di Casalbordino, provincia di Chieti, in Abruzzo: sono morte 3 persone di 44, 56 e 62 anni. Una strage del genere è già avvenuta nella stessa azienda 3 anni fa. Quindi, il tema della sicurezza sui luoghi di lavoro torna ad essere, quotidianamente, sempre al centro dell'attenzione politica e delle istituzioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308866",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308845_19",
+      "politician_name": "PENZA Pasqualino",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Il mio intervento è mirato anche ad informare l'Aula dell'ennesimo caso che sta avvenendo, in questo momento, al Parco Verde di Caivano. Stamattina, dalle prime luci dell'alba, l'elicottero della Polizia era presente sui tetti dei palazzi del Parco Verde, con l'impiego di circa 400 uomini su strada e, attualmente, è in atto un controllo a tappeto, con perquisizioni in abitazioni, da quello che si evince dalle prime notizie, ma, poi, avremo sicuramente i dettagli in giornata. La cosa interessante è vedere come, in un periodo così stretto, ci sia un impiego così enorme di Forze dell'ordine in questi quartieri così a rischio - l'edilizia popolare degli anni Ottanta -, che definisco come il cancro di Napoli, sostanzialmente, perché sono diventati ghetti e non finirò mai di dirlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308845",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). (Dichiarazione di voto finale – A.C. 1001-A ​). Signor Presidente, onorevoli Colleghi, Signori del Governo, sono ben consapevole di correre il rischio di essere ripetitivo ribadendo un concetto che è stato più volte evidenziato e sottolineato dai miei colleghi del Gruppo e da altri colleghi parlamentari in altre occasioni, tuttavia parlando di Ucraina, in questo particolare frangente storico, credo che ogni ripetizione sia appropriata e in alcuni casi anche doverosa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). (Dichiarazione di voto finale – A.C. 1001-A ​). Grazie Presidente! Quello che ci prestiamo a votare fa parte di una serie di accordi bilaterali che rafforzano le relazioni in materia di trasporto aereo tra l'Unione e i paesi vicini nell'area orientale. Esso mira ad una graduale apertura del mercato su base reciproca; a garantire la convergenza normativa e l'osservanza effettiva da parte dell'Ucraina alla legislazione dell'Unione europea in materia di aviazione; a garantire la non discriminazione e assicurare la parità di condizioni agli operatori economici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307829_19",
+      "politician_name": "LOMUTI Arnaldo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). (Dichiarazione di voto finale – A.C. 1001-A ​). Questo accordo firmato solo pochi mesi prima della guerra, volto a omologare alle regole europee quelle ucraine in materia di sicurezza e gestione del traffico aereo, di tutela dei passeggeri e di sistemi telematici di prenotazione, insomma a integrare l'Ucraina nel sistema europeo del trasporto aereo, suona oggi come irrealistico. Nel senso che suona lontano da una realtà fatta di connessioni aeree sospese e spazi aerei chiusi dove volano solo missili, droni, aerei ed elicotteri da guerra. Suona lontano e irrealistico parlare di questi temi come oggi suona lontano e irrealistico parlare di pace per l'Ucraina. Sì perché tutti sembrano essersi arresi alla realtà di una guerra senza fine, di una guerra destinata a durare ancora a lungo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307829",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d302902_19",
+      "politician_name": "PORTA Fabio",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). (Dichiarazione di voto finale – A.C. 1001-A ​). Signor Presidente, onorevoli Colleghi, la ratifica al nostro esame concerne, l'Accordo sullo spazio aereo comune tra l'Unione europea e l'Ucraina, firmato a Kiev il 12 ottobre 2021, pochi mesi prima dell'inizio della guerra, in occasione del 23° vertice congiunto Unione europea-Ucraina.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "302902",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307162_19",
+      "politician_name": "CAIATA Salvatore",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). (Dichiarazione di voto finale – A.C. 1001-A ​). Colleghi! Quest'oggi, siamo qui riuniti per approvare il disegno di legge d'iniziativa del Governo, di ratifica ed esecuzione dell'Accordo sullo spazio aereo comune tra l'Unione europea e i suoi Stati membri, da una parte, e l'Ucraina, dall'altra, firmato a Kiev il 12 ottobre 2021.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307162",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). (Dichiarazione di voto finale - A.C. 1040 ​). Signor Presidente, onorevoli Colleghi, Signori del Governo, l'Accordo che ci accingiamo a discutere e ratificare relativo alla protezione degli investimenti tra l'Unione europea e i suoi Stati membri, da una parte, e la Repubblica di Singapore, dall'altra, riveste un ruolo strategico per l'economia dell'Unione Europea e in particolare per il nostro Paese. La Repubblica di Singapore negli ultimi anni ha rappresentato la principale porta di accesso al Sud-Est asiatico per l'Unione Europea e per gli Stati Uniti. Non a caso, sul piano delle relazioni commerciali, la Città-Stato di Singapore è il maggiore partner commerciale dell'UE nel Sud-Est Asiatico e la prima destinazione per le esportazioni italiane nella regione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). (Dichiarazione di voto finale – A.C. 1040 ​). Grazie Presidente! Con il voto di oggi il Parlamento italiano dà il via libera definitivo all'Accordo sulla protezione degli investimenti tra l'Unione europea e i suoi Stati membri, da una parte, e la Repubblica di Singapore, dall'altra.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307829_19",
+      "politician_name": "LOMUTI Arnaldo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). (Dichiarazione di voto finale – A.C. 1040 ​). Il M5S non può che essere favorevole a questo accordo, siglato sotto il governo Conte I, che mira a tutelare i nostri concittadini che scelgono di investire in quello che rappresenta il principale partner economico dell'Unione europea nell'area del Sud-Est asiatico. Questo accordo infatti mira ad assicurare un elevato livello di tutela per gli investimenti privati a Singapore, oltre che a prevedere garanzie a tutela del diritto delle Parti a perseguire obiettivi di interesse nazionale quali la sicurezza, la protezione della salute pubblica e dell'ambiente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307829",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d302902_19",
+      "politician_name": "PORTA Fabio",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). (Dichiarazione di voto finale – A.C. 1040 ​). Signor Presidente, onorevoli Colleghi, la ratifica al nostro esame concerne, come noto, l'Accordo tra l'UE e Singapore sulla protezione degli investimenti, fatto a Bruxelles il 19 ottobre del 2018, e consta di 4 articoli contenenti, oltre l'autorizzazione alla ratifica ed il relativo ordine di esecuzione, anche l'invarianza finanziaria per cui non ci saranno oneri aggiuntivi per lo Stato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "302902",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). (Dichiarazione di voto finale – A.C. 1041 ​). Signor Presidente, onorevoli Colleghi, Signori del Governo, promuovere lo sviluppo economico del Paese vuol dire anche proteggere la proprietà industriale. L'idea, il disegno, il progetto, sono il cuore dell'intrapresa. È sulla base di un nuovo prodotto, di un oggetto realizzato in maniera innovativa o con materiali inediti, che si crea un'impresa. Questa capacità, la creatività e l'inventiva di cui le aziende italiane sono ricche, è il motore attorno cui si sviluppa il mondo industriale, e, a seguire, la logistica, la distribuzione, la commercializzazione. In un mondo globalizzato come quello in cui viviamo le imprese si trovano ad affrontare quotidianamente i mercati internazionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). (Dichiarazione di voto finale – A.C. 1041 ​). Grazie Presidente! L'Accordo dell'Aja, firmato inizialmente nel 1925 e poi riveduto integralmente diverse volte, permette, attraverso un deposito unico internazionale, di ottenere la protezione dei disegni e modelli in tutti i Paesi scelti dal depositante, tra quelli aderenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d307829_19",
+      "politician_name": "LOMUTI Arnaldo",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). (Dichiarazione di voto finale – A.C. 1041 ​). Finalmente, dopo un quarto di secolo dalla sua firma, ci accingiamo a ratificare questo atto che integra il vecchio accordo dell'Aja così da consentire ai richiedenti italiani di estendere la tutela dei propri disegni e modelli industriali in tutti i Paesi firmatari, mediante un unico deposito internazionale, quindi con una sola domanda internazionale redatta in una sola lingua, presentata a un singolo ufficio e con il pagamento di un'unica tassazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "307829",
+        "seduta": 162
+      }
+    },
+    {
+      "politician_id": "camera_d308822_19",
+      "politician_name": "POZZOLO Emanuele",
+      "date": "2023-09-14",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). (Dichiarazione di voto finale – A.C. 1041 ​). Illustre Presidente, colleghi Deputati, rappresentanti del Governo, premesso che il 22 marzo 2023 il Senato ha approvato il disegno di legge di iniziativa governativa riguardante la ratifica e l'esecuzione dell'Atto di Ginevra dell'Accordo dell'Aja sulla registrazione internazionale dei disegni e modelli industriali, fatto a Ginevra il 2 luglio 1999.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0162",
+      "metadata": {
+        "id_persona": "308822",
+        "seduta": 162
+      }
+    }
+  ]
+}

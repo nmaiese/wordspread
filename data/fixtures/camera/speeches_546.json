@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0546",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-10-10",
+    "title": "Assemblea — Seduta n. 546 del 2025-10-10",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0546",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 546
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-10-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 86, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0546",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 546
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2025-10-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi, Sottosegretaria, ogni volta che i suoi colleghi vanno in televisione, ci provano a rassicurare del fatto che il vostro Governo non voglia trasformare il Servizio sanitario nazionale pubblico in un sistema sostanzialmente privato, un sistema misto, basato sulle assicurazioni sanitarie private, però, ogni volta che c'è da fare qualcosa di concreto, voi togliete al pubblico per darlo al privato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0546",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 546
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2025-10-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Ringrazio gli interpellanti, in particolare l'onorevole Ricciardi per il quesito posto, e rappresento, innanzitutto, che la struttura dell'Azienda Ospedaliero Universitaria Policlinico Umberto I, oggetto della concessione, come riferito anche nell'interpellanza, sarà dedicata alla libera professione intra moenia e, al riguardo, devo ricordare che le modalità di gestione dell'attività libero professionale intramuraria (ALPI) ricadono nella competenza esclusiva delle regioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0546",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 546
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2025-10-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. No, purtroppo non mi posso ritenere soddisfatta. Innanzitutto, come sempre, si va a scaricare la colpa sulle regioni dicendo che la competenza è regionale. Io mi chiedo: il Ministero della Salute allora non serve a nulla, a questo punto, se non può intervenire in qualsiasi aspetto e bisogna lasciar tutto in mano alle regioni. Chiaramente, negli spazi di competenza, il Ministero ha l'obbligo e il dovere di intervenire.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0546",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 546
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-10-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Grazie, onorevole Marianna Ricciardi. Nella sua replica, lei ha menzionato il caso della professoressa della cui morte si è avuta notizia stamattina. Si tratta della professoressa Maria Cristina Gallo, di 56 anni, che denunciò il ritardo nella consegna di quel referto e che, peraltro, diede vita e ha dato vita allo scoperchiamento di uno scandalo che ha portato, poi, peraltro, a oltre 3.000 casi. Noi piangiamo la morte della professoressa Gallo, che ha dimostrato una straordinaria capacità civica e una straordinaria compostezza nella gestione di questa vicenda.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0546",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 546
+      }
+    }
+  ]
+}

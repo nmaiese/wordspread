@@ -1,0 +1,71 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0407",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-01-10",
+    "title": "Assemblea — Seduta n. 407 del 2025-01-10",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0407",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 407
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-01-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 80, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0407",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 407
+      }
+    },
+    {
+      "politician_id": "camera_d308862_19",
+      "politician_name": "URZI' Alessandro",
+      "date": "2025-01-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Sarò estremamente breve nell'illustrazione, anche perché sono in attesa di avere i riscontri da parte del Governo, per poi concludere con alcune osservazioni. I fatti sono quelli del 15 novembre 2024, si sono svolti lungo 6 ore, quando si è consumata, davanti al dipartimento di sociologia dell'Università di Trento, luogo dove peraltro nacquero le Brigate rosse di Renato Curcio e Mara Cagol, quella che noi abbiamo definito la sconfitta della democrazia e dei valori della libertà di espressione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0407",
+      "metadata": {
+        "id_persona": "308862",
+        "seduta": 407
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2025-01-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Ringrazio l'onorevole Urzi' e anche i colleghi di Fratelli d'Italia che consentono, attraverso quest'atto di sindacato ispettivo, di approfondire i fatti avvenuti lo scorso 15 novembre all'esterno del palazzo di sociologia presso l'Università di Trento. Ci tengo a fare una doverosa premessa: per il Ministero dell'Università e della ricerca, come più volte sottolineato dal Ministro Bernini, il confronto deve essere ampio, tutte le opinioni meritano ascolto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0407",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 407
+      }
+    },
+    {
+      "politician_id": "camera_d308862_19",
+      "politician_name": "URZI' Alessandro",
+      "date": "2025-01-10",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). La ringrazio, Presidente, voglio ringraziare in modo particolare, attraverso il Sottosegretario Siracusano, anche il Ministro Bernini di questa risposta che tratteggia un quadro estremamente chiaro dell'accaduto, richiamando le istituzioni allo svolgimento delle proprie funzioni nel rispetto dei principi fondamentali su cui si regge la nostra libertà repubblicana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0407",
+      "metadata": {
+        "id_persona": "308862",
+        "seduta": 407
+      }
+    }
+  ]
+}

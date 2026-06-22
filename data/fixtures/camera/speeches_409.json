@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0409",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-01-15",
+    "title": "Assemblea — Seduta n. 409 del 2025-01-15",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 409
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 92, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, a seguito dell'odierna riunione della Conferenza dei Presidenti di gruppo, è stato convenuto che nella giornata di mercoledì 22 gennaio, alle ore 9, avranno luogo le comunicazioni del Ministro della difesa in materia di proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina e che nella giornata di giovedì 23 gennaio, alle ore 9, avrà luogo l'informativa urgente del Governo sulle iniziative in relazione al rincaro dei costi dell'energia per famiglie e imprese, con la partecipazione del Ministro dell'ambiente e della sicurezza energetica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Presidente, la ringrazio. Ho fatto il medesimo intervento in Conferenza dei presidenti di gruppo, ma reputo opportuno ribadirlo anche in Aula. Noi reputiamo inaccettabile il comportamento della maggioranza in Commissione di vigilanza Rai che impedisce da mesi alla Commissione stessa di svolgere qualunque attività, perché fa mancare il numero legale una volta che non si elegge il presidente, unico punto all'ordine del giorno e unico elemento di interesse della maggioranza, visto che comunque non fa riunire la Commissione per altro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d302818_19",
+      "politician_name": "GRAZIANO Stefano",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Riprendo le parole dell'intervento a sostegno del collega Faraone, perché per noi è inaccettabile che, dopo 4 mesi dall'insediamento del consiglio di amministrazione della Rai, ancora non si sblocchi la Commissione di vigilanza. È la prima volta nella storia che il management della Rai non venga audito dopo 4 mesi e non si permetta alla Commissione di vigilanza Rai di esercitare le funzioni di vigilanza. Riteniamo questo comportamento inaccettabile, anche perché noi, come Partito Democratico, lo avevamo detto fin dall'inizio che ci sarebbe stato un problema ad eleggere il CdA, se non ci fosse stata la riforma prima.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "302818",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Effettivamente, quanto stiamo vivendo nella Commissione di vigilanza Rai è veramente grave e va denunciato, perché c'è un uso proprietario di quella istituzione, che dovrebbe essere di controllo e di garanzia e che, non a caso, esprime un presidente dell'opposizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge costituzionale n. 1917: “Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare” e delle abbinate proposte di legge costituzionale nn. 23-434-806-824.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Noi voteremo convintamente contro questo articolo, che è un altro articolo che esprime tutto il disegno di questa maggioranza e di questo Governo. Ora, è stato detto più volte in quest'Aula che questa riforma costituzionale, in realtà, interviene sulla Costituzione soltanto per moltiplicare gli organi di autogoverno…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Scusi, onorevole D'Orso, volevo comunicare all'Aula che la seduta è cominciata alle 9,30 e che, quindi, noi saremmo qui a lavorare da circa 18 minuti. Quindi, chi vuole prendere il caffè, eccetera, vada fuori. Chi deve stare qui deve stare in silenzio, però. Non cominciamo di prima mattina, perché sennò va male (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Noi voteremo convintamente contro questo articolo perché vediamo che esprime tutto il vostro disegno scellerato. Quindi, direi che possiamo anche andare avanti in questo vostro disegno scellerato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Spieghiamolo però, di nuovo - come prima - nel silenzio, onorevole D'Orso, sennò non riusciamo a lavorare. Aspetti, che non c'è silenzio. Ci deve essere il silenzio che di solito c'è in una chiesa. Per quest'Aula, essendo una chiesa laica, pretendo lo stesso silenzio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Come dicevo, a cosa vi serve moltiplicare gli organi di autogoverno della magistratura? Qual è l'effetto? L'effetto sicuramente, lo abbiamo detto più volte, è quello di indebolire la componente togata - poi vedremo, in questo articolo 3, che l'asimmetria tra il sorteggio cosiddetto temperato, per la componente laica, e il sorteggio secco puro, per la componente togata, accentuerà proprio questo dislivello di peso - e rafforzare la componente politica, la componente di nomina parlamentare, che è quindi componente di nomina politica. Quindi, cosa andate a fare voi? Andate a rafforzare la componente politica e a indebolire la componente togata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Onorevoli colleghi, il provvedimento che stiamo affrontando, e sembra quasi che la maggioranza lo stia considerando come un ingombro di cui sbarazzarsi il prima possibile, in realtà concerne un tema di cruciale importanza per la nostra democrazia e per il sistema giuridico. Lo abbiamo visto anche in queste pochissime ore di discussione. Discussione poi si fa per dire, perché gli unici interessati alla riforma sembrano le forze di opposizione, visto che dall'altra parte dell'Aula nessuno batte ciglio, e a nulla sono servite le sollecitazioni di ieri al Ministro, che oggi non c'è, alla maggioranza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Sì, grazie, Presidente. Anche noi chiediamo la soppressione, con questo emendamento, dell'articolo 3 del disegno di legge, che va a riscrivere, di fatto, l'articolo 104 della Costituzione, anche se, leggendo chiaramente la formulazione, in sostanza è una la vera e propria modifica, che è all'interno del primo comma, dove si fa riferimento alla magistratura giudicante e a quella requirente. Però quello che attira l'attenzione rispetto alla formulazione di questo articolo 3, quindi nel nuovo primo comma dell'articolo 104 della Costituzione, è il punto in cui si parla proprio di carriera giudicante e carriera requirente, perché davvero questa espressione, questo termine, già trovo che sia abbastanza anche atipico da utilizzare all'interno della Costituzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento soppressivo dell'articolo 3 mi dà l'occasione per intervenire ed esaminare una di quelle che sono le giustificazioni più riportate dalla maggioranza su questa riforma, cioè quella di attuare pienamente l'articolo 111 della Costituzione, che parla - ricordiamolo a noi stessi - del giusto processo. La Corte europea dei diritti umani dice chiaramente che il giusto processo è un processo che è innanzitutto un processo breve, dove le parti hanno uguali diritti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Vorrei sottolineare un aspetto: quando si mette mano alla Costituzione, occorre ascoltare non solo le ragioni delle opposizioni ma anche quelle dei tecnici. Cito, quindi, le ottime schede di lettura che sono state predisposte dal Servizio studi, che davano alcuni suggerimenti rispetto a questo articolo 3. Leggo e cito: “Dal punto di vista della formulazione della disposizione, alla luce del fatto che la Costituzione non contempla un termine per l'insediamento del Parlamento in seduta comune, si valuti l'opportunità di sostituire il riferimento all'«insediamento» dell'organo con «la prima riunione delle Camere»”. Gli uffici avevano fatto delle osservazioni che mi sembrano molto pertinenti e operative, perché qui si innova, si crea un nuovo elenco. Chiedo scusa se sforo di qualche secondo, ma è un tema secondo me fondamentale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Lo so, me ne rendo conto e la ringrazio. Però, vorrei segnalarlo: neanche le osservazioni tecniche, operative e neutre degli uffici sono state ascoltate. Io credo che ci sia veramente un certo atteggiamento - e ci tornerò, ovviamente, sfruttando il minuto sui prossimi emendamenti - su questo aspetto, perché introduciamo il sorteggio e introduciamo un elenco; inoltre, c'è un tema di aggiornamento degli elenchi e c'è un tema di riunione delle Camere in seduta comune.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308803_19",
+      "politician_name": "SCARPA Rachele",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Io penso che, nel momento in cui cambiamo la Costituzione, dovremmo chiederci se sia veramente questa la strada migliore per perseguire il fine che, almeno a livello comunicativo, la maggioranza dà rispetto a questo provvedimento: la separazione delle carriere. Tutti gli autorevoli auditi ci hanno detto che una maggiore, anzi, ulteriore ancora (perché già con la riforma Cartabia c'era qualcosa) separazione delle carriere si poteva raggiungere, magari, creando dei concorsi o dei percorsi di formazione diversi e ci hanno dato una serie di suggerimenti che stavano tutti all'interno dello strumento della legge ordinaria. Qui, invece, vorrei invitare i colleghi a riflettere sul fatto che non stiamo discutendo una legge ordinaria, ma stiamo discutendo una riforma costituzionale che cambia in modo sostanziale un articolo molto importante nella Costituzione, andando così a creare due CSM diversi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308803",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Approfitto della presenza del Vice Ministro Sisto, a cui chiedo, se me lo consente... Attendo solo un attimo, perché è importante che ascolti. Senza nulla togliere, ovviamente, al Sottosegretario...",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Vorrei che il Vice Ministro prestasse attenzione a questo. Noi abbiamo cercato in Commissione di farvi correggere, per quanto possibile, almeno questo punto: non ve lo dice il PD - perché non vi convince il PD - ma ve lo dicono le schede di lettura della Camera. Gli uffici sono stati molto puntuali. Ministro, se lei può, prenda pagina 16 delle schede di lettura. A pagina 16 delle schede di lettura c'è un suggerimento, che è quello che ricordava prima il collega Fornaro. C'è il suggerimento di sostituire la parola “insediamento” con “la prima riunione delle Camere”. In più, si segnala che la disposizione “non indica la cadenza con la quale il Parlamento in seduta comune compila mediante elezione l'elenco dei soggetti che sono sorteggiati a far parte dei Consigli superiori. Si valuti, pertanto, l'opportunità di approfondire tale profilo”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Insistete sulla richiesta di accantonamento? Chi parla a favore? Onorevole Fornaro (Commenti del deputato Enrico Costa) ? Onorevole Costa, aspetti, prima c'è l'intervento a favore dell'onorevole Fornaro. Vorrei un poco d'ordine, vi prego. Ci sono regolamenti e procedure.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Io spero e auspico che il collega Costa possa intervenire sul parere contrario a questa proposta. Io vorrei ribadire le cose che ha testé sottolineato la collega Serracchiani. Qui non ci troviamo - lo dico ai colleghi di maggioranza in particolare - di fronte a una posizione ideologica, una posizione aprioristicamente contraria. Qui, stiamo segnalando un aspetto che è preminentemente tecnico. Il lavoro che fanno gli uffici è un lavoro prezioso. È un lavoro di aiuto e di ausilio a chi, in questo momento, pro tempore , è al Governo ed è in maggioranza: chiunque sia in maggioranza e a qualsiasi parte politica appartengano i Governi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Secondo me, non c'è nessuna ragione per accantonare questi emendamenti e lo spiego. Questi emendamenti sono emendamenti interamente soppressivi dell'articolo. In questo momento il collega Fornaro ha addotto, invece, una ragione tecnica. In sostanza dice: noi dobbiamo sostituire le parole “insediamento” con le parole “prima seduta”. Peccato che, però, sono andato a scorrermi tutti gli emendamenti del Partito Democratico e del MoVimento 5 Stelle e non c'è un emendamento che proponga questo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Sì, Presidente. Questo è un emendamento soppressivo, però mi lasci dire due parole al collega Costa, perché intanto sarebbe utile che il collega Costa non dimenticasse che c'è stato un lungo dibattito in Commissione nel quale sono stati presentati molti emendamenti soppressivi e non soppressivi. Onorevole Costa, sarebbe forse accettabile quello che lei dice se qualcuno non avesse dichiarato questo provvedimento blindato (Applausi dei deputati dei gruppi Italia Viva-il Centro-Renew Europe e Partito Democratico-Italia Democratica e Progressista e di deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) , impedendo addirittura a forze della maggioranza che pensavano che, per esempio, sul tema del sorteggio - mi pare che sia la sua forza politica - bisognasse fare un passo diverso, presentando degli emendamenti, di votarli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo è un intervento particolare, perché quello che dà fastidio di tutta questa procedura è l'arroganza di questo Governo, che sta andando a botte di maggioranza e di decisioni, come è stato appena detto, mantenendo il testo blindato. Perché il volersi ergere a padri costituenti, andando a modificare la Costituzione in maniera non propriamente corretta e lasciando spazio a quelli che possono essere problemi, è una cosa molto grave.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). … e permettere - chiudo, Presidente - sostanzialmente che, una volta elette alcune persone, automaticamente dovranno essere elette altre o quasi perché quell'elenco potrebbe essere ristretto fino al punto da ricomprendere e permettere ad altri di entrare nella composizione del CSM.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, io ho ascoltato con grande attenzione l'intervento del collega Costa, però il collega Costa sa benissimo, perché ha partecipato ai lavori di Commissione, quanto ci sia stata in quella sede - devo dire anche in Aula, effettivamente, ma in particolare in quella sede - una discussione approfondita e nel merito di tutti gli emendamenti che abbiamo presentato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …di andare nella direzione di accogliere anche le perplessità espresse dal dossier , forse con un emendamento dei relatori, questo si potrebbe fare fin da questo emendamento, che, se venisse approvato, con le modifiche, è evidente che segnerebbe un punto di discussione comune (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, intervengo a titolo personale. Che strana situazione è questa: abbiamo un esponente della maggioranza che lamenta all'opposizione la presentazione di emendamenti soppressivi, dimenticando che ci sono anche molti emendamenti modificativi; lamentando, inoltre, il contenuto dei nostri interventi di natura sistematica e non puntuale, quando non abbiamo sentito una voce che si sia contrapposta sulle argomentazioni sistematiche né tantomeno su quelle puntuali, che pure abbiamo fatto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d302422_19",
+      "politician_name": "CUPERLO Gianni",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Innanzitutto vorrei scusarmi, a nome del gruppo, con il collega Costa per non avere concordato i nostri emendamenti con la maggioranza (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Consideratelo un disguido, non c'era una volontà maliziosa. Sinceramente, a questo punto, fatico a capire il senso di questa nostra discussione e di questa vostra riforma, perché, colleghi, io ricordo abbastanza nitidamente, come tutti voi, le aggressioni, le polemiche, le critiche molto aspre di Forza Italia, dei suoi esponenti autorevoli, contro i pubblici ministeri, definiti, talvolta, come mentalmente instabili e autori negli anni di vere e proprie persecuzioni giudiziarie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "302422",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto con particolare piacere gli studenti, le studentesse e i docenti dell'Istituto comprensivo “Giovanni Verga”, di Canicattì, in provincia di Agrigento, che assistono ai nostri lavori dalle tribune (Applausi) . Benvenuti alla Camera dei deputati. Ha chiesto di parlare l'onorevole Gianassi. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo articolo, che impone la modifica costituzionale sulle regole del Consiglio superiore della magistratura e l'estrazione a sorte della componente togata che ne andrà a far parte, dimostra che questa maggioranza e questo Governo hanno scelto una linea, un approccio e una visione radicalmente diversa da quella che oggi è nella Costituzione, perché fu pensata dai Costituenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Leggo dalla relazione illustrativa del disegno di legge in esame che l'obiettivo che si vuole perseguire con questo provvedimento è quello, da un lato, di garantire la terzietà e l'imparzialità del giudice e, dall'altro, la parità delle armi nel processo. Sono obiettivi che noi condividiamo appieno qualora effettivamente questa riforma riuscisse a ottenerli e a raggiungerli, perché nulla si legge in questo disegno di legge che possa far ritenere che le armi nel processo siano affidate anche alla difesa, oltre che alla pubblica accusa. Anzi, noi rileviamo che da questa riforma ne uscirà potenziata la figura del pubblico ministero, con uno squilibrio con la parte privata…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …che sarà, purtroppo, il risultato esattamente contrario a quello che l'onorevole Costa ha rappresentato nel suo intervento dell'altro giorno, che pure ho apprezzato e per certi versi addirittura condiviso. Ma dove trovate gli elementi a supporto della posizione dell'onorevole Costa in questa riforma? Fatemeli leggere, perché non riesco a rilevarli (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Più volte abbiamo evidenziato che la separazione delle carriere era una misura che poteva essere costruita all'interno di una legge ordinaria. Su questo punto, sul perché vi fosse una volontà così determinata del Governo e della maggioranza di procedere con una riforma costituzionale, così come rispetto a tante altre domande che noi abbiamo manifestato, voi non avete risposto. Eppure un dubbio può sorgere in relazione a questo articolo, perché in realtà è la Costituzione che non fissa l'obbligo di unicità delle carriere, ma fissa, invece, l'obbligo di elezione dei componenti togati all'interno del Consiglio superiore alla magistratura, all'articolo 104.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …e potrà esercitare il suo ruolo privo di qualunque forma di legame con la rappresentanza che lo ha scelto. Questo meccanismo, a vostro giudizio, garantisce il presidio dei valori costituzionali? Per quale motivo? Anche con questa scelta vi renderete conto, se andrete avanti, che il risultato sarà estremamente pericoloso, così come avverrà per tutte le altre scelte che avete adottato in questo provvedimento, così come succede quando si mette mano alla Carta costituzionale, che è la regola di tutti che ci unisce, solo con il furore ideologico…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. La discussione, che anche stamattina è molto interessante nell'ambito degli aspetti giuridici e costituzionali, credo che di fatto metta in chiaro, anche per i cittadini che ci guardano, alcune considerazioni. Questa, Presidente, non è la riforma costituzionale sulla separazione delle carriere, ma è la riforma per la divisione della magistratura. Ci sono state sentenze, soprattutto quella del 2000, dove si parla di ordine unico della magistratura. Per questo credo che quello che state facendo sia assolutamente sbagliato e soprattutto rende chiaro, anche dal punto di vista politico, quello che state facendo, cioè non una divisione delle carriere o delle funzioni dei magistrati, ma, chiaramente, la divisione della magistratura…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …che è un potere dello Stato che oggi per noi è fondamentale. Guardi, onorevole Costa, credo che l'obiettivo che tutti noi dovremmo avere è di dibattere una questione legata alla giustizia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, siamo stati testé rimproverati di non fare interventi specifici. Ora faccio un intervento specifico, però mi aspetto una risposta da parte dell'onorevole Costa, che ha parlato a nome della maggioranza, da parte sua e della maggioranza. Parliamo del sorteggio, dunque. Col sorteggio viene meno la fonte elettiva della legittimazione dei componenti, sia laici e sia togati. Il sistema elettivo, infatti, offre garanzie di competenza tecnico-giuridica, ma anche garanzia di pluralismo, perché l'elezione da parte del Parlamento in seduta comune offre garanzia di pluralismo. Si introduce un sorteggio temperato per i laici, puro per i togati, ma non si comprende la differenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308803_19",
+      "politician_name": "SCARPA Rachele",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anch'io volevo accodarmi alla riflessione sullo strumento del sorteggio dei componenti del CSM, sia per i due terzi spettanti alla magistratura, sia - seppure con un sorteggio temperato - per il terzo che il Parlamento deve individuare. Mi sembra, insomma, che l'intento, quello almeno dichiarato, sia quello di contrastare il carrierismo, l'associazionismo giudiziario, andando oltre a qualsiasi ricchezza possa essere rappresentata, anche dai diversi orientamenti culturali all'interno della magistratura, e si scelga di smembrare completamente il tutto, smembrando innanzitutto un principio importante - proprio alla base -, quello di rappresentanza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308803",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di andare avanti, salutiamo e ringraziamo per essere con noi gli studenti e i docenti dell'Istituto comprensivo “Ferruccio Ulivi” di Poggio Moiano, provincia di Rieti, e anche coloro che arrivano da Labico, provincia di Roma, si tratta dell'Istituto comprensivo “Leonardo da Vinci”, che assistono ai nostri lavori dalle tribune (Applausi) . Benvenuti a tutti alla Camera deputati (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Allora, io non so se la domanda, in realtà, è da rivolgere all'onorevole Costa, perché vedete, se c'è una cosa che si può dire, è che Forza Italia era stata abbastanza trasparente, già aveva dato questa risposta, perché se guardiamo all'emendamento 3.1028 Calderone, in effetti quello stabiliva, vale a dire che i componenti laici dovevano essere eletti dal Parlamento, mentre il sorteggio veniva riservato esclusivamente alla componente togata, quindi era abbastanza trasparente l'intendimento di Forza Italia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. La mancata accettazione di questo emendamento certifica, ancora una volta, che siamo qui, soltanto una parte, a discutere su una riforma costituzionale, che è una riforma blindata non solo per l'opposizione ma anche per la maggioranza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Prima di andare avanti, un errata corrige riguardo all'Istituto comprensivo “Ferruccio Ulivi”, siamo a Poggio Nativo, sempre in provincia di Rieti, ma non a Poggio Moiano (Applausi dei deputati del gruppo Fratelli d'Italia) . Ha chiesto di parlare l'onorevole Grimaldi. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Sostituendo di fatto le elezioni con un sorteggio secco dei membri togati del CSM e un sorteggio temperato per i membri laici, si limita pesantemente il sistema di autogoverno della magistratura. Sorteggiati da un elenco compilato mediante un'elezione del Parlamento: cosa significa? Far regredire di fatto i giudici a un corpo omogeneo di funzionari, escludere la dialettica, una dialettica dall'organismo che li amministra, negare il fatto che in esso si rispecchino le idee e le culture dei giudici, come se queste non potessero esistere e colpire e affondare quell'associazionismo giudiziario contro cui vi scagliate da anni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d302422_19",
+      "politician_name": "CUPERLO Gianni",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente Mule', questa vicenda del sorteggio mi riporta al tema dell'accusa di instabilità mentale rivolta ai magistrati e le dico perché. In oltre dieci anni di mia permanenza in quest'Aula, il mio nome non è mai stato sorteggiato per la chiama del voto di fiducia e questo ha prodotto su di me un elemento di profonda frustrazione e disagio (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Ora voi introducendo l'elemento del sorteggio, Presidente Mule', aumentate il disagio esistenziale di quei magistrati che per molti anni non vedranno mai estratto il loro nominativo (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) e questo è un fatto che non potete sottovalutare, nel senso che non è possibile in questa Camera corrompere i commessi che sono integerrimi, non estrarranno mai un nome a comando, ma…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "302422",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d302422_19",
+      "politician_name": "CUPERLO Gianni",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "… anche i magistrati avranno questo genere di preoccupazione. Tenete conto di questo aspetto, è una questione serissima, forse tra le più serie che abbiamo sollevato in questo dibattito (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "302422",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Buongiorno, Presidente. Devo segnalare che anch'io, in sette anni di permanenza in questo Parlamento, non ho avuto mai la fortuna di essere sorteggiato alla chiama per la fiducia. Quindi, ovviamente, condivido appieno il contenuto dell'intervento del collega Cuperlo. Sul sorteggio mi sono espresso anche in un intervento la settimana scorsa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anch'io vorrei sottolineare un aspetto: si ha un po' l'impressione che, nel momento in cui si pensa di provvedere tramite sorteggio all'individuazione degli appartenenti al Consiglio, non si sappia cosa fa il Consiglio, che è un organismo chiamato settimanalmente a prendere decisioni organizzative, a stabilire come funzionino gli uffici, a intervenire in maniera diretta sulla vita della magistratura, con un impatto non di poco conto, che prevede competenza, sapere di cosa si parla. Invece no, noi introduciamo questo principio dell'uno vale uno, che, a dire il vero, in quest'Aula più di una volta è stato oggetto anche di discussione e di messa in discussione. E vorrei anche sottolineare l'aspetto della sanzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. A quanto pare la statistica - forse è il segno dei tempi - sta prendendo il sopravvento sulle esigenze di democrazia, di rappresentatività, di professionalità. Ripeto: è forse il segno dei tempi. Il punto è che la designazione casuale dei membri del CSM che cosa comporterà? Comporterà che, ad esempio, la magistratura di sorveglianza o anche la giustizia minorile statisticamente non verranno rappresentate, eppure quella è una parte di magistratura che, spesso, porta istanze proprie. Mi riferisco massimamente, tra l'altro, alla giustizia minorile, vicina a problematiche che interessano il tessuto sociale. Ebbene, questi magistrati con grande probabilità, se ci riferiamo ovviamente ai sistemi statistici, non verranno rappresentati all'interno dei CSM.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente, ha ragione il collega Cuperlo, quando dice che in tanti anni non è mai stato estratto a sorte. Ma vorrei anche dire che il mio collega qui vicino, Franco Mari, è stato estratto per due volte consecutive (Commenti ironici) . Quindi, per dire che la casualità è una cosa molto interessante ma che, certamente, non può essere applicata alla disciplina costituzionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d306412_19",
+      "politician_name": "GUERRA Maria Cecilia",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Il sorteggio non è un'innovazione, è una resa, una rinuncia. La scelta di sostituire il caso, il colpo di fortuna a una scelta che dovrebbe essere guidata da criteri di competenza, dalla stima guadagnata per il proprio operato, è un atto, da un lato, comico - il sorteggio si ha nei giochi, nella lotteria, nelle riffe -, ma, dall'altro lato, è tragico. Io so che il sorteggio si applica quando non ci sono altre risposte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "306412",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307561_19",
+      "politician_name": "DE LUCA Piero",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per riprendere alcuni argomenti già svolti dai colleghi che mi hanno preceduto. Credo anch'io che sia davvero irrituale e completamente sbagliata l'idea di immaginare, ipotizzare questo sistema di scelta, di selezione casuale, aleatorio, in uno degli organismi e degli organi che diventano e saranno sempre più importanti nella gestione e amministrazione della giustizia nel nostro Paese, che hanno addirittura rango costituzionale. È, come veniva detto bene prima, una resa alla capacità di scegliere e selezionare il meglio e la classe dirigente nelle differenti professioni, nei differenti settori, nelle differenti attività. Da chi si professava il difensore del merito, delle capacità e delle competenze è davvero paradossale, se non grottesco.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307561",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Qui siamo al cuore di questa riforma, che è stata presentata dal Governo e dalla maggioranza, perché siamo all'articolo che riguarda il Consiglio superiore della magistratura e, in particolar modo, alla parte che riguarda il sorteggio. Non è un caso se stiamo intervenendo così e abbiamo presentato diversi emendamenti. Quindi, non è un caso se stiamo insistendo in particolar modo su questo articolo, perché, proprio sul sorteggio, avevamo registrato alcune perplessità anche da parte della maggioranza. Ricordo benissimo - e qualcuno lo ha fatto prima di me - che fu lo stesso Ministro, prima di blindare questa riforma, ad esprimere un possibile ripensamento su questo metodo. La stessa Forza Italia, certo solo per i membri eletti dal Parlamento, aveva proposto un emendamento, poi ritirato, in cui veniva messo in discussione il metodo del sorteggio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, ho concluso. Mi auguro, però, che, almeno su questo punto del sorteggio, su cui siamo più volte intervenuti e su cui continuiamo a manifestare le nostre profonde preoccupazioni e le nostre profonde perplessità, ci sia davvero un ripensamento della maggioranza che vada nella direzione di selezionare questi membri con il criterio migliore e non con il criterio, così, del caso o della fortuna (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Ovviamente, anche noi voteremo a favore di questo emendamento che tratta il tema del sorteggio. Il metodo del sorteggio che la maggioranza e il Governo hanno voluto inserire, nonostante alcune riflessioni all'interno della maggioranza rispetto al fatto di rivederlo, rivela almeno due aspetti. Anzitutto, che la maggioranza, il Governo e il Ministro Nordio non sanno davvero come strutturarne la composizione e allora si affidano alla casualità. Quindi una sorta di Affari tuoi , nel senso del programma TV, dove si mettono dei nomi all'interno dei pacchi e poi a sorpresa esce il nome, magari facendone anche una diretta televisiva e aggiungendo anche un biglietto della Lotteria Italia come premio! Questa è la soluzione che il Governo prospetta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Restiamo sul tema del sorteggio. Nell'attesa che qualcuno, tra Fratelli d'Italia e la Lega in particolare, come dicevamo prima, risponda alla domanda che abbiamo posto circa le ragioni di questa scelta differenziata tra sorteggio puro per la componente togata e sorteggio temperato per la componente laica, vorrei porgere un'ulteriore domanda, questa volta però al Governo, per cercare di capire come si possa conciliare la scelta del sorteggio, in questo delicato aspetto della vita del sistema Paese, oserei dire così, con l'altra scelta che è stata fatta a monte della costituzione proprio di questo Governo, che ha addirittura dedicato al merito un Ministero.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente, sempre sul sorteggio. Si parte dal presupposto, evidentemente caro alla maggioranza, ed è un principio culturale, che uno vale uno. Ed è un principio che io, personalmente, respingo fortemente e che non fa parte del mio patrimonio culturale. Infatti, mi deve spiegare la maggioranza come possa essere garantito, attraverso il sorteggio, il pluralismo ideale e culturale della magistratura, che è un patrimonio anche della magistratura, così come l'esigenza di valorizzare la preparazione e le attitudini dei singoli magistrati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Riflettevo sul fatto che la scelta di questa ossessione nei confronti della sorte per definire il CSM, in realtà, richiami un tentativo - neanche tanto nascosto, per la verità - di incidere, evidentemente, sul contesto dell'associazionismo in magistratura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 409
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2025-01-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Lavorando sul sorteggio, si tende a immaginare che si possa superare l'associazionismo, renderlo cioè inutile, e ricondurre il magistrato a quella funzione di funzionario dello Stato, che era tipica - e lo dobbiamo dire in maniera chiara - del periodo fascista o anche del periodo pre-fascista, prima delle riforme.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0409",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 409
+      }
+    }
+  ]
+}

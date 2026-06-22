@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0380",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-11-12",
+    "title": "Assemblea — Seduta n. 380 del 2024-11-12",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 380
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 93, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307824_19",
+      "politician_name": "LA PIETRA Patrizio Giacomo",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Agricoltura, la sovranità alimentare e le foreste . Signor Presidente, onorevoli deputati, la Toumeyella parvicornis , detta comunemente cocciniglia tartaruga, è l'ultimo di una serie di organismi nocivi giunti dal Nord America nel nostro Paese a seguito di commerci internazionali che favoriscono la diffusione di specie non autoctone.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307824",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente, e ringrazio anche il Sottosegretario per la risposta. Signor Sottosegretario, questo è l'ennesimo “regalo” che ci fa il cambiamento climatico perché la cocciniglia tartaruga, che viene dall'America del Nord, come giustamente lei ha affermato, prolifera soprattutto negli ambienti caldi, quegli ambienti, cioè, modificati dai cambiamenti climatici con l'aumento della temperatura, tant'è che effettivamente il primo insediamento della cocciniglia tartaruga, con la prima segnalazione che ne abbiamo avuto, è stato nella regione Campania e dopo si è diffusa anche nella regione Lazio e, in modo particolare, nella zona di Roma. Questo per puntualizzare, perché altrimenti sembra che le cose accadano per caso, ma non è così, in quanto ci sono sempre delle ragioni e in questo caso è proprio il cambiamento climatico che ha determinato il fatto che questo parassita potesse attecchire nelle nostre zone. Quindi, il cambiamento climatico c'è, con buona pace di tutti i negazionisti, alcuni dei quali siedono nel suo Governo, e i risultati sono sempre dannosi, sia per quanto riguarda le persone sia per quanto riguarda l'ambiente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 94, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signora Presidente. Intervengo per chiedere alla Premier Meloni di venire in Aula o di valutare lei stessa se in queste ore intenderà intervenire, perché le parole pronunciate poche ore fa da Elon Musk - che, riferendosi ai giudici italiani, ha detto testualmente “i giudici se ne devono andare”, con riferimento all'ultima sentenza del tribunale di Roma - non solo sono un'ingerenza inaccettabile, ma sono anche un problema serio per la nostra democrazia, e la Presidente del Consiglio è chiamata a difendere la Costituzione della Repubblica italiana e a difendere la magistratura (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe e onorevoli colleghi - non posso dire “rappresentanti del Governo”, perché in questo momento non vedo in Aula rappresentanti del Governo - il tema è molto importante ed è molto grave.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Grazie, onorevole. Riferirò al Presidente anche di questa richiesta di informativa appena giunta. Non essendo ancora decorso il termine di preavviso previsto per le votazioni con procedimento elettronico, sospendo la seduta, che riprenderà alle ore 14,25.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge di ratifica, già approvato dal Senato, n. 2100: Ratifica ed esecuzione della Convenzione sull'istituzione dell'organizzazione governativa internazionale GCAP, fatta a Tokyo il 14 dicembre 2023.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308924_19",
+      "politician_name": "GRUPPIONI Naike",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Signor Presidente, onorevoli colleghi, membro del Governo, oggi ci troviamo a votare una proposta che, nel suo complesso, ha il pieno sostegno del nostro gruppo. Questo accordo internazionale per la difesa e la sicurezza rappresenta un passo avanti importante. Questo accordo internazionale risponde a esigenze di protezione e stabilità condivise con i nostri alleati. La convenzione segna un passo fondamentale verso la cooperazione internazionale in ambito aerospaziale e di difesa, ribadendo, come spesso sosteniamo, la necessità di impegnarsi nella realizzazione di un sistema di sicurezza condiviso e innovativo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308924",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha chiesto di parlare il deputato Grimaldi. Ne ha facoltà. Colleghi, però c'è veramente un caos inaccettabile. Se avete bisogno di parlare tra voi dovete farlo fuori dall'Aula, perché non riesco a sentire gli interventi. Collega Vinci, mi perdoni, ma sento più lei che chi interviene, scusi. Prego, collega Grimaldi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Intervengo per annunciare che, come in Senato, voteremo contro la ratifica della Convenzione sull'istituzione dell'organizzazione governativa internazionale GCAP, cioè Global Combat Air Programme . Il suo scopo? Gestire la progettazione, entro il 2035, di Tempest , una piattaforma aerea di sesta generazione ( Future Combat Air System ). Già i nomi di piattaforme, programmi e missioni sono, di per sé, inquietanti, ed è così da sempre, no?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308781_19",
+      "politician_name": "ONORI Federica",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Ci apprestiamo a votare una ratifica che riguarda un'intesa che ha l'obiettivo di istituire una nuova organizzazione internazionale, il Global Combat Air Programme (GCAP). Tale organizzazione sarà costituita, nella fase iniziale quantomeno, da tre Paesi, tra cui l'Italia - ci saranno, infatti, Italia, Regno Unito e Giappone -, ma rimane aperta in futuro a ulteriori adesioni. Questa organizzazione può rappresentare, in prospettiva, un significativo tassello di una efficace proiezione italiana a livello internazionale, anche in quei settori in cui non sempre è stato valorizzato il nostro massimo potenziale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308781",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, signora Presidente. Onorevoli colleghi, signora Sottosegretaria, la ratifica e l'esecuzione della convenzione sottoscritta a Tokyo nel 2023 per l'istituzione dell'International government organisation GCAP (Global Combat Air Programme) è di estrema urgenza e rilevanza strategica. In sostanza, si tratta di istituire una nuova organizzazione internazionale, la GCAP, dotata di personalità giuridica e incaricata di gestire la progettazione e lo sviluppo di una piattaforma aerea di sesta generazione, in un orizzonte temporale di dieci anni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307134_19",
+      "politician_name": "BAGNASCO Roberto",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Colleghi, signor Sottosegretario, oggi siamo chiamati a pronunciarci su un provvedimento di grande rilievo per la nostra Nazione. È una ratifica, ma ha un valore molto particolare per il futuro della sicurezza e della tecnologia europea ed internazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307134",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307829_19",
+      "politician_name": "LOMUTI Arnaldo",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo ribadendo i concetti che abbiamo espresso già nella giornata di ieri, durante la discussione generale. In particolare, questa al nostro esame non è una ratifica come tante altre, perché siamo chiamati a dare il via libera a un progetto - sì, lo riconosciamo - di importanza rilevante: l'adesione dell'Italia a un consorzio industriale e internazionale, che gestirà un progetto aeronautico di enorme impatto finanziario. E qui sono le nostre preoccupazioni perché parliamo di 9 miliardi per la sola fase di ricerca e di sviluppo e nessuno di noi qui, oggi, può rispondere a una domanda semplice e secca: quale sarà, alla fine, il conto che dovranno pagare i cittadini italiani?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307829",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307602_19",
+      "politician_name": "FORMENTINI Paolo",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Sottosegretaria, colleghi, noi della Lega voteremo a favore del programma GCAP, un programma aeronautico estremamente innovativo, che porterà al nostro Paese uno sviluppo tecnologico. Ci verrà garantito un vantaggio competitivo e contribuiremo anche alla nostra sovranità tecnologica e industriale, il tutto con un occhio all'Indo-Pacifico, quell'area a cui oggi guarda tutto il mondo. Quell'Indo-Pacifico che ha visto stigmatizzare questo Accordo - siamo nel marzo scorso - da parte del portavoce del Ministero degli Esteri della Cina, Lin Jian, che ha attaccato il nostro Paese, l'Inghilterra e il Giappone, esprimendo forte preoccupazione per questo - così è stato definito - riarmo; un riarmo che non vuole, invece, essere tale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307602",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d306189_19",
+      "politician_name": "QUARTAPELLE PROCOPIO Lia",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ho ascoltato gli interventi degli altri gruppi e, sì, hanno ragione quei gruppi che richiamano all'importanza fuori dal comune, dall'ordinario, di questo accordo, del GCAP.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "306189",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308864_19",
+      "politician_name": "PADOVANI Marco",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, Sottosegretario, onorevoli colleghi, il Trattato firmato a Tokyo il 14 dicembre 2023 dal Ministro della Difesa, Guido Crosetto, con il collega Ministro giapponese e il Segretario di Stato alla Difesa del Regno Unito, ha posto le basi per l'istituzione dell'organizzazione governativa internazionale GCAP. Il Global Combat Air Programme è uno dei programmi più sfidanti e avveniristici per l'industria dell'aerospazio. Difesa e sicurezza rappresentano per l'Italia un traguardo fondamentale, con un messaggio fortissimo, in quanto la nostra partnership è rivolta al mondo intero. Oggi la situazione internazionale è particolarmente complessa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308864",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per chiedere al Ministro dell'Interno un'informativa urgente sulle anomalie che si sarebbero verificate in Calabria sul voto alle politiche del 2022. Come denunciato da Report nell'anticipazione di un'inchiesta giornalistica, nel collegio uninominale di Cosenza, Calabria-02, la percentuale di schede bianche risultate votate è stata anomala: pari al 10 per cento, quando, normalmente, si aggira in tutta Italia al 3 per cento. Nella stessa inchiesta emerge che i presidenti dei seggi, raggiunti dalla giornalista, hanno confermato che quelle schede in fase di scrutinio erano bianche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Riferirò al Presidente della richiesta di informativa giunta. Colleghi, togliete i cartelli. Chiedo agli assistenti parlamentari di intervenire (Gli assistenti parlamentari ottemperano all'invito della Presidente) . Colleghi… Colleghi, non è consentito. Colleghi, se smettiamo, andiamo avanti, altrimenti sono costretta a sospendere la seduta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della mozione Loizzo ed altri n. 1-00231 per la cura e l'assistenza dei pazienti colpiti da sclerosi multipla e patologie correlate (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Grazie, Presidente. Essendo arrivato il testo dell'ultima mozione, praticamente, poco prima delle 15, devo chiederle una sospensione per consentire agli uffici competenti di predisporre i pareri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Sull'impegno n. 1 il parere è favorevole con la seguente riformulazione: “compatibilmente con i vincoli di finanza pubblica”. Il parere è favorevole sugli impegni nn. 2, 3 e 4. Sull'impegno n. 5 il parere è contrario. Sugli impegni nn. 6, 7, 8 e 9 il parere è favorevole con la seguente riformulazione: “compatibilmente con i vincoli di finanza pubblica”. Sugli impegni nn. 10, 11 e 12 il parere è favorevole. Sugli impegni nn. 13, 14 e 15 il parere è favorevole con la seguente riformulazione: “compatibilmente con i vincoli di finanza pubblica”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d306160_19",
+      "politician_name": "BOSCHI Maria Elena",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Di cosa parliamo quando parliamo di sclerosi multipla? Parliamo di una malattia neurodegenerativa che, purtroppo, riguarda circa 140.000 nostri concittadini e 2.800.000 persone nel mondo, anche se si ritiene che questo dato sia, purtroppo, sottostimato. Ogni anno nel nostro Paese circa 3.600 persone si ammalano di sclerosi multipla. È una malattia che riguarda principalmente la fascia di età compresa tra i 20 e i 40 anni e, purtroppo, incide in misura particolarmente pesante sulla popolazione femminile (più del doppio rispetto agli uomini). Quello che ci ha insegnato in questi anni la ricerca, lo studio e la scienza su questa malattia è che l'impatto cambia molto a seconda della persona, cambia molto a seconda del modo in cui questa malattia colpisce gli uomini e le donne. Ci possono essere problemi alla vista, problemi di affaticamento, di stanchezza e di irrigidimento nei movimenti, sino ad arrivare anche a forme di disabilità grave che, purtroppo, incidono pesantemente sulla vita delle persone, ma anche delle loro famiglie. Tutto questo, poi, si ripercuote inevitabilmente anche sull'aspetto psicologico, in alcuni casi portando anche a forme di depressione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "306160",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Signora Presidente, onorevoli colleghi e colleghe, oggi esprimiamo il nostro sostegno a una mozione che si occupa di una delle sfide sanitarie più complesse e diffuse del nostro tempo: la sclerosi multipla. È una malattia neurodegenerativa, che impatta su oltre 137.000 persone in Italia e che affligge non solo i pazienti, ma anche le loro famiglie, gravando sulla loro qualità di vita, con sintomi che spaziano dai disturbi cognitivi a quelli motori e sensoriali, e che si sviluppa in modo spesso imprevedibile e progressivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Io inizio con un ringraziamento. Vorrei ringraziare la collega Loizzo, perché ha intrapreso questa iniziativa molto importante con una mozione che, per molti aspetti, sicuramente avrà il voto unanime di questa Camera, chiedendo, attraverso la mozione, al Governo impegni precisi, mirati alla cura e all'assistenza dei pazienti colpiti da sclerosi multipla e dalle patologie correlate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signora Presidente. Governo e colleghi. Intanto certamente questa è un'opportunità: poter discutere di questo tema in Aula è arricchente. Come gruppo abbiamo fatto una scelta: lavorare alla nostra mozione in collaborazione con una APS, 160cm, molto attiva sul territorio proprio sul tema della sclerosi multipla; personalmente ci lavoro anche da parecchio tempo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). …che abbiamo la stessa percezione, che vogliamo fare, ma che per fare occorrono le risorse, e quindi questo è il grande passo che dobbiamo fare insieme, altrimenti è perfettamente inutile portare queste mozioni in Aula (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308852_19",
+      "politician_name": "PATRIARCA Annarita",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente, colleghi, Forza Italia esprimerà un voto favorevole alla mozione di maggioranza sulla sclerosi multipla, riconoscendo in essa un progetto necessario per il miglioramento della qualità della vita delle persone affette da tale patologia. È un impegno che merita il nostro sostegno, perché va incontro a bisogni reali e urgenti di pazienti e famiglie. Per la sclerosi multipla non c'è una cura definitiva, ma è possibile, attraverso terapie specifiche, modificarne il decorso e rallentarne la progressione. È una malattia cronica neurodegenerativa che incide sulla qualità della vita del paziente e impatta su famiglie e società. A chi ha una diagnosi di sclerosi multipla si aggiungono altre difficoltà di ordine relazionale, lavorativo, psicologico e sociale. Per affrontare tale patologia occorre un approccio integrato che parta da una diagnosi precoce e completa, che comporti una rapida presa in carico del paziente interdisciplinare e personalizzata, con un conseguente e necessario miglioramento del percorso assistenziale di pazienti e familiari. Essendo quella del paziente affetto da sclerosi multipla una condizione cronica complessa, essa richiede un'idea di assistenza paziente-centrica, che consideri la persona nella sua globalità. I problemi che si riscontrano nella gestione di un paziente affetto da sclerosi multipla attengono ad esigenze di omogeneità ed equità nella fase della diagnosi, dell'accesso alle cure e nella gestione del paziente, così come indicato nell'Agenda 2025 e nella mozione “1.000 azioni oltre la sclerosi multipla 2023” promosse dall'AISM.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308852",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi ci troviamo ad affrontare delle mozioni che hanno come oggetto la sclerosi multipla. Parliamo di una patologia neurodegenerativa cronica, che colpisce il sistema nervoso centrale e ha un impatto devastante sulla vita delle persone e dei loro familiari. I sintomi possono variare da individuo a individuo e possono includere disturbi motori, sensitivi, visivi, ma anche cambiamenti dell'umore, stanchezza e difficoltà psicologica. Purtroppo, per la sclerosi multipla non esiste una cura definitiva. Grazie, però, ai progressi della ricerca, ci sono delle terapie che sono in grado, in alcuni casi, anche di rallentarne la progressione e migliorare, quindi, la qualità di vita dei pazienti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308911_19",
+      "politician_name": "LOIZZO Simona",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. La sclerosi multipla è una malattia cronica neurodegenerativa che attacca il sistema nervoso centrale, altera le funzionalità delle aree cognitive, emotive, motorie, sensoriali e visive delle persone che ne vengono colpite. La sclerosi multipla si manifesta con sintomi diversi, variabili da persona a persona, a seconda dell'entità e della sede della lesione nel sistema nervoso centrale. I sintomi più comuni sono l'astenia, il senso di intorpidimento, i disturbi motori e della coordinazione, i disturbi visivi e della sensibilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308911",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308920_19",
+      "politician_name": "LANCELLOTTA Elisabetta Christiana",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, Sottosegretario Gemmato, onorevoli colleghi, lo scorso 31 maggio, in occasione della Giornata nazionale della sclerosi multipla, è stato presentato proprio qui, a Montecitorio, nella Sala della Regina, il Barometro della sclerosi multipla e patologie correlate 2024, che fotografa, aggiornandoli, i dati relativi a questa patologia in Italia, già contenuti nelle premesse della nostra mozione. I risultati 2024 ci dicono che la sclerosi multipla colpisce ben 140.000 persone in Italia, con 3.600 nuove diagnosi all'anno, 6 nuovi casi ogni 100.000 persone, la prevalenza è intorno ai 227 casi per 100.000 abitanti. Si tratta, soprattutto, di donne, 3 ogni uomo. Viene diagnosticata in genere in età giovanile, tra i 20 e i 40 anni. Inoltre, l'Associazione Italiana Sclerosi Multipla stima in circa 2.000 le persone in Italia con disturbi dello spettro della neuromielite ottica e della variante MOGAD: patologie rare, molto simili alla sclerosi multipla. Sono numeri costantemente e tristemente in crescita, rispetto a quelli evidenziati dal Barometro 2023.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308920",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Certamente, però, sentendo l'illustrazione e l'intervento della collega Loizzo, praticamente in larga parte fondato sulla telemedicina, sono a chiedere al Governo un ripensamento e quindi…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione delle mozioni Sarracino, Alifano, Zaratti, Ruffino, Faraone, Magi ed altri n. 1-00354 (Nuova formulazione) , Mantovani, Giglio Vigna, Rossello, Pisano ed altri n. 1-00360 e Manes ed altri n. 1-00361 concernenti iniziative per il sostegno e lo sviluppo delle aree interne (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Sulla mozione Sarracino, Alifano, Zaratti, Ruffino, Faraone, Magi ed altri n. 1-00354 (Nuova formulazione) il parere è favorevole con riformulazione, sopprimendo le premesse e modificando alcuni impegni, che sono i seguenti. In relazione all'impegno 1), si richiede la seguente riformulazione: “ad adottare ogni iniziativa utile per promuovere la crescita economica delle aree interne in coerenza con gli obiettivi di coesione economica, sociale e territoriale previsti, di cui all'articolo 3 del Trattato sull'Unione europea e all'articolo 174 del Trattato sul funzionamento dell'Unione europea”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Con riferimento all'impegno 5), vi è una riformulazione nei seguenti termini: “a promuovere ogni iniziativa volta a prevedere, compatibilmente con i vincoli di bilancio e con gli equilibri di finanza pubblica, misure incentivanti in favore del personale scolastico impiegato nelle aree interne, nonché in favore del personale sanitario dei presidi periferici e dei medici di famiglia che coprono gli ambulatori anche per il servizio di guardia medica nelle zone scoperte di dette aree”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Sull'impegno 3) il parere è favorevole con riformulazione nel senso di sostituire le parole “utilizzate direttamente” con le parole “utilizzate dalle amministrazioni centrali”. Mi perdoni, Presidente, perché avevo omesso io la lettura della riformulazione dell'impegno 3).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308760_19",
+      "politician_name": "MANES Franco",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Grazie, Presidente. Sottosegretario, la possibilità di intervenire oggi in rappresentanza della componente Minoranze linguistiche del gruppo Misto per la dichiarazione di voto sulle mozioni relative alle aree interne mi consente di ribadire quanto sia importante per noi discutere dei problemi che affliggono, da troppo tempo, in maniera strutturale, le cosiddette aree interne, aree marginali e di montagna che rappresentano una parte considerevole del nostro territorio nazionale: ben 1.904 comuni, in cui vivono circa 4,5 milioni di abitanti. Un ambito territoriale variegato e periferico, che evidenzia ben 124 aree di progetto; una definizione generale, quella delle aree interne, intese come quella parte maggioritaria del territorio italiano caratterizzata dalla significativa distanza dai centri di offerta e dai servizi essenziali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308760",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Signora Sottosegretaria, tutti noi sappiamo quanto sia lunga la vita di una mozione: il tempo, probabilmente, per scriverla, il nostro tempo per discuterla, per fare le dichiarazioni di voto e auspicare, poi, che i contenuti e le premesse, ma soprattutto gli impegni scritti in queste mozioni, sia di maggioranza che di opposizione, vengano concretizzati. Non credo che, però, sia questo il caso. Il nostro, oggi, non è un esercizio inutile, perché tutte le mozioni presentate contengono una riflessione fondamentale, importante e strategica, che riguarda le nostre aree interne, le quali, troppo spesso, nel tempo, sono rimaste fuori dai radar della politica e sono state interessate dalle politiche nazionali di conseguenza rispetto ad altre misure previste per luoghi del Paese che hanno caratteristiche diverse. E giustamente questi testi pongono in evidenza quanto la cornice nazionale debba essere, poi, approfondita e dettagliata rispetto alle tante questioni che riguardano le aree interne, le aree insulari e le aree montane del nostro Paese, perché, in questi territori, i fatti e le transizioni che il nostro Paese sta vivendo, vengono amplificati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signora Presidente. Signora rappresentante del Governo, colleghe e colleghi, affrontiamo oggi una questione importante che riguarda una parte consistente del nostro territorio. Ben 13,5 milioni di italiani vivono in aree interne, in piccoli paesi, nelle zone montane e, quindi, non si tratta soltanto di una questione marginale, cioè di quelle zone particolarmente svantaggiate, ma fondamentalmente spopolate. In realtà, un pezzo consistente della nostra comunità nazionale vive ancora in queste aree e vive in queste aree con una serie di enormi e grandissime difficoltà che sono state date da una serie di scelte che pure nel corso del tempo i Governi che hanno governato il Paese hanno effettuato. Ci sono alcune questioni, alcuni luoghi e alcune istituzioni che, in questi piccoli paesi degli Appennini o delle Alpi o in altre zone svantaggiate della Sicilia e della Sardegna, hanno rappresentato davvero lo Stato. Sono strutture semplici: è l'ufficio postale, è la scuola, è la caserma dei Carabinieri, è il medico condotto, come una volta si sarebbe detto. Sono queste le istituzioni che, in questi piccoli paesi, in queste piccole comunità, hanno rappresentato lo Stato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. In realtà, su tre pareri. A seguito di interlocuzioni intercorse con i proponenti, il Governo accoglie l'impegno 3), con la seguente riformulazione…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Sì, mi scusi. Parlo della prima mozione, la mozione Sarracino, Alifano, Zaratti, Ruffino, Faraone, Magi ed altri n. 1-00354 (Nuova formulazione) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signora Presidente. Governo e colleghi, intanto abbiamo già sentito alcuni interventi, che dipingono una situazione sicuramente problematica. Vorremmo poter leggere “le aree interne escono dall'ombra nella quale sono spesso relegate per la loro stessa configurazione territoriale”, ma questo titolo non riusciamo a leggerlo sui giornali, perché i dati relativi alle aree interne sono assolutamente allarmanti: dallo spopolamento dei borghi alla mancanza di servizi essenziali per la popolazione; dal crollo delle nascite alle difficoltà nel godere di un benessere basico e di una qualità della vita all'altezza delle normali aspettative; non alte, aspettative normali. Poi, le difficoltà a raggiungere i servizi essenziali legati alla salute, all'istruzione e alla mobilità. Per raggiungere un servizio, partendo dalle aree interne, c'è una media di percorrenza che arriva ai 65 minuti. Che cosa succede? Succede che le soluzioni messe in campo per tamponare lo spopolamento sono tra le più svariate, forse alcune hanno anche una parte di creatività amministrativa, ma del resto che cosa si può fare, se non ci sono le risorse? Sarebbe, ad esempio, importante associarsi tra territori con le comunità più vicine e coordinarsi con le unioni dei comuni. Tuttavia, oggi dobbiamo anche pensare alle difficoltà che hanno le unioni dei comuni, difficoltà legate, anche in questo caso, al personale e, quindi, queste possono fare poco.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307496_19",
+      "politician_name": "PELLA Roberto",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente Ascani, Sottosegretario Siracusano, cari colleghi, le aree interne del nostro Paese rappresentano, come è stato detto, il 48,5 per cento del totale dei comuni italiani e vi risiede il 22 per cento circa della popolazione complessiva: si tratta di oltre 13 milioni di abitanti distribuiti tra Nord e Sud, in un territorio superiore al 60 per cento della superficie nazionale. Nelle aree interne la crisi demografica corre a velocità doppia rispetto al trend nazionale: i territori interni segnano una perdita di residenti del 5 per cento dal 2014 contro il 2,2 per cento della media nazionale; in particolare quelli più periferici, secondo le classificazioni Istat, registrano nientemeno che un calo del 7,7 per cento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307496",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307496_19",
+      "politician_name": "PELLA Roberto",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). …ma anche delle aree insulari. Qui presente con me ci sono i colleghi Cappellacci e Pittalis che ha stanno portando avanti con determinazione e forza queste cose. Vogliamo, quindi, creare quelle condizioni per uno sviluppo duraturo delle aree interne, che sono la gran parte del territorio nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307496",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto la delegazione di studentesse, studenti e docenti dell'Istituto superiore Carlo Anti di Villafranca di Verona, in provincia di Verona, che partecipano oggi alla giornata di formazione a Palazzo Montecitorio e assistono ai nostri lavori dalle tribune (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signora Presidente. Spero di non ripetere le considerazioni che già sono state fatte dai colleghi che mi hanno preceduto, che hanno analizzato quello che penso sia un problema tutto italiano: quello delle aree interne. Perché è un problema italiano? Per ragioni sicuramente geografiche, date dall'orografia del nostro Paese; noi siamo coronati dall'Arco alpino, siamo attraversati dalla dorsale appenninica, quindi, c'è un problema di dislocazione degli abitati; ma anche per ragioni storiche, la civiltà comunale, che ha caratterizzato soprattutto e massimamente il Centro-Nord, che ha portato alla creazione di tanti piccoli borghi; e per il Sud, perché è stato per lungo tempo, fino all'Ottocento, la frontiera rispetto all'Oriente. Quindi, c'era la necessità di arroccarsi all'interno per evitare incursioni e ciò anche per ragioni sanitarie. Penso a quello che dice Carlo Levi in Cristo si è fermato a Eboli : c'era la malaria, quindi la gente risaliva nei borghi che erano in collina o in montagna proprio per evitare di contrarre il morbo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307502_19",
+      "politician_name": "GIGLIO VIGNA Alessandro",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Presidente, onorevoli colleghi, quando guardiamo il nostro Paese dal satellite, ovviamente attraverso le foto scattate dal satellite, vediamo questo nostro stivale dall'alto, delimitato, a Nord, dalle Alpi; immediatamente ci balzano all'occhio le zone più luminose, lì dove le lucine sono più vicine e più intense, le grandi città. Poi, c'è il resto del Paese, dove le luci sono di dimensioni ridotte, sono più piccoline e dove, fra una luce e l'altra, c'è più spazio. Ecco, quelle sono le aree interne. Una volta venivano chiamate aree marginali, poi qualcuno ha iniziato a borbottare, il borbottio è diventato una protesta: marginali rispetto a chi?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307502",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308856_19",
+      "politician_name": "SARRACINO Marco",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signora Presidente. Voglio ringraziare la Sottosegretaria Siracusano per l'ascolto e la serietà con cui ha lavorato per questo risultato importante per i cittadini e le cittadine delle aree interne. Presidente, oggi il Partito Democratico e le altre opposizioni unite presentano questa mozione perché ritengono che il Parlamento, il Governo, la politica debbano occuparsi di chi troppe volte viene dimenticato, dei cittadini delle aree interne che, diciamoci la verità, anche per quello che veniva detto prima, troppe volte sono letteralmente cittadini di serie B, con meno accesso alle cure, meno diritto all'istruzione, meno possibilità di muoversi con il trasporto pubblico, meno servizi, meno opportunità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308856",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, rappresentanti del Governo, onorevoli colleghi: “Gli amici miei son quasi tutti via. E gli altri partiranno dopo me. Peccato, perché stavo bene in loro compagnia. Ma tutto passa, tutto se ne va”. Che sarà è una canzone famosa, che soprattutto gli anziani come me ricorderanno, dei Ricchi e Poveri. Era il 1971, e nel 1971, in questa Nazione, si diceva “tutto se ne va” e “gli altri partiranno dopo me”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del testo unificato dei disegni di legge nn. 1168 ​- 1318 ​- 1371 ​- 1452 ​- 1572-A ​: Abrogazione di atti normativi prerepubblicani relativi al periodo 1861-1946.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, speravo in un ripensamento da parte del Governo e del relatore e che potessero motivare in modo diverso e non esprimere subito una contrarietà a questo emendamento. Perché questo? Perché con questo emendamento si chiede, soprattutto, di procedere con ordine in questa materia. Noi stiamo per abrogare all'incirca 30.000 provvedimenti, regi decreti e provvedimenti derivanti da altre fonti normative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305553_19",
+      "politician_name": "GADDA Maria Chiara",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Signora Ministra, intervengo per annunciare il voto di astensione da parte del gruppo Italia Viva. Noi riteniamo la semplificazione, la pulizia delle norme cosa buona e giusta. Il punto è che la modalità con cui il Governo Meloni l'ha fatta sia stata caratterizzata da un'estrema superficialità; basta analizzare il dibattito e i lavori all'interno della Commissione per vedere che oggi, in quest'Aula, avremmo rischiato di ratificare, ad esempio, la cancellazione di una scuola ad Arezzo. Questo lo dico non per una posizione polemica, ma perché, quando si va nella direzione della semplificazione, è giusto farlo con i piedi ben piantati per terra, con i dossier approfonditi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305553",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha chiesto di parlare il deputato Dori: non chiede più di parlare. Era nell'elenco dei deputati che hanno chiesto di parlare. Aveva chiesto di parlare il deputato Zaratti? C'è stato un problema di comunicazione? Se vuole, le do la parola. No.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Aspetti, collega d'Alessio. Colleghi, queste sono le dichiarazioni di voto finale. C'è qualche problema di comunicazione. Dal gruppo di Alleanza Verdi e Sinistra qualcuno vuole intervenire per la dichiarazione di voto finale?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Ho chiesto di intervenire per annunciare il nostro voto di astensione, perché l'idea di abrogare circa 30.000 norme prerepubblicane è certamente meritevole ed è una questione fondamentale che riguarda la semplificazione del nostro apparato legislativo, ma è del tutto evidente che, proprio perché le norme sono così numerose, sarebbe stata necessaria un'accuratezza che, a nostro parere, non c'è stata. Abbiamo seguito la discussione e l'approvazione in Commissione, ma molti dubbi che avevamo ci sono assolutamente rimasti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Noi esprimeremo un voto favorevole. Per la verità, abbiamo sperato che passasse anche l'unico emendamento proposto, perché andava nella direzione di recuperare, almeno sotto certi profili, la centralità del Parlamento, cosa di cui abbiamo molto bisogno, che avrebbe ridato alle Camere, almeno sotto questo profilo, un ruolo che dobbiamo provare a recuperare in ogni settore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308899_19",
+      "politician_name": "RUSSO Paolo Emilio",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, signora Presidente. Tireranno un sospiro di sollievo quegli incauti che fino ad oggi libravano il loro piccione viaggiatore senza affrancare l'apposito contrassegno vidimato dal prefetto. Da oggi, infatti, non sono più passibili di sanzione. Si sentiranno, forse, più liberi i panettieri di Pavia, che seguivano regole dettagliate sulle dimensioni dei forni a legna in vigore da 163 anni, così come gli appassionati di banane, dal momento che entra in liquidazione la Regia azienda monopolio banane e ora tocca trovarle sul mercato. Che dire dei promessi sposi nottambuli: i matrimoni serali erano sino ad oggi gravati da un sovrapprezzo, perché di sera, si sa, bisogna restare a casa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308899",
+        "seduta": 380
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2024-11-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signora Presidente. Bisogna fare una premessa: noi del MoVimento 5 Stelle non contestiamo che si debba procedere ad un'opera di semplificazione del tessuto normativo. Su questo siamo perfettamente d'accordo. E ovviamente non contestiamo il fatto che l'ipertrofia normativa debba avere una soluzione. Bisogna procedere a uno svecchiamento di tutto il complesso delle norme che, alla fine, poi, inceppano anche l'andamento della vita sociale. E, quindi, quest'opera può essere di beneficio per cittadini, amministrazioni e operatori del diritto. Siamo d'accordo su questo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0380",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 380
+      }
+    }
+  ]
+}

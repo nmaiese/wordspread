@@ -1,0 +1,643 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0094",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-04-28",
+    "title": "Assemblea — Seduta n. 94 del 2023-04-28",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 94
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 72, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del Documento di economia e finanza 2023 e dell'annessa nuova Relazione al Parlamento predisposta ai sensi dell'articolo 6 della legge n. 243 del 2012 ( Doc. LVII, n. 1 e Annesso- bis ).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307496_19",
+      "politician_name": "PELLA Roberto",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente Rampelli. Cari colleghi, Sottosegretario Freni, l'Assemblea oggi è chiamata a esaminare il medesimo Documento di economia e finanza trasmesso dal Governo in data 12 aprile 2023, mentre è stata modificata la Relazione annessa al medesimo Documento, finalizzata a richiedere l'autorizzazione al ricorso all'indebitamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307496",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307234_19",
+      "politician_name": "TORTO Daniela",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi siamo qui per la seconda puntata del docufilm “Date un DEF a Giorgia”. La prima puntata è andata in onda ieri, proprio qui, però, il finale è stato - permettetemelo di dire - un disastro, una pagina vergognosa di una maggioranza impreparata, che pensava di poter governare l'Italia a suon di propaganda e di codardi ruggiti da bar. Ieri questo Governo si è fatto bocciare la programmazione economica del futuro italiano dalla sua stessa compagine parlamentare, che non ha avuto i voti per la maggioranza assoluta. E sapete perché? Perché, mentre questi signori vanno dicendo per tutto il globo terracqueo che il reddito di cittadinanza deve essere tolto ai cittadini senza lavoro, bollati tra l'altro come “divanisti”, loro - che invece la poltrona ce l'hanno - non fanno il proprio dovere (Applausi dei deputati del gruppo MoVimento 5 Stelle), sono assenti e disonorano questo Parlamento. Oggi ci viene garantito, però, che il finale di questo docufilm e di questa farsa cambierà, perché c'è una nuova versione del Documento di economia e finanza corretta. Pensate un po', è stato convocato addirittura un Consiglio dei ministri straordinario, per restituirci un nuovo Documento che, rispetto al primo, presenta soltanto 7 parole in più e vi dico quali, ve le leggo: “nonché per sostenere le famiglie con figli”. Quindi, fateci capire, il Governo sta dicendo che, nel suo progetto di crescita per il Paese Italia, aveva dimenticato di sostenere le famiglie con i figli. Siete ridicoli! Perché, alla luce di questo, mica aumentate le risorse. No, quelle restano le stesse, addirittura andrete a ridurre quelle già previste, che non bastano neppure a sfamare le famiglie italiane (Applausi dei deputati del gruppo MoVimento 5 Stelle) ! È davvero, il Governo della vergogna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307234",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Il Documento di economia e finanza è un documento fondamentale, che individua la politica economica del Governo. Per questo, quanto accaduto ieri in quest'Aula, per la maggioranza è certamente un fatto grave, molto grave, che deve servire da lezione e che non deve più accadere. Ha fatto molto bene la Premier Giorgia Meloni a definire quanto accaduto ieri un brutto scivolone, perché si tratta di questo, non di certo, come ha ricordato la Premier, di un segnale politico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Allora, Presidente, mi avvio alle conclusioni, sottolineando che questo DEF va esattamente nella direzione di cui il Paese ha bisogno: dare stabilità, credibilità e crescita. Il Governo Meloni e questa maggioranza stanno garantendo al Paese queste prospettive, Noi Moderati ci siamo e faremo la nostra parte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307304_19",
+      "politician_name": "PAGANO Ubaldo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, non so se l'ha già sentita, ma c'è una frase attribuita a San Francesco che recita: “Cominciate col fare ciò che è necessario, poi ciò che è possibile. E all'improvviso vi sorprenderete a fare l'impossibile” (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) , ipse dixit . Le ultime parole famose, le ultime prima dello schianto di questa maggioranza contro se stessa. Da ieri, sappiamo di dovervi prendere alla lettera, perché avete letteralmente fatto l'impossibile: riuscire a bocciare la vostra stessa proposta di scostamento, nonostante la grande responsabilità dimostrata dalle opposizioni in tutto l'iter e anche in quest'Aula; un'impresa che entra a pieno titolo nell'albo d'oro del moderno centrodestra, dopo la figuraccia della finanziaria del 2004 e il preludio alla caduta del Governo Berlusconi nel 2011. Ci sarebbe tanto da riderci su, se tutto ciò non fosse accaduto in Parlamento, per mano delle stesse persone che, in teoria, dovrebbero governare questo Paese. Mai era successo nulla di simile, mai su un provvedimento così importante come lo scostamento di bilancio; ma se il vostro orizzonte è effettivamente l'impossibile, dovevamo anche aspettarcelo. Ciò che non ci aspettavamo sono state le reazioni interne alla vostra stessa maggioranza, a partire dalla Presidente del Consiglio - “Non ho parole”, pare abbia commentato a caldo - e io devo ammettere un certo disagio, perché penso di non essere mai stato più d'accordo con Giorgia Meloni. Non ci sono parole per la vostra sciatteria, per la vostra totale noncuranza con cui ricoprite questo ruolo. La maggioranza non fa alcuna fatica a ricordarci, a ogni occasione utile, di essere il frutto del risultato delle politiche di settembre, peccato però che nel frattempo vi siate dimenticati di venire in Aula a votare i vostri stessi provvedimenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307304",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d308907_19",
+      "politician_name": "TREMAGLIA Andrea",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Ero già intervenuto ieri nella discussione generale sul DEF, ritorno oggi a parlare. Evidentemente, come abbiamo già visto dagli interventi dei colleghi che mi hanno preceduto, l'argomento oggi non è il DEF in senso stretto; l'argomento è l'elefante nella stanza, quello che è accaduto ieri pomeriggio. Vengo da una terra di gente che è abituata a lavorare in silenzio, per la maggior parte, e a chiedere scusa quando sbaglia, ad assumersi le responsabilità quando sbaglia. Senz'altro ritengo che sia giusto cominciare da questo, perché credo che noi dobbiamo assumerci la responsabilità di quello che è successo ieri; dobbiamo, come Fratelli d'Italia, innanzitutto chiedere perdono ai nostri elettori se ieri sera, oggi, abbiamo prestato il fianco a chi, nell'opposizione, e a chi, sui giornali, ci attacca, a chi ci vuole dipingere come irresponsabili, impreparati, incapaci. Ieri eravamo qui…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "308907",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d308907_19",
+      "politician_name": "TREMAGLIA Andrea",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Noi, ieri, eravamo presenti in Aula, avevamo cinque assenti come Fratelli d'Italia (Commenti dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) , la maggior parte per ragioni di salute…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "308907",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d308907_19",
+      "politician_name": "TREMAGLIA Andrea",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Noi eravamo presenti ieri in Aula, avevamo 5 assenti non giustificati, non in missione, come Fratelli d'Italia, la maggior parte dei quali per ragioni di malattia, purtroppo. Ma, detto questo, ripeto, noi ci dobbiamo assumere le nostre responsabilità, dobbiamo chiedere scusa, se abbiamo prestato il fianco a questi attacchi strumentali, ai nostri elettori, dobbiamo chiedere scusa al Governo, perché sta lavorando bene, sta lavorando al di sopra delle aspettative, soprattutto delle prospettive catastrofiche dipinte, nei mesi di campagna elettorale, dall'attuale opposizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "308907",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, non capisco l'atteggiamento di questa mattina. Deputato Grimaldi! Sapete meglio di me che esistono regole e che queste regole vanno rispettate. Gli oratori che parlano non vanno disturbati, ognuno ha il diritto di dire quello che pensa quando arriva il proprio turno, senza dialoghi tra gruppi o, peggio, tra deputati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Credo che invece lei capisca bene quello che è successo, anche perché è stato lei a pronunciare quelle fatidiche parole con cui il Documento di  economia e finanza, il principale documento di programmazione, è stato respinto da quest'Aula. La verità è che siete riusciti a trasformare quel plastico, quello che avete annunciato a tutto il Paese in una bella conferenza stampa, a campata unica. La maggioranza è riuscita a realizzare qualcosa, ha fatto il ponte! Altro che campate uniche, altro che unire Villa San Giovanni e Messina. Siete riusciti a saltare e a bucare uno degli appuntamenti più importanti di questa legislatura. Non eravate presenti in Aula sul più importante provvedimento economico, e, non contenti, come se fosse un gioco, guardando dov'erano finiti quei 40 colleghi, avete pure chiesto il VAR, il replay . Rifacciamo la votazione, come se non fosse successo nulla. Faremo l'impossibile, avete tuonato. Davvero incredibile, con una maggioranza di 240 deputati, essere in 45 assenti. Dovete chiedere scusa, avete ragione, perché si è trattato di un'accentuata scarsità di rendimento o di disponibilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Onorevoli colleghi, ho ascoltato il dibattito di questa mattina non senza qualche imbarazzo, naturalmente, per i colleghi della maggioranza, ma anche per il Parlamento e per il nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che è stata presentata la risoluzione Foti, Molinari, Barelli e Lupi n. 6-00032 riferita alla nuova Relazione, di cui all'articolo 6 della legge n. 243 del 2012, che è in distribuzione (vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha facoltà di replicare il rappresentante del Governo, Sottosegretario Freni, che invito anche a dichiarare se intenda accettare la risoluzione riferita alla nuova Relazione, fermo restando che, nella seduta di ieri, ha già accettato la risoluzione Foti, Molinari, Barelli e Lupi n. 6-00030 riferita al Documento di economia e finanza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d308837_19",
+      "politician_name": "FRENI Federico",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Economia e le finanze . Grazie, Presidente. Una stringatissima replica solo per rassicurare l'Aula, che, rispetto alla prima Relazione, il percorso di aggiustamento e le grandezze non sono in alcun modo variate e che, quindi, la nuova Relazione ha solo meglio definito le finalità di utilizzo delle risorse, anche alla luce del dibattito parlamentare. Del dibattito parlamentare la Commissione europea sarà resa edotta, come di prassi, con invio del DEF e di tutti gli annessi, ivi incluse le relazioni parlamentari. Intervengo, altresì, per rassicurare ulteriormente l'Aula che il Governo, come ha garantito ieri sera in Commissione, ribadisce di aver garantito e di garantire il pieno rispetto di tutte le previsioni di cui all'articolo 6 della legge n. 243 del 2012. Quanto alla risoluzione n. 6-00032 , il Governo, ovviamente, l'accetta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "308837",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché in sede di Conferenza dei presidenti di gruppo è stato convenuto che le dichiarazioni di voto finale, con ripresa televisiva diretta, abbiano inizio alle ore 10, sospendo la seduta sino a tale ora.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Riprendiamo il seguito della discussione del Documento di economia e finanza 2023 e dell'annessa nuova Relazione al Parlamento predisposta ai sensi dell'articolo 6 della legge 243 del 2012 ( Doc. LVII, n. 1 e Annesso-bis).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307436_19",
+      "politician_name": "MAGI Riccardo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). La ringrazio Presidente, ma quello che abbiamo visto nella giornata di ieri in quest'Aula non è una manifestazione di sciatteria o di superficialità, ma è, a nostro avviso, la cifra, l'emblema di questo Governo, ossia una mancanza di credibilità e di senso delle istituzioni di questo Governo e della sua maggioranza. È la stessa cosa che abbiamo visto all'azione in queste settimane, da parte del Governo, sulla questione del PNRR; è la stessa cosa che abbiamo visto da parte di questo Governo sulla questione del MES; è la stessa cifra che abbiamo visto da parte di questo Governo nei consessi internazionali. Bel modo di tutelare gli interessi del Paese, gli interessi della Nazione, come direbbe la Presidente Meloni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307436",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307902_19",
+      "politician_name": "STEGER Dieter",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Grazie, Presidente. Ci risiamo: dopo questo brutto scivolone della maggioranza ieri in Aula, da ascriversi all'imperizia e alla noncuranza di parecchi colleghi parlamentari della maggioranza, per fortuna, il Regolamento parlamentare prevede e ci concede di rimediare, perché sarebbe un danno non dare l'autorizzazione alla spesa in deficit, il presupposto, tra l'altro, per il decreto Lavoro, previsto per i prossimi giorni, che taglia ulteriormente il cuneo fiscale ai meno abbienti. Nella sostanza, non voglio ripetere ciò che ho detto ieri in dichiarazione di voto e rimando pertanto al resoconto dei lavori dell'Aula di ieri. Mi limito ad evidenziare due argomenti. Il primo: la sottolineatura del particolare sostegno alle famiglie con figli, la condividiamo pienamente. Il secondo: la gestione prudente della spesa pubblica, così come prospettata dal Ministro Giorgetti, trova il nostro sostegno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307902",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente. Onorevoli colleghi, siamo qui, in diretta televisiva, per votare e approvare - lo dico con molta chiarezza, perché li voteremo e li approveremo - il Documento di economica e finanza e lo scostamento di bilancio. Siamo qui, perché ieri, per approvare lo scostamento di bilancio - lo dico anche a chi ci ascolta, come è giusto che sia, essendo questo un provvedimento fondamentale e importante - c'era bisogno di una maggioranza assoluta (201 voti) e questo non è accaduto. Lo abbiamo definito tutti - la Presidente Meloni lo ha detto con molta chiarezza e bisogna darle atto della serietà, della continua credibilità -, uno scivolone. Il nostro gruppo ha parlato di un incidente di percorso, di un errore. Quando si commettono errori e ci sono incidenti di percorso si chiede scusa, si cerca di capire perché sia accaduto e si guarda alla responsabilità che quanto accaduto comporta in ordine a questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Ma non potevamo - e concludo - prendere 30 miliardi, di quei 110 miliardi, e darli alle famiglie dei giovani per comprare delle case, magari con il 30 per cento a fondo perduto? O abbiamo fatto degli incentivi per cui : venite, che tanto è tutto gratis, come se si fosse al mercato (ogni riferimento al presidente Conte del MoVimento 5 Stelle è puramente casuale)?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Io penso che non si debba mai essere orgogliosi della propria incompetenza (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra - Commenti dei deputati del gruppo Fratelli d'Italia) . Alcuni giorni fa un autorevole membro di questo Governo, l'onorevole Lollobrigida, Ministro dell'Agricoltura, della sovranità alimentare e delle foreste, affermava: “Meglio lavorare nei campi che stare sul divano con il reddito di cittadinanza”. Ieri i parlamentari della destra, che sostengono questo Governo, hanno deciso di rimanere sul divano o di perdersi nei bagni di Montecitorio, non venendo a votare e facendo così bocciare, loro, il documento di programmazione economica del loro Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …non ha avuto modo di dire alla Ministra Santanche' che ridicolizza l'Italia e sperpera il denaro pubblico in questo modo. Ritornate oggi, dopo la figuraccia che vi ha iscritto alla storia di questa Repubblica come la maggioranza che, per la prima volta, si è bocciata da sola il Documento di programmazione economica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d305708_19",
+      "politician_name": "RICHETTI Matteo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Ci riprovo anche oggi. In realtà, l' ars oratoria del collega Lupi, che ricordo Ministro, è sempre affascinante, Presidente. Però, questa volta, si scontra con la durezza della realtà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "305708",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d300497_19",
+      "politician_name": "BARELLI Paolo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor Presidente, cari colleghi, prendo spunto dalle parole di chi mi ha preceduto. Sì, è vero, non c'è nessuna crisi politica in atto. Anche se ovviamente - ammetto - era meglio concludere ieri l'approvazione del Documento di economia e finanze, non c'è nessuna crisi politica e i partiti che sostengono il Governo Meloni sono uniti nel far sì che oggi venga approvato tale Documento. Quello che ci accingiamo ad approvare è proprio il primo documento organico di programmazione economica e finanziaria di questo Governo. Pertanto, assume una prospettiva di legislatura, anche andando oltre le previsioni elaborate in questo momento segnato da grandi incertezze, legate innanzitutto alla situazione internazionale e al conflitto in Ucraina, e impostando un lavoro che dovrà essere compiuto e sviluppato nei prossimi anni. Dunque, il Documento contiene già importanti risposte, attraverso la previsione di interventi che potranno essere ulteriormente rafforzati e sviluppati con altri provvedimenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "300497",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi, siete pronti? Noi ci siamo. Ieri avete mostrato tutta la vostra incapacità, inadeguatezza, ma non è una nostra opinione, è un dato di fatto, lo dice il vostro Ministro dell'Economia e delle finanze: i deputati non si rendono conto. Io devo correggere il vostro Ministro dell'Economia e delle finanze, perché i “suoi” deputati non si rendono conto (Applausi dei deputati del gruppo MoVimento 5 Stelle) , noi ci rendiamo perfettamente conto di cosa significhi occupare questo luogo, stare in questo posto dove siamo lautamente pagati per venire a lavorare e non per stare a casa, specialmente quando c'è una votazione che rischia di mettere in crisi un Paese!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307507_19",
+      "politician_name": "MOLINARI Riccardo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Il fatto di ieri, certamente, è un fatto grave e anche il gruppo della Lega, come gruppo di maggioranza, si prende la sua quota di responsabilità, ma vogliamo chiarire all'Aula, al Governo e al Paese che quanto è successo non ha niente a che vedere con quello che abbiamo letto oggi sui giornali. Non c'è nessuna crisi politica in atto, non c'è nessun messaggio che si voleva dare a qualche Ministro in particolare (Applausi dei deputati dei gruppi Lega-Salvini Premier, Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE) . Anzi, per quanto riguarda il Ministro Giorgetti, il gruppo della Lega non può che dire grazie e complimentarsi per il lavoro fatto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307507",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307507_19",
+      "politician_name": "MOLINARI Riccardo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). È il centrodestra, con il decreto Bollette. Sulla sanità pubblica bisogna fare cose concrete, non bisogna riempirsi la bocca, quando poi, ai tempi di Monti, si è votata la riforma che ha portato a una razionalizzazione del sistema sanitario su base ragionieristica ed economica (Applausi dei deputati dei gruppi Lega-Salvini Premier, Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE) , che non teneva in conto alcun elemento territoriale, tot abitanti, tot ospedali, e non importava se c'erano le montagne, il fiume o il mare. Questo è quello che ha appoggiato la sinistra! Sulla sanità avremo certamente tutti responsabilità, ma qui c'è chi si sta rimboccando le maniche per risolvere e c'è chi fa parole. Questo è il punto e questo è giusto che sappiano i cittadini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307507",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307507_19",
+      "politician_name": "MOLINARI Riccardo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Concludo, signor Presidente. C'è poi il tema fiscale, dove spenderemo i benefici pensati per le imprese ai lavoratori: no tax area estesa ai lavoratori dipendenti, flat tax incrementale estesa ai lavoratori dipendenti. Quindi, credo che il primo maggio dovremmo festeggiare, per quello che sta facendo questo Governo per le fasce più deboli e per i lavoratori dipendenti. Certamente, quello che possiamo dire noi è che rinnoviamo la piena fiducia e ringraziamo il Governo e il Ministro Giorgetti per quanto fatto perché di sanità pubblica, di diritti sociali e di sostegno alle fasce più deboli bisogna occuparsi, non bisogna parlarne (Applausi dei deputati dei gruppi Lega-Salvini Premier, Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE - Congratulazioni) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307507",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d302754_19",
+      "politician_name": "BRAGA Chiara",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Rappresentanti del Governo, Ministro per i Rapporti con il Parlamento - che oggi è in quest'Aula -, quanto è accaduto ieri è di una gravità senza precedenti, non esistono scuse! “Non ho parole”, non è la mia reazione, ma quella della Premier Meloni, impegnata, nelle stesse ore, ad accreditare l'Italia sulla scena internazionale e, intanto, costretta a fare i conti con una maggioranza incapace di garantire i numeri necessari per approvare il principale documento di programmazione finanziaria!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "302754",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, signori rappresentanti del Governo, colleghi, non perché ci sia stato chiesto, ma perché lo riteniamo un dovere: noi chiediamo scusa agli italiani e al Presidente del Consiglio per quanto è accaduto ieri (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) e di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) . L'ho voluto premettere, perché le scuse si possono sempre trovare, ma penso, Fratelli d'Italia pensa che il senso di responsabilità venga prima di ogni altra cosa (Applausi dei deputati del gruppo Fratelli d'Italia) , anche se - e su questo ha perfettamente ragione il collega Molinari - non possiamo dimenticare che alcuni quorum , funzionali per rendere efficaci le votazioni, che sono stati stabiliti quando questa Camera era di 630 componenti, sono rimasti immutati, nonostante la Camera sia stata ridotta a 400 componenti, e questo è un problema riferito, soprattutto, agli incarichi di Governo (Applausi dei deputati del gruppo Fratelli d'Italia – Proteste dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). E capisco, signor Presidente, che devono alzare la voce, ma non è alzando la voce che coprono i dati! Non è così che si fa! Così come non potete coprire la vergogna del luglio 2022 (Applausi dei deputati del gruppo Fratelli d'Italia - Proteste dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) ! Ricordarvelo, cosa avete fatto al Senato (Applausi dei deputati del gruppo Fratelli d'Italia - Proteste dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Foti, onorevole Foti! Colleghi, ripristiniamo la calma. In Aula, cortesemente, facciamo procedere l'onorevole Foti sino alla fine. Per cortesia, abbiamo tutti avuto la possibilità di esprimerci. Per cortesia, onorevoli, vi ringrazio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). E aggiungo, signor Presidente, che c'è anche un aspetto che, sempre sotto il profilo istituzionale, noi dobbiamo porre in quest'Aula, perché non ci piace che chi ci viene a dare lezioni di istituzioni, guarda caso, proprio ieri, abbia scelto “l'Aventino” in Commissione giustizia, solo perché si era presentato il Sottosegretario Delmastro, nel pieno delle sue funzioni (Applausi dei deputati del gruppo Fratelli d'Italia - Proteste dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, non è che io abbia l'obbligo di fare un intervento o di leggere un compitino che piaccia a tutti. Ho il diritto di essere ascoltato, come io ho ascoltato tutti gli altri (Applausi dei deputati del gruppo Fratelli d'Italia - Commenti dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) ! Ed è pur vero che ho sentito tante volte l'ex capogruppo del Partito Democratico chiedere le dimissioni di questo o di quest'altro in quest'Aula. Mi dispiace non averla più come collega (è l'unica che si è dimessa).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, colleghi, colleghi! Ripeto che non ci si rivolge con epiteti ad altri colleghi. Per cortesia! Altrimenti, sono costretto a richiamare all'ordine. Colleghi, vi ricordo anche che siamo in diretta TV. Per cortesia, cerchiamo (Deputati del Partito Democratico-Italia Democratica e Progressista lasciano l'Aula - Dai banchi del gruppo Fratelli d'Italia si scandisce: “ Fuori! Fuori! ”) … Scusate, colleghi, non si fanno cori! Colleghi! Colleghi, non si fanno cori (Proteste del deputato Stumpo) ! Onorevole Stumpo, la richiamo all'ordine (Vive proteste dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Mi rivolgo sicuramente alla Presidenza; sarei grato se anche altri si rivolgessero alla Presidenza (Commenti) , perché ho sentito bene - mi scusi - quello che è stato detto. Io non ho offeso nessuno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Concludo, signor Presidente, con un'altra osservazione. Pochi mesi fa, appena è stato annunciato, il Ministro Crosetto ebbe a dire che l'aumento dei tassi di interesse da parte della BCE, come erano stati preventivati, gli faceva paura. Abbiamo assistito al linciaggio del Ministro Crosetto, perché si è detto: un Ministro non deve intervenire nelle valutazioni della BCE. È una valutazione come tante altre. Ma oggi possiamo dire che, con quei tassi di interesse, a cui la BCE ci sta portando, abbiamo famiglie e imprese che non fanno fronte o fanno fatica a far fronte al mutuo contratto, perché i tassi di interesse sono aumentati e lo Stato dovrà spendere 70 miliardi di euro in più per far fronte a questi tassi, oppure lo dobbiamo nascondere agli italiani (Applausi dei deputati del gruppo Fratelli d'Italia) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Concludo, dicendo: noi votiamo convintamente questo DEF, perché noi non parliamo dei poveri e degli ultimi. Non li assistiamo e gli andiamo incontro (Applausi dei deputati del gruppo Fratelli d'Italia - Proteste dei deputati del gruppo MoVimento 5 Stelle) ! Ed è per quello che questo Governo, con Giorgia Meloni in testa, ha deciso di tagliare 3 punti del cuneo fiscale (Applausi dei deputati del gruppo Fratelli d'Italia) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Sì, Presidente, è un richiamo al comma 2 dell'articolo 8, il quale le attribuisce una responsabilità fondamentale, che è per tutti noi molto importante, perché vorremmo evitare di trovarci domani a dover rifare per la terza volta il dibattito. Il comma 2 dell'articolo 8 del Regolamento, in qualche modo, le impone di chiarire bene il significato del voto, oltre che annunciare il voto. Quindi, lo spieghi bene alla maggioranza e, soprattutto, riporti in quest'Aula…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Mi aiuti a far comprendere ad alcuni che la matematica non è un'opinione, o, come disse Totò, “la somma fa il totale”, e cioè la maggioranza assoluta, con il taglio dei parlamentari, non c'entra nulla (Applausi dei deputati dei gruppi Azione-Italia Viva-Renew Europe, Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra - Commenti)…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d302754_19",
+      "politician_name": "BRAGA Chiara",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Sull'ordine dei lavori. Noi abbiamo ora una votazione all'ordine del giorno e arriviamo a questo passaggio sull'elezione dei consigli di presidenza degli organi di giustizia amministrativa, della Corte dei conti e della giustizia tributaria, in una condizione che mai avremmo voluto si verificasse. Dalla maggioranza registriamo, ancora una volta, un atteggiamento di arroganza e di mancato rispetto dei normali e civili rapporti con le opposizioni (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . La forzatura inaccettabile di imporre un equilibrio totalmente irrispettoso delle rappresentanze parlamentari e dei gruppi di maggioranza e opposizione ha impedito di fatto il raggiungimento di un accordo che, come più volte ha ribadito il Presidente in sede di Conferenza dei presidenti di gruppo, costituisce il presupposto indispensabile per procedere secondo la prassi, che è sempre stata applicata, di un voto su una lista condivisa di nomi. Noi abbiamo cercato a lungo e fino all'ultimo di ricondurre a ragionevolezza la maggioranza, attraverso un confronto sempre franco, sia alla Camera e, devo dire, anche nell'altro ramo del Parlamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "302754",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la votazione per schede per l'elezione di due componenti il Consiglio di Presidenza della giustizia amministrativa, di due componenti il Consiglio di Presidenza della Corte dei conti e di due componenti per il Consiglio di Presidenza della giustizia tributaria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Secondo quanto convenuto in sede di Conferenza dei presidenti di gruppo ,sarà iscritto all'ordine del giorno della seduta di martedì 2 maggio, a partire dalle ore 10, con votazioni non prima delle ore 15, con prosecuzione notturna, l'esame del decreto-legge in materia di flussi migratori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghe e colleghi da sempre il nostro gruppo parlamentare rivolge la massima attenzione al tema della salute e sicurezza sul lavoro, tutti i giorni, perché ogni giorno tre persone escono di casa per andare a lavorare e non tornano più. Il nostro impegno va al di là della giornata di oggi, che è la Giornata mondiale della salute e della sicurezza sul lavoro, al di là delle ricorrenze e delle celebrazioni, perché queste servono, ma serve soprattutto alzare l'attenzione e continuare a parlare della strage silenziosa che riguarda il mondo del lavoro. Siamo a 1.090 morti sul lavoro e i numeri degli infortuni crescono.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 94
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-04-28",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Intervengo perché da poco Maurizio Fugatti, presidente della provincia autonoma di Trento, ha emesso l'ennesima richiesta di abbattimento dell'orsa che, purtroppo, è stata protagonista di una aggressione nei confronti di un runner che, sempre purtroppo, ha perso la vita. Il TAR, considerato che ci sono stati diversi ricorsi, ha sospeso l'abbattimento di questo animale, ma questo presidente sembra che sia ossessionato dal voler uccidere quest'orsa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0094",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 94
+      }
+    }
+  ]
+}

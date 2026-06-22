@@ -1,0 +1,422 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0123",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-06-21",
+    "title": "Assemblea — Seduta n. 123 del 2023-06-21",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 123
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 79, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1151-A: Conversione in legge, con modificazioni, del decreto-legge 10 maggio 2023, n. 51, recante disposizioni urgenti in materia di amministrazione di enti pubblici, di termini legislativi e di iniziative di solidarietà sociale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Grazie, Presidente. Onorevoli deputati, a nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 1151-A: Conversione in legge, con modificazioni, del decreto-legge 10 maggio 2023, n. 51, recante disposizioni urgenti in materia di amministrazione di enti pubblici, di termini legislativi e di iniziative di solidarietà sociale, nel testo approvato dalle Commissioni riunite.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "A seguito della posizione della questione di fiducia, la Conferenza dei presidenti di gruppo è convocata tra 15 minuti presso la Biblioteca del Presidente, al fine di stabilire il prosieguo dell'esame del provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, secondo quanto convenuto nell'odierna riunione della Conferenza dei Presidenti di Gruppo, a seguito della posizione della questione di fiducia sull'articolo unico del disegno di legge n. 1151-A - Conversione in legge del decreto-legge 10 maggio 2023, n. 51, recante disposizioni urgenti in materia di amministrazione di enti pubblici, di termini legislativi e di iniziative di solidarietà sociale (da inviare al Senato – scadenza: 9 luglio 2023) , nel testo approvato dalle Commissioni, la votazione sulla questione di fiducia avrà luogo nella seduta di domani, giovedì 22 giugno, alle ore 9,30, previe dichiarazioni di voto a partire dalle ore 8.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro della Difesa, il Ministro dell'Interno e il Ministro dell'Ambiente e della sicurezza energetica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministro Crosetto, recentemente organi di stampa hanno riportato la notizia secondo cui l'ex Segretario generale della NATO, Rasmussen, avrebbe detto che, se l'Ucraina non riceverà nel prossimo vertice della NATO a Vilnius nel prossimo mese di luglio rassicurazioni sul prosieguo del conflitto in Ucraina, sarebbe possibile l'intervento diretto di alcuni Paesi baltici, tra cui la Polonia, sul territorio ucraino. Quindi, truppe di Paesi che appartengono alla NATO, secondo questa prospettazione, potrebbero intervenire direttamente nel conflitto. A questa dichiarazione ha fatto seguito la reazione verbale, fino a questo punto, della Federazione russa che ha paventato, appunto, uno scontro diretto fra la NATO e la Federazione stessa. Noi vogliamo sapere se al Governo risulti tutto ciò e che cosa intenda fare per scongiurare questo gravissimo pericolo (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d300356_19",
+      "politician_name": "CROSETTO Guido",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Difesa . Grazie, Presidente. Ringrazio del quesito l'onorevole interrogante anche perché, senza questo quesito, non avrei mai dedicato tempo ed energia per occuparmi delle elucubrazioni personali di un ex Segretario generale della NATO attualmente senza alcun incarico pubblico, né in patria né a livello internazionale. Non mi pare ci sia molto da commentare oltre su queste parole, ma ricordo che il Trattato del Nord Atlantico prevede che ogni decisione in ambito NATO debba essere adottata con il consenso di tutti gli alleati, non solo di uno o due e neanche di tutti meno uno. Preciso ancora una volta che il supporto della comunità internazionale e dell'Italia all'Ucraina non è portato avanti con l'obiettivo di un' escalation del conflitto bensì esattamente all'opposto, cioè nella convinzione che questo possa avere termine quando la Russia si siederà a un tavolo con l'intenzione di cessare le ostilità, rendendo possibile l'avvio di una soluzione pacifica e il ritorno alla situazione preesistente. È questo un obiettivo condiviso, nel cui spirito la comunità internazionale, in linea con la carta ONU, ha deciso di rispondere alla richiesta di aiuto da parte di una Nazione invasa. In questo quadro, l'Italia non trascura alcuna ipotesi di risoluzione del conflitto e promuove contatti pragmatici tra le parti attraverso la costante interlocuzione con tutti gli altri attori internazionali che intendono svolgere un ruolo per mitigare l'impatto del conflitto e contribuire ad una soluzione. Siamo impegnati a discutere con tutti i partner e gli alleati della comunità euro-atlantica le modalità per il sostegno e per dare attuazione alle formule per la pace. Proprio in quest'ottica, con assoluta trasparenza, evidenzio come in ambito NATO, in previsione del prossimo vertice di Vilnius, si stiano negoziando le modalità per approfondire la relazione politica con l'Ucraina anche in termini di trasformazione dell'attuale Commissione NATO-Ucraina in Consiglio NATO-Ucraina, che ha lo scopo di agevolare il processo decisionale al fine di assumere decisioni e pianificare attività in maniera congiunta, sempre con il principio del consenso e che non rappresenta in alcun modo l'ingresso formale dell'Ucraina nella NATO. A titolo informativo, ricordo che analoghi obiettivi di cooperazione caratterizzarono il Consiglio NATO-Russia, istituito nel 2002 nello spirito di Pratica di Mare. Quanto alle considerazioni degli interroganti riguardanti la Polonia e i Paesi baltici, ribadisco che ci sono nostri validi e affidabili alleati che hanno ovviamente una percezione diversa dalla nostra della minaccia, dovuta alla vicinanza geografica alla Russia, che li ha portati a un incremento della spesa militare. Questi timori sono condivisibili e, in questa prospettiva, le iniziative di rassicurazione poste in essere dalla NATO, fin dai primissimi giorni, sul fianco Est, sono servite proprio ad abbassare i toni fino adesso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "300356",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministro, non sono e non siamo soddisfatti della sua risposta. Lei ha parlato di elucubrazioni però le ricordo che sta facendo riferimento a un ex Segretario generale della NATO. Non è il primo che passa, non è un folle che interpreta a suo modo i fatti, è una persona ben informata e, per tutto quello che ha fatto negli scorsi anni, nella sua qualità, credo che abbia delle informazioni di prima mano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Signor Ministro, la Sardegna paga da anni un prezzo altissimo per via dell'asservimento a fini militari di ampie zone di territorio. Il 65 per cento delle servitù militari italiane si trovano sull'isola e le aree vincolate a mare superano la superficie dell'intera Sardegna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d300356_19",
+      "politician_name": "CROSETTO Guido",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Difesa . Grazie, Presidente. Onorevole Ghirra, rispetto alla sua domanda, con la sincerità dovuta al Parlamento, voglio spiegare che l'attuale quadro strategico non consente di ragionare in termini di riduzione delle attività addestrative delle Forze armate. Ciò detto, il Governo e la Difesa assicureranno, per contro, ogni possibile contributo per lo sviluppo sostenibile della regione Sardegna attraverso ulteriori investimenti volti ad incrementare la ricerca scientifica, lo sviluppo tecnologico, l'innovazione, anche in chiave duale, nonché programmi di sviluppo industriale civile, e non solo militare, a testimonianza della centralità che per noi la Sardegna ha nello sviluppo del Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "300356",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Il Ministro capirà che non sono affatto soddisfatta di questa risposta, perché la nostra visione di sviluppo del territorio non è certo legata all'economia di guerra, delle esercitazioni in questo caso. La nostra isola ha enormi potenzialità, gli indennizzi non sono sufficienti a garantire lo sviluppo economico sostenibile del nostro territorio. Non è certo da addossare a lei la responsabilità di questa situazione; è una storia che va avanti da decenni, però la cabina di regia e i tavoli tecnici non stanno producendo, a mio avviso, le necessarie soluzioni per l'armonizzazione delle esigenze della Difesa con quelle dei cittadini che abitano quei territori. Non c'è una consapevolezza reale dei limiti che la presenza delle servitù e dei poligoni crea nei territori, anche dal punto di vista ambientale. Non si parla mai di bonifiche, nonostante persino la Corte dei conti abbia invitato il Governo ad intervenire per riqualificare quei luoghi che sono profondamente inquinati dalle esercitazioni che si svolgono da troppo tempo. Io davvero non ho grande fiducia, ma spero che ci possa essere una riflessione profonda rispetto alle esigenze che una terra come la nostra ha e ai benefici che non arrivano da questo tipo di politiche (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308826_19",
+      "politician_name": "COMBA Fabrizio",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Onorevole Presidente, onorevole Ministro, il tema al centro del vertice NATO in programma il prossimo 11 e 12 luglio a Vilnius sarà l'accordo, da raggiungere tra gli alleati, di dedicare il 2 per cento del bilancio dello Stato alla spesa militare, come prevede un impegno preso dai Paesi membri dell'Alleanza atlantica nel 2014.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308826",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d300356_19",
+      "politician_name": "CROSETTO Guido",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Difesa . Grazie, Presidente. Grazie, onorevole Comba. Come è noto, nel 2014, al summit del Galles, i Capi di Stato e di Governo assunsero l'impegno, definito Defence investment pledge , di mirare, entro il 2024, al conseguimento del 2 per cento del rapporto spese per la difesa-PIL e del 20 per cento delle spese militari dedicate all'investimento e di contribuire alle operazioni e alle missioni a sostegno della sicurezza nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "300356",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308915_19",
+      "politician_name": "CHIESA Paola Maria",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Ministro, grazie della risposta, che ci soddisfa pienamente. Dallo scorso 24 febbraio è chiaro a tutti che la nostra libertà non è più scontata; dallo scorso 24 febbraio è chiaro a tutti che la nostra difesa ha un costo. È vero, dal 2014 l'Italia sta percorrendo la strada, peraltro condivisa da tutti i Governi che si sono succeduti, di portare le spese militari al 2 per cento del PIL, un obiettivo importante, un obiettivo concordato in sede NATO con i nostri alleati, un obiettivo che, ahimè, non abbiamo ancora raggiunto. Si tratta di un obiettivo concordato dieci anni fa. Ecco, sono passati dieci anni e il nostro Governo, l'avete sentito, intende onorare questo impegno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308915",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Ministro, noi riproponiamo nel question time un'interrogazione che avevamo già svolto il 25 gennaio 2023 e, ascoltando appunto la risposta del Ministro, che proponeva alcune soluzioni rapide, oggi, riproponiamo questa interrogazione in quanto, dopo circa sei mesi, nulla è cambiato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d309042_19",
+      "politician_name": "PIANTEDOSI Matteo",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Interno . Grazie, Presidente. Onorevoli deputati, preciso immediatamente che il portale “Agenda Online” per il quale si registrano i disagi nella fissazione degli appuntamenti conseguenti all'elevato numero di accessi a tale sistema è soltanto uno degli strumenti di accesso agli uffici delle questure dedicati al rilascio dei passaporti, rivolto peraltro ai casi privi del carattere dell'urgenza. Al riguardo, informo che il 15 giugno scorso, peraltro, il dipartimento della pubblica sicurezza ne ha ultimato l'adeguamento tecnologico, nella prospettiva di migliorarne la funzionalità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "309042",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Ministro. È evidente che non possiamo ritenerci soddisfatti, nonostante alcune opere messe in campo dal Governo, per migliorare la situazione. Sicuramente, i numeri che lei ha citato lo testimoniano, però viviamo tutti in un Paese in cui non solo le fonti di stampa, ma anche le associazioni che rappresentano le agenzie di viaggio, o le associazioni di categoria che rappresentano il mondo imprenditoriale denunciano ogni giorno come ci siano grandi difficoltà nell'accedere al portale, nel trovare un appuntamento in tempi che sono ben oltre quelli che lei cita nei suoi dati. Lo constatiamo in moltissime città, questi tempi non sono per niente allineati ai 15 e ai 30 giorni che lei sta citando.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d307143_19",
+      "politician_name": "ZIELLO Edoardo",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Signor Ministro, con l'avvio della stagione estiva è noto che nelle città si registra una recrudescenza di fenomeni criminali legati, per esempio, allo spaccio di sostanze stupefacenti, al commercio abusivo, all'occupazione di immobili o anche a quel fenomeno di recente apparizione nel nostro Paese denominato come “malamovida”. Questi fenomeni sono radicati soprattutto in quelle città e in quei contesti dove c'è un'alta presenza turistica e, molto spesso, questa alta presenza turistica coincide con le città più belle del nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "307143",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d309042_19",
+      "politician_name": "PIANTEDOSI Matteo",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Interno . Grazie, Signor Presidente. Onorevoli deputati, dico immediatamente che ho impartito direttive affinché fosse predisposto un piano per il potenziamento dei servizi di vigilanza estiva a vantaggio delle località a elevata vocazione turistica. Preciso che la pianificazione si basa su criteri oggettivi, che tengono conto sia dei dati Istat sulle presenze turistiche sia degli indici di delittuosità provinciale, con l'obiettivo di concentrare le forze ove si prevedono maggiori criticità, e, tra le province interessate, rientrano sicuramente Rimini e Macerata, con significative assegnazioni di personale. Il modello, inoltre, è caratterizzato da elementi di flessibilità, nel senso che i prefetti e le autorità provinciali sono chiamati a valutare, in seno appunto ai comitati provinciali per l'ordine e la sicurezza pubblica, le specifiche esigenze dei propri territori, legate, ad esempio, a emergenze o alla programmazione di grandi eventi e qualora, all'esito di tali valutazioni, i prefetti richiedano risorse aggiuntive, si procede all'assegnazione di contingenti di rinforzo. Il piano contempla altresì l'attivazione temporanea di uffici di specialità della Polizia di Stato e di presidio dell'Arma dei Carabinieri, nonché l'allocazione di mezzi navali del Corpo della Guardia di finanza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "309042",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d307143_19",
+      "politician_name": "ZIELLO Edoardo",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Ministro. Della sua risposta noi non possiamo che essere soddisfatti, perché finalmente abbiamo un Ministro dell'Interno che vive la realtà quotidianamente. Lo abbiamo notato quando ha convocato il Forum delle città metropolitane. Da allora lei ha avviato un'operazione complicata e complessa, ma molto efficace e che dà un segnale di vicinanza ai territori, funzionale a garantire maggiore sicurezza in tutti i principali snodi ferroviari del nostro Paese, come, per esempio, Roma Termini, Milano Centrale e altri snodi ancora, dove, purtroppo, fenomeni di marginalità e di insicurezza sono sempre più all'ordine del giorno. Tuttavia, grazie ai servizi che lei ha programmato con costanza e, soprattutto, con presenza, tali fenomeni sono sempre meno frequenti e meno pressanti nei confronti della cittadinanza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "307143",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d306214_19",
+      "politician_name": "SQUERI Luca",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. La nostra interrogazione verte sulla proposta della Commissione europea di rivedere la normativa vigente relativa alle emissioni inquinanti dell'aria. Nel mese scorso, la regione Lombardia ha presentato a Bruxelles il manifesto a sostegno delle politiche per la qualità dell'aria. In questo documento si evidenzia che, se fossero confermati questi limiti, si andrebbero a chiudere il 60 per cento delle attività industriali e il 70 per cento degli allevamenti, si impedirebbe la circolazione di tre quarti degli autoveicoli e si metterebbe fuori legge il 75 per cento degli impianti di riscaldamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "306214",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica . Grazie, Presidente, grazie all'interrogante. In relazione al tema posto dagli onorevoli interroganti, si evidenza come, nonostante i significativi livelli di riduzione degli inquinanti raggiunti in Europa negli ultimi tre decenni, l'inquinamento dell'aria resta un problema rilevante che obbliga gli Stati membri a innalzare i target sulla qualità dell'aria, in linea con le raccomandazioni dell'Organizzazione mondiale della sanità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d306214_19",
+      "politician_name": "SQUERI Luca",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, signor Ministro. Condivido il contenuto della sua risposta dove si fa evidenza di portare alla ragione i necessari equilibri tra il mantenimento degli obiettivi ambientali con il tessuto economico e sociale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "306214",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica . Grazie Presidente, come evidenziato dagli onorevoli interroganti, l'aggiornamento del Piano nazionale integrato energia e clima è un passaggio fondamentale per delineare la politica energetica e ambientale del nostro Paese, nell'obiettivo della decarbonizzazione nel medio e lungo periodo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie Presidente, ringrazio il Ministro per la sua risposta esaustiva e precisa, anche rispetto alle tempistiche sul Piano nazionale integrato per l'energia e il clima. Noi siamo a fianco del Ministro, a fianco del Governo Meloni per quanto riguarda questo tema: raggiungere gli obiettivi prefissati dall'Europa, però con un'attenzione precisa, a cui ha fatto riferimento l'onorevole Semenzato. Per noi è fondamentale che ci sia sicuramente sostenibilità e attenzione all'ambiente, ma è fondamentale lo sviluppo e l'economia perché siamo sempre convinti che bisogna intervenire in difesa dell'ambiente, ma il lavoro va valorizzato e tutelato altrettanto. Crediamo sia importante che siano realizzati tutti i piani sui quali l'Europa ci indirizza, però non siamo per lo svuotamento del sistema produttivo, non siamo per creare disoccupazione e non siamo per creare povertà. Crediamo che lo sviluppo sia assolutamente compatibile con la sostenibilità. Questa è la vera sfida che abbiamo davanti su cui sappiamo che il Ministro sta lavorando con grande impegno. Noi, come Moderati, abbiamo depositato una proposta di legge, la n. 1082 sulla protezione del clima, il cui contenuto lo stiamo condividendo anche con l'Intergruppo sullo sviluppo sostenibile, con la quale pensiamo di poter dare un aiuto, un contributo al Governo, affiancarlo in quest'opera, che è una sfida importante, che solo noi, senza posizioni ideologiche, possiamo realizzare (Applausi dei deputati del gruppo Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie Presidente, egregio Ministro, siamo qui ancora una volta come Partito Democratico a chiederle tempi e chiarimenti rispetto al destino delle comunità energetiche. Questo pilastro per la decarbonizzazione, una decarbonizzazione dentro un percorso comunitario che tutti condividiamo e che il Paese sta aspettando con grande interesse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d303089_19",
+      "politician_name": "PICHETTO FRATIN Gilberto",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Ambiente e della sicurezza energetica. Grazie, Presidente. Ringrazio gli interroganti. Riguardo alle questioni poste, in primo luogo voglio ribadire che lo schema di decreto concernente l'incentivazione delle configurazioni di autoconsumo è stato condiviso con gli uffici della Commissione durante tutta la fase di prenotifica, già quindi dallo scorso febbraio, come citato dall'interrogante, a cui è seguita tutta la procedura di notifica formale, finito il contraddittorio anche con quelli che possono essere i percorsi di modifica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "303089",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Grazie, Ministro. Noi non ci riteniamo per niente soddisfatti della sua risposta. Dopo aver presentato diverse interrogazioni e aver fatto anche altri question time in Commissione, ci ritroviamo, ancora oggi, in un periodo ormai anche molto limitato per l'espletamento di alcuni documenti che serviranno sicuramente a salvaguardare e, soprattutto, a incentivare l'uso dell'energia rinnovabile nel nostro Paese. E ci ritroviamo ancora a non avere un testo chiaro che ci possa indicare quale sia l'idea del Governo in questo contesto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 78, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 123
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-06-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Ho chiesto di intervenire per ricordare la morte di una persona di cui, purtroppo, ci si è accorti tardi: un clochard a Pomigliano d'Arco che, l'altro giorno, per l'ennesima volta, da quanto dicono le persone che hanno avuto modo di conoscerlo, si chiamava Frederick, è stato pestato a sangue, e sembrerebbe, dalle ultime notizie che stiamo leggendo dalle agenzie, da un gruppo di bulli, di ragazzini che già in passato l'avevano picchiato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0123",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 123
+      }
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0140",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-07-17",
+    "title": "Assemblea — Seduta n. 140 del 2023-07-17",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 140
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 70, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe e onorevoli colleghi, chiedo di intervenire, a nome del gruppo Partito Democratico-Italia Democratica e Progressista, sull'ordine dei lavori, per chiedere al Governo e al Ministro Salvini un'informativa urgente per l'emergenza trasporti che stiamo vivendo in queste ore. C'è una serie di ritardi, di disservizi e anche assenza di comunicazione circa i problemi. Sicuramente la punta dell' iceberg è l'incendio all'aeroporto di Catania, ma abbiamo rallentamenti, sia dal Nord che dal Sud, su tutte le dorsali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Come avrete sentito addosso, come avrete letto su tutti i giornali e come stiamo vivendo ormai da settimane, in questi giorni l'Italia sta vivendo un'ondata di caldo da record. È stato il giugno più caldo mai registrato e la prima settimana di luglio è stata quella con le temperature medie globali più alte, da quando lo registriamo con strumenti di precisione. Di sicuro batteremo altri record. Se abbiamo vissuto, lo scorso anno, l'estate più calda di sempre, rischiamo di essere nell'estate più fresca rispetto ai prossimi anni. Già, perché nelle prossime ore le temperature saliranno fino a 40 gradi, 41, 42, si ipotizza addirittura di arrivare a 48. In questi giorni si parla di tempesta di caldo: l'espressione rende bene l'idea di questa “iper-estate”, come l'hanno chiamata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1183-A: Conversione in legge, con modificazioni, del decreto-legge 29 maggio 2023, n. 57, recante misure urgenti per gli enti territoriali, nonché per garantire la tempestiva attuazione del Piano nazionale di ripresa e resilienza e per il settore energetico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307902_19",
+      "politician_name": "STEGER Dieter",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Colleghe e colleghi, l'introduzione, con questo provvedimento, di nuove norme relative a impianti di rigassificazione nel contempo semplificano e rendono più efficienti poteri e procedure di autorizzazione e appaiono condivisibili, al fine di aumentare la nostra capacità di rigassificazione e di diversificare le fonti di approvvigionamento del gas ai fini della sicurezza energetica nazionale. Non siamo di fronte a micro-decisioni ma a decisioni che, in materia di energia, concorrono a politiche energetiche di sistema; la medesima scelta che l'Unione europea ha dovuto compiere ai fini della propria autosufficienza energetica rispetto alle importazioni di gas russo. La crisi è europea ma ha effetti più complessi per la nostra autonomia energetica. Ciò è vero per quel che riguarda le disposizioni ai fini di una transizione sostenibile e il ruolo delle comunità energetiche e, in primo piano, dunque, l'implementazione, nei territori, delle misure relative ad autonomia ed efficienza del nostro approvvigionamento energetico. Le ulteriori misure contenute nel decreto appaiono coerenti con tale strategia, attribuendo nuova capacità di rigassificazione nazionale e qualificando come opere di pubblica utilità, indifferibili e urgenti, quelle a ciò finalizzate mediante unità galleggianti di stoccaggio e rigassificazione. Ritenere e definire tali impianti come strategici, indifferibili e urgenti è stata già opera del Governo Draghi, con il decreto-legge n. 50 del 2022. Alcune considerazioni riteniamo debbano esservi in ordine alle misure che erano contenute nel testo iniziale del decreto e che sono state espunte, per essere inserite in un altro provvedimento del Senato. Nel merito sono importanti, a nostro giudizio, sia le norme relative al ripiano del disavanzo delle regioni nella fase post pandemia COVID sia la semplificazione introdotta ai fini del PNRR, con l'eliminazione dell'obbligo di notifica alla Commissione europea per la relativa autorizzazione in ordine alla costruzione degli studentati, al pari della previsione, che condividiamo, di un fondo apposito per la costruzione di studentati privati. Aumentare la capacità e i parametri di sicurezza relativi al nostro approvvigionamento energetico è stato e rimane un tema strategico in Italia e nell'Unione europea, dal quale dunque dipendono l'entità e la qualità delle opzioni possibili. È materia che richiede di opporsi a valutazioni pregiudiziali e ideologiche per determinare scelte di indirizzo che siano economicamente e socialmente sostenibili. L'interrogativo che dobbiamo porci è se l'obiettivo nella transizione energetica debba essere sostenuto attraverso il consenso oppure se debba essere soggetto a una visione radicale che prescinda o, ipotesi ancor più grave, sia in contrapposizione ad ogni valutazione dei costi economici a carico di imprese, comunità territoriali e cittadini. Da una parte, sarà necessario porre in relazione obiettivi e loro sostenibilità mentre, dall'altra parte, in realtà non vi sarà alcuna transizione perché concepita sulla base di una visione ideologica, con relative rendite di posizione attraverso vincoli, divieti e contrapposizioni che avrebbero un elevato costo sociale ed economico. Nel breve e medio periodo determinerebbero gravi disuguaglianze sociali, accrescendo i margini di rischio, al punto tale da porre fuori mercato imprese e filiere produttive. Condividiamo il rafforzamento del bonus sociale ed elettrico e, dunque, le misure relative al sostegno delle famiglie e delle imprese in ordine ai costi elevati delle tariffe elettriche, che nel provvedimento sono relative al terzo trimestre del 2023 e che riteniamo, in un ulteriore provvedimento, debbano essere prorogate per il trimestre successivo. Altrettanto positiva è la riduzione dell'aliquota IVA al 5 per cento per le somministrazioni di gas metano, per lo stesso trimestre. La continuità fra il Governo Draghi e l'attuale conferma l'esigenza di concorrere a diminuire i costi congiunturali del caro energia, che hanno avuto un peso prevalente nell'aumento dell'inflazione e dei prezzi nell'eurozona.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307902",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente. Onorevoli colleghi, signor Sottosegretario, alla base di ogni comunità c'è l'obiettivo del bene comune e ciò che tiene assieme un gruppo di persone è ciò che perseguono le istituzioni ad ogni livello. Quando questa comunità è lo Stato, il bene comune diventa interesse nazionale ed è in funzione dell'interesse nazionale che in primis tutte le istituzioni e la politica devono lavorare. C'è però una politica fatta di rinvii e indecisionismo, di problemi nascosti e spostati sempre un po' più in là, nel tempo o nello spazio, una politica che incentiva disagi e insicurezze invece di dare risposte, una politica che cavalca i movimenti NIMBY, not in my backyard , non nel mio giardino, e li trasforma nel peggiore degli acronimi, NIMTO, not in my terms of office . NIMBY e NIMTO: il risultato dei due fenomeni è più o meno lo stesso, un nulla di fatto, un passo verso un minor progresso, un problema irrisolto, anche se la natura dei due fenomeni è completamente diversa. Il primo nasce dai cittadini, il secondo invece si traduce in “non durante il mio mandato”. Si tratta del fenomeno che caratterizza quei politici-amministratori che, pur consapevoli che un'opera sia la soluzione a un determinato problema, la rinviano a un momento successivo al proprio mandato, per non avere l'impatto sul proprio consenso elettorale. Il risultato è il continuo procrastinarsi di progetti, infrastrutture e opere pubbliche essenziali. Non è un buon amministratore chi si comporta così, chi tiene più al proprio destino politico che a quello del territorio che governa o del proprio Paese. Non è un buon amministratore chi non decide, pur di non scontentare nessuno e finendo per scontentare tutti, perché alla fine i nodi al pettine vengono. I momenti di crisi sono proprio quelli in cui emergono in tutta la loro drammaticità le lacune di una scarsa amministrazione: servizi al cittadino inefficienti o disorganizzati o inadeguati, infrastrutture carenti o insufficienti. La crisi energetica ha mostrato i punti di debolezza della rete energetica ereditata, mancanze che ci hanno impedito di affrontare in maniera più efficiente la riduzione degli approvvigionamenti, mancanze che si sono abbattute sulle spalle di cittadini e imprese. Se il nostro sistema di infrastrutture energetiche fosse stato più solido e più articolato, saremmo stati più resilienti alla crisi, avremmo fronteggiato meglio lo stop al gas russo, non avremmo sperimentato il rialzo dei prezzi e la speculazione finanziaria che ha scatenato anche l'inflazione di cui ancora stiamo sentendo gli effetti. Si può ragionare col senno di poi? Sì, a volte sì. La crisi energetica, infatti, ha evidenziato le mancanze ma anche i punti di forza, ha posto i riflettori su quelle opere che hanno faticato a vedere la luce per dubbi o opposizioni, per fenomeni che ne hanno rischiato il blocco. Penso al TAP, che ci ha consentito, in tempi piuttosto rapidi, di ricontrattare le forniture di gas a zero per sopperire al fabbisogno energetico nazionale. Se quell'opera non ci fosse stata, come qualcuno avrebbe voluto, oggi staremmo parlando in una condizione di crisi economica gravissima. Avremmo non solo subito i rincari in maniera moltiplicata esponenzialmente, ma avremmo anche creato sfiducia sui mercati finanziari. Per famiglie e imprese sarebbe stato un disastro. Avremmo, come sempre, pagato il prezzo più alto e magra sarebbe stata la soddisfazione di sentir dire: “Ah, se avessimo avuto il TAP!”. Potrebbero sembrare discorsi superati dagli eventi. Le fonti fossili troveranno sempre minor spazio nel mix energetico nazionale, a favore delle fonti rinnovabili. Qui si inserisce uno dei più grandi misunderstanding degli ultimi tempi, quello secondo cui alimentare il sistema con energia solare o eolica sia qualcosa di naturale, privo di impatto ambientale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Signor Presidente, signor rappresentante del Governo, colleghe e colleghi, non possiamo fare questa discussione, facendo finta che non viviamo in questo Paese, facendo finta che non viviamo questi giorni così assurdamente caldi, nel nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d306064_19",
+      "politician_name": "SOTTANELLI Giulio Cesare",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Signor Sottosegretario, egregi colleghi, il gruppo di Azione-Italia Viva non voterà la richiesta di fiducia del Governo sul decreto-legge n. 57. Non la voterà, perché è l'ennesima fiducia; in quest'Aula è la diciassettesima fiducia. È un record storico. Se si va indietro, rispetto agli altri Governi, questo è certamente il Governo che, in questi 8 mesi, ha posto maggiormente la questione di fiducia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "306064",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d306064_19",
+      "politician_name": "SOTTANELLI Giulio Cesare",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Non fissa, cioè, obiettivi su alcuni temi, in particolar modo sull'energia, con una visione completa in un progetto di legge di riordino complessivo. Questo è il modo con cui ci auguriamo che in futuro questo Governo possa andare avanti e questo Parlamento possa esplicitare nel migliore dei modi le proprie funzioni. Per questo motivo il gruppo Azione-Italia Viva non voterà la fiducia al Governo Meloni (Applausi dei deputati del gruppo Azione-Italia Viva-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "306064",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307496_19",
+      "politician_name": "PELLA Roberto",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente Fontana. Sottosegretario, colleghi deputati, il decreto-legge sul quale ci apprestiamo a votare la questione di fiducia posta dal Governo è indubbiamente di grande rilevanza. Direi quasi che lo potremmo considerare un provvedimento strategico perché, con i suoi pochi articoli, interviene in materia di energia, cioè uno di quei macrosettori in cui si gioca il futuro economico, industriale e anche sociale degli Stati più industrializzati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307496",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghe, colleghi, siamo di fronte, per l'ennesima volta, a quello che vorrei definire l'abuso della decretazione d'urgenza, in una sorta di vera e propria squalifica, di vero svilimento di quest'Aula, una squalifica del Parlamento mai vista con questa intensità. Trenta decreti-legge governativi, 17 fiducie in questa Camera: se siamo passacarte, ditecelo, almeno risparmiamo una parte delle nostre energie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308890_19",
+      "politician_name": "BARABOTTI Andrea",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Governo, onorevoli colleghe e colleghi, noi tutti sappiamo che la recente crisi energetica ha messo in difficoltà e ha reso manifesta la vulnerabilità dell'Italia, delle nostre imprese e delle nostre famiglie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308890",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307481_19",
+      "politician_name": "MANCINI Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente, colleghe e colleghi, esponenti del Governo. Prima di entrare nel merito della materia di questo decreto, mi consenta, Presidente, di sottolineare un fatto. Nelle ultime settimane c'eravamo abituati troppo bene: abbiamo avuto due settimane senza voti di fiducia, abbiamo ritrovato la possibilità di discutere in Parlamento, abbiamo persino votato degli emendamenti. Certo, come per gli emendamenti a questo decreto in Commissione, anche in Aula, quando si è votato, il Governo non ha mai interloquito con serietà con l'opposizione, neanche quando c'erano emendamenti di buonsenso, che molti esponenti della maggioranza avrebbero potuto accogliere. D'altra parte, Presidente, come abbiamo appena sentito evocare dall'intervento del collega della Lega, c'è l'idea che questo Parlamento debba solo ratificare le scelte del Governo, come se fosse un Governo investito dal mandato popolare, e invece siamo, restiamo e resteremo dentro una democrazia parlamentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307481",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308887_19",
+      "politician_name": "MICHELOTTI Francesco",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, rappresentanti del Governo, la conversione in legge di questo decreto è certamente un atto molto significativo. Al centro del provvedimento chiaramente c'è l'interesse nazionale, il raggiungimento dell'indipendenza energetica del Paese e il proseguimento di una politica che sta dando i suoi frutti sulla diversificazione dell'approvvigionamento delle diverse fonti energetiche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308887",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d306160_19",
+      "politician_name": "BOSCHI Maria Elena",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Proprio il 17 luglio di 25 anni fa veniva approvato lo Statuto che dava vita alla Corte penale internazionale e questo avveniva a Roma e non è forse un caso che avvenisse nella culla dello ius universalis , dove, con il diritto romano, si è dato poi vita anche al diritto internazionale moderno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "306160",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308909_19",
+      "politician_name": "ANTONIOZZI Alfredo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, onorevoli colleghi, è opportuno questo giorno di ricordo del venticinquennale della fondazione della Corte penale internazionale, perché quest'organismo non ha vissuto giorni semplici nella sua costituzione. Ricordiamo che fu costituito 25 anni fa ma che poi, effettivamente, ci vollero alcuni anni prima che prendesse realmente le sue funzioni, perché anche alcune grandi democrazie occidentali tardarono e altre, invece, non aderirono mai.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308909",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d306189_19",
+      "politician_name": "QUARTAPELLE PROCOPIO Lia",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Nella mappa della geografia del nostro secolo ci sono alcune località che abbiamo imparato a conoscere bene, purtroppo: Bucha, Srebrenica, Ghuta, il Darfur, la regione del Kivu. Sono solo alcuni dei luoghi della Terra dove, negli ultimi 30 anni, sono stati compiuti crimini orrendi, crimini di guerra, crimini contro l'umanità. A Bucha, dopo la sua liberazione, si è scoperto che 458 civili erano stati uccisi, con esecuzioni mirate contro persone che non facevano parte di alcun esercito. A Srebrenica, nel luglio di 30 anni, fa si scoprì che 8.732 cittadini musulmani erano stati trucidati dalle milizie del generale Mladić che poi è stato effettivamente processato. A Ghuta, nell'agosto del 2013, si sono contati probabilmente 1.500, forse 1.700 morti gasati dall'uso indiscriminato del gas da parte del Presidente siriano Assad contro la popolazione civile del suo stesso Paese. I massacri in Darfur, nella regione del Congo del Kivu sono molto meno noti e il numero delle vittime è molto meno preciso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "306189",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307689_19",
+      "politician_name": "BISA Ingrid",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Il 17 luglio del 1998 nel Palazzo FAO a Roma fu istituita la Corte penale internazionale e quest'anno ricordiamo il venticinquesimo anniversario. I lavori iniziarono un mese prima, ossia il 15 giugno 1998, e proseguirono anche con alcune difficoltà, in particolare nella seconda parte dello Statuto, ove erano individuate le nozioni di crimini perseguibili e le regole generali di giurisdizione della Corte. Lo Statuto non entrò in vigore subito a livello internazionale, ma solo il 1° luglio 2002 vennero raggiunte le ratifiche degli Stati necessari e da allora la Corte penale internazionale è entrata in attività.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307689",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307689_19",
+      "politician_name": "BISA Ingrid",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Si auspica, dunque, che in qualsiasi corte di giustizia e in qualsiasi grado ci si trovi venga sempre, in modo rigoroso e terzo, applicata, nella sua oggettività, la norma di riferimento (Applausi dei deputati del gruppo Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307689",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307722_19",
+      "politician_name": "SCUTELLA' Elisa",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Venticinque anni fa, qui, a Roma, a poca distanza dal palazzo che ospita quest'Aula, è stata scritta un'importante pagina per quanto riguarda la tutela e la difesa dei diritti umani, il rafforzamento della democrazia a livello sovranazionale e della dimensione pubblica internazionale. Sono passati, infatti, 25 anni dal 17 luglio 1998, data della firma dello Statuto di Roma della Corte penale internazionale, attivata nel 2002, dopo la ratifica da parte di 60 firmatari. Oggi, la Corte penale internazionale conta 132 Stati membri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307722",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. La Corte penale internazionale è un'istituzione, com'è stato già ricordato, pensata e voluta dalla comunità internazionale sin dal 1948, quando l'Assemblea generale dell'ONU, nella Convenzione per la prevenzione e la punizione dei crimini di genocidio, aveva previsto la possibilità per gli Stati di deferire i giudizi sui crimini di genocidio a un tribunale internazionale appositamente costituito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Un anniversario è sempre un momento di riflessione, non solo sul passato, ma anche sul futuro, su quei passi ancora da compiere per realizzare il sogno di un Pianeta in cui le diverse società possano prosperare nella pace e nel rispetto dei diritti umani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d301439_19",
+      "politician_name": "CESA Lorenzo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Colleghe e colleghi, voglio ringraziare il collega Giachetti, che ha voluto fortemente che oggi celebratissimo qui, in quest'Aula, il venticinquesimo anniversario dell'istituzione della Corte penale internazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "301439",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307436_19",
+      "politician_name": "MAGI Riccardo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. In occasione di questo importante anniversario mi sia consentito innanzitutto ricordare in quest'Aula alcune delle persone artefici di una conquista che, ai suoi albori, era considerata un miraggio, un'idea di pochi e velleitari visionari che avevano in testa di rivoluzionare il concetto di giustizia internazionale e di porre fine all'impunità di fronte a gravi crimini universali. Alcuni non sono più tra noi, Cherif Bassiouni, Marco Pannella, Giovanni Conso. Se la Conferenza istitutiva si tenne a Roma nel 1998 si deve a loro e agli ex Premier Giuliano Amato e Lamberto Dini ma, soprattutto, a Emma Bonino che, nella sua veste di Commissario europeo, fu la vera forza motrice dietro all'intero processo, non solo per quanto riguarda l'intenso lavoro che portò alla Conferenza di Roma, passando per l'esperienza fondamentale dei tribunali ad hoc per l'ex Jugoslavia e il Ruanda, ma anche nella fase successiva delle campagne di ratifica dello Statuto, assieme all'associazione Radicale “Non c'è pace senza giustizia”, come è già stato ricordato, e ringrazio i colleghi che lo hanno fatto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307436",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 70, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Sull'ordine del giorno n. 9/1183-A/1 Ascani il parere è favorevole con la seguente riformulazione: premettere all'impegno le parole “a valutare l'opportunità di”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Sull'ordine del giorno n. 9/1183-A/23 Curti il parere è favorevole con la seguente riformulazione dell'impegno: “a proseguire la realizzazione degli obiettivi di decarbonizzazione del sistema energetico nazionale secondo gli accordi internazionali ed europei e realizzare capacità di rigassificazione ai fini del perseguimento della sicurezza energetica nazionale”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Sottosegretario, coscienti che oggi è il suo compleanno (Applausi) , dovrebbe però fare un regalo, lei, all'Assemblea, rileggendo la riformulazione dell'ordine del giorno n. 9/1183-A/4 Roggiani. È un regalo che lei fa all'Assemblea (Applausi) . Siccome dalla riformulazione dell'ordine del giorno n. 9/1183-A/4 Roggiani discendono varie altre riformulazioni, così la abbiamo chiara e lo colleghiamo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . “Valutare la possibilità di consentire agli enti locali, nel rispetto della normativa sulla privacy e senza ulteriori oneri per i gestori di rete, di avere informazioni utili per promuovere la costituzione di comunità energetiche nel proprio territorio”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Quindi la sua proposta, Sottosegretario Barbaro, era di riformulare l'ordine del giorno n. 9/1183-A/6 Alfonso Colucci come l'ordine del giorno n. 9/1183-A/4 Roggiani. Mentre sull'ordine del giorno n. 9/1183-A/5 Steger come cammina?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Ordine del giorno n. 9/1183-A/5 Steger, parere favorevole con riformulazione: il primo impegno è da riformulare esattamente come nell'ordine del giorno n. 9/1183-A/4 Roggiani, mentre vi è parere contrario sul secondo e terzo impegno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Avevamo instaurato una prassi molto utile, che era quella di numerare i paragrafi delle premesse. Sarebbe utile per il futuro che questo avvenisse. So che avveniva per le mozioni...",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Va bene. Passiamo alle votazioni. Ordine del giorno n. 9/1183-A/1 Ascani. Si accetta la riformulazione dell'ordine del giorno? Colleghi del Partito Democratico, mi date un cenno per favore? Non mi date cenno? Va bene.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo su quest'ordine del giorno sulle compensazioni che riguardano tutto il sistema dei rapporti e delle relazioni con i comuni e, soprattutto, con i cittadini. Sostanzialmente, oggi, in alcune regioni, si è assicurata comunque la possibilità dei rigassificatori. In questo caso, in tutto il Paese, in cui la crisi energetica ha creato un problema enorme, ci sono state regioni, o meglio alcune città, che hanno dato la possibilità a questi rigassificatori di poter operare. C'è una legge, la legge Marzano, in base alla quale la compensazione primaria è legata a una percentuale, l'1 per cento. Noi riteniamo che sia una percentuale molto bassa. Ecco perché chiediamo al Governo di rivedere la sua posizione e di votare quest'ordine del giorno, per portare al 2 per cento la compensazione legata ai rigassificatori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308891_19",
+      "politician_name": "ROGGIANI Silvia",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Non accettando la riformulazione, cerco di spiegare perché. L'ho detto anche in Commissione e lo ripropongo nel dibattito in quest'Aula: nel titolo del decreto si fa riferimento agli “enti territoriali”. Se crediamo davvero che gli enti territoriali vadano coinvolti nel processo di transizione ecologica ed energetica, allora, forse, il tema delle comunità energetiche dovrebbe essere prioritario. Ho ascoltato attentamente la riformulazione che il Governo ha letto per ben due, ovvero di valutare l'opportunità di consentire agli enti locali nel rispetto della privacy e senza alcun onere per i soggetti che si occupano di erogazione e gestione delle reti. Francamente, credo che il compito del Governo sia ben diverso. L'Unione europea ci chiede di favorire le comunità energetiche, che peraltro sarebbero importantissime per tantissime famiglie, persone, case popolari, associazioni ed enti locali, che potrebbero così ridurre notevolmente il costo dell'energia anche per chi oggi fa più fatica a pagare. L'Unione europea si pone l'obiettivo del 20 per cento della produzione di energia proprio tramite le comunità energetiche e, quindi, la produzione, l'autoconsumo e la condivisione di energia. Il Governo è chiamato a dare indicazioni e a mettere nelle condizioni gli enti locali, le associazioni e i singoli cittadini di istituire le comunità ed energetiche, di partecipare agevolmente alle comunità energetiche e, quindi, di avere dei benefici da queste comunità energetiche anche in termini di costo dell'energia. In tutto questo ne avrebbero benefici non solo i singoli cittadini, ma anche il nostro Pianeta, che finalmente, forse, avrebbe la possibilità, con questo Governo, di marciare verso una transizione ecologica, su cui sappiamo non esservi una vera e propria condivisione. Quindi, mi spiace molto questa riformulazione, perché, dal mio punto di vista, denota una scarsissima attenzione ai bisogni degli enti locali e alle condizioni nelle quali gli enti locali stessi dovrebbero essere messi per promuovere davvero le comunità energetiche, che sono una parte di futuro (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308891",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307902_19",
+      "politician_name": "STEGER Dieter",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). No, non posso accettarla, Il tema degli enti locali e territoriali deve essere preso in considerazione seriamente. Io non faccio altro che chiedere al Governo “di valutare l'opportunità” e, quindi, chiederei un ripensamento al Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307902",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, io le chiederei gentilmente una precisazione sul mio ordine del giorno n. 9/1183-A/6 come sull'ordine del giorno n. 9/1183-A/4 . Praticamente cosa è? Il mio ordine del giorno diventa come il n. 9/1183-A/4 Roggiani? La riformulazione riguarda il solo impegno a ) o anche gli impegni b ) e c )?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Alfonso Colucci, scusi se la interrompo, così aiutiamo a fare chiarezza. Prego il Sottosegretario Barbaro di dare lettura della riformulazione dell'ordine del giorno n. 9/1183-A/6 Alfonso Colucci, così evitiamo fraintendimenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Praticamente, anche la premessa del suo ordine del giorno, di fatto, diventa simile alla premessa dell'ordine del giorno n. 9/1183-A/4 Roggiani, per cui il Governo ha espresso parere favorevole alla riformulazione in ordine sia alla premessa sia al dispositivo, con la riformulazione che ho letto poc'anzi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Lei adesso svolge il suo intervento e le sue considerazioni, però, la riformulazione è così come gliel'ha specificata adesso il Sottosegretario Barbaro. Se lei non l'accetta, può svolgere la dichiarazione di voto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). No, non accetto questa riformulazione né l'eclettismo che il Governo manifesta nel riscrivere integralmente gli ordini del giorno, tra l'altro pretermettendo impegni quali l'impegno b) e l'impegno c) che aggiungono ulteriori elementi rispetto a quanto già contenuto nell'ordine del giorno n. 9/1183-A/4 Roggiani, su cui si è votato contro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, ci spiace che quest'ordine del giorno non sia stato accolto, perché chiedevamo semplicemente di ascoltare il Governo su quello che sta facendo, perché qualcosa non è chiaro. A noi pare, infatti, che sia inefficace l'azione del Governo per aiutare le famiglie e per riuscire a ottimizzare i costi dell'energia. Non è stato fatto nulla, anzi, dobbiamo dire che c'è un'ostinazione di questo Governo a non tassare gli extraprofitti. Siete riusciti a raggirare la cosa e continuiamo a stare nello stesso stato di prima.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Espungere tutte le premesse e riformulare l'impegno come segue: “a valutare l'opportunità, compatibilmente con gli equilibri di finanza pubblica, di iniziative finalizzate all'approvazione di un nuovo Piano casa a livello nazionale di medio e lungo termine per garantire a tutti non solo l'accesso a un alloggio adeguato, sicuro e sostenibile ma anche contesti urbani vivibili, attraverso la realizzazione di programmi di rigenerazione urbana e di edilizia sociale e la valorizzazione del patrimonio di edilizia pubblica esistente, nonché ad individuare, compatibilmente con gli equilibri di finanza pubblica, risorse di carattere pluriennale per rifinanziare il Fondo per il sostegno all'affitto e per la morosità incolpevole, per sostenere la locazione da parte di soggetti in condizioni di difficoltà economica”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Volevo sapere, Presidente, se sono cambiate le regole nel frattempo, perché, in pratica, è stato preso il mio ordine del giorno, cancellato, e il Governo ha riscritto un altro ordine del giorno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Do parere contrario all'ordine del giorno del Governo (Applausi dei deputati del gruppo MoVimento 5 Stelle) , favorevole al mio ordine del giorno e chiedo di intervenire sul mio ordine del giorno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ovviamente, semmai ce ne fosse bisogno, questa è l'ennesima dimostrazione che questo Governo e questa maggioranza non hanno un minimo di coraggio. Anzi, dimostrano che, quando c'è da battersi magari nell'interesse dei cittadini, per portare a casa risultati per i cittadini, nell'interesse dei cittadini italiani in difficoltà, abbandonano il fronte. Quindi, altro che patrioti, siete dei patrioti da operetta, quelli della domenica. State mettendo in atto, invece, misure che non rispondono alle esigenze reali del Paese, del Paese reale. Siete impegnati a discutere di riforme strampalate, di riforme che non servono a nulla, inutili, dannose, e proponete, piuttosto, ricette per furbetti ed evasori, o per difendere i privilegiati, o magari per ripristinare dei privilegi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, poi un altro esempio, altro cavallo di battaglia della Lega e di Fratelli d'Italia, il taglio delle accise. È notizia di oggi che il prezzo alla pompa, il prezzo al servito della benzina è arrivato a 2 euro. Complimenti anche per quest'altro grandissimo risultato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Andiamo, andiamo, Presidente. In questo decreto, in pratica, non ci sono misure adeguate per sostenere le famiglie e le imprese contro il caro energia. Sono mesi che le famiglie, gli imprenditori e le coppie chiedono aiuto al Governo, non riescono più a sostenere le rate dei mutui, dei prestiti, e voi puntualmente non fate nulla su tutto questo. È da marzo che il MoVimento 5 Stelle propone soluzioni. Per esempio, sui mutui c'è una proposta del nostro capogruppo, Francesco Silvestri, per tassare gli extraprofitti delle banche per dare respiro alle famiglie e alle imprese in difficoltà che non riescono a far fronte al pagamento delle rate dei mutui. Qual è stata la vostra risposta su questa nostra proposta? Nessuna, ovviamente siete muti e non dite nulla su questo. Secondo il Codacons, un mutuo a tasso variabile oggi costa fino a 5.052 euro in più l'anno rispetto al 2021, mentre chi accende un finanziamento a tasso fisso si ritrova a spendere fino a 3.024 euro in più l'anno. Questo è quello che sta succedendo veramente nelle case degli italiani. Dite di essere a favore della natalità, a favore di chi vuole mettere su famiglia, comprare una casa, ma uno come deve fare a comprare una casa, oggi, davanti a questi rialzi? Come deve fare a pensare di progettare un futuro se non gli permettete di costruirsene uno, perché state precarizzando il mondo del lavoro, perché dite “no” al salario minimo, quando invece ci sono 4 milioni e mezzo di lavoratori italiani, che puntualmente ignorate, che non arrivano a prendere nemmeno 1.000 euro al mese (Applausi dei deputati del gruppo MoVimento 5 Stelle) . E allora, Presidente, davanti a tutto questo non date alcuna risposta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie a questi extraprofitti, a questa tassazione, magari potremmo rimpinguare quei fondi che voi avete azzerato in legge di bilancio e avere le risorse a disposizione per aiutare gli italiani in difficoltà e i nostri giovani che vogliono costruirsi un futuro. Così si può fare veramente l'interesse dei cittadini, però, come diceva qualcuno, il coraggio uno, se non ce l'ha, non se lo può dare (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Non sono sorpreso di questo parere contrario, ma, nella sostanza, a cosa invitava il Governo l'impegno di quest'ordine del giorno? Lo invitava a dare una priorità di valutazione nelle procedure autorizzative dei progetti di impianti da fonti rinnovabili. Credo che ciò che è risultato indigesto al Governo sia probabilmente l'ultima riga, ossia dove si prevede la frase “escludendo gli impianti fossili”. Attenzione, l'intesa era di escludere dalla priorità di valutazione. Perché abbiamo pensato a una necessità di questo tipo? Innanzitutto, perché è già previsto dalla norma, dalla legge. Il decreto-legge n. 77 del 2021 introduce una semplificazione proprio per favorire l'istruttoria, parlo, nello specifico, di autorizzazione ambientale. Ma, soprattutto, perché da fonti autorevoli veniamo a sapere, e lo ricordiamo all'Aula e a noi stessi, che ci sono ben 780 grandi progetti in attesa dell'approvazione, ossia ci sono 32,8 gigawatt di potenza di impianti che attendono di essere autorizzati. Noi stiamo qui a occupare il tempo del Parlamento per discutere di un rigassificatore che svolgerà poi le sue funzioni anche per produrre energia elettrica, quando avremmo 32,8 gigawatt pronti per essere posti a dimora, ma non possono essere posti a dimora e resi effettivi perché manca l'autorizzazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Voglio intervenire su quest'ordine del giorno e anche sugli ordini del giorno legati alle comunità energetiche, giusto per sottolineare un punto. Innanzitutto, come ha detto il mio collega Cappelletti, è evidente che a voi il carbone piace e ogni volta che si parla di limitare il carbone vi spaventate. Insomma, il carbone piace a voi e alla Befana: siete gli unici due a cui piace il carbone, in questo mondo (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Assolutamente sì, sarò velocissima. Qui riprendiamo il solito discorso, chiaramente, di andare incontro alle famiglie per questo caro energia e, quindi, di recuperare risorse. In precedenza, si è parlato degli extraprofitti, ma c'è un altro modo per recuperare risorse, cioè i sussidi ambientalmente dannosi. Vogliamo dire ai cittadini che ogni anno noi spendiamo 21 miliardi di euro per i sussidi ambientalmente dannosi? Allora, se noi parliamo di decarbonizzazione non dobbiamo parlarne a slogan. In questi giorni stiamo ascoltando, sulla nostra pelle, che il cambiamento climatico non è qualcosa di inesistente, ma è qualcosa che esiste. Guardate, hanno registrato una temperatura di 54,4 gradi in California, nella Valle della Morte. In questa settimana ci sono temperature mai esistite: quella temperatura è la prima volta, Presidente, che c'è sulla Terra. Quindi, rendiamoci conto che abbattere e andare contro il cambiamento climatico significa decarbonizzare e significa non dare soldi a chi comunque continua a lavorare sulle fonti fossili. Questi soldi, 21 miliardi, vogliamo metterli sulle famiglie (Applausi dei deputati del gruppo MoVimento 5 Stelle) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con il provvedimento in esame sostanzialmente si implementa la capacità di rigassificazione off shore . Io mi stupisco che non sia stato dato parere favorevole sul mio ordine del giorno, che tengo a esporre. Sostanzialmente, con questo provvedimento, il Governo italiano punta sulle energie fossili e va contro la storia. Marcia velocemente in direzione opposta al futuro e al progresso, perché noi dovremmo puntare su una strategia energetica di lungo periodo, basata sul sistema energetico integrato, fondato su fonti rinnovabili, a impatto climatico nullo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Signor Presidente, non l'accetto e, brevemente, spiego perché. Faccio una domanda al Sottosegretario Barbaro: il Ministero dell'Ambiente parla con il Ministero dell'Economia, Sottosegretario Barbaro? Vi parlate? Perché, non più tardi di due mesi fa, il Ministro Giorgetti ha comunicato a quest'Aula che gli accertamenti fiscali non potevano essere fatti e, quindi, non riesco a capire la ragione per la quale lei viene a proporre una riformulazione che dice: “a continuare con gli accertamenti fiscali”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Sostanzialmente, il collega Bonelli non accetta la riformulazione. Devo pregarvi per un attimo di attenzione rafforzata, in quanto, su quest'ordine del giorno, il gruppo del Partito Democratico ha chiesto la votazione per parti separate, nel senso di votare distintamente il primo e il secondo degli impegni del dispositivo e, in caso di approvazione di uno o di entrambi gli impegni, le premesse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Io non comprendo il motivo di questo parere contrario. Togliete le premesse, se preferite, se qualcosa nelle premesse urta la sensibilità del Governo, però non si comprende il parere contrario rispetto agli impegni. Perché? Prendiamo il primo impegno: si chiede di incrementare la produzione di energia da fonti rinnovabili per raggiungere l'obiettivo di 80 gigawatt per il 2030. Questo è quanto è contenuto nel PNIEC, il Piano nazionale integrato per l'energia e il clima, che voi avete inviato a Bruxelles il 30 giugno scorso, l'ha mandato il Ministro Pichetto Fratin che, tra l'altro, poche settimane prima, il 17 maggio, affermava: “Nel nuovo Piano nazionale per l'energia e il clima prevedremo 80 gigawatt di rinnovabili nei prossimi sette-otto anni, per ribaltare la proporzione con le fonti fossili”. Questo è quello che ha detto il Ministro Pichetto Fratin. Quindi, sostanzialmente, o l'avete scritto e non ne siete convinti oppure, come diceva il collega Bonelli poco fa, i Ministeri non parlano tra loro, perché, sostanzialmente, in questo modo andate a sconfessare quanto ha già stabilito, ha scritto, ha definito, ed già stato mandato all'Unione europea, il Ministro Pichetto Fratin. Dunque, davvero l'impressione è questa. Diamo ancora credito rispetto all'ipotesi che non ci sia stato sufficiente dialogo tra i Ministeri: quindi, a questo punto, chiedo al Governo di poterlo accantonare, così, nel frattempo, avete modo di sentire il Ministro Pichetto Fratin per, poi, eventualmente, avere un nuovo parere, perché qui è perfettamente in linea. Anche il secondo impegno, in cui si chiede la digitalizzazione e la semplificazione delle procedure, non credo che possa essere di impedimento. Quindi, chiedo l'accantonamento dell'ordine del giorno, in attesa di qualche minuto, in modo che possiate sentire il Ministro Pichetto Fratin.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Eliminare la quarta premessa. Sul primo impegno, parere favorevole; sul secondo impegno, parere favorevole con la seguente riformulazione: “a intraprendere con immediatezza percorsi autorizzatori più veloci e ferme le regole di trasparenza, utilizzando la digitalizzazione dei processi per efficientare la gestione delle attività attraverso una piattaforma digitale unica per la presentazione e la gestione delle istanze per gli impianti a fonti rinnovabili attraverso modelli unici semplificati”. Sul terzo impegno, parere favorevole con riformulazione, nel senso di premettere le parole: “a valutare l'opportunità di”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Eliminare la quarta e la quinta premessa e sull'impegno si esprime favorevole con la seguente riformulazione: “A tenere informato il Parlamento sugli sviluppi dell'iter dell'aggiornamento del PNIEC, trasmettendo al Parlamento il testo della proposta di aggiornamento del PNIEC al fine del suo coinvolgimento nella stesura definitiva, prima dell'invio formale alla Commissione, previsto entro giugno del 2024”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 140
+      }
+    },
+    {
+      "politician_id": "camera_d302754_19",
+      "politician_name": "BRAGA Chiara",
+      "date": "2023-07-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Non posso accettare la riformulazione del Sottosegretario per un semplice motivo. Intanto per la cancellazione degli ultimi capoversi delle premesse - capisco che sia un problema per il Governo prendere atto di quello che scriviamo, cioè che da quanto abbiamo capito questo PNIEC è del tutto inadeguato a raggiungere gli obiettivi di riduzione delle emissioni in materia di clima ed energia - ma soprattutto perché trovo abbastanza offensivo che il Sottosegretario chieda al Parlamento di accettare una riformulazione in cui si dice di tenerlo informato. Noi saremmo il Parlamento, dovremmo avere diritto di poter discutere di un piano fondamentale per lo sviluppo industriale e per la transizione ecologica del nostro Paese (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Non si tratta soltanto di tenerci informati. Purtroppo, quello l'abbiamo fatto leggendo lo scarno comunicato che è l'unica cosa su questo piano messa a disposizione dal Ministro Pichetto Fratin. Noi chiediamo che il Parlamento sia coinvolto. Lo faccio anche a nome, forse, degli altri gruppi parlamentari che sottovalutano quanto sia importante discutere di questo piano e dare il nostro pieno contributo, con una sessione parlamentare dedicata, a uno degli strumenti più importanti per decidere come vogliamo trasformare la nostra economia per fronteggiare la crisi climatica di cui tanto sentiamo parlare in questi giorni. Di questo stiamo parlando e per questo chiediamo il voto su quest'ordine del giorno (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0140",
+      "metadata": {
+        "id_persona": "302754",
+        "seduta": 140
+      }
+    }
+  ]
+}

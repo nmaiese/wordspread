@@ -1,0 +1,71 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0002",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2022-10-19",
+    "title": "Assemblea — Seduta n. 2 del 2022-10-19",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0002",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 2
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2022-10-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 7, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0002",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 2
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2022-10-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, con distinte lettere pervenute in data 19 ottobre 2022, il presidente del gruppo parlamentare Azione-Italia Viva-Renew Europe ha reso noto che l'assemblea del gruppo ha provveduto, in data 18 ottobre 2022, alle seguenti nomine: vicepresidente e delegato d'Aula: Mauro Del Barba; segretari e delegati d'Aula: Maria Chiara Gadda e Enrico Costa; tesoriere: Giulio Cesare Sottanelli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0002",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 2
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2022-10-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Grazie, Presidente. Lei è Paola, è una donna, è una pallavolista straordinaria ed è italiana. Paola Egonu è un'italiana che sabato, con la nostra nazionale, ha vinto la medaglia di bronzo nel campionato mondiale di pallavolo, sport a diffusione planetaria, dove l'Italia, con le sue nazionali maschili, femminili e giovanili, domina la scena da decenni. Ho avuto l'onore di far parte di quella storia e ho imparato tutto ciò che so dalla pallavolo, prima di tutto ho imparato l'arte, la bellezza e la necessità del passarsi la palla e dell'essere una squadra.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0002",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 2
+      }
+    },
+    {
+      "politician_id": "camera_d307463_19",
+      "politician_name": "LOLLOBRIGIDA Francesco",
+      "date": "2022-10-19",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Intanto voglio congratularmi con tutti gli eletti, lo faccio ufficialmente a nome del gruppo di Fratelli d'Italia. Da oggi credo che l'Ufficio di Presidenza al suo completo potrà iniziare a lavorare. Sento questo intervento che arriva dal maggior partito dell'opposizione rispetto a una grande campionessa italiana, una persona che a nostro avviso non ha alcun colore, salvo quello azzurro della nazionale italiana, l'unica cosa che per noi conta (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0002",
+      "metadata": {
+        "id_persona": "307463",
+        "seduta": 2
+      }
+    }
+  ]
+}

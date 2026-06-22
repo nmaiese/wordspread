@@ -1,0 +1,396 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0048",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-02-02",
+    "title": "Assemblea — Seduta n. 48 del 2023-02-02",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 48
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 72, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308795_19",
+      "politician_name": "RAIMONDO Carmine Fabio",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore per la maggioranza per la IX Commissione . Grazie, Presidente. Onorevoli colleghi, signor sottosegretario, l'Assemblea è chiamata oggi ad esaminare il disegno di legge n. 750-A, di conversione del decreto-legge 2 gennaio 2023, n. 1, recante disposizioni urgenti per la gestione dei flussi migratori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308795",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d307436_19",
+      "politician_name": "MAGI Riccardo",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore di minoranza per la I Commissione. La ringrazio, Presidente. Onorevoli colleghi, con questa relazione di minoranza la componente +Europa del gruppo Misto invita la Camera dei deputati a votare contro la conversione del decreto-legge n. 1 del 2023.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "307436",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore di minoranza per la IX Commissione. Grazie, Presidente. Onorevoli colleghi, rappresentanti del Governo, nel momento in cui il Paese aveva ben altre emergenze, dal caro bolletta all'inflazione, dalla guerra in Ucraina al divario sempre più crescente con il Mezzogiorno, dalla disoccupazione alla dispersione scolastica, il Governo Meloni-Salvini ha autorizzato inopinatamente la decretazione d'urgenza per intervenire nella disciplina del soccorso in mare. Più che di decreto per la gestione dei flussi migratori, dovremmo ribattezzare il provvedimento come decreto Naufragi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice di minoranza per la IX Commissione . Grazie, Presidente. Onorevoli colleghe e colleghi, signor Sottosegretario, avremmo immaginato di trascorrere questi giorni, in queste ore, a parlare di come risolvere i tanti problemi del Paese: il caro energia, il caro bollette, il caro carburanti, la disoccupazione dilagante, il tema del lavoro precario e sottopagato, le tante, troppe morti sul lavoro, la sanità pubblica allo sfascio, la preoccupante dispersione scolastica, l'emergenza abitativa o le condizioni di povertà in cui versano tante e tanti cittadini. Siamo, invece, qui, oggi, ad esaminare il disegno di legge di conversione del decreto-legge n. 1 del 2023, che contiene le norme in materia di transito e sosta nelle acque territoriali delle navi di organizzazioni non governative impegnate nelle operazioni di soccorso in mare. Un testo indigeribile, che trasforma in norma dello Stato e, di fatto, istituzionalizza l'omissione di soccorso in mare, intimidendo le organizzazioni umanitarie, con il risultato di non comportare alcun impatto rilevante sul fenomeno migratorio, ma di produrre solo future, maggiori vittime in mare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308807_19",
+      "politician_name": "CAROPPO Andrea",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevoli colleghi, come capogruppo di Forza Italia in Commissione trasporti, ho seguito l'esame di questo provvedimento nelle Commissioni riunite I e IX. Prima di entrare nel merito tecnico e politico di questo decreto, voglio ringraziare il sottosegretario Molteni, i presidenti Pagano e Deidda, e i relatori, onorevoli Ziello e Raimondo, per l'equilibrio e l'imparzialità con cui hanno svolto il proprio ruolo in tutte queste fasi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308807",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308901_19",
+      "politician_name": "MARINO Maria Stefania",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Cari colleghi, oggi mi sono chiesta come mai, da quando sono qui, questa è la terza volta che sento la necessità di intervenire per ricordare a tutti i diritti umani. Per la terza volta, mi tocca citare la CEDU. Per la quarta, devo ricordare le raccomandazioni delle istituzioni europee di più alto rango. Ho perso il conto di quante volte mi sia toccato intervenire sui miei canali, sui social , su questioni importanti come l'aborto, trattamenti disumani in carcere e diritti umani di altro tipo che puntualmente venivano negati o, peggio, violati da dichiarazioni dei colleghi delle vostre file. Avevo sperato di poter discutere con voi di diritti umani in modo propositivo. Avevo pensato che potessimo avere l'interesse congiunto di riformare il nostro ordinamento, con lo scopo di migliorare la tutela. Invece, sono dovuta intervenire nel tentativo di impedirvi di eliminare diritti già esistenti o per discutere di quanto sia vergognoso pensare che nel 2022 si debba fare marcia indietro su questioni così delicate. Certo, considerato quanto abbiamo sentito in questi giorni in Aula, non abbiamo di che meravigliarci, anche se, devo dire, rimango sempre interdetta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308901",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308805_19",
+      "politician_name": "BALDELLI Antonio",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Illustrissimo signor Presidente, onorevoli colleghi, onorevole membro del Governo, intervengo in quest'Aula provando insieme a voi il forte senso di responsabilità che comporta la gestione del fenomeno immigrazione. Fra i compiti di questa nostra Istituzione vi è sicuramente quello di costruire un orizzonte di tutela e sicurezza per i migranti e anche un orizzonte di accoglienza e speranza per coloro che possiedono i requisiti di rifugiato. Al contempo, sussiste il dovere precipuo di ogni Governo e di ogni parlamentare di garantire la sicurezza della Nazione, il rispetto della legalità e del diritto internazionale, di perseguire gli interessi nazionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308805",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Da bravo ambientalista, ammiro sempre coloro che prendono esempio dalla natura, perché la natura spesso ci è maestra, però vorrei consigliare ai colleghi della maggioranza di non prendere ad esempio lo struzzo, che è quell'animale che, per non vedere la realtà che gli sta intorno, mette la testa sotto terra (Applausi dei deputati dei gruppi Alleanza Verdi e Sinistra e Partito Democratico-Italia Democratica e Progressista) , perché dopo una serie di audizioni importanti - ringrazio i presidenti che ci hanno consentito di ascoltare i veri esperti, i costituzionalisti, le associazioni, tutti coloro che si occupano di questo problema in modo serio, professionale, che ci hanno detto in modo chiaro, evidente, quali sono i limiti di questo decreto, la sua incostituzionalità, la sua chiara volontà di ostacolare il soccorso in mare da parte delle navi delle ONG - è arrivata anche questa mattina una lettera al Ministro Piantedosi della commissaria per i diritti umani del Consiglio d'Europa Dunja Mijatović, che chiede il ritiro del decreto. Non lo chiedono soltanto le associazioni, non lo chiedono soltanto le opposizioni a questo Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Salutiamo parte della meglio gioventù, che sono gli studenti dell'Istituto comprensivo “Virgilio” di Roma, che, oggi, seguono i nostri lavori con i loro docenti. Benvenuti alla Camera dei deputati (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d307718_19",
+      "politician_name": "FURGIUELE Domenico",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Presidente, onorevoli colleghi, signori del Governo, l'obiettivo di questo decreto è quello di muovere un primo passo verso il riordino di un ambito che, negli ultimi anni, evidentemente, non è stato gestito proprio bene. Lo ripeto, è un primo passo, ma pure sostanziale rispetto alla riconquista, secondo il mio avviso, ma non solo il mio, di una certa autorevolezza da parte del nostro Stato. Ciò di fronte a quello che, negli ultimi anni, troppo spesso, ci siamo dovuti abituare a fare, cioè chinare il capo nei confronti di un'Europa che ha parecchio debito di riconoscenza nei confronti della nostra Nazione, anche a causa di certe politiche, se così le vogliamo considerare, totalmente inesistenti su un terreno o, meglio, su un mare nel quale ancora si misura l'autorevolezza degli Stati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "307718",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghi, il decreto in discussione oggi è indicativo di come la maggioranza invece di affrontare problemi complessi, come la gestione dei flussi migratori, insista nel proseguire la sua campagna elettorale, traducendo slogan come “fermiamo i migranti” in leggi confuse. Come questo decreto-legge che viola i diritti umani e il diritto internazionale, tant'è vero che il Consiglio d'Europa ha chiesto al Governo di ritirarlo e di rivederlo, tra l'altro con una missiva che, probabilmente, è arrivata già un mese fa, di cui noi non abbiamo avuto nemmeno notizia in Commissione. È un decreto che rischia di provocare situazioni di pericolo sia per i migranti, che necessitano di soccorso, sia per chi i soccorsi li attua: è questa anche una cosa grave.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente. Onorevoli colleghi, rappresentante del Governo, il tema che affrontiamo oggi, in quest'Aula, richiede serietà e consapevolezza e, soprattutto, richiede che venga sgomberato il campo da alcune ipocrisie; ipocrisie che magari consentono a una parte politica di presentarsi come baluardo della solidarietà e della filantropia, mentre, invece, coprono un mercato di illusioni e di morte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308929_19",
+      "politician_name": "SOUMAHORO Aboubakar",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Onorevole Presidente, onorevoli colleghe e colleghi, onorevoli membri del Governo, nel diario di uno dei nostri connazionali, durante la traversata a bordo di una nave verso il Canada, possiamo leggere queste parole: “Il pane che ci viene distribuito farebbe rabbrividire perfino i cani; esso è fatto di crusca, segale, pepe, semi di lino e mille altre porcherie. La sera ci hanno dato il tè. Figuratevi, un po' d'acqua, sucida e senza zucchero. Nessuno di noi ha potuto accostarla alla bocca. Si guasta il distillatore di bordo; per queste ragioni  non beviamo quell'acqua veramente marcia. È pieno di vermi che, per buona sorte, sono stati trovati in diverse botti che servivano come zavorra nel bastimento”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308929",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308244_19",
+      "politician_name": "BONETTI Elena",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Rappresentante del Governo, colleghe e colleghi, oggi credo che dobbiamo fare un atto di onestà nella discussione generale che stiamo condividendo, riconoscendo che siamo qui, lasciatemelo dire, per un ennesimo atto di cosmesi legislativa, che vuole celare l'incapacità di un Governo che aveva annunciato in campagna elettorale di affrontare un problema sistemico, strutturale, complesso, come quello dell'immigrazione nel nostro Paese e della gestione dell'immigrazione nel nostro Paese, senza essere preparato a farlo a quanto pare; sicuramente si saranno detti pronti, ma di preparazione ne stiamo vedendo ben poca. E io vorrei togliere qualsiasi nota retorica o ideologica anche da questo mio intervento, che ovviamente segnerà una totale distanza dal nostro punto di vista, come gruppo Azione-Italia Viva, rispetto alla proposta oggi in discussione, per stare sulla concretezza dei dati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308244",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie Presidente. Il collega Caroppo ha già indicato le motivazioni che stanno alla base del nostro supporto a questo decreto, un decreto che Forza Italia ha condiviso e che va a toccare alcuni aspetti di una tematica sicuramente più generale e più complessiva, pertanto saranno necessari sicuramente altri atti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308930_19",
+      "politician_name": "SCHLEIN Elly",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, onorevoli colleghe e colleghi, questo è un decreto che si pone chiaramente in violazione del diritto internazionale, della Convenzione SAR, quella rivolta alla ricerca e soccorso in mare, della Convenzione UNCLOS, della Convenzione SOLAS. E non è soltanto l'analisi di molti esperti che ve lo ha segnalato con forza, ma da oggi addirittura il commissario per i diritti umani del Consiglio d'Europa, che vi chiede di fermarvi. Fermatevi, fermatevi perché questa è una norma sbagliata, che, oltre a essere inumana, è anche una norma che rischia di farvi fare ciò che è già successo nel 2012, quando le destre hanno già fatto condannare l'Italia per i respingimenti collettivi. Era la sentenza Hirsi. Questo è un decreto che impedisce o vuole impedire di fare più salvataggi insieme, di operare più situazioni di soccorso in mare, ma, per rispettare questo tipo di decreto, il comandante della nave si troverebbe costretto a violare delle norme di rango superiore, quelle del diritto internazionale, e non lo possiamo permettere. Né il codice della navigazione né le convenzioni che ho citato prevedono alcun limite numerico alle operazioni di salvataggio, anzi, impongono esattamente il contrario, cioè a chi ha notizia di persone in difficoltà di procedere all'assistenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308930",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308927_19",
+      "politician_name": "RUSSO Gaetana",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, membro del Governo, il Consiglio dei Ministri del 28 dicembre 2022 ha approvato un decreto-legge, a prima firma Giorgia Meloni, che introduce disposizioni urgenti per la gestione dei flussi migratori e la semplificazione procedimentale in materia di immigrazione che per noi è di rilevanza strategica, posto che traccia un cambio di passo importante rispetto al decreto n. 130 del 2020 su immigrazione e sicurezza, il cosiddetto decreto Lamorgese al quale, lo si ricorda con forza, Fratelli d'Italia dalla scorsa legislatura si è sempre opposta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308927",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Onorevoli colleghe e colleghi, finalmente è arrivata una parola di verità e di dissenso in questo che possiamo definire mare di bugie  e - lo ribadiamo anche davanti a lei, Presidente Mule' - atti sconsiderati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghi, era logico prevedere che il Governo Meloni, il Governo di destra di questo Paese, assumesse iniziative e adottasse provvedimenti in tema di immigrazione, tema di bandiera, tanto richiamato in campagna elettorale dal “Governo dei pronti”, che sembrava avesse pronte, appunto, le soluzioni adeguate al problema, che già avesse individuato le azioni da intraprendere, a monte e a valle.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d305757_19",
+      "politician_name": "BOLDRINI Laura",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, colleghe e colleghi, sottosegretario Molteni, voi, signori e signore della maggioranza e del Governo, gonfiate il petto e fate anche la voce grossa, mentre ripetete la frase che vi piace di più: la pacchia è finita. Presidente, è la frase che va per la maggiore. Con il vostro arrivo sarebbe finita la pacchia per chi? Per le istituzioni europee, per gli organismi non governativi che in mare salvano la vita ai migranti e per i migranti stessi: per tutte queste categorie sarebbe finita la pacchia. Ma in realtà questo decreto, con tutte le sue crudeltà e con tutto il suo obbrobrio giuridico, è la prova provata del fallimento della politica della destra sull'immigrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "305757",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308931_19",
+      "politician_name": "BAKKALI Ouidad",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, onorevoli colleghe, onorevoli colleghi, membri del Governo, questo decreto lo abbiamo chiamato in più modi, decreto ONG, lo abbiamo chiamato forse più propriamente decreto naufragi. Lo voglio chiamare questa mattina anche decreto sulla manomissione delle parole. In questo decreto-legge la parola assume significati nuovi, se ne logora il senso. E proprio nel suo libro, La nuova manomissione delle parole , Carofiglio ci ricorda che Steiner osserva come le ideologie non producono lingue creative e solo di rado elaborano nuovi termini; molto più spesso saccheggiano e decompongono la lingua della comunità, manipolandola, usandola come arma.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308931",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ci troviamo, oggi, a parlare in quest'Aula di un decreto il cui titolo è molto significativo, molto importante, se letto da solo: “Disposizioni urgenti per la gestione dei flussi migratori”. Ecco, leggendo solo il titolo - oggi, qui, abbiamo avuto in Aula le scuole, i ragazzi, ci lamentiamo spesso che la politica è poco compresa fuori dalle Aule della politica - magari potremmo immaginare che le misure urgenti per la gestione dei flussi migratori debbano essere quelle utili a liberare le persone arrestate, torturate, imprigionate, in tanti luoghi del mondo, ma anche alle porte del nostro Paese, per esempio, in quelli che sono stati definiti i lager della Libia. Misure urgenti per la gestione dei flussi migratori potrebbero essere quelle di dare finalmente la cittadinanza a migliaia e migliaia di bambini, figli di quei flussi migratori che hanno raggiunto il nostro Paese ormai da decenni e quella, sì, che sarebbe una misura urgente. Oppure, potrebbe essere una misura urgente quella di dare un permesso di soggiorno a chi, provenendo da flussi migratori, ha fatto una procedura di regolarizzazione due anni e mezzo fa, lavora nelle nostre case e si prende cura delle persone e ancora non ha un permesso di soggiorno, anche questo potrebbe essere un motivo per una disposizione urgente. Ancora di più, sarebbe una disposizione urgente quella che prevede di salvare le decine di migliaia di persone che muoiono nel Mediterraneo, il nostro mare, il mare che circonda il nostro Paese, che è diventato negli anni il più grande cimitero che noi possiamo vedere: decine di migliaia di uomini, donne e bambini, negli ultimi anni, centinaia di migliaia di persone morte alle porte del nostro Paese, persone partite per cercare una vita migliore, persone che hanno lasciato la propria terra per cercare di andare a vivere in un Paese migliore, come tanti milioni di italiani hanno fatto nel corso degli anni e dei secoli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). No, non l'ho nemmeno ancora citato, però, se addirittura andiamo a citare i santi e i Papi per giustificare il mancato salvataggio in mare, facciamoci qualche domanda. Invece, adesso, visto che c'è questa richiesta, lo ricorderò anch'io un Papa, così possiamo interloquire ( Commenti del Sottosegretario Molteni) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Nel 2013, Papa Francesco - che, Presidente, con grande piacere, ho scoperto, dal giorno del nostro insediamento, essere molto citato in quest'Aula, addirittura tutti i colleghi si sono alzati in piedi, ad un certo punto, quando è stato citato - ha deciso di andare subito a Lampedusa e, a Lampedusa, ha fatto un discorso molto bello, che mi ha colpito molto, di cui vorrei citare alcune righe, perché, secondo me, c'entrano molto con il discorso relativo alla mentalità che noi dobbiamo contrastare con riferimento alla disumanizzazione dei migranti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308780_19",
+      "politician_name": "RICCIARDI Toni",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Sottosegretario, onorevoli colleghe e colleghi, “Quando arrivai, verso sera, l'imbarco degli emigranti era già cominciato da un'ora, e il Galileo (…) continuava a insaccar miseria: una processione interminabile di gente che usciva a gruppi dall'edifizio dirimpetto (…). Operai, contadini, donne con bambini alla mammella, ragazzetti che avevano ancora attaccata al petto la piastrina di latta dell'asilo infantile (…). Dopo di che, la sfilata degli emigranti ricominciava: visi e vestiti d'ogni parte d'Italia, robusti lavoratori dagli occhi tristi, vecchi cenciosi e sporchi, donne gravide, ragazze allegre, giovanotti brilli, villani in maniche di camicia, e ragazzi dietro ragazzi (…)”. Perché ho voluto iniziare con L'imbarco degli emigranti che è l' incipit di un'opera meno famosa del De Amicis del 1889, Sull'Oceano ? Perché credo che noi dobbiamo affrontare un tema che non è tanto legato alla tecnicalità del decreto di cui parliamo, ma è legato a una narrazione culturale che si sta facendo. È testimoniato sa, Presidente, da cosa? Dall'affollamento dei banchi della maggioranza. Noi stiamo raccontando al Paese di un'emergenza, di un'urgenza e non c'è un collega dei partiti di maggioranza seduto nei banchi a difendere una priorità di questo Paese (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308780",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d307143_19",
+      "politician_name": "ZIELLO Edoardo",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore per la maggioranza per la I Commissione . Grazie, Presidente, una replica veramente veloce perché mi sembra giusto - anche per rispetto ai milioni di italiani che si sono imbarcati da questo Paese legalmente e che si sono sottoposti volontariamente ai controlli ferrei, duri e precisi nell'isola di Ellis Island, davanti alla costa di New York - ricordare che gli italiani, quando emigravano, lo facevano legalmente e non in forma clandestina. Ma, a parte questo, si sono dette tante cose su questo decreto; me le sono appuntate per rispetto ai colleghi e alle colleghe di opposizione che hanno compiuto il proprio intervento in questa discussione generale. Si è citato Primo Levi, utilizzandolo e brandendolo come una clava da utilizzare contro questo decreto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "307143",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo sull'ordine dei lavori per ribadire la richiesta, già avanzata ieri dal presidente del gruppo del Partito Democratico-Italia Democratica e Progressista, Debora Serracchiani. Chiediamo al Presidente della Camera di attivarsi affinché il Ministro della Giustizia, Carlo Nordio, torni il prima possibile in quest'Aula per comunicarci con un'informativa l'esito dell'indagine interna sull'uso delle informazioni rivelate dal 31 gennaio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 48
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-02-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, con lettera pervenuta in data 31 gennaio 2023, il presidente del gruppo parlamentare Forza Italia-Berlusconi Presidente-PPE ha reso noto che, in pari data, l'assemblea del medesimo gruppo ha nominato tesoriere il deputato Paolo Emilio Russo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0048",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 48
+      }
+    }
+  ]
+}

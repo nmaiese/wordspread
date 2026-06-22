@@ -1,0 +1,422 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0186",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-10-27",
+    "title": "Assemblea — Seduta n. 186 del 2023-10-27",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 186
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 88, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308791_19",
+      "politician_name": "PIERRO Attilio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Onorevole Sottosegretario, onorevoli colleghi, la proposta di legge Atto Camera n. 752-A all'esame dell'Assemblea è frutto di un approfondito lavoro istruttorio, svolto attraverso la programmazione di un ciclo di audizioni sulla tematica, l'esame delle proposte emendative, l'approfondimento in termini di oneri e coperture ed infine l'esame e il recepimento dei pareri espressi, in sede consultiva, dalle commissioni Affari costituzionali, Giustizia, Bilancio, Finanze, Ambiente, Attività produttive, Lavoro e Politiche dell'Unione europea. La Commissione per le questioni regionali ha deciso di non esprimersi sul provvedimento in esame.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308791",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d302945_19",
+      "politician_name": "BARBARO Claudio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Ambiente e la sicurezza energetica . Grazie, Presidente. Solo una brevissima sottolineatura, in coerenza con quanto già espresso dal relatore, onorevole Pierro. Il provvedimento rappresenta una priorità per l'agricoltura italiana, poiché costituisce uno strumento volto ad agevolare il ricambio generazionale nel settore primario e, in generale, ad avvicinare le nuove generazioni all'imprenditoria agricola.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "302945",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308763_19",
+      "politician_name": "CARLONI Mirco",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Presidente, onorevoli colleghi, è un grande piacere poter discutere in quest'Aula della proposta di legge n. 752, concernente disposizioni per la promozione e lo sviluppo dell'imprenditoria giovanile nel settore agricolo, presentata da me e da altri colleghi il 9 gennaio scorso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308763",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308901_19",
+      "politician_name": "MARINO Maria Stefania",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, membri del Governo, colleghe e colleghi, buongiorno. Oggi, dopo svariati mesi di lavoro, approda in discussione generale la proposta di legge sull'imprenditoria giovanile in agricoltura, proposta che, sin dall'inizio della discussione in Commissione, ha visto il pieno sostegno e la collaborazione del nostro partito e di tutte le forze politiche di opposizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308901",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308811_19",
+      "politician_name": "LA SALANDRA Giandonato",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, Governo, onorevoli colleghi, faccio una piccolissima premessa, anche ascoltando l'intervento della collega della minoranza, che mi sembra abbia limitato il suo intervento esclusivamente a fare opposizione. Esiste una verità assoluta nel contesto normativo che ha impegnato questo Parlamento soprattutto nel settore dell'agricoltura ed è che gli ultimi Governi sono intervenuti su questa materia con interventi a puzzle , molte volte disordinati e ancora più volte disorganici tra di loro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308811",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308901_19",
+      "politician_name": "MARINO Maria Stefania",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Membri del Governo, colleghe e colleghi, è per me un onore e un'emozione poter presentare questa mozione, frutto del lavoro di incontro e confronto con le associazioni che, quotidianamente, si battono per la prevenzione contro il tumore al seno. Il mese di ottobre, come sappiamo, è il mese della prevenzione contro questa forma di tumore che colpisce le donne. La campagna Nastro Rosa è nata come progetto in America nel 1992 ma, nel corso del tempo, si è diffusa in tutto il mondo, tanto che oggi viene promossa in oltre 70 Nazioni. Dal 1° al 31 ottobre, operatori sanitari, istituzioni, ONG e associazioni di tutto il Paese uniscono le forze per sostenere una causa comune, organizzando eventi ed iniziative, per sottolineare l'importanza dello screening per la diagnosi precoce dei tumori al seno. Un'azione necessaria per identificare la malattia nei primi stadi del suo sviluppo, quando il trattamento ha maggiori probabilità di essere efficace.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308901",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308859_19",
+      "politician_name": "MURA Francesco",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, signor Sottosegretario, onorevoli colleghi, la mozione presentata è volta a valorizzare, a potenziare e a migliorare quell'importante campagna di sensibilizzazione che, dal 1992, colora il mese di ottobre di rosa. Ottobre, com'è stato detto anche da chi mi ha preceduto, è il mese della sensibilizzazione sul cancro al seno. Il fiocco rosa è ormai un simbolo riconosciuto e durante questo mese sono promosse azioni per informare e sensibilizzare un sempre maggior numero di donne sull'importanza della prevenzione del cancro al seno e della diagnosi precoce.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308859",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 88, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge n. 1416-A: Conversione in legge, con modificazioni, del decreto-legge 19 settembre 2023, n. 124, recante disposizioni urgenti in materia di politiche di coesione, per il rilancio dell'economia nelle aree del Mezzogiorno del Paese, nonché in materia di immigrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307340_19",
+      "politician_name": "LUCASELLI Ylenja",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie, Presidente. Prima di entrare nel merito del provvedimento che ci occupa, credo che sia, non solo doveroso, ma soprattutto importante ringraziare gli uffici, in particolare gli uffici della Commissione bilancio, che hanno seguito particolare ringraziamento lo rivolgo agli uffici del Ministero, nella persona del responsabile dell'ufficio legislativo del Ministero per gli Affari europei, il Sud, le politiche di coesione e il PNNR, il dottor Mario Capolupo, che ha dedicato un'attenzione particolare a ogni singolo emendamento presentato e che ci ha aiutati a definire un provvedimento importantissimo, che il Ministro Fitto ha voluto fortemente, e lo ha fatto con una visione - mi permetta di dire -, perché credo che la cosa più importante che debba essere sottolineata ed evidenziata è che finalmente, grazie al lavoro che il Ministro Fitto ha svolto soprattutto nei rapporti in Europa, siamo finalmente arrivati a una nuova visione di Sud, che l'Italia aspettava da decenni, una visione di Sud che è stata approfondita, a livello tematico, all'interno del proficuo e approfondito dibattito in Commissione. È stato un incontro-scontro, come spesso accade, di due punti di vista diversi, che però ha portato, anche attraverso il lavoro della Commissione bilancio, ad ampliare alcuni degli articoli presentati anche grazie alle sollecitazioni dell'opposizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307340",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto gli studenti e gli insegnanti del plesso “Patrono d'Italia” dell'Istituto comprensivo di Assisi, in provincia di Perugia, che assistono ai nostri lavori dalle tribune (Applausi) . Benvenuti ragazzi e benvenuti insegnanti, per seguire i lavori pomeridiani della Camera.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi, oggi siamo in sede di conversione del decreto-legge n. 124 del 2023, meglio conosciuto come decreto Sud, un complesso di norme che disciplina i temi più disparati: si va dall'impiego delle risorse nazionali ed europee in materia di coesione alla creazione di una ZES unica per le regioni meridionali, alla materia migratoria. Tutto in un decreto-legge - quindi, materie assolutamente eterogenee - su cui, in sede di conversione, verrà sicuramente posta la fiducia. Un modo di legiferare che è - mi torna l'obbligo dirlo nuovamente - completamente fuori dall'alveo costituzionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308780_19",
+      "politician_name": "RICCIARDI Toni",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Signora sottosegretaria, la prima cosa che mi viene in mente rispetto a questo provvedimento è che, invece di chiamarlo “decreto Sud” e “decreto migrazione”, potevamo chiamarlo “provvedimento delle marginalità”, quantomeno per come alcuni temi vengono percepiti da questo Governo. Sud, aree interne, migrazione: sono tre marginalità che concettualmente noi ritroviamo in questo testo. Ovviamente, non toccherò - lo dico in premessa - la questione delle ZES perché sicuramente verrà ampiamente e in maniera approfondita affrontata dal mio collega De Luca e quindi mi concentrerò, sostanzialmente, su tre punti specifici: aree interne, la vicenda delle isole Lampedusa e Linosa e la questione immigrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308780",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghi, Sottosegretaria Siracusano, oggi arriva all'esame dell'Aula quello che sarebbe più giusto definire non come decreto Sud, ma come decreto contro il Sud. Nel suo primo anno, il Governo targato Meloni-Salvini, ha cancellato una serie di strumenti di sostegno a cittadini, comuni e imprese, che avevano permesso al Mezzogiorno, nel momento più difficile, quello della pandemia, di tenere, in un clima di coesione sociale. Un Governo non contro la povertà, ma contro i poveri, è stato più volte definito dal nostro partito in queste settimane: è quel Governo che ha colpito milioni di percettori del reddito di cittadinanza e, quindi, milioni di disoccupati e di lavoratori sottopagati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307561_19",
+      "politician_name": "DE LUCA Piero",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ci troviamo oggi a discutere e ad avviare la discussione generale di un decreto che, come è stato ricordato dai colleghi che mi hanno preceduto, per l'ennesima volta tradisce gravemente le premesse, indicate, peraltro, nel titolo stesso del provvedimento da parte del Governo. Ancora una volta, come per il decreto Lavoro, il Governo ha emanato all'interno di questo provvedimento una serie di norme gravemente lesive della stabilità, della dignità, della sicurezza dei nostri lavoratori nei luoghi di lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307561",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Signora Sottosegretaria, colleghe e colleghi, il decreto in esame reca disposizioni urgenti in materia di politiche di coesione, per il rilancio dell'economia nelle aree del Mezzogiorno del Paese, nonché in materia di immigrazione. È caratterizzato da un contenuto disorganico ed eterogeneo. Si compone, infatti, di 23 articoli le cui previsioni spaziano dalla crescita e dal consolidamento economico delle aree meridionali del Paese all'attuazione del PNRR, dall'istituzione di un'unica zona economica speciale per il Sud al ricorso a un nuovo piano di assunzioni, dal ricorso ai contratti istituzionali di sviluppo a interventi in favore dei comuni di Lampedusa e Linosa, fino alla gestione dei flussi migratori e all'istituzione dei centri di permanenza per i rimpatri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Hanno cercato di far passare una norma che considerava impianti energetici opere correlate alla difesa nazionale, facendo sì che i lavori per la costruzione di centrali, rigassificatori e gasdotti potessero procedere in totale deroga alle norme urbanistiche ed edilizie, essere presidiati dai militari per la loro realizzazione e sorveglianza. Un vero golpe . Fortunatamente, l'opposizione di colleghe e colleghi - primo fra tutti il nostro Marco Grimaldi - ha fatto sì che questo abominio venisse ritirato e se, in realtà, come diceva la collega Lucaselli si trattava di altro, se l'obiettivo era diverso, l'avreste dovuto scrivere in maniera differente. Presidente, colleghe, colleghi, alla luce delle considerazioni fin qui espresse e di tante altre che potrei fare, come potremmo mai votare a favore di questo provvedimento? Il voto del gruppo dell'Alleanza a Verdi e Sinistra sarà, ovviamente e convintamente, contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il richiamo era legato al fatto che definire fasciste e razziste le politiche della maggioranza non può rientrare in una legittima critica politica, perché evidentemente deborda da quello che è un perimetro di continenza. Quindi, la ringrazio per aver accolto il richiamo (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308918_19",
+      "politician_name": "OTTAVIANI Nicola",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Presidente, l'ultimo intervento, in realtà, fa da sponda a quelli che sono stati gli altri interventi di alcuni, anche autorevoli, esponenti della minoranza - amo sempre definirla minoranza e non opposizione pregiudiziale - rispetto a quello che dovrebbe essere anche il compito degli altri parlamentari qui presenti in aula, perché alcune volte si sottolinea l'assenza, non al dibattito, ma l'assenza come soggetti che dovrebbero ascoltare le prolusioni o le dissertazioni altrui, quando poi ci si assenta nello stesso momento in cui viene fuori quello che è il profilo della dialettica che è confronto rispetto a diverse tesi (non dobbiamo certo andare a scomodare Hegel per ricordarlo a tutti quanti). Se, in questo momento, coloro che additavano addirittura altri parlamentari dell'assenza di alcuni gruppi all'interno dell'Aula sono i primi ad andar via e, soprattutto, a guadagnare il profilo della fuga, forse, si evita di ascoltare l'oggetto effettivo della materia, perché l'oggetto effettivo della materia oggi molto qualificante e qualificata è il Mezzogiorno, è il Sud dell'Italia, con tutti gli altri provvedimenti collegati e che rientrano all'interno del decreto di cui stiamo discutendo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308918",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308859_19",
+      "politician_name": "MURA Francesco",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Intervengo sull'ordine dei lavori perché, a mio parere, la lontananza dai banchi del Governo di una certa parte di questa sinistra sta facendo sì che il loro stesso ragionamento sia un po' annebbiato. Mi riferisco, in modo particolare, all'intervento che ha preceduto questo momento, da parte dell'onorevole Ghirra, con riferimento al quale la ringrazio per essere prontamente intervenuto a censurare un linguaggio evidentemente inopportuno per quest'Aula e anche per questa democrazia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308859",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Come ha avuto modo di sottolineare, la Presidenza ha immediatamente richiamato l'onorevole Ghirra a stare in un recinto, anche dialettico, per il quale non è necessario scomodare il Devoto-Oli per trovare espressioni che fossero consone. Prendo atto del suo richiamo e la Presidenza della Camera, eventualmente, prenderà le sue determinazioni rispetto a quello che lei ha segnalato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308761_19",
+      "politician_name": "PISANO Calogero",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Onorevoli colleghe e colleghi, il testo di cui discutiamo oggi è frutto di un lavoro inestimabile fatto dal Ministro Fitto in Europa e negli incontri con il territorio e la Commissione bilancio, ma anche dai deputati e dalle deputate della Commissione bilancio e dai relatori del provvedimento, tra cui l'onorevole Romano, che ci tengo a ringraziare anche in questa sede.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308761",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Per un richiamo al Regolamento, signor Presidente, articolo 8. Il Presidente rappresenta la Camera e i Vicepresidenti collaborano con il Presidente a rappresentare la Camera. Mi auguro che lei, che rappresenta la Camera tutta, e quindi anche le opposizioni, appena il benvenuto Ministro Ciriani, in modo facilmente prevedibile, porrà la questione di fiducia, mi aspetto, signor Presidente, che lei o il Presidente Fontana difendiate  questa Camera dal pregiudizio alle prerogative della Camera stessa che questa reiterata richiesta di fiducia sui decreti sta arrecando.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Signor Presidente della Camera facente funzioni, mi auguro che lei prenda la parola per dire al gentile Ministro Ciriani che non è più tollerabile, dopo un anno di Governo. Avete il record dei decreti. Non avete ancora il record delle fiducie mensili, che sono 2,5, perché ci sono stati 2 Governi nelle ultime 4 legislature, il Governo Draghi e il Governo Monti, che hanno fatto un po' di più, meglio di voi, peggio di voi in termini di fiducie al mese, ma erano due Governi tecnici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "La ringrazio, onorevole Della Vedova. Come lei sa, la decisione di porre la fiducia sui decreti è decisione del Governo. Il Presidente della Camera, peraltro come lei sa, ha anche pubblicamente preso posizione rispetto alla centralità, da recuperare, del Parlamento. Ad ogni modo, il Presidente ha avuto modo di seguire anche il suo intervento, e quindi ne terrà conto nei modi che riterrà opportuno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d308787_19",
+      "politician_name": "GIORGIANNI Carmen Letizia",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, onorevoli colleghe e colleghi, il mio intervento fa da eco a quello degli altri colleghi e soprattutto a quello del collega Ottaviani per fare chiarezza contro le strumentalizzazioni sentite stamani in quest'Aula sul tema della ZES unica, che è la principale novità del decreto Mezzogiorno. Il suo piano strategico ha la funzione di delineare e attuare la politica industriale e di sviluppo delle regioni del Sud Italia. Il disegno complessivo del decreto-legge Mezzogiorno punta a rafforzare competenze e funzioni per ciò che riguarda investimenti e localizzazioni di imprese, e il rafforzamento consiste appunto nell'introduzione della ZES unica, una nuova zona economica speciale che include il territorio di tutte le regioni meridionali e sostituisce le 8 zone esistenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "308787",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato alla Presidenza del Consiglio dei ministri . La ringrazio, Presidente. Ringrazio i colleghi. Mi ritrovo io, oggi, ad intervenire in questa discussione ricca di contenuti, di critiche e anche di stimoli al posto del Ministro Fitto che avrebbe replicato sicuramente in maniera molto più autorevole di me, che avrebbe voluto fortemente partecipare a questo dibattito, ma non ha potuto farlo a causa di impegni a Bruxelles che gliel'hanno impedito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Grazie, Presidente. Colleghi, onorevoli deputati, a nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 1416-A: “Conversione in legge, con modificazioni, del decreto-legge 19 settembre 2023, n. 124, recante disposizioni urgenti in materia di politiche di coesione, per il rilancio dell'economia nelle aree del Mezzogiorno del Paese, nonché in materia di immigrazione”, nel testo della Commissione, comprensivo dell' errata corrige .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Secondo quanto convenuto nella riunione della Conferenza dei presidenti di gruppo del 25 ottobre scorso, a seguito della posizione della questione di fiducia sull'articolo unico del disegno di legge n. 1416-A: Conversione in legge, con modificazioni, del decreto-legge 19 settembre 2023, n. 124, recante disposizioni urgenti in materia di politiche di coesione, per il rilancio dell'economia nelle aree del Mezzogiorno del Paese, nonché in materia di immigrazione, nel testo della Commissione, comprensivo dell' errata corrige , la votazione per appello nominale avrà luogo nella seduta di lunedì 30 ottobre, a partire dalle ore 13, previe dichiarazioni di voto a partire dalle ore 11,30. Dopo tale votazione, i lavori proseguiranno con l'esame degli ordini del giorno a partire dalle ore 15.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 186
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-10-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che il Presidente del Senato, in data odierna, ha comunicato che il senatore Francesco Silvestro, con lettera del 25 ottobre scorso, ha rassegnato le dimissioni da componente della Commissione parlamentare di inchiesta sul fenomeno delle mafie e sulle altre associazioni criminali, anche straniere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0186",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 186
+      }
+    }
+  ]
+}

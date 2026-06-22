@@ -1,0 +1,71 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0501",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-06-30",
+    "title": "Assemblea — Seduta n. 501 del 2025-06-30",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0501",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 501
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-06-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 88, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0501",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 501
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-06-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge, già approvato dal Senato, n. 2461: Conversione in legge del decreto-legge 12 maggio 2025, n. 68, recante differimento del termine di cui all'articolo 21, comma 2, del decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120, in materia di responsabilità erariale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0501",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 501
+      }
+    },
+    {
+      "politician_id": "camera_d308923_19",
+      "politician_name": "PULCIANI Paolo",
+      "date": "2025-06-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore per la II Commissione. Sì grazie, Presidente. Onorevoli colleghi, l'Assemblea avvia oggi la discussione del disegno di legge di conversione del decreto-legge n. 68 del 2025 recante differimento del termine di cui all'articolo 21, comma 2, del decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120, in materia di responsabilità erariale. Il decreto, che reca un contenuto estremamente puntuale, è stato esaminato dal Senato che lo ha approvato senza apportarvi modifiche e senza voti contrari. Le Commissioni affari costituzionali e giustizia hanno altresì confermato il testo originario, previa acquisizione del parere favorevole della V Commissione (Bilancio) e del parere del Comitato per la legislazione, che non reca alcun rilievo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0501",
+      "metadata": {
+        "id_persona": "308923",
+        "seduta": 501
+      }
+    },
+    {
+      "politician_id": "camera_d308839_19",
+      "politician_name": "PALOMBI Alessandro",
+      "date": "2025-06-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevole Sottosegretario, onorevoli colleghi, il disegno di legge che oggi andremo a discutere, approvato senza modifiche dal Senato della Repubblica in prima lettura, prevede la conversione del decreto-legge 12 maggio 2025, n. 68, il quale proroga al 31 dicembre 2025 il regime temporaneo di limitazione della responsabilità erariale introdotto dall'articolo 2, comma 2, del decreto-legge 16 luglio 2020, n. 76. Il decreto si compone di due articoli e dispone, all'articolo 1, il differimento al 31 dicembre 2025 del termine di cui all'articolo 21, comma 2, del decreto-legge n. 76 del 2020, che aveva introdotto una temporanea deroga al regime della responsabilità erariale, limitandola ai soli casi di danno conseguente alla condotta dolosa del soggetto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0501",
+      "metadata": {
+        "id_persona": "308839",
+        "seduta": 501
+      }
+    }
+  ]
+}

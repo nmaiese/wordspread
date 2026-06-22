@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0464",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-04-09",
+    "title": "Assemblea — Seduta n. 464 del 2025-04-09",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 464
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 107, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della proposta di legge n. 1621-A ​: “Modifiche alla legge 14 gennaio 1994, n. 20, e altre disposizioni nonché delega al Governo in materia di funzioni della Corte dei conti e di responsabilità amministrativa e per danno erariale” e dell'abbinata proposta di legge n. 340 ​.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'articolo 3 del provvedimento in esame introduce una delega al Governo ad adottare decreti attuativi sulla riorganizzazione della Corte dei conti. Noi chiediamo la soppressione di questo articolo, perché assegna al Governo una delega molto estesa, accompagnata da principi e criteri non precisi e chiari, ma estremamente generici. È sostanzialmente una delega politica in bianco al Governo a mettere mano alla riorganizzazione della Corte dei conti. E anche nei criteri che vengono indicati, ravvediamo rischi molto significativi per il funzionamento della Corte dei conti e per il mantenimento della sua autonomia e indipendenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Deputato Gianassi, chiedo scusa, si fermi un secondo, fermiamo anche il tempo. Vediamo un po' se anche oggi dobbiamo fare sei interruzioni per richiamare al silenzio l'Aula, oppure se dobbiamo sopportare questo brusio, che infastidisce lei, infastidisce chi presiede, infastidisce chi vuole ascoltare. È una norma di buonsenso. Non è vietato parlare, basta recarsi altrove per farlo. Quando si sta in Aula, si cerca di seguire i lavori, è persino banale. Colleghi! Prego, prosegua.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Ieri il collega della Lega Candiani ha criticato questa argomentazione che noi abbiamo già utilizzato nella questione pregiudiziale di costituzionalità, sostenendo che il valore unificatore della decisione delle sezioni riunite è un valore positivo; anzi, dobbiamo lavorare perché il diritto sia il meno incerto possibile. Non c'è dubbio che sia così. Però il collega Candiani sa che, in questo criterio di assegnazione al Governo, all'attuazione della delega non c'è scritto solo questo, si va oltre e c'è scritto anche che gli effetti nomofilattici delle pronunce delle sezioni riunite valgono nei confronti dell'attività delle procure della Repubblica. Quindi, stiamo andando oltre la funzione di unificare la giurisprudenza, che è cosa buona e giusta. Si sta travalicando il limite, dicendo che quella funzione si esercita nei confronti dei procuratori, che sono invece parte processuale. È sorprendente che a introdurre questo principio siano coloro che vogliono realizzare la separazione delle carriere in magistratura, sostenendo che il pubblico ministero è parte terza rispetto al giudice e il giudice è parte terza rispetto al pubblico ministero.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Mi riservo in successivi emendamenti di argomentare altri punti. Con questo emendamento, proponiamo la soppressione della delega - lo ripeto - perché pericolosa, generica e, nei criteri individuati, in conflitto con i principi costituzionali (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento vogliamo sopprimere integralmente l'articolo 3, vogliamo sopprimere integralmente questa delega assolutamente in bianco, assolutamente indeterminata con cui sferrate l'ennesimo colpo alle funzioni e all'organizzazione della Corte dei conti. Peccato che poi i conti li pagheranno i cittadini. Perché fate questo? Fate questo, svilendo i presìdi territoriali, svilendo le procure regionali, che chiamate appunto “presìdi territoriali” e che sono gli avamposti e i presìdi di legalità sul territorio, creando un super procuratore generale a cui date sconosciuti e pressanti poteri di indirizzo e di coordinamento, a cui date poteri di avocazione delle istruttorie, a cui date addirittura il dovere di sottoscrivere, a pena di nullità, tutti gli atti più rilevanti e chi debba stabilire quali sono gli atti più rilevanti solo Dio lo sa. Ancora, prevedete una commistione delle corti dei conti sia centrali che regionali, perché i magistrati dovranno svolgere unitariamente tutte le funzioni: le funzioni di controllo, consultive e giurisdizionali, quindi un vero e proprio polpettone informe che non tiene conto delle diverse specializzazioni che comportano le diverse funzioni della Corte dei conti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che il gruppo MoVimento 5 Stelle ha esaurito i tempi previsti dal contingentamento, essendone stata fatta richiesta la Presidenza concederà a tale gruppo un tempo aggiuntivo, pari a un terzo rispetto al tempo originariamente assegnato al gruppo medesimo dal contingentamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento, che è abbastanza corposo, noi intendiamo quantomeno eliminare le storture più gravi, più macroscopiche che porteranno, a nostro avviso, tra l'altro, ad una censura di incostituzionalità rispetto al testo che scrive questa spregiudicata delega. Ora, cosa intendiamo eliminare da questo testo? Innanzitutto, intendiamo riportare a quella che è l'articolazione territoriale originaria, attuale, della Corte dei Conti, parlando nuovamente di sezioni regionali e non di presidi territoriali, anche perché questa sarà una delega in bianco in vostro favore e non sappiamo come intendete ridisegnare la geografia giudiziaria della Corte dei conti a livello territoriale. Noi non possiamo, dunque, permettere questa delega in bianco. Per noi la giustizia di prossimità è fondamentale su tutti gli ambiti, anche su quello relativo ai controlli e su quello relativo alla responsabilità erariale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo anch'io per sottolineare la nostra volontà. Lo abbiamo detto in altri emendamenti, lo ribadiamo anche in questo della collega D'Orso, si tratta di una delega estremamente generica che, tra l'altro, non nasce in una notte buia e tempestosa, ma sostituisce quello che era un originario emendamento a firma Foti e Montaruli - se non ricordo male - che sopprimeva le sezioni delle procure regionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Con questo emendamento andiamo orgogliosamente a smantellare quasi tutto l'articolo 3, comma 2, laddove è prevista una delega al Governo di riordino delle funzioni della Corte dei conti, anzitutto perché si configura a tutti gli effetti come una delega in bianco al Governo e, considerati anche i precedenti rispetto ai temi di giustizia, certamente non siamo rassicurati minimamente rispetto all'operato che poi il Governo svolgerà attuandolo con i decreti legislativi, e poi perché, comunque, questi criteri e principi direttivi - che sono poi, tra l'altro, stabiliti dall'articolo 76 della Costituzione - sono totalmente generici, e quindi, da questo punto di vista, a nostro parere, sono al limite della costituzionalità. Inoltre, questa delega va a incidere direttamente su un principio fondamentale, quale quello del buon andamento e imparzialità della pubblica amministrazione, ex articolo 97 della Costituzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche noi abbiamo presentato un identico emendamento sempre con l'obiettivo di sopprimere i criteri indicati nel provvedimento e che consentono al Governo di intervenire con i decreti di attuazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Sì, grazie, Presidente. Con questo emendamento noi chiediamo di sopprimere alcuni dei criteri più problematici della delega al Governo in materia di riorganizzazione e riordino delle funzioni della Corte dei conti. Lo abbiamo detto più volte: noi non abbiamo mai negato che serva una riorganizzazione, ma abbiamo sempre detto che sarebbe servita una riorganizzazione, diciamo così, organica - stiamo parlando di un organo costituzionale - e non una riforma solo su alcuni aspetti, una riforma frettolosa e una riforma che, evidentemente, interessa il Governo per alcuni punti che ha già spiegato molto bene il collega Gianassi prima di me.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. In realtà, ci tengo a sottolineare come queste disposizioni siano totalmente in contrasto con la nostra Costituzione laddove si prevede, sostanzialmente, una subordinazione dei magistrati delle procure territoriali rispetto al procuratore generale, e questo è contrario a una specifica disposizione della nostra Costituzione. Peraltro, quel punto 3 della lettera e) evidenzia alcune indicazioni, come quelle istruttorie che si caratterizzano per “particolare rilevanza”, che sono sostanzialmente di assoluta genericità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. È un emendamento molto limitato, propone un intervento chirurgico che ha l'obiettivo di escludere solo la parte che è, credo, oggettivamente viziata per conflitto con le norme costituzionali. Questa lettera b) prevede di rafforzare gli effetti nomofilattici delle pronunce delle sezioni riunite sulle funzioni consultive, di controllo, referenti e giurisdizionali, nonché sulle attività delle procure della Repubblica presso la Corte dei conti, prevedendo, in particolare, che il procuratore eserciti la funzione di coordinamento tenendo conto delle pronunce nomofilattiche delle sezioni riunite.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che il gruppo Partito Democratico ha esaurito i tempi previsti dal contingentamento. Essendone stata fatta richiesta, la Presidenza concederà a tale gruppo un tempo aggiuntivo pari a un terzo rispetto al tempo originariamente assegnato al gruppo medesimo dal contingentamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche questo emendamento, come il precedente, cerca di intervenire in modo appunto chirurgico, come diceva il collega Gianassi, su un articolo che, scritto in questo modo, ha profili di illegittimità costituzionale, anche perché interviene su questioni che sono ormai abbastanza acquisite, cioè le modalità con cui le sentenze e le pronunce danno origine alla nomofilachia. Ma c'è anche il fatto che, in questo modo, si cerca di rendere certa l'attività delle sezioni, distinguendole, peraltro, anche tra consultive e giurisdizionali, mentre nella delega questo viene in qualche modo appiattito e incide anche su questo profilo di illegittimità costituzionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento noi vogliamo sopprimere quella parte della delega che stravolge l'assetto regionale delle procure, prevedendo che una sola sezione sia abilitata a svolgere unitariamente e indistintamente funzioni consultive, di controllo, referenti e giurisdizionali. Vogliamo eliminare quella parte della delega che dà priorità allo svolgimento delle funzioni consultive e di controllo, svilendo e marginalizzando le funzioni giurisdizionali di recupero dei danni erariali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Benvenuto. Allora, noi ricordiamo ancora una volta quello che sta per accadere, e cioè la soppressione delle procure regionali. Vorrei ricordare ai colleghi un fatto. Non so quanti di voi fossero presenti all'inaugurazione dell'anno giudiziario del CNF, il Consiglio nazionale forense. In quell'occasione il presidente ha lamentato che gli avvocati non sono più presenti fisicamente nei tribunali, perché si fanno soprattutto udienze di natura cartacea o da remoto. Bene, qui siete andati oltre e non solo avete eliminato gli avvocati dalle udienze, qui avete proprio eliminato i muri, cioè avete eliminato i tribunali, avete eliminato le procure.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche qui, mi ripeto per quello che dicevo prima, cioè l'eliminazione del termine “regionali” e la sostituzione con “territoriali” ha proprio quel significato che dicevo, cioè la soppressione delle procure regionali. Ma qui accade anche un'altra cosa, lo spiegavamo bene nel presentare la delega: non solo spariranno le procure regionali, ma ci sarà una totale concentrazione a Roma di tutte le azioni che riguardano l'attività della procura presso la Corte dei conti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, la nostra perplessità è legata al fatto che, da una parte, abbiamo una compagine politica che continua ad insistere sul federalismo - più poteri ai territori, dobbiamo delegare, permettere ai nostri territori di essere autonomi -, dall'altra parte, ci sono tutte le riforme che stiamo vedendo, compresa quella sul codice della strada, che ha tolto molti poteri agli amministratori locali e i risultati negativi li stiamo vedendo: addirittura ha tentato di comprimere la libertà e l'azione di alcuni comuni. Faccio un esempio, quello di Bologna, uno dei pochi in controtendenza, avendo avuto il coraggio di mettere le limitazioni che venivano prima previste dalle leggi per non correre a tutta velocità dentro i centri cittadini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d306349_19",
+      "politician_name": "CANDIANI Stefano",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Intervengo perché stiamo assistendo a una narrazione surreale, cioè viene descritto questo provvedimento come una proposta di legge per disfare la Corte dei conti, per disarticolare l'organizzazione territoriale, per impedire che ci sia un controllo efficace sugli enti locali, addirittura postulando che ci siano delle volontà per non attuare un decentramento e per essere addirittura, al contrario, centralisti e anti-autonomisti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "306349",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, io ringrazio l'onorevole Candiani per questo intervento. Capisco il tentativo di difesa per una forza che un giorno si dichiara regionalista, un altro giorno nazionalista, capisco l'imbarazzo, però i fatti sono fatti. Deve essere sfuggito al collega Candiani che, nel corso dei lavori della Commissione, i relatori Kelany e Pittalis hanno presentato un emendamento - sono due partiti alleati, fino a prova contraria, dell'onorevole Candiani - con il quale proponevano la soppressione di 15 delle 20 sedi regionali (Il deputato Candiani: “ Ma no, non è così! ”) . Quindi, avvertiamo Candiani, gli diamo questa notizia. Dopodiché, a seguito delle proteste emerse dalle opposizioni, poco considerate, e poi dai dipendenti della Corti dei conti, i relatori hanno ritirato l'emendamento, che prevedeva 15 soppressioni su 20, e hanno presentato un nuovo emendamento, che non cancella quell'obiettivo, perché…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "…per la prima volta non si parla di articolazioni regionali - una per regione -, ma territoriali. Per evitare questo problema, abbiamo detto: cambiamo la parola “territoriale” con “regionale”, come è scritto in questo emendamento (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista). Quindi, collega Candiani - per il tramite della Presidenza -, possiamo risolvere ogni mistero: voti l'emendamento che dice che le articolazioni sono regionali…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …e saranno difese in tutte le regioni. Altrimenti, lei dice una cosa e, poi, nel voto ne fa un'altra, perché si vede che, in questo momento, non siete regionalisti, ma sovranisti e nazionalisti (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Evidentemente, il collega Candiani - mi rivolgo a lui, tramite lei, Presidente - non ha voluto artatamente leggere tutto l'articolato, perché, con questa delega, si conferiscono alcuni super poteri alla procura generale (oltre al potere di indirizzo riconosciuto al procuratore generale): il potere di accedere in tempo reale, tramite strumenti informatici, agli atti dei procedimenti istruttori previsti e svolti in sede territoriale; il potere di avocazione, ancora più importante e ancora più incisivo, delle istruttorie svolte a livello territoriale; il potere di affiancare un magistrato della procura generale al magistrato che è invece il magistrato requirente che si occupa a livello territoriale del fascicolo nei casi ovviamente più spinosi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo a titolo personale. Con questo emendamento, vogliamo sopprimere tutta la parte che riguarda la creazione del super procuratore generale e dei suoi poteri di avocazione che sono in contrasto con l'autonomia e l'indipendenza di ogni singolo magistrato. In particolare, con l'accesso a tutti i fascicoli tramite strumenti informatici violate il regolamento europeo sulla protezione dei dati, anche sensibilissimi, giudiziari. Con i poteri di avocazione, violate l'indipendenza del magistrato nel caso in cui il potere di avocazione abbia violato i poteri e gli indirizzi del procuratore generale. Vogliamo eliminare la parte che prevede la sottoscrizione, a pena di nullità, di tutti gli atti dei procuratori territoriali. Davvero una follia (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, grazie. Intervengo anch'io a titolo personale. Ovviamente, l'emendamento della collega Giuliano è importante perché ha l'obiettivo di evitare l'accrescimento dei poteri del procuratore generale e, in particolare, del potere di avocazione. Questo potere - l'abbiamo detto tante volte in Commissione giustizia - si pone in contrasto con i principi di autonomia, indipendenza e terzietà dei magistrati, considerando che, a differenza di quanto avviene ad esempio nel codice penale, i casi in cui l'avocazione può avere luogo non sono elencati tassativamente nella disposizione di delega, ma sono rimessi al legislatore delegato. Ovviamente, questo crea dubbi di legittimità riguardo a questo potere di avocazione, soprattutto sul versante dell'indipendenza, della tempestività e dell'efficacia dell'azione della magistratura contabile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo su questo punto, laddove, ancora una volta, appare evidente che, con i poteri attribuiti al procuratore generale, si finisce per intervenire sull'indipendenza di ciascun procuratore territoriale. Perché?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo a titolo personale. Per suo tramite, all'onorevole Candiani: avendo noi letto sia le pagine pari che quelle dispari, volevo dare - sempre per suo tramite - un altro indizio in più all'onorevole Candiani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Mi scusi, onorevole Giuliano. Scusi un secondo. Dobbiamo fare silenzio, colleghi, per favore. Colleghi, per favore, facciamo silenzio, così andiamo avanti con la compostezza che ha contrassegnato finora i nostri lavori. Per favore. Prego, onorevole Giuliano. Mi scusi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Avete previsto la follia per cui il procuratore generale dovrà sottoscrivere, a pena di nullità, una marea indiscriminata di atti. Alla faccia dell'efficienza della Corte dei conti! Perché avete previsto questo? Non certo per agevolare la Corte dei conti, ma per fare in modo che, in caso di semplice dimenticanza di sottoscrizione da parte del procuratore generale, si avrà la nullità dell'atto e quindi dell'intero procedimento e tantissime azioni di danno erariale territoriale andranno in fumo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Qui, ancora una volta, indicando questa miriade di atti che il procuratore generale dovrà firmare con il procuratore territoriale, si disconosce quel principio di indipendenza che la nostra Costituzione invece riconosce ai componenti della Corte dei conti, giudici e magistrati della procura. Ecco, crediamo che non solo il presupposto “particolare rilevanza”, che è una dizione assolutamente generica che non consente di far comprendere in quale misura e laddove deve intervenire il procuratore generale, ma anche la firma congiunta è qualcosa che è contro il sistema. Non esiste un sistema giudiziario nel quale il procuratore generale firma insieme al procuratore della Repubblica! Esso mina non solo il sistema giustizia, quindi va ben al di là del principio di indipendenza, ma addirittura proprio il funzionamento della giustizia stessa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo sempre a titolo personale. Questa è una delle previsioni più pericolose, dal momento che, diversamente dalla facoltà attribuita al procuratore generale - come abbiamo detto prima - ai punti precedenti, si introduce una condotta tassativa, imponendo appunto questo obbligo di sottoscrizione congiunta, a pena di nullità, di una serie di atti in caso di istruttorie di particolare rilevanza e complessità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Sì grazie, Presidente. Abbiamo presentato questo emendamento per proporre la soppressione, nella legge delega, nella lettera f) , del criterio che prevede il divieto di passaggio dalle funzioni requirenti alle funzioni giudicanti. Sostanzialmente, la separazione delle carriere in magistratura contabile viene fatta con una disposizione che è radicale, che quindi non consentirà l'introduzione, da parte del Governo, di correttivi, eccezioni o forme di flessibilità. È un regime che ci vede contrari, così come abbiamo manifestato contrarietà sulla riforma della magistratura ordinaria, ma, in questo caso, pur non assumendo veste costituzionale - non ce n'è bisogno, come peraltro non sarebbe stato necessario nemmeno nella riforma della magistratura ordinaria -, questo intervento non consentirà alcun passaggio. Ad esempio, si spinge oltre, anche rispetto alla previsione che oggi c'è in base alla legge Cartabia sui passaggi da una funziona all'altra in magistratura ordinaria e quindi ne chiediamo la soppressione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento, vogliamo sopprimere la lettera f) che introduce anche qui il principio della separazione delle carriere, ma lo fa in una maniera davvero singolare, perché, prima prevedete che “(…) ogni magistrato svolge, secondo un criterio di rotazione temporale (…) tutte le funzioni attribuite alle sezioni”, quindi, anche le funzioni giurisdizionali, ma, poi, cambiate idea e dite che il magistrato non può passare dalle funzioni requirenti alle funzioni giudicanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Sì, grazie Presidente. Qui è plasticamente leggibile l'obiettivo punitivo e demolitorio che hanno la maggioranza e questo Governo rispetto alla Corte dei conti. Torniamo, appunto, alla punizione nei confronti dei magistrati, torniamo ai test psicoattitudinali di vecchia conoscenza, perché ne abbiamo parlato anche tanto tempo fa. Pensavamo che fosse superato da questa voglia che ha la Presidente del Consiglio di dirci che non ce l'ha con la magistratura, che anzi non ce l'ha assolutamente con i magistrati e che vuole portare avanti le riforme perché servono per la modernizzazione del Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento, vogliamo sopprimere quella lettera in cui dite di voler sottoporre i magistrati della Corte dei conti a test psicoattitudinali per l'accesso alla magistratura. Allora, forse dovreste fare due tipi di attività: un corso di lettura per leggere e capire le norme, con riferimento a quello che diceva precedentemente il collega della maggioranza; i test psicoattitudinali, ma li dovreste fare voi, della maggioranza e voi del Governo, prima di entrare in questo Parlamento (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Ci tengo ad intervenire perché non so neanche se ringraziare per il parere favorevole, Presidente, perché consideri che in Commissione ho passato almeno dieci minuti a spiegare ai colleghi della maggioranza che con riferimento alla frase “per i profili di competenza regionale, della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano” (ripetuta più volte in tutti gli emendamenti e in tutti gli articoli), facevano prima a togliere questa dicitura, che è passata (penso che ormai risalga al Medioevo e che comunque non si capisse cosa fosse), e scrivere - era sufficiente - “Conferenza unificata”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento, che cosa chiediamo? Chiediamo che, prima dell'emanazione dei decreti legislativi previsti dalla delega, che è stata a sua volta prevista all'articolo 3, vengano ascoltati i diretti interessati e che venga, quindi, acquisito il parere delle sezioni riunite della Corte dei conti, nella speranza, ovviamente, che il parere sia preso in considerazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anch'io invito, come ha già fatto la collega Alifano, a un supplemento di riflessione. Questo emendamento prevede il previo parere delle sezioni riunite della Corte dei conti nell'adozione dei decreti legislativi. Abbiamo messo in evidenza le numerose criticità del provvedimento, che conferisce eccessivi poteri al procuratore generale, comportando un irragionevole esercizio promiscuo delle funzioni di controllo, consultive e giurisdizionali, non rispettando, tra l'altro, anche il principio costituzionale del giudice naturale precostituito per legge e concentrando il potere nelle mani di pochi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo emendamento della collega Alifano cerchiamo, perlomeno, di recuperare un minimo di centralità del Parlamento quando verranno adottati i decreti legislativi, prevedendo che, quando il Governo non si conforma ai pareri delle Commissioni, debba spiegare perché non si conforma ai pareri delle Commissioni e debba ripresentare il testo alle Commissioni, che devono esprimere di nuovo il loro parere. Almeno questo sarebbe tanto più importante di fronte ad una delega assolutamente in bianco e di fronte a decreti legislativi che metteranno in ginocchio la Corte dei conti e, soprattutto, le procure regionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Voteremo convintamente contro l'articolo 3, con cui avete previsto una delega che mira a distruggere la Corte dei conti e a ridimensionare le procure generali. Avete previsto una confusione di funzioni per andare a sterilizzare le funzioni giurisdizionali. Avete previsto un superprocuratore generale che, tra poco, sottoporrete al Governo di turno, in modo da svilire la Corte dei conti e poter tacciare e attaccare di nullità una serie indeterminata di atti. Avete previsto, con il vostro furore ideologico, la separazione delle carriere, però dite ai magistrati che devono svolgere tutte le funzioni; avete previsto i test psico-attitudinali. Avete davvero confezionato un polpettone ritorsivo nei confronti della Corte dei conti, perché a voi tutto quello che è controllo di legalità, evidentemente, dà fastidio (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche da parte nostra, il voto è contrario per i motivi che sono stati già esplicitati e, aggiungo, per una delega che è estremamente generica, che è pericolosa nei suoi obiettivi e anche nei suoi effetti e che avrà conseguenze che non aiuteranno a modernizzare né a rendere più snella la procedura davanti alla Corte dei conti, ma che, al contrario, renderanno più complicato l'accesso alla Corte dei conti e molto più complicati i controlli. Abbiamo detto che, nella sostanza, siamo ormai davanti ad un enorme colpo di spugna. Ovviamente, noi siamo preoccupati anche per la gestione territoriale, che non sarà più di prossimità e regionale, ma diventerà ormai una gestione accentrata a Roma, con un superprocuratore che, in qualche modo, sarà colui che determinerà tutte le azioni della Corte dei conti, anche con profili di nullità e di annullamento degli atti, laddove non vistati. Francamente, è una delega sulla quale non possiamo che esprimere un voto contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questo è un articolo aggiuntivo fondamentale che va ad aggiungere un articolo 3- bis , perché non si può pensare di riformare la Corte dei conti, il ruolo fondamentale della Corte dei conti, a presidio quindi di principi costituzionali come quello del buon andamento della pubblica amministrazione e, quindi, più in generale, del principio di legalità, senza un potenziamento della stessa Corte dei conti e delle sue articolazioni territoriali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d305549_19",
+      "politician_name": "BONAFE' Simona",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Noi voteremo a favore di questo articolo aggiuntivo del collega Zaratti, perché stigmatizza, ancora una volta, la volontà da parte del Governo di fare le riforme a invarianza di bilancio. Qui si interviene sulla Corte dei conti, si prevedono ulteriori funzioni per la Corte dei conti, fra cui, appunto, la funzione consultiva sugli atti e però, al tempo stesso, non si creano le condizioni per aumentare gli organici della Corte dei conti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "305549",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche qui, per sollecitare l'attenzione del Governo e della maggioranza, perché state facendo una riforma estremamente invasiva, che modifica e cambia il volto della Corte dei conti, sia a livello nazionale che a livello regionale. Fate in modo che ci sia un aggravamento dell'attività che deve svolgere - penso, ad esempio, al controllo preventivo - però, ancora una volta, siamo di fronte ad una riforma che viene fatta ad invarianza finanziaria. Il che significa che non c'è un euro: mancano i soldi per assumere i giudici della Corte dei conti, mancano i soldi per gli operatori amministrativi della Corte dei conti, per i dipendenti, ma, soprattutto, mancano risorse perché una riforma di questa portata - che noi contestiamo, ma che non può non essere evidente quanto sia di enorme conseguenza sull'attività della Corte dei conti - non può essere fatta senza risorse. Ci sembra, francamente, che sia il modo migliore per incasinare tutto e non consentire di avere una giustizia giusta per i cittadini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo anche in qualità di ex amministratore. Non prevedere la possibilità di un aumento di organico della Corte dei conti, limitando una tale possibilità all'invarianza finanziaria, significa, sostanzialmente, lasciare sguarnite di ogni possibilità di un effettivo parere le pubbliche amministrazioni. Perché il silenzio-assenso significa che - chi è amministratore e chi è stato come me, lo sa bene -, allorquando c'era una questione problematica, durante le passate amministrazioni, si chiedeva un parere ad un legale, il quale faceva il parere pro veritate e, sulla base di questo, il sindaco o gli amministratori operavano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'articolo 4 prevede una misura sanzionatoria pecuniaria finalizzata a sollecitare la conclusione dei procedimenti connessi all'attuazione del PNRR e del PNC, solo che viene indicato, come agente responsabile, il pubblico ufficiale, con una terminologia generica che viene adoperata nel codice penale, ma che non ha mai trovato, fino ad ora, ingresso nella strutturazione normativa regolante l'attività della Corte dei conti, con la conseguenza che potrebbe determinare delle interpretazioni complesse nell'attuazione dello stesso a disposizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Spiego perché “convintamente”, Presidente. Questo articolo 4 prevede che il pubblico ufficiale responsabile dell'attuazione dei procedimenti connessi al PNRR o al Piano nazionale complementare, che provochi un ritardo superiore al 10 per cento rispetto al tempo stabilito per la conclusione del procedimento, venga sanzionato con una sanzione fino a due annualità del proprio trattamento economico complessivo annuo lordo. Non vi sfuggirà che questa è la medesima sanzione che prevedete all'articolo 1, riscrivendo, rideterminando, abbattendo la risarcibilità del danno erariale, che verrà imputata, contestata ai funzionari pubblici dipendenti che, invece, con condotte ad esempio dolose, provocheranno un danno erariale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Noi qui abbiamo presentato un emendamento all'articolo 4, che è a prima firma Gianassi, che riguarda proprio i dirigenti e i funzionari pubblici responsabili, perché francamente pensare che su questa attività, che è un'attività importante e che ha riguardato, peraltro, spese importanti (quelle del Piano nazionale di ripresa e resilienza e non solo), ci sia un'impunità certificata - perché, nella sostanza, nessuno sarà mai chiamato a rispondere di attività che sono state svolte in questo contesto - ci sembra onestamente eccessivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Visto che ingolfate la Corte dei conti di nuovi controlli e di nuove funzioni su una marea indeterminata di atti solo per avere l'esimente da responsabilità, ci saremmo aspettati che almeno avreste avuto la decenza di assumere qualche magistrato contabile in più, visto che già ora i magistrati contabili sono in forte sotto organico e il personale amministrativo contabile è in forte sotto organico. Ecco perché abbiamo presentato questo emendamento, almeno per prevedere di bandire nuovi concorsi e di assumere nuovo personale amministrativo e nuove unità di magistrati contabili, ma anche a questo emendamento avete detto di no perché - ripeto - il vostro obiettivo è distruggere la Corte dei conti e garantire a tutti l'impunità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo, ovviamente, è un emendamento, oserei dire, di buonsenso. Avete completamente cambiato il volto della Corte dei conti: viene completamente distrutta la responsabilità contabile e vengono messe in ginocchio le casse dello Stato e di conseguenza i soldi dei cittadini. Soprattutto avete inondato - e comunque inonderete - la Corte dei conti di pareri e di atti, prevedendo un termine di 30 giorni solo per avere l'esimente della responsabilità e tutto questo per avere una sanatoria tombale, di fatto, su tutti gli atti. Termine di 30 giorni senza mettere un magistrato contabile in più, senza mettere risorse e senza mettere veramente delle disposizioni di assunzione di personale per aiutare la Corte dei conti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Con questo emendamento si introduce un'importante innovazione del sistema della giustizia contabile per rendere il processo più efficiente e al tempo stesso garantire una tutela effettiva degli interessi pubblici. In particolare, viene prevista la possibilità di addivenire a una definizione anticipata e alternativa del giudizio a seguito dell'invito a dedurre, mediante un rito abbreviato concordato col pubblico ministero nei giudizi per responsabilità amministrativa presso la Corte dei conti. Questa proposta risponde a due esigenze fondamentali: da un lato, alleggerire il carico delle sezioni giurisdizionali della Corte dei conti, evitando l'instaurazione di giudizi destinati a concludersi con sentenze di condanna di contenuto patrimoniale determinato e accettato dalle parti; dall'altro, incentivare forme di collaborazione tra il pubblico ministero contabile e il soggetto invitato a dedurre, in un'ottica di efficienza e responsabilizzazione (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo comma 2 dell'articolo 5 avete previsto che ai dirigenti, agli avvocati dello Stato si applicherà questa proposta di legge - quindi, si applicherà il 30 per cento del danno - anche ai procedimenti non definiti e addirittura ai procedimenti definiti con sentenza definitiva. Quindi, travolgete il giudicato quando, però, non è stato ancora eseguito il pagamento. E perché lo avete fatto? Ho scoperto che lo avete fatto per fare un piacere alla regione Calabria, perché proprio qualche giorno fa, qualche mese fa, un dirigente della regione Calabria e un avvocato dello Stato sono stati condannati a risarcire 40 milioni di euro perché non hanno notificato e non hanno rimesso l'atto di appello in conseguenza del quale la regione Calabria è stata condannata a pagare 40 milioni di euro. Questo dirigente e questo avvocato dello Stato…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Noi, rispetto a questa previsione, esprimiamo una contrarietà che non è soltanto dal punto di vista legislativo. Insomma, la perplessità che si possa applicare a procedimenti che non sono ancora stati definiti o addirittura a quelli che sono stati definiti in via definitiva ma per i quali non è ancora intervenuto il pagamento non è soltanto, da un punto di vista legislativo, opinabile o addirittura impugnabile e forse illegittimo, ma io penso che lo sia anche da un punto di vista etico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Noi voteremo contro questo articolo, che estende gli effetti della disposizione contenuta nella norma di legge anche ai procedimenti non solo in corso, ma definiti, in particolare per quelli che sono già definiti e per i quali, alla data di entrata in vigore della legge, non sia stato ancora eseguito il pagamento delle somme derivanti dalla sentenza di soccombenza. La collega Giuliano, poco fa, ha citato anche un caso - che non è stato smentito da nessuno qui - che fa riferimento alla sentenza definitiva per una condanna a 40 milioni di euro, per la quale non è ancora intervenuto il pagamento. In forza di questo intervento, quindi, quella somma di 40 milioni di euro verrebbe cancellata, azzerata. Quindi, sostanzialmente, possiamo dire che questo provvedimento costa allo Stato, quantomeno, 40 milioni di euro. E per quale motivo il provvedimento viene approvato a invarianza finanziaria, se, come dice la collega, c'è un effetto che produce un costo di 40 milioni di euro?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Mi risulta che i colleghi in Commissione bilancio avessero sollevato delle obiezioni. Poiché non mi risulta che nessuno dei colleghi del centrodestra, nemmeno… è stato citato un caso specifico relativo alla regione Calabria, ci sono colleghi calabresi. Se c'è una sentenza di 40 milioni di euro, che non è stata definitiva, per la quale non c'è stato il pagamento, e con questo articolo viene di fatto cancellata la somma, lo Stato perde 40 milioni di euro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2025-04-09",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Pertanto, vi chiedo: com'è possibile che vi sia l'invarianza finanziaria, se costa 40 milioni di euro? Non è opportuno accantonare questo articolo e valutare meglio il danno, il costo, che comporta l'approvazione di questo provvedimento (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0464",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 464
+      }
+    }
+  ]
+}

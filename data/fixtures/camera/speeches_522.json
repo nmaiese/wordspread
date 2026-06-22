@@ -1,0 +1,409 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0522",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-08-04",
+    "title": "Assemblea — Seduta n. 522 del 2025-08-04",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 522
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 69, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d200291_19",
+      "politician_name": "DE CORATO Riccardo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. Signor Ministro, onorevoli colleghi, l'Assemblea è chiamata a esaminare la proposta di legge n. 2500 ​, approvata dal Senato, che reca disposizioni in materia di composizione di giunte e consigli regionali e anche di incompatibilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "200291",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d200291_19",
+      "politician_name": "DE CORATO Riccardo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Concludo e poi consegno. Grazie, Presidente. In particolare, tale articolo 7, comma 1, di cui la disposizione in esame prevede l'abrogazione, vieta il conferimento di incarichi dirigenziali nelle amministrazioni regionali ai soggetti che sono descritti nella relazione che consegno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "200291",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signora Presidente. Colleghi e colleghe, Ministro, finalmente questo Parlamento affronta il tema del calo demografico. Finalmente abbiamo il coraggio di analizzare e confrontarci su uno dei problemi che attanaglia maggiormente il nostro Paese e soprattutto alcune regioni, ma anche e soprattutto le aree interne - azzarderei dire - di tutte le regioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308859_19",
+      "politician_name": "MURA Francesco",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signora Presidente. Prendo la parola per esprimere, invece, il sostegno convinto del gruppo di Fratelli d'Italia al provvedimento che stiamo discutendo, e con l'occasione anche per ricordare che abbiamo degli esempi nella nostra Nazione che smentiscono ormai la narrazione di alcuni partiti di quest'Aula rispetto al governo delle regioni. Perché, mentre fino a poco tempo fa il MoVimento 5 Stelle non governava da nessuna parte, suggerirei ai colleghi del MoVimento 5 Stelle di farsi un giro in Sardegna per capire come davvero si applica il meccanismo delle porte girevoli, oppure come magari si attuano, in contrapposizione rispetto a tutte le tesi sostenute qua dentro, norme e normative che, invece, sono spesso anche funzionali al buon governo delle regioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308859",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d32530_19",
+      "politician_name": "CALDEROLI Roberto",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per gli Affari regionali e le autonomie . Grazie, Presidente. In poche parole, questo provvedimento pone parzialmente rimedio a un mio intervento legislativo del 2011, con un decreto-legge che aveva determinato dei tagli legati al negativo ciclo economico che stavamo vivendo allora. Ricordo che allora avevamo tra i 500 e i 600 punti di spread e, quindi, una necessità di tagli era assolutamente necessaria, tagli che oggi, probabilmente, andrebbero rivisti complessivamente. Noi mettiamo una misura tampone, sia rispetto al calo demografico, sia rispetto al numero eccessivamente basso degli assessori, in particolare nelle piccole regioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "32530",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge, già approvato dal Senato, n. 2538: Proroga del termine per l'esercizio delle deleghe previste dall'articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308786_19",
+      "politician_name": "CANGIANO Gerolamo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. Oggi l'Assemblea avvia l'esame del disegno di legge di iniziativa governativa, già approvato dal Senato, recante la proroga del termine per l'esercizio delle deleghe previste dall'articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308786",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signora Presidente. Devo dire che questa mattina pensando al mio intervento e, soprattutto, al provvedimento che quest'oggi è in Aula, mi è venuto in mente il testo di una canzone e spero che il Sottosegretario Mazzi la apprezzerà: “stessa storia, stesso posto, stesso bar”. Vale a dire: stessa storia, stesso provvedimento, un anno dopo in questo caso, perché la coincidenza temporale è davvero significativa. Eravamo qui, lo scorso anno, proprio a trattare di questo, e a distanza di un anno, quasi alla chiusura dei lavori dell'Aula, ci troviamo di fronte all'ennesima proroga di un provvedimento che doveva entrare in vigore e che aveva visto l'approvazione, in quest'Aula nel 2022, di una legge generale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Quando si parla di spettacolo e di cinema, voi state portando avanti un criterio, secondo voi: basta film che non incassano, finanziati dallo Stato; il film deve incassare, l'opera d'arte deve incassare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …e allora premiamo la meritocrazia. Purtroppo, lo spettacolo lo state facendo voi indegno, ma state tranquilli: qualcuno che vi racconterà e vi farà vedere quello che siete lo troverete, perché esisterà sempre (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308786_19",
+      "politician_name": "CANGIANO Gerolamo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. Io ringrazio il Sottosegretario e i colleghi intervenuti, però invito i colleghi anche a leggere il provvedimento, perché capisco le difficoltà dei contenuti, ma questo provvedimento non parla di cinema e i colleghi del MoVimento 5 Stelle hanno fatto un intervento sul cinema. Quindi, forse, è meglio leggere ogni tanto qualcosa (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308786",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308860_19",
+      "politician_name": "MAZZI Gianmarco",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Cultura . Sì, grazie, Presidente. Allora, io ricordo che dal 1967 nessuno si è mai fatto carico di lavorare a un codice dello spettacolo. Prima della legge delega n. 106 del 2022, che contiene la prospettiva parlamentare, va ricordato che il legislatore ha fatto spesso riferimento, in alcune leggi - persino nella legge n. 163 del 1985, istitutiva del FUS, come si chiamava allora - alla futura approvazione di leggi generali sullo spettacolo, così come in norme contenute in leggi delega, quale la legge n. 137 del 2002, che era finalizzata al riassetto e, quindi, alla codificazione, con conseguente riconduzione a sistema di tutta la normativa stratificatasi nel tempo, anche nelle materie dello spettacolo dal vivo, che non ha mai avuto attuazione, nonostante la tendenza legislativa del tempo al riordino e alla codificazione del settore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308860",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del testo unificato delle proposte di legge nn. 1928 ​- 2083 ​- 2091 ​- 2152 ​- 2194-A ​: Delega al Governo per l'organizzazione, la realizzazione, lo sviluppo e il potenziamento dei centri di elaborazione dati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308825_19",
+      "politician_name": "AMICH Enzo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Signora Presidente, Vice Ministro Valentini, onorevoli colleghi, a nome della IX Commissione trasporti, poste e telecomunicazioni riferisco sul testo unificato delle cinque proposte di legge relative all'organizzazione, realizzazione e sviluppo dei centri di elaborazione dati, i cosiddetti data center .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308825",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308927_19",
+      "politician_name": "RUSSO Gaetana",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, Sottosegretario, la proposta di legge che incardiniamo oggi, in Aula, in materia di centri di elaborazione dati, i cosiddetti data center , ha il pieno sostegno di Fratelli d'Italia, perché si prende definitivamente atto del cambiamento di paradigma nello sviluppo tecnologico. Non più tardi di un mese e mezzo fa, sono intervenuta in quest'Aula, peraltro, per la discussione del disegno di legge governativo sull'intelligenza artificiale (ora in terza lettura al Senato); il testo di legge oggi all'esame costituisce un ulteriore tassello, nel più ampio sforzo di Governo e Parlamento di farsi trovare pronti con un quadro regolatorio organico e consapevole di queste tecnologie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308927",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghi, rappresentante del Governo, intervengo, a nome del gruppo del Partito Democratico, in una seduta che avremmo tutti desiderato, voluto, sperato, auspicato poter svolgere alcune settimane o alcuni mesi fa, perché eravamo pronti con il lavoro parlamentare. Voglio ringraziare anch'io il presidente, tutti gli uffici della Commissione, il relatore, la collega Pastorella, il collega Iaria, il collega Centemero, la Presidente Ascani: è stato veramente un lavoro collettivo e parlamentare, nel senso proprio e giusto del termine, su un tema che oggettivamente costituisce una priorità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308809_19",
+      "politician_name": "IARIA Antonino",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anche io comincerei con i ringraziamenti ai miei colleghi: la collega Pastorella, il collega Amich, la Presidente Ascani, il presidente della Commissione e anche il collega Centemero per aver portato in discussione, in Commissione trasporti, questo importante argomento. Però, dopo aver fatto questa parte in cui ci ringraziamo, io dico, come prima cosa, che ci abbiamo messo troppo tempo. È passato troppo tempo da quando abbiamo cominciato a discutere, in maniera molto condivisa, un argomento importantissimo che riguarda un asset infrastrutturale fondamentale per lo sviluppo del nostro Paese e anche dell'Europa (tra l'altro, è una legge delega). Sono passati circa 5 mesi per arrivare adesso a discuterlo in Aula, con il Governo che non ha mai dato delle risposte chiare. Se posso fare un esempio paradossale, la ruota è stata inventata nel 3000 avanti Cristo; con il Governo Meloni la legge delega sull'uso della ruota sarebbe arrivata nel 2000 avanti Cristo. Questo presuppone anche che il Governo Meloni duri 1000 anni e questa potrebbe essere un'altra sciagura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308809",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Siamo a tre giorni dall'entrata in vigore dei dazi statunitensi. Come Azione, più volte siamo stati in disaccordo su quale debba essere la politica industriale per far fronte a questi dazi, però credo che possiamo essere d'accordo con il Governo e con le altre opposizioni che ci sono due cose da fare, dazi o non dazi: una è l'attrattività degli investimenti esteri e lo sblocco degli investimenti, chiamiamoli, nostrani; la seconda cosa è la digitalizzazione, quindi il passaggio, il salto di qualità sull'innovazione, che possa portare questo Paese ad essere più produttivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge, già approvato dal Senato, n. 2551: Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 95, recante disposizioni urgenti per il finanziamento di attività economiche e imprese, nonché interventi di carattere sociale e in materia di infrastrutture, trasporti ed enti territoriali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. Rappresentante del Governo, onorevoli colleghi, l'Assemblea avvia oggi l'esame del disegno di legge, già approvato dal Senato della Repubblica, che dispone la conversione del decreto-legge 30 giugno 2025, n. 95, recante disposizioni urgenti per il finanziamento di attività economiche e imprese, nonché interventi di carattere sociale e in materia di infrastrutture, trasporti ed enti territoriali. Il provvedimento giunge all'esame dell'Assemblea al termine dell'esame in sede referente da parte della Commissione bilancio, che si è svolto tra venerdì scorso e la giornata odierna. Faccio presente, in via preliminare, che il provvedimento, suddiviso in quattro Capi, era originariamente composto da 21 articoli e, a seguito delle modifiche introdotte nel corso dell'esame presso l'altro ramo del Parlamento, risulta ora costituito da 35 articoli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d306417_19",
+      "politician_name": "LAI Silvio",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo in quest'Aula con la consapevolezza che stiamo discutendo su un provvedimento profondamente sbagliato sotto tutti i profili: sul metodo, sui contenuti, sull'impostazione politica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "306417",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308890_19",
+      "politician_name": "BARABOTTI Andrea",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi e colleghe, il decreto che ci apprestiamo a convertire contiene innumerevoli misure positive, supportate dalla forza dei numeri e indirizzate a una visione politica chiara. Prima di passare in rassegna le tante misure, mi deve permettere, signor Presidente, di svelare alcune menzogne alimentate dalla sinistra.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308890",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d308853_19",
+      "politician_name": "RICCIARDI Marianna",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghe, colleghi, rappresentanti del Governo, come tutti sappiamo l'Italia è una Repubblica parlamentare sulla carta, perché soltanto quella ci è rimasta, la carta. Sulla carta ogni lavoratore riceve un compenso che è proporzionato alla quantità e alla qualità del lavoro svolto e, in ogni caso, sufficiente a garantire a sé e alla sua famiglia un'esistenza libera e dignitosa. Ho ricordato l'articolo 36 della Costituzione, la Carta, appunto. In realtà, però, ci sono 4 milioni di persone che in Italia, pur lavorando, sono povere e con voi al Governo sono aumentate, ma sulla carta va tutto bene: ricevono un compenso proporzionato alla quantità e alla qualità del lavoro svolto, che garantisce loro di vivere in maniera dignitosa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "308853",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signora Presidente. Colleghi e colleghe, certamente da un provvedimento che ha un titolo così roboante, come appunto Economia, ci si aspettava qualche cosa di più, qualcosa di più consistente e di più importante, anche perché il Paese non sta vivendo esattamente un momento facile soprattutto sulle questioni economiche, ed è stato accennato da più di qualcuno. C'è la vicenda dei dazi, in primo luogo, che si inserisce in una situazione nella quale i problemi già non mancavano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie. Brevemente, Presidente. È un provvedimento concreto, che tocca tanti settori. Ho seguito con attenzione gli interventi dei colleghi, ma, come al solito, dall'opposizione non ho avuto né spunti di proposte, né critiche nel concreto: il solito disco rotto con cui, in questa situazione, come al solito, si è andata a rifugiare nell'argomento del momento, quello dei dazi, trattato un po' da tutti gli avversari in un modo così superficiale da relegare la ex stella della sinistra, Ursula von der Leyen, ormai a un mero portavoce della Meloni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Grazie, Presidente. Onorevoli deputati, a nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2551 ​, nel testo della Commissione, identico a quello approvato dal Senato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, nell'odierna riunione della Conferenza dei Presidenti di gruppo, è stata convenuta una nuova articolazione dei lavori per il periodo 5-8 agosto 2025 e per la settimana 9-12 settembre 2025.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d200291_19",
+      "politician_name": "DE CORATO Riccardo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. (Relazione – A.C. 2500 ​). L'Assemblea è chiamata a esaminare la proposta di legge C. 2500 ​, approvata dal Senato, recante disposizioni in materia di composizione di giunte e consigli regionali e di incompatibilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "200291",
+        "seduta": 522
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2025-08-04",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . (Relazione – A.C. 2551 ​). L'Assemblea avvia oggi l'esame del disegno di legge C. 2551 ​, di conversione del decreto-legge 30 giugno 2025, n. 95, recante “Disposizioni urgenti per il finanziamento di attività economiche e imprese, nonché interventi di carattere sociale e in materia di infrastrutture, trasporti ed enti territoriali”, esaminato in sede referente dalla Commissione bilancio della Camera dei deputati, che ne ha avviato l'esame venerdì 1° agosto 2025 e lo ha concluso nella mattinata odierna, senza apportare ulteriori modifiche al testo trasmesso dal Senato della Repubblica lo scorso 31 luglio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0522",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 522
+      }
+    }
+  ]
+}

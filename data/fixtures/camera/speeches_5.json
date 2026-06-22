@@ -1,0 +1,97 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0005",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2022-10-26",
+    "title": "Assemblea — Seduta n. 5 del 2022-10-26",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0005",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 5
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2022-10-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 8, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0005",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 5
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2022-10-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, con lettera pervenuta in data 26 ottobre 2022, il deputato Dieter Steger, già iscritto al gruppo parlamentare Misto, ha dichiarato di aderire alla componente politica “Minoranze Linguistiche” del gruppo parlamentare Misto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0005",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 5
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2022-10-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, prima di sospendere la seduta, che riprenderà al termine della riunione della Conferenza dei presidenti di gruppo, già convocata alle ore 16,30, do la parola per un intervento sull'ordine dei lavori al deputato Giovanni Maiorano, che ne ha fatto richiesta. Onorevole Maiorano, ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0005",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 5
+      }
+    },
+    {
+      "politician_id": "camera_d308814_19",
+      "politician_name": "MAIORANO Giovanni",
+      "date": "2022-10-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, prendo la parola per la prima volta in quest'Aula con emozione, ma anche con la consapevolezza che i terribili fatti accaduti la settimana scorsa a Napoli impongono una riflessione attenta. Una giovane donna, una donna che ha scelto di dedicare la propria vita alla tutela del prossimo, indossando la divisa della Polizia di Stato, è stata seguita, colpita alla testa con una pietra, morsa al volto, strangolata e poi violentata. Qualcosa di terrificante, spaventoso, aberrante, che poteva capitare a chiunque, a una nostra madre, sorella, moglie, amica, perfino a qualche collega di quest'Aula. j è stato rintracciato e arrestato: si tratta di un giovane immigrato irregolare e con precedenti penali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0005",
+      "metadata": {
+        "id_persona": "308814",
+        "seduta": 5
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2022-10-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che l'Ufficio di Presidenza, nella riunione del 26 ottobre 2022, a norma dell'articolo 14, comma 2, del Regolamento, ha deliberato di autorizzare la costituzione dei seguenti gruppi parlamentari: “Alleanza Verdi e Sinistra” e “Noi Moderati”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0005",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 5
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2022-10-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che il Presidente della Camera, a norma dell'articolo 16, comma 1, del Regolamento, udito il parere della Giunta per il Regolamento nella seduta del 26 ottobre scorso, ha integrato la composizione della Giunta medesima chiamandovi a farne parte il deputato Mauro Del Barba.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0005",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0576",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-12-02",
+    "title": "Assemblea — Seduta n. 576 del 2025-12-02",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 576
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 102, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Non posso assolutamente ritenermi soddisfatta della risposta fornita, in quanto viene minimizzato quello che è accaduto durante il concorso Ripam di giugno del 2024. È gravissimo ed è attestato sia da articoli di stampa sia dai numerosi ricorsi al TAR che sono stati proposti, e che sono pendenti, da diversi candidati che hanno lamentato irregolarità molto gravi. I candidati lamentano importanti omissioni nei punteggi, quesiti ambigui e risposte errate durante le prove scritte di una delle sessioni. Hanno lamentato l'irregolarità di questo criterio di premialità, ma anche la mancata pubblicazione di tutta la graduatoria e non soltanto dei vincitori di concorso, perché questo gli impedisce di prendere contezza, in modo puntuale, dell'esito delle prove scritte. Quindi, evidentemente, c'è una lesione anche del loro diritto alla trasparenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d302886_19",
+      "politician_name": "SISTO Francesco Paolo",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministro della Giustizia . Grazie, Presidente. Ringrazio come sempre gli interroganti. Sono lieto di rispondere ai quesiti posti, perché mi offrono l'occasione di fornire alcuni chiarimenti in merito alla ratio ispiratrice del disegno di legge a cui si fa riferimento e di sfatare alcune preoccupazioni che si vanno diffondendo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "302886",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d306497_19",
+      "politician_name": "VACCARI Stefano",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. No, non sono soddisfatto della risposta che il Vice Ministro Sisto ha dato perché il DDL n. 978 otterrà il risultato opposto a quello previsto dai suoi estensori e non lo dice Vaccari o Furfaro, con l'interrogazione che abbiamo presentato, ma lo dicono la Consulta nazionale antiusura, lo dicono i centri studi di SoloAffitti, che ha fatto indagini in questo senso, e lo dicono l'Associazione Favor debitoris e la Federazione europea per la giustizia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "306497",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d301457_19",
+      "politician_name": "FRASSINETTI Paola",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Istruzione e il merito . Grazie, Presidente. Gentili onorevoli, onorevole Caso, com'è noto, la carta del docente è stata istituita dalla legge n. 107 del 2015, durante il Governo Renzi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "301457",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Grazie, Sottosegretario, ma non posso reputarmi soddisfatto perché, ad ascoltare quel che ci è stato appena detto, sembra che non si stiano verificando problemi, sembra che tutto stia filando liscio nell'erogazione di questa carta del docente. Facciamo così, io mi limito ad elencare solo i fatti e a raccontare un po' quello che tutti noi possiamo leggere, in questi giorni, nei giornali e nelle riviste di settore, poi, insieme, decidiamo se tutto sta andando bene o no.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 102, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. In questi giorni si è riaccesa la discussione rispetto al cosiddetto risiko bancario e, in particolare, rispetto a un'operazione sistemica: la scalata da parte di MPS a Mediobanca e presumibilmente, poi, il controllo di Generali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308936_19",
+      "politician_name": "MEROLA Virginio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Ci associamo alla richiesta del collega Benedetto Della Vedova, perché riteniamo che, su questo tema, sia necessaria un'informativa da parte del Ministero dell'Economia e delle finanze per chiarire e rendere meno opaco quanto è avvenuto finora.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308936",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. È in corso una preoccupante inchiesta della magistratura. Ovviamente, l'inchiesta procederà nell'autonomia della magistratura italiana e aspetteremo gli esiti di questa inchiesta. Ciononostante, le notizie pubbliche, quello che noi sappiamo e che leggiamo anche dai giornali, alimentano una forte preoccupazione da parte di tutti quanti noi. È per questo che sulle vicende dell'acquisizione, da parte di MPS, di Mediobanca è necessario, prima di tutto, che il Governo venga in Aula a rispondere al Parlamento della realtà delle cose, di quello che è accaduto in questi mesi. Il Ministro Giorgetti e la Presidente Meloni devono venire in Aula a rispondere al Parlamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, signor Presidente. Anche noi per unirci alle richieste dei colleghi e, in particolare, alla richiesta avanzata dal collega Della Vedova - che ha già avanzato, se non erro, nella Commissione competente - affinché sulla materia del risiko bancario si avvii un'indagine conoscitiva da parte della Camera che vada oltre la contingenza. A me non piace mai intervenire e chiedere la presenza del Governo o l'attivazione dei canali informativi al Parlamento da parte del Governo quando scattano delle inchieste sul piano giudiziario. Per fortuna noi possiamo anche rivendicare che su un aspetto particolare, che è quello dell'utilizzo del golden power da parte del Governo, siamo intervenuti con Matteo Renzi, ma anche con il capogruppo al Senato Borghi, ben prima che si aprisse la questione giudiziaria di questi giorni, perché nell'intervista del 29 maggio 2025 - quindi, di sei mesi fa - Matteo Renzi poneva il problema dell'utilizzo strumentale di questo strumento, che dovrebbe essere l'arma atomica e che è stato, invece, deciso immediatamente dal Governo. Ovviamente, tutto questo si aggiunge alle anomalie nella procedura che ha visto la cessione del 15 per cento di MPS nel giro di sette minuti. Ripeto: non parlo di cose giuste o non giuste giudiziariamente, di peso o non peso; parlo di anomalie sul piano procedurale che tali sono e tali sono state rimarcate da tutti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d305880_19",
+      "politician_name": "FRATOIANNI Nicola",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Intervengo per chiedere un'informativa urgente del Ministro degli Affari esteri, Antonio Tajani, sulla situazione di Gaza e della Cisgiordania. Domenica scorsa tre attivisti volontari italiani sono stati svegliati a calci e pugni, picchiati dall'ennesima iniziativa dei coloni israeliani, che praticano in Cisgiordania, ormai da molto tempo, una violenza sempre più impunita. Lo abbiamo detto molte volte in quest'Aula: non sono episodi che possono essere liquidati come il gesto di violenti isolati e non possono essere liquidati con un richiamo alla necessità che finiscano le isolate violenze di qualche colono. Sono il frutto di una strategia politica. Lo abbiamo - ripeto - detto molte volte quando, anche in solitudine, denunciavamo il rischio che, mentre si compiva il genocidio a Gaza, aumentasse in modo molto significativo la velocità con cui il Governo israeliano, i suoi apparati, l'IDF e l'Esercito israeliano praticavano la pulizia etnica e pianificavano la sostanziale annessione anche della Cisgiordania. Altro che “due popoli, due Stati”, altro che pace duratura!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "305880",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ci associamo alla richiesta al Ministro Tajani di venire a riferire in Aula. È successo un fatto molto grave: tre attivisti italiani sono stati feriti da coloni israeliani vicino a Gerico, in Cisgiordania. Circa 10 coloni israeliani hanno fatto irruzione mentre stavano dormendo, sapevano che si trattava di stranieri; se ne sono andati dicendo: non tornate più qui.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Anche il MoVimento 5 Stelle si associa alla richiesta di informativa al Ministro Tajani: che venga qui, che venga presto, a riferire sulle violenze, sulle aggressioni inaudite ai nostri connazionali che si trovavano in Cisgiordania nell'ambito di operazioni di volontariato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Per unirmi alla richiesta di informativa urgente e per aggiungere che è un peccato che si debba giungere, come era successo nel caso di padre Romanelli, ad avere vittime “più vicine a noi”, tra virgolette, perché italiane, perché cristiane, per occuparci di un tema che, però, va avanti non solo dall'inizio di questa guerra, ma ben da prima: il tema dei coloni e dei soprusi che giornalmente questi coloni effettuano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Colleghe e colleghi, siamo qua a richiedere la presenza in Aula del Ministro Crosetto. Le parole dell'ammiraglio della NATO Cavo Dragone sono per noi gravissime e spero lo siano per tutti voi, perché parlare di un cambio di strategia e valutare anche un attacco ibrido preventivo fa tremare i polsi. Ecco, questo significa, di fatto, legittimare l'idea di una guerra permanente, di una guerra fredda liquida. Però, quello che ci chiediamo oggi è: perché l'ha fatto? I casi sono due, colleghi: o voleva gettare nel panico le cancellerie europee e il vostro Governo, che tace non a caso, oppure, forse, ha fatto una gaffe . E, allora, ci chiediamo come un ammiraglio possa guidare la NATO, perché lo chiedo a voi: siamo d'accordo, siete d'accordo a trasformare l'Alleanza atlantica in un'alleanza offensiva? Pensate di farlo senza una discussione in Parlamento? Pensate di farlo contro la nostra Costituzione? Perché, guardate, questa vicenda puzza. Infatti, qualsiasi attacco… Lo dico così, sommessamente, per chi vede da lontano: di solito, semmai davvero si dovesse fare, si fa e poi si sta pure zitti, almeno abbiamo visto così. E se non è così? Allora, ci chiediamo se tutto questo non sia molto più semplice. Allora l'ammiraglio stava facendo un'altra cosa: ogni volta che c'è un' escalation diplomatica, c'è qualcuno che qua fa saltare il banco e inizia un' escalation , un' escalation militare, di parole, e così quell'economia di guerra continua a fare il suo corso e si allontana ogni scenario possibile. Guardate, questa vicenda non c'entra niente con la deterrenza, questa è solo benzina sul fuoco.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Noi ci associamo alla richiesta di informativa del Ministro Crosetto, ma aggiungeremo anche della Presidente Meloni e del Ministro degli Esteri, e direi tutto il Governo, perché in quest'Aula non si dovrebbe parlare d'altro che non di come ci state portando in guerra (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Infatti, cosa c'è di più grande di questo argomento? E allora noi non ci stiamo più al giochino dialettico che oggi la Russia è una minaccia, mentre domani la Russia non ha neanche i carrarmati per invadere il Donbass ed è difficoltà: cioè, a seconda di come torna alla narrazione mediatica trattare la Russia, la Russia si tratta. Ma oramai il gioco dell'ipocrisia è stato svelato, e guardate… riguardo alle dichiarazioni di Cavo Dragone, Tajani come ha risposto? Ha detto: no, attenzione, è un problema di traduzione (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Noi abbiamo un Ministro degli Esteri che, di fronte a un ammiraglio della NATO, che dice, sostanzialmente, che dobbiamo passare all'attacco, dice: no, è un problema di traduzione. Signori, siamo a questo. Io, oramai, a quello che dice Tajani, onestamente, non ci sto più dietro, perché ogni giorno peggiora davvero la sua situazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). La guerra non la fanno i quarantenni e i cinquantenni. La guerra la fanno i ventenni, i venticinquenni e quelli che ora sono adolescenti. E voi gli state preparando un futuro di guerra (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d302818_19",
+      "politician_name": "GRAZIANO Stefano",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie Presidente. Per unirci alla richiesta di informativa del Ministro Crosetto, perché riteniamo che comunque le parole dell'ammiraglio Cavo Dragone siano parole che fanno riflettere, ma soprattutto perché è evidente che c'è un grado di condizione dei conflitti che è anche quello ibrido, ma è chiaro, è giusto, per quello che concerne il gruppo del Partito Democratico, che ci sia un'informativa compiuta di quello che sta accadendo, di quali siano le condizioni, di che cosa si prevede e come si immagina di dover confrontarsi con una condizione di questo tipo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "302818",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308929_19",
+      "politician_name": "SOUMAHORO Aboubakar",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Confermo, Presidente. Intervengo per chiedere un'informativa del Governo sulla situazione drammatica che si sta vivendo in Sudan. Oggi la regione del Darfur, in Sudan, è diventata l'epicentro della sofferenza umana. La guerra in corso, secondo le Nazioni Unite e secondo le organizzazioni umanitarie, ha causato la morte di oltre 150.000 persone. Sono 13 milioni le persone costrette a lasciare le proprie case in tutto il Sudan, tra cui oltre 3.300.000 rifugiati, spesso bambini, nei Paesi vicini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308929",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d307829_19",
+      "politician_name": "LOMUTI Arnaldo",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, grazie, Presidente. Ci uniamo anche noi alla richiesta di informativa del Ministro Tajani su quanto sta accadendo in Sudan, per via dell'intensificarsi degli scontri fra l'esercito regolare, con a capo Abdel Fattah al-Burhan, e le RSF, l'esercito paramilitare a guida Mohamed Hamdan Dagalo. La caduta della città di El Fasher ha aggravato ancora di più la crisi umanitaria. El Fasher è una città importante del Sudan, sotto assedio da 500 giorni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "307829",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per reiterare - ricordo che lo avevamo già fatto alcune settimane fa - la richiesta di un'informativa del Ministro Tajani sul dramma che sta vivendo il Sudan. Quindi, ci associamo alla richiesta del collega Soumahoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Intervengo anch'io, a nome del gruppo Alleanza Verdi e Sinistra, per associarci alla richiesta di informativa urgente del Ministro Tajani, come ha fatto oggi il collega Soumahoro, e come noi abbiamo già fatto settimane fa, perché riteniamo che non si possa rimanere silenti davanti a una catastrofe umanitaria della portata cui stiamo assistendo oggi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Anche noi ci eravamo associati, qualche settimana fa, alla richiesta di un'informativa del Governo e torniamo ad associarci - senza aggiungere altro e togliere tempo ai lavori - alla richiesta dell'onorevole Soumahoro, sposando le parole con le quali ha motivato, anche in questa occasione, la richiesta di informativa del Governo, e ovviamente anche alle considerazioni dei colleghi che mi hanno preceduto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308781_19",
+      "politician_name": "ONORI Federica",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Anche Azione si associa alla richiesta di informativa al Ministro Tajani, proposta dal collega Soumahoro. Quello che sta succedendo in Sudan merita un dibattito in quest'Aula. Noi abbiamo già presentato interrogazioni al Ministero degli Affari esteri, da cui parzialmente abbiamo ottenuto una risposta, ma crediamo che sia opportuno - e, quindi, ci associamo a questa richiesta - avere una discussione e un dibattito in quest'Aula, perché il tema della crisi umanitaria in Sudan sta emergendo nel più totale silenzio della comunità internazionale e questo non è degno di un Paese come l'Italia (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308781",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito dell'esame del disegno di legge n. 2574-A ​: Legge di delegazione europea 2025. Poiché tuttavia la Commissione bilancio non ha ancora espresso il parere di competenza, passiamo al successivo argomento all'ordine del giorno, che reca il seguito della discussione del disegno di legge n. 2423-A ​ in materia di consenso informato in ambito scolastico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Intervengo per un richiamo al Regolamento: mi riferisco all'articolo 8 e seguenti, signor Presidente. Io credo che è evidente che la Presidenza non possa fare altro, a termini di Regolamento, che prendere atto di questo mancato parere. Però, allo stesso tempo, credo sia giusto sottolineare che queste situazioni sono oggettivamente intollerabili. Noi abbiamo saputo del cambio dell'ordine del giorno - di fatto dello spostamento a domani, si spera, della legge di delegazione europea - qualche minuto prima dell'inizio dell'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Io intervengo per chiedere, a nome del mio gruppo, di votare sul rinvio in Commissione di questo provvedimento sul consenso informato per l'educazione sessuo-affettiva a scuola.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Sulla richiesta di rinvio in Commissione testé avanzata chiedo al relatore, deputato Rossano Sasso, di esprimere il proprio orientamento, ai sensi articolo 86, comma 7, del Regolamento. Aspettiamo che prenda posizione. Sulla richiesta di rinvio in Commissione testé avanzata qual è il parere del relatore su questa proposta?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). La ringrazio, Presidente. Intervengo per sostenere la richiesta della collega Piccolotti di rinviare il provvedimento in Commissione non solo per un ulteriore approfondimento, perché alla luce di quanto accaduto negli ultimi giorni, con questa lista degli stupri che è stata esposta in un liceo romano, si denota l'urgenza dell'educazione affettiva e sessuale nelle scuole, checché ne dicano il Ministro Valditara e la Ministra Roccella, che in queste settimane non hanno lesinato interviste varie e variegate sul tema per perorare la loro causa. L'uno, il Ministro Valditara, per perorare la lotta contro la cosiddetta propaganda o ideologia gender , come se discutere di identità di genere, discutere di relazioni o discutere di sessualità sia una questione di indottrinamento che si praticherebbe da parte di alcune associazioni all'interno delle scuole, ma anche per sfatare la ricostruzione, alquanto priva di fondamento, che la Ministra Roccella continua a fare, dicendo che non esiste alcuna correlazione tra l'educazione sessuale e affettiva e la prevenzione - il contrasto alla violenza sulle donne e, quindi, ai femminicidi -, adducendo che servono dei dati scientifici per dimostrare questa correlazione, come se noi oggi, ad esempio, ci mettessimo a discutere che la mancata produttività industriale nel nostro Paese, che è ferma da circa 31 mesi, è collegata al basso livello di scolarizzazione e, quindi, al numero di laureati che abbiamo nel nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signor Presidente. Per unirmi alla richiesta presentata dalla collega Piccolotti di ritorno del provvedimento in Commissione, alla luce anche di quanto avvenuto - cosa molto grave - al liceo “Giulio Cesare” nei giorni scorsi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 2423-A ​: “Disposizioni in materia di consenso informato in ambito scolastico” e delle abbinate proposte di legge nn. 2271 ​ e 2278.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Riprendo il filo, a venti giorni dalla piazzata del Ministro dell'Istruzione e del merito - anzi, il merito lo lasciamo un attimo da parte, soprattutto il suo -, che in quest'Aula ha accusato l'opposizione di raccontare bugie e poi se ne è andato. Noi, invece, ribadiamo la verità e, cioè, che con questa legge il Ministro Valditara, anche oggi assente, porta l'Italia in direzione opposta rispetto a quella di colmare il gap con altri 20 Paesi europei, che hanno l'educazione sessuale obbligatoria a scuola, perché, anziché introdurla, mette ostacoli alle scuole che vogliono adempiere al dovere pubblico di offrire a studenti e studentesse quel diritto ad una educazione piena, che è anche, a detta di tutti…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …il primario strumento di contrasto alla violenza sulle donne, come si è visto chiaramente anche nel dibattito e negli esempi di esperienze positive che sono emerse in queste tre settimane (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Noi chiediamo, con questo emendamento, rispetto per le scuole e per gli strumenti di flessibilità e di autonomia didattica e organizzativa, chiediamo rispetto per le famiglie, per le persone, per le nuove generazioni, per la funzione di comunità educante delle scuole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Abbiamo ripreso i lavori su questo provvedimento. Noi speravamo che il tempo passato portasse consiglio, invece continuate a occuparvi di scuola per far caccia alle streghe in modo ideologico oppure per sottrarre risorse, come avviene nella finanziaria e nella mancata risposta a questi emendamenti. Di fatto, con questo provvedimento togliete ai giovani il diritto a una formazione affettiva e sessuale libera e consapevole, con un fondamento scientifico, ma che possa consentire loro di vivere una vita basata sul rispetto e sulla conoscenza dell'altro. Di fatto, con questo provvedimento voi condannate il Paese all'analfabetismo relazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. È passata qualche settimana e siamo ancora qua a chiedere delle scuse pubbliche da parte del Ministro. E guardate, ogni emendamento è buono, anche questo, perché, quando si arriva in Aula, si sbotta, si dice che si è pronti al dialogo e poi si scappa, forse il modo migliore è venire qua, ascoltare gli emendamenti e provare a capire se c'è un punto d'incontro. E, invece, l'unica cosa che abbiamo ascoltato, Presidente, sono parole infamanti contro questo Parlamento, tra l'altro, poi, smentite dal Ministro stesso, che si è accorto che quelle frasi non sono mai state dette qui (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Noi insistiamo chiedendo l'approvazione di questo emendamento, perché penso che dopo l'atteggiamento del Ministro Valditara e, direi di più, anche dopo la gravità delle parole del Ministro Nordio - che sostiene che, di fatto, la violenza sia insita nel DNA degli uomini -, anche la maggioranza dovrebbe accettare il fatto che l'educazione sessuo-affettiva è necessaria, a partire dalle scuole della prima fascia. Quindi, noi chiediamo che un'ora aggiuntiva per l'educazione sessuo-affettiva sia indispensabile, che servano risorse adeguate e che non si possa vincolare questa attività al consenso dei genitori (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. L'approvazione di questo emendamento è particolarmente importante, perché l'attuale testo, con l'attuale formulazione, richiede alle scuole di organizzare le attività alternative, quelle a cui dovrebbero partecipare gli studenti e le studentesse ai quali i genitori abbiano negato il consenso, partendo dai propri strumenti di flessibilità e dalle proprie risorse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d307202_19",
+      "politician_name": "SPORTIELLO Gilda",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento riguarda proprio l'organizzazione che si vorrebbe dare, o comunque si tenta di andare a modificare quella non-organizzazione che si prevede all'interno di questo testo di legge. Perché? Perché ancora una volta, senza investire risorse, si rimanda e si pone il carico di nuovo sulla scuola, chiedendo alla stessa di supportare e sopportare l'introduzione di questo disegno di legge. Chi lo ha scritto non è mai entrato in una scuola, non sa di cosa ci sia bisogno né quanto siano già oberate le scuole né quanto ci sia ancora da lavorare. Per cui, crediamo che sia la dimostrazione, ancora una volta, che evidentemente non si hanno bene in mente quali siano le priorità quando si vuole intervenire sulla scuola. Per questo, noi chiaramente chiediamo di votare…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "307202",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308891_19",
+      "politician_name": "ROGGIANI Silvia",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie. Abbiamo presentato questo emendamento perché, come noto, noi pensiamo e siamo convinti che serva un'educazione sessuo-affettiva, e lo abbiamo chiesto e fatto presente in tantissimi emendamenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308891",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Sì, Presidente, un minuto per esprimere il mio voto favorevole a questo emendamento che vuole evitare che l'offerta della formazione in materia sessuale e affettiva diventi una mera opzione; e, attraverso la cancellazione delle parole relative agli “strumenti di flessibilità e di autonomia didattica e organizzativa”, vuole dare un livello di cogenza all'educazione affettiva e sessuale. Per cui è un emendamento che va assolutamente nella direzione - che il MoVimento 5 Stelle afferma - della necessità di prevenire la violenza, di attuare politiche che favoriscano la parità di genere e il rispetto tra le persone, anche di diverso sesso, mediante un'idonea formazione che deve essere fornita nelle scuole. Per cui il mio voto sarà favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308869_19",
+      "politician_name": "MARI Francesco",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. L'emendamento si propone di cancellare questa idea un po' bislacca di garantire - “mediante i propri strumenti di flessibilità e di autonomia didattica e organizzativa” - la fruizione delle attività alternative. C'è un piccolo problema: gli strumenti di flessibilità e di autonomia didattica e organizzativa molto spesso non esistono nelle scuole, quindi non c'è proprio la possibilità materiale di fare queste attività. E quindi è un modo surrettizio - diciamo così - di indurre le scuole, le famiglie, gli studenti a non andare incontro a quella che invece è davvero una necessità (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308869",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d307306_19",
+      "politician_name": "ROSSI Andrea",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Al netto della discussione culturale che possiamo fare sul tema dell'educazione sessuo-affettiva, se stiamo all'emendamento - e lo andiamo a leggere in modo puntuale -, non si fa altro che chiedere, in pratica, che la scuola faccia quello che deve fare, ossia garantire non tanto secondo i propri strumenti di flessibilità, ma garantire la fruizione di attività formative, come giustamente ricordava prima il collega Mari. Occorre togliere la dimensione della possibilità, perché già comunque le scuole operano all'interno della propria autonomia e, quindi, occorre togliere un inciso che riteniamo superfluo in questo testo, stando proprio al punto dell'emendamento (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "307306",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per dichiarare il voto favorevole su questo emendamento che va ad evidenziare una delle tante vulnerabilità di questo disegno di legge su cui - ormai è chiaro - siamo ampiamente contrari. Ma questo va a sottolineare proprio uno dei rischi, oltre a quelli evidenti dell'impianto, che ne può conseguire: ovvero, l'organizzazione di qualsiasi attività alternativa - rispetto a quelle per cui i genitori imporrebbero un divieto ai propri figli - cade totalmente sulle istituzioni scolastiche, senza che queste abbiano strumenti in più, risorse in più. Insomma, noi Stato creiamo a voi scuola notevoli difficoltà, non vi diamo neanche gli strumenti per affrontarle. Quindi quello che probabilmente avverrà è che chi malauguratamente non potrà seguire dei percorsi rimarrà senza far nulla (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Avevo anch'io sperato che questi 20 giorni ma, soprattutto, il dibattito scaturito dalla sceneggiata fatta in quest'Aula dal Ministro dell'Istruzione, avessero portato consiglio. Le testimonianze emerse, i moltissimi esempi di percorsi di educazione all'affettività e alla sessualità, fortunatamente portati avanti in tante scuole italiane, hanno dimostrato che non solo c'è la possibilità, ma c'è anche il bisogno e il bisogno si è manifestato molto in questo periodo; e direi che l'esempio che è stato prima portato dalle colleghe sull'ignobile elenco di ragazze da stuprare del liceo romano grida forte l'urgenza di questo intervento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie. Per tornare sull'emendamento che abbiamo presentato e che è frutto, tra l'altro, di alcune sollecitazioni che, per esempio, i dirigenti scolastici hanno espresso nel corso delle audizioni in Commissione. Noi chiediamo risorse, perché le scuole possano svolgere le attività formative e alternative, risorse che, come sempre - questa è una costante con questo Governo -, questo Governo, appunto, non assicura, dicendo alle scuole che, di fronte agli studenti che non otterranno il consenso da parte delle proprie famiglie, per mettere in campo attività alternative le scuole si dovranno arrangiare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308891_19",
+      "politician_name": "ROGGIANI Silvia",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Purtroppo, questo sabato, a Milano, c'è stato l'ennesimo stupro in centro, all'uscita da una discoteca, ad opera di un ragazzo italiano di 22 anni nei confronti di una sua coetanea. Abbiamo letto sui giornali parole di alcuni esponenti, presenti in quest'Aula, di Fratelli d'Italia, milanesi, che, a fronte di questa insicurezza dilagante, chiedevano più misure e più pene. Non potevano prendersela con il migrante di turno, del resto, e, quindi, hanno dovuto ricalibrare un po' il comunicato stampa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308891",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d307202_19",
+      "politician_name": "SPORTIELLO Gilda",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Allora, che ci fosse la possibilità che qualcuno potesse sottrarsi all'educazione sessuo-affettiva nelle scuole non l'abbiamo deciso noi, lo avete deciso voi. Non si spiega, allora, come mai non vi siate chiesti: bene, cosa faranno i ragazzi e le ragazze, i bambini e le bambine che non potranno assistere, far parte, partecipare all'educazione sessuo-affettiva nelle loro scuole? Avete scaricato sulle scuole, demandate a loro il problema, senza offrire alcuna soluzione e, quel che è peggio, non avete previsto neanche lo stanziamento di qualche risorsa per poter dare gli strumenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "307202",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sì, le considerazioni che ha fatto la collega sono più che pregevoli. In effetti, manca proprio un punto che bisognava affrontare in questo testo normativo: cosa faranno i ragazzi che non aderiscono ai programmi di educazione sessuo-affettiva? Viene scaricato sulle scuole, che - e c'è un inciso, peraltro, che, secondo me, è assolutamente superfluo nel testo - dovrebbero organizzare “mediante i propri strumenti di flessibilità e di autonomia organizzativa e didattica”. Ma vivaddio, le scuole già hanno autonomia, quindi, questo inciso, già di per sé, è superfluo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). La sensazione è che state boicottando la stessa vostra riforma, fondamentalmente, non mettendo alcun tipo di risorse per eventuali attività didattiche alternative. Per coloro che non sceglieranno l'educazione sessuo-affettiva voi non mettete neanche un soldo e mettete in difficoltà la stessa autonomia delle scuole. Quindi, da questo punto di vista, è una specie di harakiri , questa vostra proposta, e sicuramente lo ha ben dimostrato Valditara con lo show che ha fatto la volta scorsa (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d307109_19",
+      "politician_name": "PERANTONI Mario",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Si, grazie, Presidente. Effettivamente, anch'io non posso che rimarcare quanto hanno già detto i colleghi in precedenza. Ovviamente, chiedo il consenso informato della collega Ferrari per sottoscrivere questo emendamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "307109",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Lei, quando prende l'autobus, il biglietto lo paga? Sì, perché un servizio pubblico comporta un costo, soprattutto se vuole essere efficiente. Qui, però, abbiamo un servizio che la scuola dovrebbe rendere, quello dell'educazione sessuale e affettiva ai ragazzi, e che dovrebbe essere sostenuto senza alcun costo. Il che vuol dire due cose: o non si fornisce affatto il servizio o non si fornisce un servizio di qualità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Sempre a titolo personale, per ribadire un aspetto. Questo emendamento, in realtà, non contraddice quella che è la vostra riforma, ma semplicemente dice di dare uno strumento concreto per poter attuare quello che stanno dicendo il Governo e la maggioranza. Non si mettono nemmeno le risorse per garantire questi studenti, che già sono penalizzati da una famiglia che gli dice di rinunciare ad avere un'educazione affettiva e sessuale, non dando la possibilità concreta alle scuole di offrire un'alternativa ed educarli perlomeno alla parità di genere: perché dobbiamo condannare questi ragazzi a non avere alcun tipo di formazione?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, l'avevo alzata la mano, pensavo di essere stato visto. Poi, se capiamo un meccanismo in cui c'è un feedback per capire se si è stati prenotati o meno, ben venga. Vado comunque al dunque.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Con questo emendamento, pur ribadendo che non condividiamo affatto l'intero impianto della legge, che di fatto è una regressione, una regressione significativa, noi chiediamo almeno di inserire, nelle attività formative alternative, il fatto che siano finalizzate al rispetto della parità di genere, al rispetto delle differenze, incluse quelle legate all'identità e all'espressione di genere, all'orientamento sessuale, alle caratteristiche personali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, a titolo personale per richiamare quello che, con questo emendamento, si voleva prevedere, visto che, anche da parte del Ministro, come ha tentato di ribadire nelle tante interviste rilasciate in questi mesi, le attività legate al rispetto della parità di genere e al rispetto delle differenze sono tematiche che interessano anche il Ministero. Su questo noi avevamo modellato il nostro emendamento e questa era la proposta contenuta all'interno del nostro emendamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Va bene, ce la possiamo fare. Innanzitutto, per chiedere, da parte mia, di sottoscrivere questo emendamento, che introduce dei concetti chiari e smaschera i motivi reali e lo scopo principale di questo provvedimento, ovvero quello di ostacolare, in tutti i modi possibili, che alle nuove generazioni venga insegnato quello che poi possono in realtà trovare nella realtà dei fatti, ovvero tutto questo provvedimento, tutto questo testo che è stato messo su, tutta questa discussione che stiamo portando avanti da tempo, in realtà nascono, su sollecitazioni ben precise, da determinate associazioni, che hanno paura che all'interno delle scuole si possa raccontare ai bambini, alle bambine, ai ragazzi e alle ragazze che nel mondo, nella nostra società, esistono delle coppie che sono formate da due donne, delle coppie che sono formate da due uomini, che, in alcune terribili società, addirittura queste coppie così formate possono avere dei figli e che, in alcuni casi estremi e terribili, addirittura si possa decidere di cambiare sesso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 576
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2025-12-02",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questo emendamento punta ad offrire a quegli studenti e a quelle studentesse a cui i genitori abbiano negato la possibilità di partecipare alle attività di educazione sessuo-affettiva comunque delle attività orientate al contrasto della violenza di genere e della violenza omofobica. Noi crediamo che questo emendamento vada approvato perché sarebbe il segnale che lo Stato e la scuola non si ritirano di fronte all'argomento, del tutto pretestuoso, che vuole che questi siano dei temi delicati da non trattare mai. Magari quel ragazzo non potrà, a causa dei suoi genitori, partecipare all'attività di educazione sessuo-affettiva, però potrebbe comunque partecipare ad attività che siano orientate a spiegare…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0576",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 576
+      }
+    }
+  ]
+}

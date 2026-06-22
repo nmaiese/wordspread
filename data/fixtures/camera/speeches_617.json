@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0617",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-02-17",
+    "title": "Assemblea — Seduta n. 617 del 2026-02-17",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 617
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 94, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Grazie, signor Presidente. Onorevoli deputati, siamo alla vigilia di nuove giornate cruciali per il futuro della Striscia di Gaza e del Medio Oriente. Per questo, con il Presidente del Consiglio, abbiamo ritenuto importante avere questa occasione di confronto con il Parlamento per riferire sull'azione che il Governo sta portando avanti nell'impegno senza sosta per la pace e la stabilità del Medio Oriente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d302867_19",
+      "politician_name": "BERGAMINI Deborah",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Signor Ministro, colleghi, lo scenario internazionale che stiamo vivendo ci impone un grande realismo, ci impone la capacità di aderire alla realtà e di rinunciare ad ogni pregiudizio ideologico, perché siamo di fronte ad una crisi, quella mediorientale, che scuote le fondamenta stesse della sicurezza globale e della tenuta di tutti i valori umanitari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "302867",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d302867_19",
+      "politician_name": "BERGAMINI Deborah",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Abbiamo accolto con favore l'impegno costante degli Stati Uniti per il cessate il fuoco a Gaza. Al di là della postura che ogni movimento politico possiede e matura nei confronti dell'Amministrazione Trump, al di là di alcuni aspetti critici che su molti frangenti la conduzione dell'attuale Presidenza americana sta dimostrando, è innegabile, non possiamo proprio negarlo, il contributo decisivo che ha saputo portare alla stabilizzazione del Medio Oriente, dopo quasi due anni di una guerra atroce e di un nodo che sembrava non risolvibile, anche a causa di una certa inefficacia delle organizzazioni multilaterali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "302867",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d302867_19",
+      "politician_name": "BERGAMINI Deborah",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). …oltrepassando molti pregiudizi. Quindi, noi rispediamo al mittente questa concezione miope e stretta e continuiamo a lavorare come abbiamo sempre fatto, costruttori di pace per una pace stabile in Medio Oriente (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE e di deputati del gruppo Fratelli d'Italia).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "302867",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). La ringrazio, signor Presidente. Signor Ministro, la politica estera…la politica non bisognerebbe mai farla per slogan, ma la politica estera ancora di più. È complessa. Noi siamo qui consapevoli che non è facile assumere decisioni in politica estera e che le scelte che ha davanti il nostro Paese sono complicate, perché il quadro è complicato. Tre cose. La prima: per noi, pace e stabilità tra Israele e Palestina e la nascita della Palestina sono obiettivi che vengono prima del resto. Riconosciamo anche a Trump di aver costruito le condizioni per far cessare i bombardamenti; non far cessare le morti, purtroppo, perché a Gaza ancora si continua a morire e a sparare, ma gli riconosciamo di aver fatto questo. Non è questo in discussione. Però, il percorso poi si è arenato. Si è arenato per tanti motivi. Il primo motivo per cui si è arenato è per le modalità con cui questo Board of Peace è stato costruito. Non è stato costruito in base alle risoluzioni delle Nazioni Unite, che dicevano molte altre cose, ma sulla base della motivazione che questo non è altro che un comitato d'affari. È un comitato d'affari nella predisposizione dei rendering delle ristrutturazioni che vogliono fare, di come verranno le spiagge, di come verrà impostata la nuova città che viene costruita non per chi abita lì. Non c'è una ricostruzione. C'è una costruzione che va a prescindere da chi abita lì.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). …e anche autorevolezza sul campo (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe e di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Vice Premier Tajani, onorevoli colleghi, prima di tutto fermiamoci un momento a guardare la realtà: a Gaza i bambini crescono tra i conflitti, continuano a morire, le famiglie vivono nella paura e intere generazioni sono senza futuro. Questa, purtroppo, è la drammatica realtà quotidiana che ci impone di agire con prudenza ma con decisione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). L'Italia ha competenze, esperienza e credibilità. Partecipare al Board of Peace in una forma, quella dell'osservatore, compatibile con la Costituzione significa poter dare il proprio contributo alla stabilizzazione dei territori, proteggere i civili e garantire che la ricostruzione non sia solo infrastrutture, ma sviluppo e futuro per le nuove generazioni palestinesi. Anche senza potere decisionale formale, la nostra presenza è politica, strategica e molto pragmatica. Essere presenti significa mettere la nostra storia, la nostra credibilità e la nostra esperienza al servizio di una pace che vogliamo sia concreta e non rimanga una scritta in una bandiera da sfoggiare alle manifestazioni in piazza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307436_19",
+      "politician_name": "MAGI Riccardo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Ministro Tajani, lei non ci ha detto nulla sull'oggetto di queste comunicazioni, sul motivo per cui oggi eravamo qui ad ascoltarla. Ci ha detto che è importante che l'Italia continui ad occuparsi di Medio Oriente, ci ha raccontato di alcune iniziative lodevoli, che abbiamo politicamente anche sostenuto, di carattere umanitario del nostro Paese. Non ci ha detto nulla sulla partecipazione dell'Italia a questo Consiglio di pace. Avremmo voluto sentire un Ministro degli Esteri che ci chiariva… che si chiarisse, intanto, cos'è questo organismo. Questo organismo è un organismo che nasce come emanazione, neanche dell'amministrazione Trump, ma proprio della persona di Trump che ne è presidente a vita, oltre il termine del proprio mandato presidenziale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307436",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307632_19",
+      "politician_name": "CENTEMERO Giulio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, signor Presidente. Onorevoli colleghi e signori membri del Governo, la discussione odierna si colloca in un contesto internazionale nuovo, complesso e per molti versi inedito. L'Amministrazione americana ha scelto di esplorare strade innovative per sbloccare una crisi che da troppo tempo resiste a ogni tentativo tradizionale di soluzione. I metodi del Presidente Trump possono suscitare stupore in alcuni perché introducono nella politica internazionale schemi che ricordano il mondo del business , più che quello della diplomazia classica, ma proprio perché le strade convenzionali si sono spesso arenate, sarebbe sbagliato liquidare a priori questo tentativo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307632",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308243_19",
+      "politician_name": "PROVENZANO Giuseppe",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Signor Ministro, siamo andati un po' fuori tema, perché la pace in Palestina e il Board of Peace sono cose diverse e sempre più lontane. Eppure, ne dobbiamo parlare, perché c'è una domanda che mi assilla in questi giorni e su cui forse dovremmo interrogarci tutti: qual è il limite, Ministro? C'è un limite? Fino a che punto siete disposti a spingere l'Italia nelle relazioni internazionali pur di compiacere Donald Trump?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308243",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308885_19",
+      "politician_name": "MAULLU Stefano Giovanni",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Grazie, signor Ministro, soprattutto per avere ricordato a tutti coloro che probabilmente hanno un'amnesia collettiva che noi siamo il primo Paese in termini di aiuti dopo la strage del 7 ottobre, siamo gli unici che hanno portato un contributo fattivo in quella terra martoriata dai terroristi di Hamas. E la proposta di questo Board , che è stato poi formalizzato, rientra a pieno titolo e in maniera assolutamente diretta e collegata nel dibattito che si è sviluppato proprio dopo quella strage, dopo il 7 ottobre, all'interno delle Nazioni Unite.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308885",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Onorevoli colleghi, Ministro Tajani, signori tutti del Governo, io vi ho ascoltati con attenzione. Ho ascoltato lei, signor Ministro, e gli interventi della sua maggioranza. E alla fine, in sintesi, uso uno slogan che avete detto voi stessi. Ci state dicendo “meglio essere osservatori che spettatori”, come se non ci fossero alternative. Ecco, io capisco che dal vostro punto di vista, quello di chi è abituato a fare il follower , le due alternative siano queste. Siete stati spettatori all'insediamento di Trump, siete stati spettatori a Mar-a-Lago di un docufilm sulle elezioni precedenti, e quindi vi sembra già una promozione essere osservatori, ma c'è un'alternativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministro, l'ho ascoltata attentamente. Ho ascoltato anche gli interventi dei colleghi di maggioranza. Ma davvero ci vuole vendere quella che è la più grande operazione coloniale del ventunesimo secolo come un'operazione di pace per il martoriato popolo palestinese? Proprio voi che non avete mai speso (Applausi dei deputati del gruppo MoVimento 5 Stelle) , in tre anni, una sola parola a difesa del popolo palestinese e una sola parola di condanna ferma contro il Governo genocidiale di Israele. Presidente, mi permetta, questa è un'operazione vera e propria di colonialismo. Potremmo parlare di un colonialismo 5.0. Insomma, siamo passati dall'immobilismo dell'Occidente all'immobiliarismo di Donald Trump ed è scandaloso (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307143_19",
+      "politician_name": "ZIELLO Edoardo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Grazie, Presidente. Signor Ministro, noi siamo favorevoli all'ingresso dell'Italia all'interno del Board poiché chiaramente, se non si è al tavolo, si è in automatico nel menù e anche per creare un organo in grado di superare il fallimento clamoroso dell'ONU, le cui sedi, tra l'altro, soprattutto nella Striscia di Gaza, hanno dimostrato di avere falle incredibili, perché sono state utilizzate dai terroristi di Hamas per porre in essere azioni ostili e terroristiche ai danni della popolazione palestinese e israeliana, che noi condanniamo con forza (Applausi dei deputati Pozzolo e Sasso) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307143",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Signor Ministro, appare di tutta evidenza ormai - se c'era qualche dubbio adesso non lo abbiamo più - che il Governo Meloni, di fronte al neo-feudalesimo trumpiano, ha dichiarato fedeltà al sovrano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308940_19",
+      "politician_name": "LOPERFIDO Emanuele",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente, Ministro, colleghi. Ministro, sorrida pure perché c'è una coalizione di centrodestra che sostiene fortemente quanto questo Governo sta facendo per la serietà di questo Paese, per la serietà della storia di questo Paese e per la serietà di tutti coloro i quali, in questi anni, hanno lavorato per la stabilità del Medio Oriente (Applausi dei deputati del gruppo Fratelli d'Italia e di deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308940",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che sono state presentate le risoluzioni Orsini, Calovini, Billi, Carfagna ed altri n. 6-00235 e Schlein, Conte, Fratoianni, Bonelli, Richetti, Boschi e Magi n. 6-00236 . I relativi testi sono in distribuzione (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . La ringrazio, signor Presidente. Io ho ascoltato molte critiche legittime, non condivisibili da parte mia e da parte del Governo, però il dibattito parlamentare serviva e serve anche a questo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Signor Presidente, mi pare la difficoltà di avere delle argomentazioni, perché io non ho ascoltato nessuna controproposta. Io ho detto che, secondo me, non esistevano altre alternative a quella che stanno realizzando gli Stati Uniti in questa situazione, ma non ho ascoltato una proposta alternativa (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare) in questo dibattito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Grazie. Voglio dire che ha deciso di partecipare alla riunione di Washington la Commissione europea - cito parole testuali del portavoce - per partecipare alla discussione su Gaza, non essere membri, ma sedere al tavolo della discussione. Partecipare alla discussione su Gaza, non essere membri, ma sedere al tavolo della discussione: questo è italiano ed è tradotto dalla dichiarazione del portavoce (Commenti di deputati del gruppo Partito Democratico-Italia Democratica e Progressista) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Signor Presidente, se non posso rispondere perché danno fastidio le risposte ( Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra) … io comprendo bene, signor Presidente (Applausi dei deputati dei gruppi Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE)…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Parteciperà anche il Governo di Cipro, che ha la Presidenza di turno dell'Unione europea, quindi le due istituzioni europee insieme al Rappresentante speciale per il Medio Oriente. Poi parteciperanno Paesi come la Romania, la Slovacchia, la Croazia, la Grecia e l'Austria (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra - Proteste di deputati dei gruppi Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE)…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Vorrei ricordare altri Paesi: Albania, Argentina, Armenia, Azerbaigian, Bahrein, Cambogia, Egitto, El Salvador, Indonesia, Kazakistan, Kosovo, Pakistan, Paraguay ( Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra - Proteste di deputati dei gruppi Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . A parte gli attacchi, legittimi, al Presidente Trump e al Board of Peace , non ho sentito una parola di proposta (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra). Cosa bisogna fare? No, per carità, attendo un rapporto scritto dell'opposizione per sapere quali sono le proposte per il futuro della Palestina.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Presidente, io non ho interrotto nessuno (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra - Proteste di deputati dei gruppi Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE)…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Si è nervosi quando mancano le idee e le proposte, perché si strilla ( Commenti di deputati dei gruppi Partito Democratico-Italia Democratica Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Serietà è far parlare gli altri, democrazia è far parlare gli altri e non interrompere (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE). Questa è la democrazia. Forse, qualche lezione di democrazia dovreste apprenderla ( Commenti di deputati dei gruppi Partito Democratico-Italia Democratica Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . …qualche lezione di democrazia servirebbe. Comunque, a proposito di scodinzolare, noi non andavamo a scodinzolare attorno alla signora Merkel, sottovoce, al bar, per dire: “Ci penso io a tenere buoni gli altri” (Applausi dei deputati dei gruppi Fratelli d'Italia e Forza Italia-Berlusconi Presidente - Commenti di deputati dei gruppi Partito Democratico-Italia Democratica Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra ). Comunque, lasciamo perdere. Per quanto riguarda…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308838_19",
+      "politician_name": "TAJANI Antonio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro degli Affari esteri e della cooperazione internazionale . Per quanto riguarda, signor Presidente, le due proposte, il Governo dà parere favorevole alla risoluzione n. 6-00235 e dà parere contrario alla risoluzione n. 6-00236 (Applausi dei deputati dei gruppi Fratelli d'Italia e Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308838",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Ministro, non si adombri per qualche interruzione, la sua attuale Presidente del Consiglio ci ha campato per delle legislature. Non c'è niente di offensivo (Applausi dei deputati del gruppo Misto-+Europa). Vede, Ministro, noi voteremo “no” alla risoluzione di maggioranza a cui lei ha detto “sì” perché si basa, semplicemente, su un falso presupposto, cioè quello che il Board of Peace, di cui stiamo discutendo oggi sia il Board of Peace della risoluzione 2803.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d306005_19",
+      "politician_name": "FARAONE Davide",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Sinceramente, al contrario dei miei colleghi di opposizione che hanno attaccato il Ministro Tajani, le vorrei esprimere solidarietà, Ministro, perché lei è stato mandato qui in Aula, diciamo da una Presidente MAGA, a rinnegare tutta la sua storia, tutto quello che ha detto in una carriera di esponente politico di Forza Italia, una carriera da europeista.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "306005",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, signor Presidente. Signor Ministro, dico sin da subito che voteremo favorevolmente, come Noi Moderati, alla risoluzione di maggioranza sulle comunicazioni del Ministro degli Affari esteri. Mi permetto solo un'osservazione per poi dare le ragioni per cui il nostro voto sarà convinto proprio in base ai nostri ideali, alla nostra visione politica, al fatto che siamo europeisti convinti e che sosteniamo da sempre un multilateralismo che però abbia la capacità di rinnovarsi e di ritornare a giocare un ruolo strategico. Siamo convinti che essere costruttori di pace e di dialogo vuol dire anche saper tradurre in azioni concrete che cosa vuol dire costruire la pace e il dialogo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d305880_19",
+      "politician_name": "FRATOIANNI Nicola",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signor Ministro degli Esteri, all'inizio della sua replica, un po' piccato, si è rivolto a noi dicendo: se vi danno fastidio le mie risposte, non parlo. Allora, vorrei dirglielo subito, in modo molto chiaro: non ci danno fastidio le sue risposte, risponda come vuole. Ciò che, invece, ci indigna è l'incredibile superficialità di un discorso completamente vuoto, privo di ogni riferimento al merito della questione. Non ha detto nulla sulla natura del Board of Peace e sul ruolo del nostro Paese dentro quel consesso. Neanche una parola, ma una serie di frasi vuote e cariche di retorica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "305880",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d305880_19",
+      "politician_name": "FRATOIANNI Nicola",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). …e gradirei che lei facesse lo stesso. L'onestà intellettuale, sì, non ha avuto l'onestà intellettuale (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) di dire su queste parole chiare. Allora, torniamo però al punto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "305880",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d305708_19",
+      "politician_name": "RICHETTI Matteo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Ministro, io vengo da un dibattito con un collega della maggioranza che, a un certo punto, mi ha detto “ma tanto per voi dell'opposizione questo Governo non ne fa una giusta, quindi di che stiamo a parlare”. Io penso che la cosa, purtroppo, sia molto peggio. È che, quando ne fate una giusta, la fate per sbaglio e venite qui a spiegarci… Il bilaterale con la Germania aveva aperto una speranza in chi, come me e come lei, si professa europeista, perché quel bilaterale, dopo anni di Europa a trazione franco-tedesca, ha fatto dire a diversi analisti: beh, c'è l'Italia che gioca un ruolo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "305708",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Salutiamo le studentesse e gli studenti, le docenti e i docenti dell'Istituto di istruzione superiore “Cambi-Serrani” di Falconara Marittima, in provincia di Ancona, che partecipano oggi alla giornata di formazione a Montecitorio. Grazie di essere qui e benvenuti (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministro, non le abbiamo fatto proposte? Gliele rielenco: riconosciamo lo Stato della Palestina; interrompiamo ogni rapporto militare ed economico con Israele durante il genocidio; arrestiamo Netanyahu perché perseguito dalla Corte penale internazionale; non ci asteniamo all'ONU alle risoluzioni di condanna del genocidio (Applausi dei deputati del gruppo MoVimento 5 Stelle) ; evitiamo di fare con ENI affari dopo che Israele stava facendo un genocidio; perseguiamo Israele per aver bombardato una barca battente bandiera italiana con a bordo gli attivisti della Flotilla . Queste erano un po' di proposte. Sugli Stati Uniti gliele ribadisco le proposte: evitare di prendere il gas a quei prezzi e mandare all'aria le nostre imprese; evitare di firmare accordi per il 5 per cento del PIL comprando armi negli Stati Uniti prima di ricevere dei sonori schiaffoni con i dazi che ha messo Trump. Queste erano un po' di proposte. Aveste fatto così, ci potevate anche andare a quel Board . Ci sareste andati veramente con la schiena dritta. Adesso ci andate con lo stesso atteggiamento che avete avuto fin dall'inizio: come complici (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Questo è il punto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …e questa è la dimostrazione che, se la metà dei governanti europei avesse usato la stessa determinazione, la stessa ferocia che usa per criticare un video artefatto dell'Albanese, se lo avesse fatto per criticare chi ammazzava i bambini per strada, oggi probabilmente non avremmo 70.000 morti (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Allora, quel popolo, quel popolo che manifestava per la pace era filo-putiniano, che manifestava contro il genocidio era filo-Hamas. Oggi il popolo che manifesta è addirittura fiancheggiatore delle nuove Brigate rosse ed è una vergogna e un insulto alle vittime delle Brigate rosse dire così (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Quel popolo vi ha fatto paura, quello che manifestava pacificamente e ha manifestato pacificamente per settimane e io sono assolutamente convinto che molti di voi, quando hanno visto quell'azione infame e vigliacca nei confronti del poliziotto a terra a Torino, sono stati contenti perché finalmente potevate bollare un intero popolo come violento (Applausi dei deputati del gruppo MoVimento 5 Stelle - Proteste dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare) - Il deputato Cannizzaro: “ Presidente, lo deve richiamare, è una provocazione! ”) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …come violento! E vi ha dato modo, vi ha dato modo di creare una giustizia (Applausi dei deputati del gruppo MoVimento 5 Stelle - Proteste dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier e Forza Italia-Berlusconi Presidente-PPE) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …una giustizia dove, se ti arrestano prima dell'interrogatorio, ti avvisano cinque giorni prima; se, invece, vuoi andare a manifestare magari ti fermano, perché presuppongono che tu commetta un reato. Questa è la giustizia che volete. Sapete di chi è questo esempio? Di Nicola Gratteri, una persona di cui io sottoscrivo tutte le parole che ha detto in questi giorni (Applausi dei deputati del gruppo MoVimento 5 Stelle - Proteste dei deputati del gruppo Fratelli d'Italia) , tutte le parole…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d300299_19",
+      "politician_name": "ORSINI Andrea",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). …per l'onorevole Riccardo Ricciardi che ha espresso, direi, al meglio il sentire profondo del gruppo MoVimento 5 Stelle (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "300299",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d300299_19",
+      "politician_name": "ORSINI Andrea",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). …orgogliosa del fatto che sia proprio il nostro leader , Antonio Tajani, a rappresentarla con autorevolezza, equilibrio e visione, dimostrate oggi, come le ha dimostrate in tante altre occasioni di questi mesi difficili (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "300299",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307602_19",
+      "politician_name": "FORMENTINI Paolo",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Abbiamo ascoltato, per ore, gli insulti rivolti alla maggioranza, una maggioranza che umilierebbe il nostro Paese, addirittura un'onta, Ministri che scodinzolano davanti a Trump: cose che davvero non possiamo accettare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307602",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308930_19",
+      "politician_name": "SCHLEIN Elly",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Signor Ministro, eludere la Costituzione è come violarla. La scelta che siamo chiamati, oggi, a discutere e a votare, non è una scelta tecnica, ma è una scelta politica ed è una scelta istituzionale, la partecipazione dell'Italia e solo dell'Italia, evidentemente, come osservatrice al Board of Peace di Trump.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308930",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Salutiamo le ragazze e i ragazzi, i docenti e le docenti del Liceo classico statale “Nicola Spedalieri” di Catania, che assistono ai nostri lavori dalle tribune. Grazie di essere qui, benvenuti a Montecitorio (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308799_19",
+      "politician_name": "FILINI Francesco",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, onorevoli colleghi, prima dell'intervento mi sia consentito in questa sede ringraziare, ancora una volta, il Governo di Giorgia Meloni per il contributo straordinario che in questi due anni ha dato fattivamente per la popolazione di Gaza (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308799",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). …con la risoluzione del 17 novembre, e qui stiamo parlando di un contesto in cui il tradizionale strumento ONU è pesantemente delegittimato perché è stato pesantemente infiltrato dagli estremisti, tramite l'UNRWA e tramite le vergognose dichiarazioni di Francesca Albanese (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare) . Quindi, l'ONU non è uno strumento, per sua stessa ammissione, che può funzionare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308822_19",
+      "politician_name": "POZZOLO Emanuele",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Grazie, signor Presidente. Signor Ministro, onorevoli colleghi, l'ONU è in letargo permanente da tanti anni e se i risultati dell'ONU sono le dichiarazioni della signora Francesca Albanese, dell'ONU l'Italia, l'Europa e l'Occidente possono ampiamente farne a meno (Applausi del deputato Ziello – Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) . L'ONU si è dimostrata in questi anni completamente incapace di intervenire, anche minimamente, in tutte le relazioni e situazioni internazionali belliche più importanti. E quindi che cosa accade nella storia? Accade quello che è successo nel 1919, accade quello che è successo nel 1945. Accade che qualcuno si incarica di proporre strumenti diversi, si incarica di proporre infrastrutture diplomatiche diverse. È esattamente il Board of Peace . La Società delle Nazioni prima, l'ONU poi. La Società delle Nazioni che non è riuscita ad evitare la Seconda guerra mondiale; l'ONU che, sicuramente, se siamo onesti, non è riuscita a raggiungere gli obiettivi che si era prefissa nel 1945.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308822",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "(Il Presidente e, con lui, l'intera Assemblea si levano in piedi) . Colleghi e colleghe, ricordiamo oggi, nel centesimo anniversario della sua morte, Piero Gobetti, scomparso a Parigi il 16 febbraio 1926 a soli 24 anni. Figura di spicco del panorama intellettuale italiano del primo dopoguerra, appena diciassettenne fondò la rivista Energie Nove , concepita come uno spazio per stimolare nuove idee e rappresentare le aspirazioni e il pensiero dei giovani. Aderì successivamente ai “Gruppi d'azione degli amici dell'Unità”, partecipando a Firenze al primo congresso degli unitari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). “Era un giovane alto e sottile, disdegnava l'eleganza della persona, portava occhiali a stanghetta, da modesto studioso: i lunghi capelli arruffati dai riflessi rossi gli ombreggiavano la fronte”: così Carlo Levi tratteggiò l'immagine di Piero Gobetti, infaticabile editore e saggista, che, nella sua breve esistenza - era nato nel 1901 -, ha lasciato un segno profondo nella storia della cultura italiana del Novecento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308888_19",
+      "politician_name": "DI MAGGIO Grazia",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Oggi quest'Aula ricorda Piero Gobetti a 100 anni dalla sua morte. Un giovane intellettuale torinese, editore, giornalista, animatore culturale, che in pochi anni seppe ritagliarsi un ruolo significativo nel dibattito politico e sociale dell'Italia del suo tempo. Morì a soli 24 anni, un'età in cui normalmente si inizia a immaginare il proprio futuro, a costruire il proprio cammino. Visse quegli anni con un'intensità straordinaria, dedicandosi alla scrittura, all'editoria e alla riflessione politica e culturale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308888",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d302980_19",
+      "politician_name": "MACCANTI Elena",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, oggi ricordiamo, a 100 anni dalla sua scomparsa, Piero Gobetti, una figura profondamente legata alla storia civile e culturale della mia città, Torino. In questi giorni Torino lo ricorda con affetto e un grande orgoglio. Proprio ieri al Teatro Carignano, alla presenza del Presidente della Repubblica, si sono aperte le celebrazioni del centenario, un percorso di iniziative ed eventi che dureranno un intero anno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "302980",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d300299_19",
+      "politician_name": "ORSINI Andrea",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor Presidente, onorevoli colleghi, l'omaggio che oggi l'Aula di Montecitorio rende a Piero Gobetti è l'omaggio a una delle figure più complesse, più intellettualmente raffinate, più eticamente rigorose della cultura italiana del Novecento. Nella sua breve vita fu un punto di riferimento per molta parte del mondo intellettuale italiano, che trovò spazio e voce nelle riviste da lui pubblicate. I suoi fecondi rapporti intellettuali con figure come Einaudi, Gramsci, Prezzolini e Salvemini ne dimostrarono non soltanto la grande apertura intellettuale ma la profonda capacità di cogliere e interpretare le più forti sensibilità culturali del Novecento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "300299",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Cento anni fa, in questi giorni, si spegneva a Parigi Piero Gobetti che in soli 25 anni di vita è riuscito a diventare un pezzo della nostra storia, della storia italiana. Vede, Presidente, si sa, il rischio degli anniversari è quello di ridurre il tutto a un qualcosa di retorico o addirittura si rischia spesso di dire o far dire all'eroe il contrario, magari, di quello che pensava o diceva davvero quando era in vita. Però, vede, con Gobetti non è proprio possibile: la radicalità del suo pensiero rende impossibile non essere coerenti e capaci nel ricordare che cosa ci ha lasciato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Onorevoli colleghe e colleghi, oggi ricordiamo Piero Gobetti, un giovane che, in pochi anni di vita - una vita stroncata dai pestaggi dei fascisti -, ha lasciato un'eredità politica e morale che continua a interrogarci.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Piero Gobetti morì fra il 15 e il 16 febbraio 1926, non aveva nemmeno 25 anni, e fa un po' impressione in un'epoca in cui si diventa adulti, come oggi, che si è già vecchi. Ma il segno dei tempi non basta a spiegare quella precocità che lo ha portato, tra i 18 e i 24 anni, a fondare Energie Nove , La Rivoluzione liberale , Il Baretti e una casa editrice; scrisse centinaia di articoli, saggi e lettere. “Il prodigioso giovinetto”, lo definiva Norberto Bobbio, come se la giovinezza non fosse per lui una stagione della vita, ma una postura morale di radicalismo, intransigenza e passione. Quelli che alzano le spalle e sorridono di fronte agli entusiasmi dei figli contro ogni cinismo, anche contemporaneo: ecco, fu Gobetti a vedere, nell'avvento del fascismo, quel compiersi dell'autobiografia della Nazione in quel celebre articolo del 23 novembre 1922. Era proprio all'indomani della marcia su Roma. E Gobetti leggeva la presa del potere di Mussolini come la sintesi di tutti i vizi che, accumulati nel processo di formazione dell'Italia unita, le impedivano di diventare un Paese civile. È una reazione piccolo-borghese quella che lui legge, è la crisi del sistema liberale e l'ascesa del movimento operaio. Criticava ferocemente l'involuzione conservatrice del liberalismo storico per quello che chiamava il suo “liberalismo rivoluzionario”. A Torino, appunto, si dice intrattenne un costante dialogo, anche nella diversità, con l' Ordine Nuovo di Gramsci, e il suo liberalismo era guidato dalla speranza che nuove classi popolari ravvivassero la lotta con la loro disperata volontà di evoluzione. Combattere il fascismo fu l'impegno di tutto il pensiero e di tutta l'azione di Piero Gobetti: contrastare “quell'altra Italia” patria del notabilato tardo-liberale corrotto, opportunista e trasformista, che aveva preferito spalancare la porta alle nuove barbarie pur di non rispondere alle domande delle lotte del lavoro. Fu perseguitato da quel regime, quel regime che diceva: rendere la vita impossibile e difficile a Gobetti. Ecco, Gobetti, come dice Zagrebelsky, espresse nel modo più chiaro la posizione di chi non si adegua, eppure era un patriota - patriota -, non un nazionalista, non un patriottardo, ma un dissidente che voleva suscitare un risveglio collettivo, contro ogni unità che separa e taglia fuori i rami secchi, gli elementi non conformi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 617
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2026-02-17",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Onorevoli colleghe e onorevoli colleghi, a 100 anni dalla scomparsa di Piero Gobetti, ricordiamo non soltanto una figura luminosa dell'antifascismo italiano, ma una coscienza critica che ha attraversato il Novecento lasciando un'eredità ancora viva nella nostra democrazia. Gobetti ha condensato, in una vita troppo breve, un'intensa attività intellettuale: fondatore di riviste come Energie Nove , La Rivoluzione liberale e Il Baretti , ha tessuto una rete di idee che sfidavano il nascente fascismo con la forza del pensiero libero.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0617",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 617
+      }
+    }
+  ]
+}

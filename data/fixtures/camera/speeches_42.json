@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0042",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-01-24",
+    "title": "Assemblea — Seduta n. 42 del 2023-01-24",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 42
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 80, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo alla interpellanza all'ordine del giorno Ciocchetti n. 2-00035 (Vedi l' allegato A ) . Chiedo al deputato Ciocchetti se intenda illustrare la sua interpellanza o se si riservi di intervenire in sede di replica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d35980_19",
+      "politician_name": "CIOCCHETTI Luciano",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Buongiorno, Vice Ministro. Il tema che ho sollevato è particolare: si riferisce alla situazione del Grande raccordo anulare di Roma, che ha sempre avuto un grande livello di manutenzione, ma che, tuttavia, si è andato perdendo negli ultimi anni, causando difficoltà nei suoi svincoli e nelle sue stesse carreggiate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "35980",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307298_19",
+      "politician_name": "BIGNAMI Galeazzo",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministro delle Infrastrutture e dei trasporti . Grazie, Presidente. Ringrazio anche l'onorevole Ciocchetti che, con la sua interpellanza, ci consente di evidenziare la situazione riguardo al tratto di strada e agli svincoli di cui ha parlato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307298",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d35980_19",
+      "politician_name": "CIOCCHETTI Luciano",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, sono soddisfatto della risposta perché credo importante questo intervento straordinario sugli svincoli, che, in qualche modo, ANAS dovrebbe curare un po' di più. Quindi, rivolgo un appello al Ministero affinché faccia una verifica più accurata sulla gestione della manutenzione di ANAS, soprattutto sulle arterie che sono frequentatissime, come il Grande raccordo anulare e sui suoi svincoli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "35980",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, la ringrazio con molta motivazione, poiché credo che la risposta fornita dal Sottosegretario Gemmato di sicuro ricostruisce interamente quanto accaduto e questo mi fa dire che sono soddisfatto per l'onestà intellettuale della ricostruzione. Sono soddisfatto nonostante che la risposta dica ma non riesca a risolvere il problema che è stato rappresentato con l'interrogazione. Vorrei dire che esprimo solidarietà nei confronti del Sottosegretario, che è stato costretto a ricostruire un capolavoro di disordine, di distrazione e anche di sciatteria nella condotta istituzionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307332_19",
+      "politician_name": "GEMMATO Marcello",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Salute . Grazie, Presidente. Ringrazio il collega Squeri per il quesito. In merito alla questione delineata dall'atto ispettivo in esame, l'Agenzia del farmaco ha comunicato quanto segue. La tracciabilità del farmaco è un aspetto di particolare rilevanza nell'ambito della gestione farmaceutica. Proprio al fine di consentire il monitoraggio, nell'intero ciclo distributivo, dei medicinali immessi in commercio in Italia, con il decreto del Ministro della Salute del 15 luglio 2004 è stata istituita presso l'AIFA una banca dati centrale, finalizzata a monitorare le confezioni dei medicinali all'interno del sistema distributivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307332",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d306214_19",
+      "politician_name": "SQUERI Luca",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie Presidente. Grazie sottosegretario, mi dichiaro soddisfatto. Come sappiamo, il regolamento delegato (UE) 2016/161 della Commissione ha istituito per i Paesi dell'Unione un nuovo sistema per la tracciabilità dei farmaci, obbligatorio dal 9 febbraio del 2019. Si tratta di un sistema che si basa sulla stampa di codici sulle confezioni dei farmaci e su una parziale registrazione nei punti della filiera e che si applica solo su una parte dei farmaci immessi in commercio. L'Italia ha ricevuto una deroga fino al 9 febbraio del 2025, proprio in virtù del fatto che era già in possesso di un sistema di tutela efficace, basato sul bollino farmaceutico. Infatti, l'attuale sistema italiano di anticontraffazione e tracciabilità dei farmaci ad uso umano, costituito dall'integrazione di un database gestito dal Ministero della Salute e del bollino farmaceutico, garantisce all'Italia da quasi vent'anni la tracciabilità completa delle singole confezioni ed è già pienamente integrato in tutti i punti della filiera farmaceutica italiana: aziende di produzione e distribuzione, punti di dispensazione, come farmacie e ospedali, nonché Aifa, Ministero della Salute e Ministero dell'Economia e delle finanze.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "306214",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307464_19",
+      "politician_name": "MONTARULI Augusta",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Università e la ricerca . Onorevole Barzotti, io la ringrazio per il quesito che ha posto e che evidenzia un episodio, su cui ovviamente il Ministero ha posto la propria attenzione ed era a conoscenza. I necessari chiarimenti all'Università di Pavia, di fatto, sono stati richiesti immediatamente dal MUR, sia per quanto riguarda la specifica vicenda relativa alla studentessa coinvolta sia per la problematica generale, in ordine alla disponibilità di mense universitarie liberamente accessibili agli studenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307464",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ringrazio molto la sottosegretaria Montaruli per la risposta che ha fornito oggi alla mia interrogazione, però non posso ritenermi soddisfatta dalle argomentazioni che sono state poste, non tanto rispetto all'organizzazione e allo sforzo profuso dall'Università di Pavia circa l'inserimento e il garantire il diritto allo studio degli studenti con disabilità all'interno dell'università, perché conosco l'università e so che lo sforzo è continuo e assolutamente di qualità; il problema, qui, però, è alzare il livello del dibattito e andare un po' più al cuore della questione. Come lei giustamente ha detto, Sottosegretaria, qui si tratta della più ampia problematica di garantire il diritto allo studio, l'inclusione e le pari opportunità degli studenti con disabilità all'interno delle università italiane.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo alle interrogazioni Fenu ed altri n. 3-00118 e Giagoni n. 3-00119 che, vertendo sullo stesso argomento, saranno svolte congiuntamente (Vedi l' allegato A ). La Sottosegretaria di Stato per l'Università e la ricerca, Augusta Montaruli, ha facoltà di rispondere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307464_19",
+      "politician_name": "MONTARULI Augusta",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Università e la ricerca . Presidente, attesa la sostanziale identità delle questioni rappresentate con le interrogazioni nn. 3-00118 e 3-00119 , con il consenso dei presentatori, mi accingo a rendere una risposta congiunta ai quesiti posti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307464",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io ringrazio la Sottosegretaria, però non solo non mi ritengo soddisfatto, ma sono anche stupito di quella che è stata la risposta, che sicuramente avrà risalto - lo spero e me lo auguro - anche nei quotidiani, almeno regionali, di domani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308770_19",
+      "politician_name": "GIAGONI Dario",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie signora Sottosegretaria per queste preziose e utili precisazioni. Le sue dichiarazioni, oltre ad avere il merito di implementare le informazioni circa questa importante tematica, hanno messo ancora più in evidenza la piena consapevolezza dell'attuale Esecutivo nazionale circa il grande valore che riveste quest'ambizioso progetto, che ci garantirà un vero e proprio approdo verso una nuova era.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308770",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 81, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno avere luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di cinque e venti minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 761: Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signor Presidente. A poche ore dallo sciopero indetto dai benzinai, che, purtroppo, determinerà un ulteriore rialzo del costo dei carburanti, siamo a richiedere come mai la Presidente del Consiglio non abbia ritenuto di dover dare disponibilità alla nostra richiesta di venire a riferire in Aula, richiesta che è stata formulata in questa sede. Aggiungo, Presidente, che, nel corso dell'ultima Conferenza dei capigruppo, il gruppo parlamentare del MoVimento 5 Stelle ha anche richiesto che la Presidente venisse a rispondere alle interrogazioni, ex articolo 135- bis del Regolamento. Ha ritenuto di non dover dare disponibilità nemmeno per rispondere al question time.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307250_19",
+      "politician_name": "RICCIARDI Riccardo",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie. Quindi ci si chiede cosa fare. Noi cosa fare lo proponiamo e lo diciamo. Dov'è il protagonismo dell'Europa e dell'Italia nel chiedere una conferenza di pace in maniera seria e di avviare un tavolo di trattative? Questo chiediamo. In tutta risposta, ci sentiamo dire: continuiamo a inviare armi e poi vediamo cosa succede, magari Putin si stanca. Perché questa è la strategia che si sta portando avanti. E, allora, vedete, non lo dice un professore universitario, un ‘filoputiniano', un figlio dei fiori. Il Capo di Stato maggiore degli Stati Uniti, a novembre, ha detto: signori, se noi pensiamo che questa guerra si concluderà con una vittoria militare da parte di qualcuno, stiamo sbagliando. Lo dice il Capo di Stato maggiore degli Stati Uniti, non lo dice nessun altro. E noi cosa facciamo? Non ci interroghiamo su quello che accadrà? Allora, qua sono a dire: oggi stiamo votando questa cosa. Vorremmo avere rassicurazioni e che il nostro Governo si pronunciasse su questo: che non ci saranno mai in futuro richieste di invio di truppe, perché è uno scenario che, purtroppo, molti analisti stanno, in qualche modo, prevedendo. Oggi parliamo di armi, domani di cosa parleremo? Di una guerra totale giocata sulle spalle degli ucraini? Sulle spalle degli ucraini in una guerra che dovrà vedere cosa? Qual è lo scenario? Quindi, chiediamo sempre maggior dibattito in quest'Aula, perché è troppo importante per noi e per tutto il mondo che un Parlamento si esprima e, soprattutto, che prenda una posizione. Siamo troppo supini, e l'Italia, che ha una tradizione straordinaria dal punto di vista diplomatico e di relazioni internazionali, purtroppo, sta giocando solamente la parte del comprimario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307250",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307643_19",
+      "politician_name": "PEREGO DI CREMNAGO Matteo",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Difesa . Grazie, Presidente. Sugli ordini del giorno n. 9/761/1 Onori, n. 9/761/2 Gubitosa, n. 9/761/3 Pellegrini e n. 9/761/4 Baldino il Governo esprime parere contrario. Sull'ordine del giorno n. 9/761/5 Lomuti il Governo esprime parere favorevole previa riformulazione, che leggo: al termine del primo impegno “una decisa e forte azione diplomatica volta a verificare le condizioni per un immediato ritiro delle truppe russe ed il cessate il fuoco”. Ordine del giorno n. 9/761/6 Cappelletti, parere favorevole, previa riformulazione: a conclusione del terzo impegno, dopo le parole “compresi quelli delle minoranze” aggiungere le seguenti: “e al diritto all'indipendenza, integrità territoriale e sovranità dell'Ucraina”. Ordine del giorno n. 9/761/7 Ciani, parere favorevole. Ordine del giorno n. 9/761/8 Dori, parere contrario. Ordine del giorno n. 9/761/9 Graziano, parere favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307643",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Brevemente, il decreto-legge di conversione di cui ci occupiamo, che è stato approvato, in prima lettura, l'11 gennaio scorso, dispone la proroga fino al 31 dicembre 2023 dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamento in favore dell'Autorità governativa dell'Ucraina.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Facevo riferimento, poc'anzi, all'invio delle batterie SAMP/T per il contrasto alle minacce aeree e ai missili balistici a corto raggio. La Difesa ha in servizio operativo 5 batterie di difesa aerea di questo tipo e una batteria di addestramento e il costo complessivo di ciascuna batteria è di circa 750 milioni di euro. A nostro parere, inviare una unità del sistema missilistico comporterebbe una notevole diminuzione della capacità di difesa aerea italiana a breve raggio e, soprattutto, costi ingentissimi, sia per il reintegro di questo sistema d'arma in tempi brevi sia per il trasporto dello stesso in Ucraina. A nostro parere, perseverare con questi invii ulteriori di armi alle autorità ucraine comporterebbe un depauperamento delle scorte degli armamenti in dotazione alla Difesa e, quindi, un serio rischio per la difesa nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Brevemente, solo per dire che non mi stupisce il parere contrario del Governo a quest'ordine del giorno perché è perfettamente coerente con la linea politica che hanno intrapreso da cento giorni a questa parte: aumentare la spesa in armamenti e diminuire la spesa sociale, in un momento di crisi economica e sociale così delicato, a cui si aggiunge anche il caro carburanti determinato dalle scelte scellerate di questo Governo. Allora, Presidente, con quest'ordine del giorno chiediamo - avremo modo di porre la questione domani al Ministro Crosetto che verrà finalmente a rendere le linee programmatiche in Commissione difesa - che il Governo si impegni a diminuire e, quindi, ad adottare le opportune iniziative per una graduale diminuzione delle spese in armamenti, proprio per far fronte ad una maggiore spesa sociale dovuta al tragico periodo storico che stiamo vivendo, a svantaggio, purtroppo, delle famiglie e delle imprese italiane.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307643_19",
+      "politician_name": "PEREGO DI CREMNAGO Matteo",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Difesa . Al termine del primo impegno: “una forte azione diplomatica volta a verificare le condizioni per un immediato ritiro delle truppe russe ed il cessate il fuoco”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307643",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, accetto la riformulazione e chiedo comunque che sia posto ai voti affinché l'intera Aula si esprima in merito a questo impegno importante e solenne. Pur essendo un ordine del giorno - e tutti ne conosciamo le limitazioni - impegna il Governo ad adoperarsi finalmente per la convocazione di una conferenza per la pace, nonché a perseguire, in ogni sede utile, la ricerca del dialogo per un negoziato politico. Per questo motivo credo sia importante anche sottolineare l'impegno del Governo con una votazione da parte di tutta l'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Chiedo al Governo di modificare il parere espresso, perché si chiede soltanto un rigoroso controllo e tracciamento delle forniture militari per evitare che l'ingresso di mezzi, materiali ed equipaggiamenti militari in Ucraina avvenga ad opera di intermediari fuori dal controllo delle autorità governative dell'Ucraina. Se, ripeto, volete inviare armi, almeno impegnatevi a garantire, a pretendere trasparenza rispetto a chi vengono consegnate. Secondo l'Interpol almeno una parte del materiale bellico potrebbe, infatti, finire nel mercato nero, gestito dalla criminalità organizzata, rischiando di alimentare un commercio di armi leggere e pesanti in tutto il mondo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307643_19",
+      "politician_name": "PEREGO DI CREMNAGO Matteo",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Difesa . Il parere è contrario perché questo tipo di attività ovviamente è già svolta dal Governo insieme agli alleati che concordano le tipologie di sistemi da inviare e il percorso logistico degli stessi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307643",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Non ho compreso: se il Governo si è appena espresso dicendo che il Governo farà esattamente quello che il nostro ordine del giorno propone, mi pare allora di avere capito che il parere sarà favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308782_19",
+      "politician_name": "TIRELLI Franco",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Signor Presidente, onorevoli colleghi, oggi ci troviamo a ribadire la volontà di sostenere l'invio di mezzi, materiali ed equipaggiamenti militari in Ucraina, per aiutarla a difendersi dall'aggressione russa, iniziata quasi un anno fa. Prestiamo fede così agli impegni presi già a quel tempo, all'inizio del mese di marzo, quando la Camera approvò una risoluzione per far sì che il Governo adottasse, con le modalità più rapide e tempestive, tutte le azioni necessarie per assicurare assistenza umanitaria, finanziaria, economica e di qualsiasi natura, nonché la cessione di apparati e strumenti militari che consentano all'Ucraina di esercitare il diritto alla legittima difesa e di proteggere la sua popolazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308782",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d305880_19",
+      "politician_name": "FRATOIANNI Nicola",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Signor Presidente, non sfugge, credo, ad alcuno e ad alcuna di noi il carattere drammatico della vicenda di cui torniamo oggi a discutere. È il 24 gennaio e ricorrono, oggi, undici mesi da quando la Russia di Vladimir Putin ha scatenato la sua violenta aggressione armata nei confronti dell'Ucraina e, dunque, davanti a questo dramma ci misuriamo quando siamo chiamati e chiamate a definire un'iniziativa in grado, come tutti e tutte hanno sempre dichiarato, di raggiungere il medesimo obiettivo. Non è, lo voglio dire, qui, per me, per noi di Alleanza Verdi e Sinistra, in discussione ciò che tutti e tutte hanno sempre dichiarato, e cioè di voler raggiungere la pace, e non sarò dunque io - non l'ho mai fatto in questi mesi, intervenendo, come i colleghi e le colleghe ricorderanno, contro l'invio di armi all'Ucraina -, non saremo noi, ad accusare chi ha una posizione diversa di essere un cinico guerrafondaio. Sono qui e siamo qui, però, a ricordare - anche comprendendo il travaglio che attraversa ciascuno e ciascuna, il legittimo travaglio di fronte alle scene che raccontano ogni giorno, di un Paese martoriato dalle bombe, dai missili, quelli che cadono sui condomini abitati da civili - un doppio problema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "305880",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d300674_19",
+      "politician_name": "ROSATO Ettore",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). La ringrazio, Presidente. Questo dibattito è alterato da un'affermazione che io considero ipocrita - e lo dico con rispetto per chi la fa -, nel senso di fare un distinguo tra chi è per la pace e chi è per la guerra. Qui - l'ho già detto e continuo a dirlo - non riesco a individuare colleghi che sono per la guerra. Ci troviamo in una situazione che tutti noi consideriamo drammatica, difficile, resa tale da uno Stato che ha deciso di invadere, senza rispettare le regole internazionali, un suo vicino, e che sta usando tutti i tipi di attività politica, oltre quella militare, per continuare questo conflitto e non ha alcuna intenzione di smetterla. Di fronte a questo, la comunità internazionale, una coalizione molto larga, si è unita per sostenere il popolo ucraino e il suo Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "300674",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente Costa. Signor sottosegretario, onorevoli colleghi, ci ritroviamo qui a quasi un anno di distanza, da quando Forza Italia, in questo Parlamento, si schierò convintamente a sostegno dell'indipendenza dell'Ucraina e del suo valoroso popolo. Lo facemmo per varie ragioni, perché bisognava andare a difesa del diritto internazionale e da una brutale aggressione da parte della Russia. In quel momento, tutti – quindi, Governo, forze di maggioranza e il principale partito che, all'epoca, era all'opposizione - abbracciammo la causa giusta della libertà e ritenemmo che, nell'ambito della nostra appartenenza all'Alleanza atlantica e, prima ancora, dell'adesione intima e incondizionata alla Carta dei diritti fondamentali delle Nazioni Unite, fosse nostro preciso dovere opporci a quello che, nelle intenzioni della Federazione Russa, doveva essere un Blitzkrieg , una guerra lampo. Fummo d'accordo tutti, maggioranza e opposizione, nell'avviare sanzioni economiche nei confronti dello Stato invasore, accanto a misure di sostegno concrete di tipo umanitario ed economico e anche in termini di invio di materiale bellico. È passato, dunque, quasi un anno, tante parole sono state spese, tantissimi dibattiti sono stati fatti, troppe lacrime sono state versate. Presidente, le domande semplici che pongo a questa Assemblea sono: concretamente, rispetto a un anno fa, è cambiato qualcosa? L'invasione russa si è arrestata? L'esercito russo ha ripiegato verso i suoi confini? La Nazione ucraina è tornata a godere dei suoi diritti inviolabili, internazionalmente riconosciuti? Sono stati inviati da parte di Mosca timidi, ma concreti segnali di apertura alla diplomazia? A tutte queste domande, purtroppo, la risposta è una e una sola: no.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghe e colleghi, rappresentanti del Governo, fra pochi giorni sarà trascorso un anno dall'invasione russa dell'Ucraina. Un'invasione inaccettabile che ha violato il diritto internazionale e ha innescato una guerra, alle porte dell'Europa, che sta provocando migliaia di morti, atrocità e sofferenze di ogni tipo al popolo ucraino. Durante quest'anno la strategia dell'Occidente si è focalizzata sull'invio costante di armi e, così facendo, ci stiamo avvicinando pericolosamente allo scoppio di un conflitto ancor più vasto, magari con l'utilizzo di armi nucleari, come più volte ha minacciato di poter fare o di voler fare la Federazione Russa. Adesso invece servono negoziati di pace, non armi (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Fermatevi! Fermatevi prima che sia troppo tardi. In questi undici mesi l'Occidente ha recitato lo stesso copione, senza rendersi conto che ogni settimana che passa, oltre a inasprire il conflitto con ulteriori vittime e ulteriore devastazione, ci allontana da qualsiasi prospettiva concreta di pace.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307602_19",
+      "politician_name": "FORMENTINI Paolo",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie Presidente. Ho appena sentito di voci fuori dal coro, ma sarebbe bello che le voci fuori dal coro fossero sempre voci fuori dal coro e non a corrente alternata (Applausi dei deputati del gruppo Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307602",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie Presidente. Onorevoli colleghe e colleghi, rappresentante del Governo, fin dal 24 febbraio dello scorso anno, dall'inizio della guerra di Putin, il Governo italiano ha scelto di stare al fianco dell'Ucraina invasa, del suo popolo e del suo Governo ed il Partito Democratico non si è mai tirato indietro nel sostenerli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307511_19",
+      "politician_name": "CIABURRO Monica",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghe e colleghi, Sottosegretario, permettetemi di iniziare citando la nostra Costituzione in una dichiarazione che credo e auspico sia condivisa da tutti noi, nel suo articolo 11: l'Italia ripudia la guerra. Noi tutti ripudiamo la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali. Noi siamo qui, oggi, il 24 gennaio del 2023: quasi un anno fa, il 24 febbraio del 2022, ci siamo svegliati con quest'attacco da parte della Federazione russa ai danni dell'Ucraina. Credo che tutti noi, oggi, non vorremmo essere qui a parlare ancora di guerra e delle misure da mettere doverosamente in campo per difendere un popolo, aggredito da una Nazione, dalla Federazione russa che va a compromettere tutti i valori su cui la nostra Carta costituzionale si fonda. E proprio nell'ambito di questo dettato costituzionale l'Italia e questo Governo, un anno fa come oggi, sostengono il diritto naturale alla legittima difesa, proclamato nell'articolo 51 della Carta delle Nazioni Unite. Una difesa per l'appunto legittima, individuale o collettiva, esercitabile da ogni Paese aggredito che ne ha la possibilità. Noi tutti, ripeto, vogliamo la pace, ma la pace non è un qualcosa che si consegue così, dal nulla, mostrando una bandiera o proclamandola. La pace va vinta, la pace va conquistata e poi difesa; non può essere l'accettazione di uno status quo voluto da altri, secondo cui la sopraffazione deve diventare la nuova forza motrice dell'ordine internazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307511",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della proposta di legge, già approvata in un testo unificato dal Senato, n. 640-A: “Istituzione di una Commissione parlamentare di inchiesta sul femminicidio, nonché su ogni forma di violenza di genere” e delle abbinate proposte di legge nn. 602-702.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, intervengo per chiedere di sottoscrivere l'ordine del giorno anche a nome del gruppo del Partito Democratico, proprio perché riteniamo che la questione posta dalla collega Orrico sia particolarmente importante e significativa. Come tale lo sottoscriviamo (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo ordine del giorno semplicemente impegna il Governo ad astenersi dall'intraprendere iniziative volte a limitare la legge n. 194 ma anche a rimuovere gli ostacoli che impediscono l'esercizio di un diritto fondamentale. Questo parere contrario non è di certo un bel segnale, tenuto conto che, in campagna elettorale, la Presidente Meloni aveva promesso che non sarebbe stata toccata in alcun modo la legge n. 194 che in Italia disciplina l'aborto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. A nome del gruppo del Partito Democratico, chiedo di sottoscrivere questo ordine del giorno, perché siamo stupiti della risposta negativa che arriva dal Governo, stante il fatto che la Premier Meloni ha sempre ribadito che non avrebbe toccato la legge n. 194 se non per una sua applicazione completa - quindi, non in termini di retroguardia ma solo in termini avanzati - e la Ministra Roccella, nei giorni scorsi, ha dichiarato che le iniziative parlamentari depositate per riconoscere il concepito sono esclusivamente individuali e personali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Le premetto che, per argomentare la dichiarazione di voto su questo ordine del giorno, mi rifaccio ad una valutazione che si riferisce all'ordine del giorno votato precedentemente perché è funzionale a questa dichiarazione di voto, poiché, in quest'Aula, accadono cose surreali, signor Presidente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, chiederemmo cinque minuti di sospensione per poter esaminare meglio le argomentazioni che sono state prima formulate (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307855_19",
+      "politician_name": "OSTELLARI Andrea",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per la Giustizia . Io chiedo alla proponente se accetta una riformulazione di questo genere: espungiamo tutte le premesse, quindi diventa: “La Camera impegna il Governo (…)” e poi espungiamo anche le parole “sulla base dei lavori e delle risultanze della Commissione”, che a questo punto non c'entra. Quindi, il dispositivo diventa: “impegna il Governo ad astenersi dall'intraprendere iniziative di carattere anche normativo volte ad eliminare o limitare il sistema di tutele garantito dalla legge n. 194 del 1978”, e lì finisce l'impegno, espungendo tutto il resto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307855",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Accetto la riformulazione e chiedo che sia votato così come riformulato (Applausi dei deputati dei gruppi MoVimento 5 Stelle, Fratelli d'Italia , Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d302838_19",
+      "politician_name": "BRAMBILLA Michela Vittoria",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Signor Presidente, onorevoli colleghi, la Commissione d'inchiesta prevista dall'articolo 82 della nostra Costituzione è lo strumento più potente in mano al Parlamento per analizzare un fenomeno sociale ed elaborare una risposta politica adeguata. È quanto mai appropriato che ce ne serviamo oggi, questa volta coinvolgendo Camera e Senato, dinanzi all'emergenza del femminicidio. Il lavoro avviato dalle Commissioni monocamerali nelle precedenti legislature deve proseguire affinché il Parlamento, attraverso un'opera di raccordo e di costante interazione con tutti i soggetti coinvolti, continui a essere l'interlocutore privilegiato delle altre istituzioni e della società civile. L'attività di monitoraggio del fenomeno, di rigorosa e attenta raccolta dei dati, di verifica della normativa in materia e dell'adeguatezza dell'azione amministrativa, l'attività ispettiva anche su procedimenti e inchieste in corso presso l'autorità giudiziaria e tutte le altre azioni che la Commissione compirà secondo i poteri assegnati dalla legge istitutiva, faranno sentire alle tante donne vittime di violenza la vicinanza dell'istituzione parlamentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "302838",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d305580_19",
+      "politician_name": "GEBHARD Renate",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Grazie, Presidente. Il consenso all'istituzione della Commissione bicamerale d'inchiesta contro la violenza di genere, con particolare attenzione al tema del femminicidio, a nostro giudizio, deve essere così inteso: urgente, essenziale e fondamentale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "305580",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Signor Presidente, onorevoli colleghi e colleghe e signori del Governo, ogni giorno nel nostro Paese i media riportano terribili fatti di cronaca: donne stalkerizzate, vessate, picchiate e addirittura uccise da uomini che non accettano che possano fare scelte diverse rispetto a quello che la loro testa vorrebbe imporre, donne che non sono libere di gestire i propri soldi, che subiscono quotidiani abusi e che purtroppo molto spesso non hanno il coraggio di denunciare, perché la paura della ritorsione su di loro e sui propri figli è di gran lunga superiore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, gentili colleghi e colleghe, oggi votiamo un atto importante, credo più importante di quanto l'informazione e, spesso, l'opinione pubblica in generale non diano segno di considerare. L'istituzione di una Commissione speciale sul femminicidio e la violenza di genere significa, infatti, non solo dare a questo Parlamento, e, quindi, alla massima istituzione del Paese, la possibilità di continuare un lavoro prezioso fatto dalla stessa Commissione nella legislatura precedente, ma anche sottolineare un senso di urgenza, di drammaticità e persino di solidarietà nei confronti di tante che subiscono gli effetti di una piaga culturale che, come istituzione e forze politiche, abbiamo la grande responsabilità di combattere con tutti gli strumenti necessari e a nostra disposizione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d306379_19",
+      "politician_name": "DE MONTE Isabella",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Onorevoli colleghi, siamo chiamati all'istituzione della Commissione parlamentare d'inchiesta su un'emergenza diffusa, come quella della violenza sulle donne, della violenza domestica e, in generale, della violenza di genere, che, negli ultimi anni, ha continuato a svilupparsi nel nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "306379",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308852_19",
+      "politician_name": "PATRIARCA Annarita",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Onorevole Presidente, onorevoli colleghi, si dice spesso che il più grande alleato del crimine è la paura; non è vero, è il silenzio. Una donna che prova sulla propria pelle la violenza fisica o psicologica, esercitata da un familiare, da un marito, da un terzo, e non ha la forza e il potere di uscirne vivrà per sempre in una condizione di prigionia e di coercizione che ne fiaccherà lo spirito e il corpo fino ad annientarla. Ma se a questa donna consegniamo gli strumenti per poter chiedere aiuto, allora, possiamo sperare di salvarla, di restituirle quella vita che le è stata ingiustamente negata fino a quel momento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308852",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, care colleghe, cari colleghi, la costituzione di una Commissione parlamentare d'inchiesta sul femminicidio non solo è necessaria, ma è doverosa e i motivi sono sotto gli occhi di tutti, perché non passa settimana senza che la nostra coscienza sia sconvolta da femminicidi, stupri e violenze di cui le donne sono vittime. È un tragico bollettino di guerra che non accenna ad arrestarsi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308911_19",
+      "politician_name": "LOIZZO Simona",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie Presidente e grazie gentili colleghi. Nel dichiarare il voto favorevole del mio partito sull'istituzione della Commissione di inchiesta sul femminicidio, desidero svolgere alcune riflessioni. Spero che questa Commissione sia donna, spero che questa Commissione sia femmina, come dice l'onorevole Bongiorno e che soprattutto esprima la volontà di costruzione di qualcosa di rosa, come le albe che vedono nascere i nostri bambini, e non di rosso, come il rosso del sangue versato o come il rosso del codice rosso, che fortemente la Lega, al Governo nella precedente legislatura, ha voluto come legge (Applausi dei deputati del gruppo Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308911",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Signor Presidente, rappresentante del Governo, colleghi e colleghe, oggi ci troviamo in quest'Aula a essere protagonisti insieme di un fatto importante: l'istituzione di una Commissione bicamerale di inchiesta sul femminicidio e su ogni altra forma di violenza di genere. Si tratta di un fatto, io credo, storico, di una svolta importante che segna un passo in avanti per una Commissione che nasce nella XVII legislatura e che continua il suo lavoro in modo proficuo nella XVIII legislatura, con il lavoro diretto dalla presidente Valente, che ringrazio, insieme a tutti i colleghi del Senato per il lavoro che hanno svolto, perché hanno indagato e valutato 2000 fascicoli, fatto 200 audizioni, depositato relazioni e documenti. Oggi, questo patrimonio diventa un patrimonio di sapere comune da cui partire per continuare il nostro lavoro. Per volontà politica di tutto il Parlamento, oggi la Commissione diventa bicamerale. È un passo importante, un segnale di unità su un tema che tutto il Parlamento deve tenere al centro della propria agenda politica, in un percorso che deve continuare a vederci lavorare uniti. Certamente, è un fatto importante, ma è motivo di amarezza pensare che, ancora oggi, nel 2023, sia necessario continuare a indagare su di un fenomeno - nel documento parliamo di analizzare, valutare, verificare, accertare - e su fatti purtroppo quotidiani che evidenziano un contesto culturale che richiede tutta la nostra attenzione. Sì, perché vanno benissimo le celebrazioni, è giusto che celebriamo il 25 novembre, ma non basta; vanno benissimo le sensibilizzazioni e le panchine rosse posate in tutti i nostri parchi, ma non è sufficiente. Abbiamo bisogno di un impegno diverso, quotidiano, fatto di una sensibilizzazione costante, di uno sguardo nuovo per affrontare insieme un fenomeno drammaticamente diffuso, in Italia come nel mondo. Ha fatto bene la collega Ascari, in precedenza, a citare il coraggio delle donne iraniane che, con il loro motto “Donna, vita, libertà” hanno il coraggio di lottare e di alzare la testa contro un regime violento e autoritario. A loro e a tutte le donne che sono costrette a subire forme di violenza va il nostro pensiero e anche il nostro impegno. Quanto sia urgente continuare questo lavoro lo dicono ovviamente i numeri. Certamente, non sono numeri, parliamo di donne, parliamo di vite. Guglielmina, Mariangela, Giulia, Martina, Teresa, Jana sono solamente alcune delle donne che, tra il 2022 e il 2023, hanno perso la vita, spezzata spesso per amori finiti, uccise da partner che non hanno accettato la fine di una relazione. Il nostro è un Paese in cui muore una donna ogni tre giorni e, al tempo stesso, una donna su tre è interessata o ha conosciuto nella propria vita un fenomeno di violenza. Il 31,5 per cento di donne tra i sedici e i settant'anni ha subito una forma di violenza fisica, sessuale, verbale, psicologica o economica, spesso tra le mura domestiche. Per questo motivo sentiamo parlare di urgenza di una soluzione a questo problema, perché si tratta di drammi quotidiani, di volti di donne che passano sui nostri telegiornali, di fatti di cronaca che spesso leggiamo con superficialità e che troppo spesso non destano la sufficiente attenzione del nostro Paese. È una mattanza, è una ferita profonda che mina il nostro vivere insieme e le regole su cui si fonda una civile convivenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308935_19",
+      "politician_name": "DONDI Daniela",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, la violenza maschile a danno delle donne rappresenta, purtroppo, un fenomeno sociale diffuso, con ragioni culturali profonde, e non è un problema che attiene alle sole donne, ma anche agli uomini. Si tratta di un tema che, negli ultimi anni, ha assunto una portata sempre più centrale nel dibattito politico e sociale, alimentato da molteplici notizie di cronaca nera.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308935",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, sono stato informato che esiste un'intesa tra tutti i gruppi nel senso di passare direttamente all'esame del punto 4 dell'ordine del giorno, che reca il seguito della discussione della proposta di legge di ratifica del Protocollo aggiuntivo alla Convenzione contro il doping , fatto a Varsavia il 12 settembre 2002.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione della proposta di legge n. 585: Ratifica ed esecuzione del Protocollo aggiuntivo alla Convenzione contro il doping , fatto a Varsavia il 12 settembre 2002.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Presidente, molto velocemente, per dichiarare il voto favorevole del gruppo di Noi Moderati alla ratifica del Protocollo aggiuntivo alla Convenzione contro il doping . Il tema del doping è molto sentito, soprattutto in questo periodo. Abbiamo visto quanta sofferenza c'è stata in molti sportivi, quindi riteniamo essenziale ratificare il Protocollo. Quindi annuncio il voto favorevole del gruppo di Noi Moderati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Anch'io consegno, con il suo permesso, l'intervento. Sottolineo solo che si tratta di una ratifica del Protocollo aggiuntivo alla Convenzione contro il doping , fatto a Varsavia il 12 settembre 2002.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d307602_19",
+      "politician_name": "FORMENTINI Paolo",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Ho scelto di presentare questa proposta di legge perché mi sembrava doveroso concludere la ratifica del Protocollo aggiuntivo alla Convenzione contro il doping . Ovviamente raccolgo l'appello dell'onorevole Battilocchio, perché è chiaro che non ci possono volere vent'anni per ratificare. Già nella scorsa legislatura si era tentato di risolvere questo problema. Il mio auspicio è che si riesca tra tutti i gruppi a risolverlo perché davvero così è penoso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "307602",
+        "seduta": 42
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2023-01-24",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Qualche minuto lo voglio dedicare al mondo che conosco e che mi appartiene, quindi chiedo scusa ai colleghi, ma qualche cosa voglio dirla. Questo non è un momento facile per il mondo dello sport. Sono tante le nuvole all'orizzonte: alcune arrivate inaspettatamente, come la pandemia o il caro energia, che sta mettendo in ginocchio gestori di impianti sportivi e di impianti natatori, altre nerissime di cui ci stiamo accorgendo. Solo negli ultimi mesi abbiamo assistito all'arresto del procuratore capo degli arbitri italiani per un'incredibile vicenda di criminalità, ai Mondiali più ambigui e impresentabili dai tempi di Argentina 1978, a scontri criminali sull'autostrada A1 tra frange violente di tifoserie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0042",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 42
+      }
+    }
+  ]
+}

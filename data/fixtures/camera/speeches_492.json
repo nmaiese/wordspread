@@ -1,0 +1,760 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0492",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-06-12",
+    "title": "Assemblea — Seduta n. 492 del 2025-06-12",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 492
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 94, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che sono pervenute alla Presidenza petizioni, il sunto e l'assegnazione delle quali, ai sensi della deliberazione della Giunta per il Regolamento del 19 febbraio 2025, saranno pubblicati nell' allegato A al resoconto stenografico della seduta odierna (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Per chiedere urgentemente un'informativa al Ministro Tajani, ma soprattutto per chiedere al Ministro, alla Farnesina e all'ambasciatore italiano a Il Cairo di dare una risposta a questo Paese, perché nella notte gli attivisti giunti a Il Cairo per la Global March to Gaza sono rimasti svegli con i loro avvocati. Alcuni sono stati fermati, i loro passaporti ritirati. Altri sono stati rimpatriati, o meglio, deportati. Non avevano fatto nulla - lo dico in premessa - se non essersi avvicinati a una città, che è l'inizio, la partenza di una marcia pacifica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signora Presidente. Anche io mi unisco alla richiesta di un'informativa urgente, ma, prima ancora dell'informativa urgente, chiediamo un'iniziativa urgente da parte del Ministro Tajani, da parte del Governo. Qui c'è un'autorevole esponente del Governo, che interverrà dopo su altri argomenti, ma sappiamo molto bene cosa sta accadendo ora in Egitto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Per unirci, come MoVimento 5 Stelle, alla richiesta dei colleghi Grimaldi e Scotto di un'informativa urgente del Ministro Tajani rispetto a questo gruppo di attivisti, tra i quali ci sono anche cittadini italiani, che si trovano in questo momento a Il Cairo e che stanno subendo un rimpatrio forzato semplicemente perché hanno deciso di partecipare a questa marcia globale per chiedere la pacificazione, per chiedere lo stop ai crimini che si stanno commettendo nella Striscia di Gaza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di comunicazioni del Ministro del Lavoro e delle politiche sociali sulla sicurezza sul lavoro, ai sensi dell'articolo 14- bis del decreto legislativo 9 aprile 2008, n. 81.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d309044_19",
+      "politician_name": "CALDERONE Marina Elvira",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra del Lavoro e delle politiche sociali . Grazie, Presidente. Onorevoli, grazie per questa opportunità di rendere le comunicazioni. Quando la nostra Costituzione proclama che l'Italia è una Repubblica fondata sul lavoro, ci consegna anche il dovere di fare in modo che ogni posto di lavoro sia sicuro e dignitoso. Un dovere che, al di là dei rispettivi ruoli, degli specifici ruoli dei soggetti coinvolti, può essere assolto efficacemente solo se tutta la società avverte questo dovere come proprio e come prioritario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "309044",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d306008_19",
+      "politician_name": "GRIBAUDO Chiara",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Buongiorno Ministra, intanto chiedo a lei, a me stessa e a tutti noi di non parlare più di “morti bianche”, se possibile, perché allude all'assenza di causa specifica, di intenzionalità e di responsabilità. Posso dirle che, invece, in tutte le inchieste della Commissione che presiedo è ravvisabile sia una causa specifica, una responsabilità e spesso un'intenzionalità che, magari, se non era diretta a un infortunio mortale, era diretta a crearne tutte le condizioni. Allora Ministra, effettivamente, non sono morti bianche, sono morti ingiuste (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "306008",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d306008_19",
+      "politician_name": "GRIBAUDO Chiara",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). … agli stati generali su salute e sicurezza che abbiamo fatto alla Camera. Qui, c'è l'atto del convegno (La deputata Gribaudo mostra un libro) dove anche lei, Ministra, è intervenuta, dove abbiamo fatto un lavoro corale tra le parti. Cerchiamo, per favore, di non svilire questo Parlamento. Lei ha dato disponibilità all'ascolto, si passi alla pratica. La proposta della procura, la proposta di legge, c'è, così come ce ne sono altre.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "306008",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d306008_19",
+      "politician_name": "GRIBAUDO Chiara",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Discutiamole qui, non con decreti-legge d'urgenza e le fiducie (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Fateci lavorare e lavoriamo nell'interesse del Paese. Noi ci siamo, Ministra, perché dobbiamo difendere il lavoro…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "306008",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308925_19",
+      "politician_name": "TASSINARI Rosaria",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Signor Ministro, colleghi, intervengo in quest'Aula per esprimere, a nome di Forza Italia, il pieno sostegno alle comunicazioni del Ministro del Lavoro sul tema della sicurezza nei luoghi di lavoro. La sicurezza sul lavoro rappresenta una frontiera non più rinviabile della dignità della persona, della tutela della vita umana, della legalità e della giustizia sociale. Ogni infortunio, ogni vita stroncata, nel tentativo quotidiano di guadagnarsi da vivere, costituisce una ferita al cuore dello Stato, un fallimento collettivo delle istituzioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308925",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, gentile Ministra, lei in questi due anni e mezzo ha dato prova e, oggi, la riprova di essere una incrollabile ottimista. Ma, vede, quando tutto crolla - e i dati che le citerò lo dimostrano ampiamente - allora quell'ottimismo è scollegato dalla realtà e va considerato semmai sorridente irresponsabilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Quindi non sono perdonabili, non possiamo perdonarle tutti i record negativi che sta collezionando, penso ai NEET, coloro che hanno perso speranza nel futuro - lo dicevo, provavo a dirlo prima di essere interrotto -, penso al tasso di working poor , i lavoratori che non raggiungono la soglia di povertà, e penso proprio ai record di povertà che insomma sono figli dell'aver voluto cancellare il reddito di cittadinanza con misure largamente insufficienti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). …che lasciano questi morti sul lavoro, le sue soluzioni, Ministra, sono mortificanti. Di fronte al record di NEET, dei working poor , delle morti sul lavoro, oltre che per le vicende oscure che la riguardano, lei in un Paese normale sarebbe costretta alle dimissioni, dall'opinione pubblica e dai media , ma dalle nostre parti i cialtroni sono idoli di TV e stampa (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Abbiamo come Ministro la Santanche' che ha truffato l'INPS durante il COVID, una che si arricchisce spolpando le aziende che amministra e poi si vanta della sua ricchezza, imputando la colpa della povertà…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Noi le soluzioni le abbiamo presentate più volte e continueremo, ma quello che serve più di tutto è una legge sacrosanta, quella di omicidio colposo sul lavoro, perché non possiamo più ammettere che questa nostra amata Repubblica fondata sul lavoro non tuteli la vita dei lavoratori (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente, gentile Ministra, gentili colleghi. Mi permetta, Presidente, solo una riflessione: ritengo veramente biechi, offensivi e meschini i riferimenti a questioni che riguardano la vita personale e, soprattutto, la vita personale di una donna (Applausi dei deputati dei gruppi Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare, Fratelli d'Italia e Lega-Salvini Premier) . Esiste anche la cultura del rispetto e giusta è la cultura del rispetto dal punto di vista linguistico, e penso che come onorevoli, come parlamentari, siamo chiamati a dare l'esempio (Applausi dei deputati dei gruppi Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare, Fratelli d'Italia e Lega-Salvini Premier) , perché è inutile che la chiediamo nelle nostre scuole e nella società civile, e noi, come primi esempi, offendiamo all'interno di quest'Aula (Commenti) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). …una battaglia civile, etica e politica. Sì, anche politica, nel senso più alto del termine, Presidente, e la maggioranza c'è con convinzione, con coerenza e con responsabilità. Grazie, Ministra (Applausi dei deputati del gruppo Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare e di deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308781_19",
+      "politician_name": "ONORI Federica",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Ministra, colleghi e colleghe, oggi è la Giornata mondiale contro lo sfruttamento del lavoro minorile. Nella giornata di oggi è stato pubblicato il terzo report dell'UNICEF, che ci dice che in Italia sono 80.000 i minorenni che lavorano. Ma forse il dato più preoccupante e che merita maggiore attenzione è il numero di denunce di infortunio di lavoratori tra i 15 e i 17 anni, e il fatto che questo sia aumentato in maniera allarmante dal 2020 al 2023. Sono dati che immagino lei conosca, Ministra: nel 2020 le denunce di infortunio di lavoratori tra i 15 e i 17 anni erano 5.800 circa, mentre nel 2023, 3 anni dopo, crescono a 18.800. Moltiplicate per 3 e non arriviamo ancora a quel numero.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308781",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308770_19",
+      "politician_name": "GIAGONI Dario",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, signor Presidente. Prendo oggi la parola per trattare un tema che ha un certo peso e una certa urgenza, un tema che si tratta nella nostra società quando c'è l'ennesima vittima, l'ennesima morte sul lavoro: la sicurezza sul lavoro. Il lavoro è il fondamento della nostra società - lo cita anche l'articolo 1 della nostra Costituzione -, ma non solo, è uno strumento economico, ma è anche il cardine attorno a cui gira la dignità dell'essere umano, dell'individuo. Questa dignità, però, per esistere ed essere garantita ha bisogno di un ambiente sicuro e rispettoso della vita di chi, ogni giorno, si alza la mattina presto, alle 2 o alle 3, o addirittura fa il turno di notte, tutto ciò, non solo per portare a casa un pezzo di pane, ma anche per la crescita del nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308770",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308869_19",
+      "politician_name": "MARI Francesco",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Ministra, lei avrebbe potuto dire che fa tutto il possibile, ma non basta; che fa tutto il possibile a legislazione vigente, quindi aprendo a modifiche del decreto legislativo n. 81 del 2008; che, soprattutto, è colpa di quelli che sono venuti prima di lei: sarebbe stato esagerato, ma qui si usa molto. Un po' di tutto. Insomma, avrebbe potuto cavarsela meglio di quanto ha fatto in vari modi, fuorché nel modo che ha scelto, cioè dicendo che va tutto nella direzione giusta e i risultati del lavoro del Governo si vedono. Salvo poi, ovviamente, alla fine, aprire, com'è doveroso, a un'interlocuzione su una materia come questa. Ma il dato drammatico - perché noi dobbiamo qui valutare anche l'azione del Governo - è che gli incidenti crescono e crescono gli infortuni mortali, e le cause profonde sono sempre le stesse: gli orari, i ritmi, l'età dei lavoratori, le mansioni senza formazione (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308869",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308886_19",
+      "politician_name": "MALAGOLA Lorenzo",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, innanzitutto permettetemi di esprimere il mio più vivo ringraziamento, anche a nome del gruppo di Fratelli d'Italia, alla Ministra Calderone per la relazione che ci ha poc'anzi offerto (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308886",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307826_19",
+      "politician_name": "LAUS Mauro Antonio Donato",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Grazie, Governo. Grazie a lei, Ministra, però non me ne voglia, lei oggi non è qui in Aula per un atto di cortesia nei confronti di questo ramo del Parlamento, ma per una precisa prescrizione normativa figlia di un emendamento del gruppo del Partito Democratico, a prima firma del capogruppo Arturo Scotto. Doverosa comunque questa premessa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307826",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307826_19",
+      "politician_name": "LAUS Mauro Antonio Donato",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Allora, chiedo qui, ora, al Governo: siete pronti a dare risposte vere, concrete, ma soprattutto verificabili, a queste domande che vengono dal Paese reale? Perché su questo, lo dico con chiarezza, si misura la civiltà di una democrazia e la sua capacità di onorare la dignità del lavoro, e - lasciatemelo dire con forza - non ci servono “leggi vetrina” e non ci servono titoli di giornale. Perché un Paese che non protegge chi lavora è un Paese che non ha futuro (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307826",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307726_19",
+      "politician_name": "TUCCI Riccardo",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministra, i numeri parlano chiaro e sono inaccettabili: oltre mille morti sul lavoro nel 2024, un dato anche in aumento rispetto al 2023, con l'aggravante che, a inizio 2025, addirittura 5 studenti impegnati nei PCTO, cioè gli ex corsi di alternanza scuola-lavoro, sono morti anche loro. Purtroppo, non è di certo un qualcosa che qualcuno avrebbe voluto, ma è sicuramente quello che ci deve dare la chiave di lettura della gravità della situazione. Questa è la realtà, Ministra, di un sistema che ha smarrito la propria umanità, di un sistema dove il lavoro, invece di essere uno strumento di realizzazione personale, è diventato purtroppo uno strumento di morte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307726",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307726_19",
+      "politician_name": "TUCCI Riccardo",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). E, allora, Ministra, fra qualche giorno il nostro Governo andrà a L'Aja e dovrà decidere se accettare le richieste dei padroni. Le chiedo: siamo d'accordo ad aumentare le spese militari fino al 5 per cento? Cosa direte lì? Direte che non lo possiamo fare, perché si sono spesi i soldi sul superbonus e sui banchi a rotelle? O direte “sissignore”, come avete sempre fatto fino a oggi? E se doveste dire “sissignore”, una volta tornati qui, cosa direte ai vostri elettori? “Cari elettori, vi abbiamo raccontato per anni la scusa del superbonus e dei banchi a rotelle, e, alla fine, abbiamo scoperto che i soldi li avevamo, ma per le armi. Tranquilli, non investiremo in sanità, non limiteremo le liste d'attesa, voi fateveli 10, 12, 14 mesi d'attesa per avere una TAC, noi nel frattempo spenderemo 10 miliardi per le armi, su questo state tranquilli”: avrete il coraggio di dire questo ai vostri elettori?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307726",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che sono state presentate le risoluzioni Schifone, Giaccone, Tenerini, Alessandro Colucci ed altri n. 6-00185 , Barzotti, Scotto, Mari ed altri n. 6-00186 , D'Alessio ed altri n. 6-00187 e Boschi ed altri n. 6-00188 . I relativi testi sono in distribuzione (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d309044_19",
+      "politician_name": "CALDERONE Marina Elvira",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra del Lavoro e delle politiche sociali . Grazie, Presidente. Una breve replica. Innanzitutto, grazie per la solidarietà espressa. Io non sono membro di questo Parlamento - è noto a tutti che sono un Ministro tecnico -, però ho chiesto quali fossero anche le modalità con cui rapportarsi a quest'Aula. E, al di là delle prerogative dei signori deputati di potersi esprimere liberamente - questo è il senso anche di questa presenza in Aula -, certamente, per quel che mi riguarda, ho sempre cercato di adottare il massimo del rispetto e dell'attenzione anche alle modalità e al linguaggio che cerco di avere nel momento in cui vengo a parlarvi. Per cui, non farò alcun riferimento a quelle che possono essere questioni e attacchi personali (Applausi dei deputati del gruppo Fratelli d'Italia) , che non hanno nulla a che vedere con il tema importante di cui noi stiamo discutendo. È evidente che, se identiche affermazioni saranno pronunciate in altre sedi, allora ci incontreremo in un altro contesto, dove potremo anche certamente dirci questo (Applausi dei deputati del gruppo Fratelli d'Italia - Proteste di deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Però...",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "309044",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Scotto! Colleghi! Colleghi! Colleghi! Colleghi! Mi occupo io di dire all'onorevole Scotto che, quando il gruppo del Partito Democratico interverrà successivamente, avrà il diritto di esprimere le opinioni che ritiene…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d309044_19",
+      "politician_name": "CALDERONE Marina Elvira",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra del Lavoro e delle politiche sociali . Ho inteso dire che io rispetto quello che è stato detto qui e - ovviamente - non replico, ma invece intenderei replicare sui temi che sono in discussione oggi, laddove credo che si siano toccati punti molto significativi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "309044",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d309044_19",
+      "politician_name": "CALDERONE Marina Elvira",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra del Lavoro e delle politiche sociali . Si esprime parere favorevole sulla risoluzione Schifone, Giaccone, Tenerini, Alessandro Colucci ed altri n. 6-00185 . Sulla risoluzione Barzotti, Scotto, Mari ed altri n. 6-00186 il parere è contrario alle premesse. Il parere è favorevole all'impegno 1) con riformulazione che sostituisce le parole: “l'azzeramento” con le seguenti: “la progressiva riduzione”. Il parere è favorevole all'impegno 2). Il parere è favorevole all'impegno 8) con riformulazione nel senso di espungere le parole da: “garantendo” fino alla fine dell'impegno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "309044",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 10 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Signora Ministra, oggi quest'Aula è chiamata a parlare di una vera e propria emergenza nazionale, le morti sul lavoro. Parliamo, lo sappiamo, di vite spezzate, di tragedie che sono entrate nelle famiglie, nelle comunità di lavoro, parliamo di nomi, di persone. Abbiamo ricordato in quest'Aula, poco fa, l'ennesima tragedia quotidiana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Partirei, purtroppo, dai dati dei morti sui luoghi di lavoro. Non è una pagina felice ma ciò per rispetto ai 1.000 morti all'anno (quasi 3 al giorno). Ovviamente, senza speculazioni politiche, senza fare retorica, senza accollare la colpa a nessuno, ma per l'imbarazzo che reca alla nostra coscienza un tipo di numeri di questo genere, una comparazione con il livello europeo che ci vede, ovviamente, penalizzati in questo come in altri settori del mondo del lavoro, non soltanto sulla sicurezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d309044_19",
+      "politician_name": "CALDERONE Marina Elvira",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra del Lavoro e delle politiche sociali . Grazie, Presidente. Intervengo per una precisazione sul parere relativo alla risoluzione n. 6-00186 . In particolare, l'impegno 22) va riformulato come segue: sostituire le parole da: “altresì il coinvolgimento” fino alla fine dell'impegno, con le seguenti: “apposite attività formative”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "309044",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Signor Ministro, ho ascoltato con attenzione le comunicazioni con cui abbiamo iniziato la seduta di oggi e devo dire che, con grande attenzione, con grande precisione e anche con grande coinvolgimento, sono stato piacevolmente colpito dal contenuto del lavoro del Governo, che da qualche anno sta andando avanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ministra, lei oggi è venuta qui a raccontarci che cosa avete fatto, che cosa avete detto, quali sono i vostri progetti. Quaranta minuti in cui abbiamo ascoltato un elenco della spesa, come ormai da tempo siamo abituati a sentire. Mi permetta però, Ministra, di farle un paragone molto semplice, così almeno ci capiamo, sicuramente. Quando lei vuole fare un dolce, penso che gli ingredienti li scelga con cura; non ci mette nella ricetta tutto quello che trova nel frigorifero, e così è la stessa cosa in questa materia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308879_19",
+      "politician_name": "TENERINI Chiara",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Ministro, Sottosegretari, colleghi, oggi, prima ancora di entrare nel merito della risoluzione che ci accingiamo a votare, sento il dovere, umano e istituzionale, di rivolgere, a nome mio personale e del gruppo Forza Italia, un pensiero solenne al brigadiere capo, Carlo Legrottaglie (Applausi - I deputati e i rappresentanti del Governo si levano in piedi) , caduto tragicamente proprio in queste ore durante un servizio operativo. Un servitore dello Stato, un uomo che ha onorato la divisa con il silenzio operoso di chi sceglie, ogni giorno, di difendere la legalità e la sicurezza degli italiani. Il suo sacrificio ci ricorda, con forza e dolore, che dietro ogni uniforme ci sono volti, famiglie, vite interamente dedicate agli altri. In quest'Aula, luogo della democrazia e della rappresentanza, desideriamo stringerci attorno alla sua famiglia, all'Arma dei carabinieri, al Comandante generale e a tutti i suoi colleghi. L'Italia che non dimentica, oggi si inchina davanti a un eroe silenzioso. E il nostro lavoro, qui dentro, deve essere ogni giorno all'altezza di questo sacrificio (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308879",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307851_19",
+      "politician_name": "NISINI Tiziana",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Grazie, Ministro Calderone. Anch'io mi unisco al pensiero al brigadiere ucciso questa mattina a Brindisi, che è anche centrale nel tema di questa mattina sulla sicurezza, perché il brigadiere nel suo ultimo giorno di servizio era un lavoratore, un servitore dello Stato (Applausi dei deputati del gruppo Lega-Salvini Premier) . Ed è per questo che questo Governo, questo Ministero, il Ministero del Lavoro, in sinergia anche con altri Ministeri, il Ministero dell'Interno, il Ministero dell'Istruzione, sta portando avanti e sta percorrendo una strada per mettere in sicurezza il Paese. Il tanto discusso e anche il tanto criticato decreto Sicurezza, che è stato etichettato dal Partito Democratico come un decreto di sola repressione e solo carcere, no!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307851",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308856_19",
+      "politician_name": "SARRACINO Marco",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signora Presidente. Anche noi, come Partito Democratico, ovviamente ci uniamo al cordoglio per la scomparsa di Carlo Legrottaglie (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) , morto mentre svolgeva proprio il suo lavoro nel suo ultimo giorno di lavoro, tra l'altro. La nostra vicinanza va alla famiglia e alla comunità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308856",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308851_19",
+      "politician_name": "SCHIFONE Marta",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Grazie, Ministro, per queste parole chiare e nette, espresse sia nella relazione depositata alle Camere, sia oggi, in questo suo intervento, nella replica. Soprattutto Ministro, attraverso la sua persona, ringrazio il Governo nel complesso perché questo Esecutivo ci ha finalmente regalato una visione, una visione sul tema del lavoro, una visione sul tema della salute e della sicurezza nei luoghi di lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308851",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, colleghi. Scusi, collega Schifone, ho fatto di tutto per non interromperla, ma a questo punto io non riesco a sentirla. Colleghi dovete stare in silenzio quando un collega sta parlando, non è possibile. Prego, mi scusi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308851_19",
+      "politician_name": "SCHIFONE Marta",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Dicevo, quindi investire tutti gli attori della filiera e, quindi, naturalmente le istituzioni che devono promuovere queste azioni, ma anche le associazioni, penso ai corpi intermedi, penso ai sindacati, alla società tutta, perché attiene alla nostra coscienza personale e collettiva. Quindi, dobbiamo portare avanti la prevenzione e non c'è prevenzione senza consapevolezza, non c'è prevenzione senza conoscenza. Quando si parla di conoscenza ci viene subito da pensare ai nostri giovani e alla nostra scuola. Allora mi piace ricordare anche la legge Rizzetto della quale siamo particolarmente orgogliosi (Applausi dei deputati del gruppo Fratelli d'Italia) , che ha permesso l'istituzione dell'insegnamento del diritto del lavoro, delle materie di salute, di sicurezza in tutte le scuole di ogni ordine e grado.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308851",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308929_19",
+      "politician_name": "SOUMAHORO Aboubakar",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO ). Grazie, Presidente. Parlare di sicurezza sul lavoro dovrebbe essere un fattore di unità nazionale nel nostro Paese, mai come oggi. Parlare di sicurezza sul lavoro è un tema che dovrebbe unire tutto questo Parlamento, tutta la politica, indipendentemente dalla bandiera e dal colore politico. Perché, quando muore una lavoratrice, è sempre una vita umana che viene spezzata (Applausi del deputato Deidda) ; quando muore un lavoratore, è sempre una vita umana che viene portata via. Presidente, aggiungo: quando muore un datore di lavoro, è sempre una vita umana che viene spezzata via. Per tale motivo, essendo la vita sacra, mai come oggi, vi è la necessità, l'urgenza, il bisogno, di fare tre cose: la prima, innanzitutto, è investire nella formazione; la seconda è sostenere le aziende, anche attraverso incentivi per la formazione, la formazione continua; la terza è investire nella riqualificazione professionale del lavoro, a maggior ragione in un contesto dove assistiamo a una metamorfosi del lavoro. Presidente, concludo, tra qui al 2028 il lavoro cambierà e intere figure professionali andranno perse nel nostro Paese per motivi legati alla pensione: 600 figure nel 2028. E chi andrà a sostituirli? Sono lavori tradizionali che non possono essere dematerializzati e sono lavori che non possono essere…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308929",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che, con lettera in data odierna, il presidente della Commissione affari sociali ha rappresentato l'esigenza - sulla quale ha convenuto all'unanimità l'ufficio di presidenza, integrato dai rappresentanti dei gruppi, della Commissione medesima - di posticipare a lunedì 23 giugno l'avvio della discussione in Assemblea, attualmente previsto dal vigente calendario dei lavori a partire da lunedì 16 giugno, della proposta di legge n. 1298 ​ in materia di finanziamento, organizzazione e funzionamento del Servizio sanitario nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d300497_19",
+      "politician_name": "BARELLI Paolo",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, signor Presidente. La ringrazio anticipatamente se sarà indulgente per qualche mio sforamento di tempo. Il motivo per cui ho chiesto di intervenire è motivo per noi di Forza Italia, per il mio partito, per i miei colleghi che sono uniti vicino a me, perché oggi è la ricorrenza del secondo anno dalla perdita del nostro Presidente Silvio Berlusconi (Prolungati Applausi – I deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE, Fratelli d'Italia, Lega-Salvini Premier e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare e i membri del Governo si levano in piedi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "300497",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d300497_19",
+      "politician_name": "BARELLI Paolo",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Io veramente ringrazio tutti voi per questo applauso, ma, d'altra parte, credo che il tributo a un personaggio, un politico, un uomo, una persona, che, per oltre trent'anni, ha dato impulso alla vita e alla scena politica del Paese, sia doveroso. È una persona che rimane non soltanto nei nostri cuori, nella nostra vita, nelle nostre prospettive e nel nostro futuro di Forza Italia, ma appartiene alla storia del Paese. È stato Primo Ministro di quattro Governi, è stato Primo Ministro per 3.339 giorni. Anche qui, è un uomo dei record in tutti i sensi. Per tre volte ha presieduto i vertici G7 e G8. Il 28 maggio 2002 - le foto simbolo della stretta di mano, durante il vertice dei Paesi NATO, a Pratica di Mare - rimane nella storia, anche qui, delle relazioni tra i grandi del pianeta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "300497",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)M-CP ). Grazie, Presidente. Onorevoli colleghi, a due anni dalla scomparsa del Presidente Silvio Berlusconi, anch'io, a nome di Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare), intendo ricordare l'uomo, il politico, l'imprenditore, l'uomo delle istituzioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308918_19",
+      "politician_name": "OTTAVIANI Nicola",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Sì, grazie, Presidente. Un saluto, un ricordo che è quello del Presidente Berlusconi, che, da parte del gruppo della Lega, non è soltanto doveroso, ma è soprattutto di ricordo, di condivisione di un percorso. È un percorso che inizia nel lontano 2000, quando l'allora segretario Bossi, insieme al Presidente Berlusconi, individuò quello che poteva essere un momento, un punto di svolta per l'Italia, con l'archiviazione delle ideologie che, fino a quel momento, sembrava fossero imperanti e soprattutto dogmatiche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308918",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d38560_19",
+      "politician_name": "ROTONDI Gianfranco",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, sono due anni che Silvio Berlusconi c'è diversamente nella vita di questo Paese. Non è retorica commemorativa, ma credo sia incontestabile che la presenza attiva di Silvio Berlusconi nella vita politica del Paese non si sia interrotta con la scomparsa fisica, come poi accade ai grandi della politica, del pensiero: continua in modo diverso. C'è una forza politica - abbiamo ascoltato il toccante intervento del presidente Barelli - che porta nel suo simbolo il nome di Berlusconi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "38560",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307348_19",
+      "politician_name": "DONNO Leonardo",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questa mattina abbiamo appreso una notizia molto dolorosa, che ci colpisce profondamente: la morte di un carabiniere, il brigadiere capo Carlo Legrottaglie, 59 anni (Prolungati applausi - I deputati e i membri del Governo si levano in piedi) . È stato ucciso a Francavilla Fontana, in provincia di Brindisi, mentre svolgeva il suo lavoro. È stato ucciso all'alba in uno scontro a fuoco con dei criminali in fuga. Una tragedia che ci lascia sgomenti, che colpisce il nostro Paese, le istituzioni. Una tragedia che ha fermato il tempo. A nome di tutto il MoVimento 5 Stelle esprimo profondo cordoglio e vicinanza all'Arma dei carabinieri e alla famiglia del militare che tra pochi giorni sarebbe andato in pensione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307348",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308833_19",
+      "politician_name": "CONGEDO Saverio",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Rappresentanti del Governo, colleghe e colleghi, questa mattina, Carlo Legrottaglie, brigadiere capo di sessant'anni, in servizio al nucleo radiomobile di Francavilla Fontana, in provincia di Brindisi, è stato vilmente ucciso a colpi di arma da fuoco mentre svolgeva il suo dovere di carabiniere. Dalle prime ricostruzioni il militare sarebbe stato colpito al termine dell'inseguimento di un'auto sulla strada che collega Francavilla Fontana a Grottaglie, a seguito della segnalazione di una rapina. I malviventi, a bordo del veicolo in fuga, scesi dall'auto hanno fatto fuoco contro i militari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308833",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d307304_19",
+      "politician_name": "PAGANO Ubaldo",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Dolore, profondo dolore per la scomparsa di un servitore dello Stato, il brigadiere Carlo Legrottaglie, caduto mentre era impegnato a garantire legalità e a tutelare la sicurezza dei cittadini e delle cittadine. A nome di tutto il gruppo parlamentare del Partito Democratico, esprimo il più profondo cordoglio e ci stringiamo, con commozione e rispetto, alla famiglia del militare caduto, alla moglie, alle due figlie, ma anche alla comunità dell'Arma dei carabinieri, a cui vanno tutta la nostra solidarietà e gratitudine per l'impegno quotidiano che garantiscono a tutela della sicurezza e della legalità del nostro Paese. A quanto si apprende, i rapinatori sarebbero stati già assicurati alla giustizia ma penso che non ce la si possa cavare così facilmente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "307304",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308845_19",
+      "politician_name": "PENZA Pasqualino",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Ecco, vorrei fare una precisazione, se me lo consente; purtroppo, mi è doveroso. Gli interventi di fine seduta erano già iniziati prima che lo annunciasse lei, sono stati annunciati dalla Presidente Ascani. Ecco, perché dico questo? Io ho assistito a interventi di fine seduta convertiti in una commemorazione. Fermo restando che non voglio entrare nel merito dell'oggetto della commemorazione “convertita” - se me lo consente -, però la cosa che forse più fa male è che nessuno ha speso una parola per i fatti gravi successi ad Afragola e a Cardito: omicidi di camorra. Nessuno ha avuto il coraggio di prendere la parola e fare un accenno a questi fatti che sono successi nelle ore scorse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308845",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308845_19",
+      "politician_name": "PENZA Pasqualino",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Mi consenta, Presidente, hanno parlato per molto più tempo i colleghi che hanno fatto la commemorazione come fine Aula, quindi lei non mi può togliere la parola, Presidente, sto ancora nei tempi, così come è stato con i colleghi…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308845",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308845_19",
+      "politician_name": "PENZA Pasqualino",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Assolutamente, Presidente. Sono perfettamente in tema e, quindi, ho la piena possibilità di dire quel che penso in quest'Aula. Lei me lo vuole impedire, ma io non glielo consento, Presidente. Se lei vuole togliermi la parola è una sua scelta. Le ricordo che non l'ha tolta a chi prima di me ha fatto una commemorazione fuori luogo. Qui stiamo parlando di omicidi di camorra! Omicidi di camorra!",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308845",
+        "seduta": 492
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2025-06-12",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questo intervento non è solo da parte mia, ma anche della collega Prestipino e del collega Caramiello che, con me, hanno condiviso da sempre le battaglie in difesa degli animali. Cosa è successo? Recentemente, in più puntate, la trasmissione Report si è occupata di una nostra collega in Parlamento. Non entriamo nel merito di quello che è stato detto dalla trasmissione perché non è compito nostro, però è successo qualcosa che ci è sembrato estremamente grave e anomalo: un attivista animalista, Enrico Rizzi, che ha condiviso i contenuti della trasmissione con sovrascritto “vergogna e assenteista”, riferiti alla collega parlamentare, ha ricevuto una denuncia. Fino a qua ci può anche stare, ma leggiamo che ha addirittura avuto una perquisizione a casa e il sequestro del cellulare per aver condiviso sui social questi contenuti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0492",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 492
+      }
+    }
+  ]
+}

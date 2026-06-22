@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0538",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2025-09-26",
+    "title": "Assemblea — Seduta n. 538 del 2025-09-26",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0538",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 538
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-09-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 90, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0538",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 538
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2025-09-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il Presidente del Senato, con lettera in data 25 settembre 2025, ha trasmesso alla Presidenza il seguente disegno di legge, che è stato assegnato ai sensi dell'articolo 96- bis , comma 1, del Regolamento, in sede referente, alla II Commissione (Giustizia):",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0538",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 538
+      }
+    },
+    {
+      "politician_id": "camera_d307132_19",
+      "politician_name": "TRAVERSI Roberto",
+      "date": "2025-09-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Passare dal verbale che ho letto all'interpellanza è complicato, emotivamente è stato un verbale molto coinvolgente. Abbiamo chiuso ieri con il Ministro Crosetto in Aula, quindi è una situazione che preoccupa tutti. Da lì bisogna ripartire. Però, ovviamente, i cittadini ci richiedono anche delle priorità per il nostro Paese ed oggi, per quanto davanti a venti di guerra che stanno insidiando anche la nostra Flotilla e tutti i nostri amici che hanno anche partecipato a questa missione, sottoponiamo una situazione che anch'essa ci preoccupa tanto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0538",
+      "metadata": {
+        "id_persona": "307132",
+        "seduta": 538
+      }
+    },
+    {
+      "politician_id": "camera_d307452_19",
+      "politician_name": "PRISCO Emanuele",
+      "date": "2025-09-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Interno . Grazie, Presidente. Signor Presidente, onorevoli deputati, segnalo preliminarmente che, sul piano della prevenzione, il personale del Corpo nazionale dei vigili del fuoco è sottoposto a sorveglianza sanitaria periodica, comprensiva anche di protocolli integrativi che possono essere avviati da parte del medico competente, in relazione all'esposizione lavorativa a rischio specifico, con la facoltà di prescrivere ogni ulteriore accertamento diagnostico ritenuto più appropriato, ove non previsto dai protocolli ordinari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0538",
+      "metadata": {
+        "id_persona": "307452",
+        "seduta": 538
+      }
+    },
+    {
+      "politician_id": "camera_d307132_19",
+      "politician_name": "TRAVERSI Roberto",
+      "date": "2025-09-26",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. C'è la soddisfazione, ovviamente, di sapere che si stanno compiendo studi. Non c'è da parte mia nessun tipo di speculazione, anche perché acquisiamo dati e con questi lavoriamo. Quindi, quando si lavora così, come intende il Governo lavorare, con degli studi condotti dalle università, siamo ben contenti. Però, la speculazione, non trovo neanche simpatico citarla, perché, come dicevo, ho citato - addirittura siamo arrivati alle sentenze e poi siamo arrivati ai Vigili del fuoco - tutte le prove che hanno fatto. Quindi, siamo arrivati in Aula con un percorso abbastanza importante che è stato fatto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0538",
+      "metadata": {
+        "id_persona": "307132",
+        "seduta": 538
+      }
+    }
+  ]
+}

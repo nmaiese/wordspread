@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0115",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-06-07",
+    "title": "Assemblea — Seduta n. 115 del 2023-06-07",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 115
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 79, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1114-A: Conversione in legge, con modificazioni, del decreto-legge 22 aprile 2023, n. 44, recante disposizioni urgenti per il rafforzamento della capacità amministrativa delle amministrazioni pubbliche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. La componente +Europa voterà “no” a questo provvedimento. In realtà, non abbiamo discusso del provvedimento in sé, ossia di come rafforzare la capacità della pubblica amministrazione, ma ci avete portato inevitabilmente a discutere dei due emendamenti che avete presentato (anzi, ne avevate presentati tre): emendamenti che, con il rafforzamento della capacità della pubblica amministrazione, c'entrano poco, se si va a vedere il testo originario. Ed è un peccato che, nonostante il richiamo del Presidente della Repubblica ai Presidenti delle Camere, abbiate immediatamente fatto orecchie da mercante. Abbiamo discusso, quindi, della reiterazione dello scudo erariale. È vero, c'era già; era già stato previsto, transitoriamente reiterato, e voi lo avete ulteriormente reiterato. Però l'eccezione non può essere una regola: se diventa una regola è bene che la stessa venga messa per iscritto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307603_19",
+      "politician_name": "COLUCCI Alessandro",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Onorevoli colleghi, Sottosegretario, una politica per la pubblica amministrazione - che deve essere efficiente, efficace e veloce, nonché soddisfare le esigenze dei cittadini e degli apparati amministrativi - non si pone solo obiettivi generici, ma deve dedicarsi fondamentalmente a un'azione di Governo volta a costruire un Paese di oggi e, soprattutto, di domani, basato proprio sulla concretezza e sulla capacità di fare le cose che servono.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307603",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signora rappresentante del Governo, colleghi e colleghe, quando il Governo ha annunciato la propria volontà di emanare un decreto riguardante la riforma della pubblica amministrazione e il suo rafforzamento abbiamo sperato che avremmo avuto di fronte un provvedimento che andasse a potenziare la macchina amministrativa degli enti pubblici nel nostro Paese, a cominciare da quella dei comuni, delle regioni e dello Stato centrale. La riforma della pubblica amministrazione è l'asse fondamentale su cui si confronta il processo di modernizzazione del Paese e la capacità di affrontare le grandi complessità del nostro tempo. Abbiamo bisogno di più personale, di persone qualificate e di dare sicurezza e stabilità ai lavoratori della pubblica amministrazione. Abbiamo bisogno, quindi, di una struttura amministrativa che sia in grado, appunto, di affrontare le importanti sfide che il futuro ci pone, a cominciare da quella del PNRR.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Intanto, vorrei svolgere una riflessione su questo meccanismo un po' farraginoso della doppia dichiarazione di voto. Ci lamentiamo spesso che non ci sono spazi di dibattito - il che è una verità -, però diciamo che il meccanismo ci porta a ripetere più volte le stesse cose, quasi in una palude di parole e di concetti ripetuti che sono colpa di nessuno. Infatti, se questi sono i regolamenti e i meccanismi della Camera, ovviamente, noi ci adeguiamo, però la qualità della legislatura è anche caratterizzata da questo. Dovremmo quindi mettere mano al Regolamento, alle norme che disciplinano il dibattito parlamentare, ai tempi e creare condizioni di maggiore efficienza, di maggiore velocità e, soprattutto, evitare, ripeto, di dover ribadire più volte gli stessi concetti, perché siamo portati a farlo nel momento in cui c'è una dichiarazione di voto, poi con il voto sulla fiducia, poi si torna, dopo gli ordini del giorno, a fare altre dichiarazioni di voto. Su questo dovremmo, credo, produrre uno sforzo tutti quanti insieme che porti a un risultato e ad efficientare - se posso usare atecnicamente questo termine - i meccanismi di dibattito, anche per i colleghi che verranno nelle prossime legislature.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308879_19",
+      "politician_name": "TENERINI Chiara",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor Presidente, onorevoli colleghi, Sottosegretario, per attuare le misure previste dal PNRR si deve rafforzare la macchina amministrativa, a partire dall'inserimento di figure professionali in grado di gestire i progetti e le procedure previste dal Piano. La pandemia e tutte le difficoltà che ne sono derivate hanno reso ancora più evidenti i problemi presenti nella nostra pubblica amministrazione. La necessità di renderla attrattiva, per convogliare al suo interno risorse umane e competenze di eccellenza, trova nel Piano nazionale di ripresa e resilienza nuova linfa vitale, aprendo una stagione di investimenti pubblici ed auspicata rinascita.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308879",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308879_19",
+      "politician_name": "TENERINI Chiara",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Prima di concludere, Presidente, voglio esprimere un ringraziamento a tutti i colleghi della I e della XI Commissione, perché hanno lavorato con determinazione e sono riusciti ad apportare con le loro proposte emendative un miglioramento a questo corposo decreto. Un ringraziamento particolare va ai presidenti della I e della XI Commissione, l'onorevole Rizzetto e l'onorevole Nazario Pagano, per il grande equilibrio, la disponibilità e la competenza con cui hanno gestito questa settimana di lavoro. Lasciatemi ringraziare anche l'onorevole Sottosegretaria Siracusano, che ci ha accompagnato con professionalità durante tutto il percorso. Il provvedimento rappresenta un'importante ed incisiva premessa che deve gettare le basi per una riforma ancor più ampia, per compiere finalmente quella rivoluzione liberale, principio fondante di Forza Italia e del nostro presidente Berlusconi. Per tale motivo annuncio il voto favorevole di Forza Italia a questo provvedimento (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308879",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307803_19",
+      "politician_name": "FEDE Giorgio",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Inizierei dicendo che il MoVimento 5 Stelle c'è. Qualcuno forse è miope, anche a livello di Aula, e non si rende conto che la democrazia è rappresentata ed è ben tutelata anche da noi. Per questo vorrei intervenire sul provvedimento. Parto proprio dalle parole, che mi hanno preceduto, su decretazione d'urgenza e richiami. Ciascuno di noi qui dentro svolge un ruolo politico, di maggioranza o di opposizione, legittimo, sacrosanto, stabilito dai nostri princìpi istituzionali e costituzionali. Tuttavia, quando si parla di osservazioni, di obiezioni, di critiche e di dubbi sui provvedimenti e sulle modalità di agire, voglio ricordare a tutti, alla Nazione e a quest'Aula, che questi interventi non sono semplicemente frutto dell'opposizione – perché, quella sì, potrebbe essere una osservazione su cui magari avere dei dubbi - ma vengono dal Capo dello Stato che ha segnalato come il ricorso ai provvedimenti d'urgenza stia andando oltre un certo limite di decenza. Quando si dice che la giustificazione è l'urgenza, ricordo a chi mi ha preceduto e alla forza politica che rappresenta che l'urgenza era stata negata da loro stessi, dalle opposizioni, quando con noi, in pandemia, il capo dello Stato chiese l'unione nazionale e fu negata. Tale strabismo politico evidentemente non giova alla nostra democrazia e non giova alla nostra Nazione. Questo deve essere il punto su cui concretamente dobbiamo essere sul pezzo, perché, quando noi parliamo di un provvedimento, quello di cui stiamo discutendo oggi, quello oggetto dell'ennesima fiducia, di rafforzamento e potenziamento della capacità amministrativa della pubblica amministrazione, dobbiamo essere consapevoli che la pubblica amministrazione rappresenta un asse importantissimo della nostra Nazione, che garantisce i servizi attraverso tanti uomini e donne che lavorano con dignità e onore - e ve lo dico perché anch'io faccio parte di questo mondo - fra mille difficoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307803",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, la ringrazio anche per la gentilezza di aver atteso questi secondi, in cui fortuitamente sono riuscito ad entrare in Aula. Allora, signor Presidente, colleghe e colleghi deputati, rappresentante del Governo, avremmo voluto discutere oggi alla Camera di salario minimo, di caro mutui, di ricostruzione delle zone alluvionate dell'Emilia-Romagna, di asili nido, di agenda per la natalità, affitti per gli studenti, lavoro, giovani e invece, no, di cosa dobbiamo dibattere? Dell'eliminazione del controllo concomitante della Corte dei conti, un emendamento dell'ultimo minuto, surrettizio, del Governo al decreto sulla pubblica amministrazione. Questo, sì, verrebbe da dire, con il favore delle tenebre. Così, le destre distraggono il dibattito politico dai temi primari, quelli che veramente interessano ai cittadini relativi alla salute, all'ambiente, alla legalità, ai diritti della persona, alla sicurezza, all'istruzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Per tutte queste ragioni, il MoVimento 5 Stelle non può che opporsi a questo decreto-legge, votando convintamente contro (Applausi dei deputati del gruppo MoVimento 5 Stelle - Congratulazioni) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307143_19",
+      "politician_name": "ZIELLO Edoardo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Da parte nostra non c'è assolutamente alcuna volontà di mettere il bavaglio al MoVimento 5 Stelle e alle forze dell'opposizione perché, più aprono bocca e più rilasciano dichiarazioni, più aumentano i voti del centrodestra, e quindi non ci può che far piacere ascoltare le loro dichiarazioni (Applausi dei deputati dei gruppi Lega-Salvini Premier e Fratelli d'Italia) , tra l'altro totalmente decontestualizzate da questo decreto, perché, mentre le opposizioni parlavano - mi sono segnato alcune espressioni come “manganello”, “autonomia”, “antimafia”, “giovani” “cultura” e “conflitto d'interesse” - si sono dimenticate un piccolo dettaglio che questo decreto praticamente porta in dote, lo sblocco di 3.000 nuovi posti di lavoro nella pubblica amministrazione (Applausi dei deputati del gruppo Lega-Salvini Premier) . Capisco che ancora magari non si siano riprese dalla dura sconfitta delle ultime elezioni amministrative, che, tra l'altro, sono state un duro colpo per il famoso campo largo composto dal MoVimento 5 Stelle, dal Partito Democratico e dalla sinistra radicale, ma questo sicuramente non giustifica un'assoluta non conoscenza dell'importanza della contenutistica di questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307143",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Presidente, voglio innanzitutto ringraziarla, perché sono arrivato con qualche minuto di ritardo, ma solo perché ero al Copasir: questo è il motivo. Dunque, la ringrazio di avermi comunque consentito di svolgere il mio intervento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Però, questo è quanto. Riporto fatti, Presidente. Questi termini sono stati utilizzati anche dall'attuale Presidente del Consiglio, la Presidente Meloni. YouTube è pieno di filmati in cui utilizza le parole “sostituzione etnica”. Ma, ripeto, il disastro del Governo fa passare in secondo piano queste pur gravissime dichiarazioni che sono state fatte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Concludo, Presidente. Quindi, noi siamo quelli di Toninelli, noi siamo quelli del ponte ricostruito in un anno e mezzo. Questa maggioranza, invece, è quella del MoSE (Applausi dei deputati del gruppo MoVimento 5 Stelle) , quella che, dopo più di 10 anni, non è stata ancora in grado di farlo funzionare. È costato più del doppio di quanto era stato preventivato e sono state elargite mazzette in grande quantità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Poi, vogliamo ricordare l'ex presidente della regione Veneto Galan, che è stato condannato in via definitiva e che ha preso un milione in mazzette? Noi siamo altro, orgogliosamente (Applausi dei deputati del gruppo MoVimento 5 Stelle) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d306008_19",
+      "politician_name": "GRIBAUDO Chiara",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. La ringrazio anche per essere presente in Aula nel momento - lo ricordo - non della discussione generale ma delle dichiarazioni di voto. Quindi, sappiamo che sono a conclusione di un provvedimento. Allo stesso modo, ringrazio il collega Rizzetto. Trovo, invece, veramente imbarazzante e poco rispettoso del Parlamento il fatto che non ci sia nessuno nei banchi della maggioranza (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . In modo particolare, faccio notare l'assenza di Fratelli d'Italia che ci ha fatto la morale per anni, dicendo che non rispettavamo il Parlamento; non c'è nessuno di Fratelli d'Italia davanti a me, salvo due parlamentari, e anche questa, a proposito, è una cosa francamente indegna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "306008",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Mi perdoni, nel corso del discorso dell'onorevole Pellegrini, lei ha fatto un intervento particolare, dicendo di moderare i termini, ma, da quello che risulta - che mi risulta, magari sbaglio - è l'onorevole Lollobrigida che parla di razza, di sostituzione etnica e quant'altro (Commenti di deputati del gruppo Fratelli d'Italia) . Cos'è, non si può dire? Mi spiega? Perché io la vivo come una forma di censura, ho quasi paura. Ma qual è la parola incriminata?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Cherchi, le rispondo subito. Ho solo chiesto all'onorevole Pellegrini di fare attenzione sui termini, perché non volevo che si facessero paragoni che erano chiaramente arditi, e mi sembrava si andasse a parare su questo. Gli ho solo chiesto di fare attenzione, visto che prima c'è stato anche un passaggio su “maggioranza vigliacca”, e quindi volevo solo che facesse attenzione, gli ho solo chiesto di fare attenzione - era solo una richiesta di fare attenzione - perché si poteva arrivare a termini che probabilmente erano riferiti un po' a quello su cui si stava andando, ma non volevo assolutamente interromperlo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307308_19",
+      "politician_name": "LACARRA Marco",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, onorevoli colleghi, membri del Governo, sarebbe troppo semplice usare il tempo a mia disposizione per ricordare i continui soprusi che questo Governo sta commettendo ai danni del Parlamento e del Paese. Allo stesso modo, non mi soffermerò sui tanti aspetti del provvedimento che lasciano enorme perplessità e insoddisfazione. Come ha detto bene qualcuno prima di me, questo decreto è l'ennesimo spot elettorale, uno slogan dal futuro molto, molto breve. Avete chiamato decreto Pubblica amministrazione un provvedimento che si occupa molto poco dei problemi strutturali delle nostre amministrazioni pubbliche, dalla carenza di organico alla precarietà, ai rinnovi contrattuali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307308",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d306417_19",
+      "politician_name": "LAI Silvio",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Discutiamo su un provvedimento che, quando è stato avviato, aveva un approccio molto importante, pomposo vorrei dire, solo che, come talvolta vi capita, iniziate bene, ma finite male. Devo dire la verità che le altre volte iniziate pure male e concludete peggio. Questa volta, su un tema importante, sfidante, alla fine finite con una montagna che partorisce un topolino, perché questo decreto affronta un tema importante e strategico, quale è, in un momento particolare peraltro, il rafforzamento della capacità amministrativa della PA, ma lo fa in maniera totalmente inadeguata, parziale, prevalentemente verso chi è stato in grado di sussurrare all'orecchio del potente. Infatti, in questo decreto c'è un potenziale piano di assunzioni. Noi avevamo proposto persino, già dalla campagna elettorale, un piano straordinario, ma il piano presente in questo decreto è totalmente insufficiente a colmare la necessità di ricambio della pubblica amministrazione, se il fine è quello di disegnare un futuro diverso per il nostro Paese attraverso il PNRR. Non c'è il disegno di dare gambe alle nuove funzioni, ai progetti e alle trasformazioni che il Piano nazionale di Recovery prevede. Non c'è un disegno di rafforzamento delle pubbliche amministrazioni, al fine di dare energia a tutti quei progetti che ci possono permettere di realizzare un Paese più innovativo, sostenibile e capace di offrire ai nostri giovani le opportunità che spesso ormai tristemente cercano all'estero. Non è sufficiente, a iniziare dai numeri, perché ci sono 300.000 persone che andranno in pensione da qui al 2026, 700.000 entro il 2030, cioè domani, e ciò soltanto nella pubblica amministrazione considerando la sanità, senza mettere dentro la scuola, l'università, la ricerca e altri settori specifici che pure fanno parte e sono energia della nostra pubblica amministrazione. E poi nelle scelte, perché le assunzioni di cui si parla nel decreto riguardano prevalentemente le Forze di polizia, certo assunzioni necessarie, anzi persino insufficienti, ma purtroppo non riguardano neanche tutte le Forze di Polizia, come dimostra quanto avviene nel comparto, dove i Vigili del fuoco segnalano carenze evidenti. Per di più, le assunzioni riguardano i vertici e non la base. Certo, è importante avere vertici all'altezza nella pubblica amministrazione, ma, al contempo, servirebbe una massiccia immissione di nuove energie, unite alla stabilizzazione di quelle figure che già nella pubblica amministrazione svolgono funzioni delicatissime. Penso, ad esempio, agli uffici per il processo, alle prefetture, all'Agenzia per la coesione, penso - l'ho richiamato ieri in un ordine del giorno - al personale dei parchi, bloccato, stabilizzato, eppure al centro anch'esso del PNRR, ma inadeguato a svolgere le funzioni che gli sono state affidate, il cui lavoro prezioso ci consegna un territorio gestito, bellezza, biodiversità, ma anche sviluppo, perché è possibile non mettere in competizione ambiente e sviluppo, è possibile e, in questo Paese in particolare, è necessario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "306417",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d302069_19",
+      "politician_name": "SCOTTO Arturo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, io non amo il ricorso agli “ismi” per definire le miserie di un gruppo di potere, che è arrivato nella stanza dei bottoni, senza avere mezza idea dei bisogni reali del Paese, se non per cavalcare paure, pregiudizi e superstizioni. La storia è troppo tragica e pesante per essere paragonata alla vostra merce avariata, che non risolve i problemi, ma alimenta e moltiplica questi problemi per mera propaganda elettorale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "302069",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Buongiorno Presidente, buongiorno all'Aula e a chi ci sta seguendo. La prima cosa, Presidente, che mi sento di dire, dopo aver ascoltato per settimane discussioni in Commissione, come ricordato dai colleghi, e ore ed ore di discussioni qui in Aula alla Camera, è che le opposizioni hanno parlato di tutto in questi giorni tranne che di pubblica amministrazione, nel senso che hanno parlato veramente di qualsiasi cosa tranne che di pubblica amministrazione (Applausi dei deputati del gruppo Fratelli d'Italia) . Presidente, noi siamo molto orgogliosi, invece, di questo provvedimento, perché riusciamo a rinforzare e ad ammodernare la nostra pubblica amministrazione, dando fondamentalmente i migliori servizi ai nostri concittadini e a supportare le attività di impresa che vanno di pari passo con la pubblica amministrazione che - come ricordato dal Ministro Zangrillo - è il front office di fondamentale importanza nei confronti dei nostri concittadini e delle nostre imprese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Forse, Presidente, protestano perché non capiscono il sesquipedale di prima. Lo stesso collega Marattin, che, attraverso i suoi colleghi della Commissione, va a citare rappresaglie contro la Corte costituzionale e quale sia la nostra cultura istituzionale, viene smentito esattamente da Carlo Calenda che dice che lui sulla Corte dei conti avrebbe fatto esattamente la stessa cosa. Quindi, mettetevi d'accordo. Sotto questo punto di vista, avete fatto anche un emendamento abrogativo della norma, probabilmente non ci capite.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d305688_19",
+      "politician_name": "RIZZETTO Walter",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Concludo, Presidente. Ringrazio tutti i componenti della I Commissione, maggioranza e opposizione, ringrazio tutti i componenti della XI Commissione, i capigruppo, il Ministro Zangrillo, il Ministro Fitto, con cui ci siamo ci siamo sentiti, e, soprattutto, gli uffici della Camera, cui tutta l'Aula dovrebbe fare un applauso, perché sono sempre molto utili e attenti (Applausi dei deputati del gruppo Fratelli d'Italia) rispetto alla valutazione di quanto stiamo facendo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "305688",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307435_19",
+      "politician_name": "BALDINO Vittoria",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Approfitto della sua presenza alla conduzione, oggi, dei lavori di quest'Aula per ribadire il richiamo che abbiamo effettuato nella giornata di ieri rispetto alla conduzione dei lavori dell'Aula, quando i miei colleghi, nel corso dei loro interventi in dichiarazione di voto sugli ordini del giorno, sono stati ripetutamente interrotti e disturbati da schiamazzi e versi di derisione (Commenti di deputati del gruppo Fratelli d'Italia) che provenivano dai banchi della maggioranza. Tutto questo senza che la Presidenza cercasse di richiamare i colleghi all'ordine. Segnalo anche che, nel corso degli interventi del collega Carotenuto, in dichiarazione di voto sulla fiducia, e del collega Ricciardi, la Presidenza ha interrotto e richiamato i colleghi che stavano intervenendo, richiamandoli a rimanere sul tema della discussione - mi riferisco principalmente al collega Carotenuto, che pure stava intervenendo in dichiarazione di voto sulla fiducia al Governo - e ha richiamato anche il collega Ricciardi, perché ha utilizzato un aggettivo per qualificare la maggioranza, parlando di “inettitudine” (Commenti di deputati del gruppo Fratelli d'Italia) e, quindi, è stato richiamato dal Presidente di turno. Mentre lei - correttamente, a mio avviso - Presidente Fontana, non ha richiamato il collega Rizzetto quando, durante la sua dichiarazione di voto, si rivolgeva al MoVimento 5 Stelle, chiamandoci “ignoranti” ripetutamente (Applausi dei deputati del gruppo MoVimento 5 Stelle). Io credo che sia legittimo - legittimo - dare un giudizio di valore rispetto a un'azione politica e credo soprattutto che sia inaccettabile che ci si permetta, soprattutto dai banchi della maggioranza, di dire all'opposizione quello che si possono e si devono permettere di dire e di non dire durante i loro discorsi. Tanto più, Presidente, lo dico a lei, a cui mi appello, conoscendo la sua sensibilità e disponibilità nei confronti delle opposizioni, dopo i richiami del Presidente Mattarella rispetto all'abuso della decretazione d'urgenza e all'abuso, presidente Rizzetto, degli emendamenti del Governo e della maggioranza per allargare i perimetri dei decreti omnibus (Applausi dei deputati del gruppo MoVimento 5 Stelle) . La settimana prossima arriverà un altro decreto omnibus in Parlamento, che discuteremo nel silenzio di tutti. Io spero che Mattarella farà un altro richiamo a questo punto, perché non se ne può più, Presidente (Commenti di deputati del gruppo Fratelli d'Italia) ! Presidente, attraverso l'istituto della decretazione d'urgenza, con la caducazione degli emendamenti e il taglio della discussione parlamentare, l'unico strumento che le opposizioni hanno per discutere in Aula sono solo gli ordini del giorno e devono avere il diritto di poterli discutere senza essere derisi dai colleghi di maggioranza, che alle 9 se ne vogliono andare a casa (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307435",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307143_19",
+      "politician_name": "ZIELLO Edoardo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Presidente, sempre sull'articolo 8, come l'onorevole Baldino. Mi sembra che interventi di questo tipo, specialmente quando ci sono scolaresche ad assistere ai nostri lavori, siano del tutto inopportuni (Proteste dei deputati del gruppo MoVimento 5 Stelle) , perché gettano un discredito incredibile su questo Parlamento (Applausi dei deputati del gruppo Lega-Salvini Premier) . Ci sono le sedi opportune, come la Conferenza dei capigruppo, per muovere certe critiche e certe osservazioni. Ma bisognerebbe, quando svolgiamo i nostri lavori in quest'Aula, capire anche chi viene ad assistere ai nostri lavori, perché certi interventi non fanno altro che andare in senso opposto rispetto all'educazione civica che viene impartita alle nostre scolaresche (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307143",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307219_19",
+      "politician_name": "DEIDDA Salvatore",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Io vorrei, invece, spezzare una lancia in favore del Presidente Rampelli, e le spiego perché. Lei deve capire, forse, perché questo intervento viene solo da un gruppo dell'opposizione e non da tutte le opposizioni. Perché il Presidente Rampelli ha richiamato? Perché penso che sia, invece, offensivo insultare un'intera maggioranza, per tutto il dibattito, con aggettivi che non sono di merito, ma che semplicemente attaccano le persone e i nostri colleghi, quando noi, in maniera rispettosa, abbiamo (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) - Commenti del deputato Pellegrini) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307219",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307219_19",
+      "politician_name": "DEIDDA Salvatore",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Io le chiedo, invece, di confrontare e guardare anche i video degli atteggiamenti minacciosi che ci sono da parte dell'opposizione (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) in maniera continua, com'è accaduto in occasione dell'occupazione della Sala della Giunta. E ci sono continue provocazioni nei gesti e nelle parole, quando c'è una maggioranza che, quando parla l'opposizione, è presente e cerca di ascoltare, ma ovviamente non ci si può lamentare quando ci si ripete più volte “inetti”, “incapaci”, è un termine…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307219",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307219_19",
+      "politician_name": "DEIDDA Salvatore",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). …che continuano a cercare di inasprire questo. Quindi, le chiedo di vedere i filmati (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307219",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Se mi permettete, proprio qualche settimana fa abbiamo inviato, come Conferenza dei presidenti di gruppo, una lettera per richiamare sull'atteggiamento che si deve tenere in Aula. Quindi, faccio quest'appello a tutti. Ieri sera ho visto la seduta e capisco poi, dato che l'ora era anche tarda, anche la stanchezza e il momento. Chiaramente, parlerò anche con il Presidente Rampelli che, comunque, mi sembra che abbia tenuto l'Aula in una maniera abbastanza corretta (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) . Dicevo che ne parlerò anche con il Presidente Rampelli, però ora faccio appello a tutti perché abbiamo mandato una lettera con cui richiamiamo tutti i deputati al comportamento che si deve tenere in Aula, soprattutto al rispetto che si deve tenere nel momento in cui un'altra persona parla, che sia di maggioranza o di opposizione. Quindi, la richiesta è che tutti evitino di parlare sopra o di urlare quando ci sono colleghi che intervengono, proprio per il rispetto che si deve tenere nell'Aula e anche per il rispetto istituzionale che quest'Aula, ovviamente, deve mantenere. Quindi, è stato fatto un appello a tutti, è stata inviata una lettera a tutti i capigruppo che, penso, sarà consegnata a tutti i deputati o così, almeno, è stato richiesto dall'Ufficio di Presidenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). La ringrazio. Vorrei ricordare ai colleghi che sono intervenuti che il miglior esempio che quest'Aula può dare alle scolaresche e al Paese intero è la democrazia (Applausi dei deputati del gruppo MoVimento 5 Stelle - Commenti di deputati del gruppo Fratelli d'Italia) …",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca l'esame e la votazione delle questioni pregiudiziali Ilaria Fontana ed altri n. 1 e Bonelli ed altri n. 2 (Vedi l' allegato A ) riferite al disegno di legge n. 1183: Conversione in legge, del decreto-legge 29 maggio 2023, n. 57, recante misure urgenti per gli enti territoriali, nonché per garantire la tempestiva attuazione del Piano nazionale di ripresa e resilienza e per il settore energetico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghe e colleghi, membri del Governo, oggi siamo qui a discutere dell'ennesimo provvedimento mascherato da buone intenzioni che, in realtà, cela tutt'altro. Il decreto reca, infatti, misure urgenti per gli enti territoriali, per garantire la tempestiva attuazione del PNRR e per il settore energetico. E, allora, cosa c'entra con questo titolo il rigassificatore? Eppure, l'articolo 3 riapre i termini proprio per realizzare nuovi rigassificatori, oltre che per semplificarne l'attuazione. Pensate, colleghi, che, nell'epoca del Green Deal europeo, il rigassificatore viene considerato dal nostro Governo un intervento strategico di pubblica utilità indifferibile e urgente. Questa definizione era stata introdotta con il decreto-legge del maggio 2022, uno degli ultimi provvedimenti del Governo Draghi, proprio quello che ci aveva spinti a dire basta a quel Governo, proprio quello con il quale si è oltrepassato ogni limite di decenza, a seguito del quale si è avviata la crisi che ha portato alle elezioni. Lo stesso Governo che parte di questa stessa maggioranza ha fatto cadere insieme al MoVimento 5 Stelle.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Nel preparare questo intervento, cercavo di pensare a qualcosa di nuovo da poter portare all'interno del nostro dibattito, qualcosa che non fosse la solita riproposizione delle argomentazioni tipiche delle questioni pregiudiziali, con riferimento all'assenza dei requisiti di cui all'articolo 77 della Costituzione a fondamento della decretazione d'urgenza, cioè i casi straordinari di necessità e d'urgenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308918_19",
+      "politician_name": "OTTAVIANI Nicola",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Le questioni poste all'attenzione dell'Aula per quanto riguarda i profili di pregiudizialità costituzionale sono due diverse, ma in realtà sovrapponibili. Devo dire che, in realtà, rispetto all'articolo 77, hanno un'ontologia anche diversa, ma sono sicuramente interessanti perché, ancora una volta, fanno emergere una cattiva abitudine, possiamo dire una bad practice che stiamo registrando da qualche periodo a questa parte, quella comunque di sollevare questioni di pregiudizialità costituzionale indipendentemente da un profilo di aderenza o meno all'articolo 77, affrontando già in questa sede questioni di merito.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308918",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Noi voteremo contro le questioni pregiudiziali, non perché siamo d'accordo con il modo di procedere di questa maggioranza, tutt'altro. È una maggioranza che oggettivamente abusa della decretazione d'urgenza - che, come ben sappiamo, deve essere utilizzata nei casi straordinari di necessità ed urgenza -, producendo numeri che, come abbiamo più volte denunciato e ribadito, hanno raggiunto vette senza precedenti, peraltro da parte di quanti avevano polemizzato rispetto ai Governi precedenti e in barba ai richiami del Presidente della Repubblica che ha espresso doglianze al Governo per questo abuso della decretazione di urgenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi è veramente un giorno molto importante, epocale, per la storia di questa istituzione. Vorrei che vi unisse nuovamente a me, a noi del gruppo del MoVimento 5 Stelle, nel dare il bentornato alla collega Gilda Sportiello, che rientra dal periodo di maternità (Applausi) e il benvenuto al piccolo Federico, che è il primo bimbo a fare ingresso in quest'Aula nel corso dei lavori parlamentari, per consentirne l'allattamento. Benvenuto Federico (Applausi) ! È un giorno importante - ribadisco - perché questa istituzione oggi dimostra che volere è potere, che è possibile conciliare per le mamme lavoro e impegni di cura dei figli, che le madri non devono essere più messe davanti alla lacerante scelta se allattare o tornare al lavoro. Oggi siamo di esempio a tanti datori di lavoro, sia pubblici che privati, e siamo la speranza di tantissime donne. Se vogliamo davvero invertire il trend e promuovere la natalità, è da iniziative come questa che dobbiamo partire, e non da altro tipo di iniziative. Oggi si concretizza con i fatti un percorso intrapreso su impulso del MoVimento 5 Stelle già nella scorsa legislatura, con la nostra Paola Carinelli, che ha portato il tema all'attenzione di questa istituzione poi, con un ordine del giorno al bilancio della Camera dei deputati, a prima firma proprio della collega Sportiello, che abbiamo approvato nel luglio 2022, con cui è stata posta la prima pietra, potremmo dire. Poi, è un percorso che è continuato con estrema sollecitudine, lo dobbiamo dire, in questa legislatura grazie all'Ufficio di Presidenza della Camera, alla Giunta per il Regolamento che è intervenuta…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Stavo, in qualche modo, dando atto della sensibilità che c'è stata su questo tema e avere un brusio di sottofondo, in effetti, non è conferma di questo e, quindi, grazie per il richiamo. Come dicevo, con estrema sollecitudine, in questa legislatura l'Ufficio di Presidenza della Camera e la Giunta per il Regolamento hanno lavorato per questo obiettivo; la Giunta, in particolare, di cui faccio parte, è intervenuta immediatamente per apportare quella modifica regolamentare che consentisse l'ingresso in Aula di un soggetto minore di età. Ecco, è stata la prima delibera adottata dalla Giunta per il Regolamento e desidero ringraziare, lo ribadisco, il Presidente Fontana, il Collegio dei questori, l'Ufficio di Presidenza tutto e tutti i colleghi della Giunta per il Regolamento che hanno mostrato attenzione e sensibilità per questo tema (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308863_19",
+      "politician_name": "MORGANTE Maddalena",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Gentile Presidente, colleghi, a nome del gruppo di Fratelli d'Italia, desidero esprimere, oggi, da quest'Aula, una grande gioia, una grande soddisfazione per il bellissimo risultato raggiunto. Da oggi, le mamme che vorranno allattare, seguendo contestualmente i lavori parlamentari da quest'Aula, lo potranno fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308863",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d301459_19",
+      "politician_name": "RAVETTO Laura",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Sì, quello che avviene oggi è senza dubbio un gesto bello, un gesto simbolico e noi siamo orgogliosi, come gruppo Lega, di esprimere una Presidenza che dimostra con fatti concreti di avere a cuore la maternità e siamo certi, quindi, che accoglierà anche la richiesta, che noi deputate facciamo da anni, di avere un asilo interno alla Camera. Lo chiediamo non tanto per noi deputate madri, quanto soprattutto per le collaboratrici di questi uffici e, diciamolo, anche dei collaboratori. Però, Presidente, io ho allattato mia figlia in questi uffici e so che fortunatamente ci sono anche delle sale di allattamento, perché se è vero che questo è un bel gesto, è anche vero che non sono certissima che questa sia la sede più salubre per un bambino, penso, ad esempio, a tutte le onde dei telefonini che lo circondano, quindi, oltre a questa possibilità, noi crediamo che sarebbe anche giusto eventualmente attrezzare, con una possibilità di voto, le sale di allattamento che già ci sono in esterno all'Aula. Tra l'altro, abbiamo un precedente, perché durante il COVID abbiamo consentito a colleghi e colleghe di votare in Transatlantico. Auspichiamo, quindi, che continui quest'azione di confronto con i gruppi, per creare un quadro di espletamento della genitorialità in questi uffici ad ampio raggio, per tutti, madri e padri. Naturalmente, ribadiamo che non lo facciamo per noi, non lo facciamo per questa istituzione, ma lo facciamo perché questa istituzione deve essere un esempio e perché la maternità deve tornare al centro - come noi della Lega da sempre ribadiamo, e siamo contenti che oggi tutti lo dicano - della nostra società (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "301459",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Sicuramente, questa giornata ha un grande significato, ma, gentili colleghi, avrà un grande significato quando all'esterno riusciremo a permettere alle donne, alle mamme, di accedere agli asili nido, quando ci sarà una riduzione dei costi a domanda individuale. Ricordo all'Assemblea la percentuale minima di accesso agli asili nido per i nostri bambini. Quando ci sarà una riduzione dei costi? Io penso che oggi ci dobbiamo impegnare, il Governo si debba impegnare ad attuare - è un bisticcio di parole - i decreti attuativi per il Family Act . Ricordo ancora quante sono le donne, oggi, che perdono il loro posto di lavoro nel momento in cui comunicano al datore di lavoro di essere incinte. Allora, dobbiamo cercare di ampliare il nostro sguardo e di pensare che certamente questo momento possa essere significativo, che ci possano essere gli adeguati servizi, ma diventerà una vittoria, una vittoria delle donne, di tutte le mamme italiane, quando si riuscirà a dare un accesso più ampio a tutte le altre donne. Allora, io auspico questo e certamente l'impegno deve andare in questa direzione, affinché questo momento non diventi un privilegio (Applausi dei deputati del gruppo Azione-Italia Viva-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Anche noi del gruppo di Alleanza Verdi e Sinistra ci uniamo alla gioia di questa giornata, che rappresenta un passo avanti, la rottura di un tabù e, quindi, anche un segnale al Paese. Vogliamo ringraziare tutte le deputate e tutti i deputati che hanno lavorato per ottenere quest'obiettivo e che hanno, oggi, consentito, qui, alla collega Sportiello di venire a votare e a prendere parte al dibattito democratico e, contemporaneamente, anche di poter avere cura e allattare il proprio bambino, Federico, a cui vanno i nostri auguri di buona vita. Per molti anni, il Paese ha discusso di conciliazione di vita e lavoro, della necessità di fare in modo che le madri e le donne potessero conciliare, per l'appunto, la propria carriera professionale, il proprio impegno nel mondo del lavoro con la maternità, con il diventare genitori; ciò vale naturalmente per le donne, ma vale anche per tanti padri a cui è stato impedito, da un mondo del lavoro cieco e sordo, di prendersi cura dei propri bambini, di poter stare a casa quando i propri figli e le proprie figlie sono nati e nate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d302754_19",
+      "politician_name": "BRAGA Chiara",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. A nome del gruppo del Partito Democratico, delle deputate e dei deputati, voglio anch'io dare il benvenuto al piccolo Federico e salutare con affetto la collega Gilda Sportiello, che oggi con la sua presenza qui ci permette anche di discutere, in un'Aula spesso disattenta a questi temi, di una questione fondamentale, quella appunto della conciliazione della vita e del lavoro, dei tempi delle donne e delle madri nel nostro Paese. Quello che oggi si realizza qui è un segnale positivo, frutto - lo voglio ricordare - di un lavoro dell'Istituzione, della Camera e ringrazio ovviamente il Presidente, l'Ufficio di Presidenza, i Questori e anche le strutture amministrative della Camera per avere reso possibile questo risultato, a cui si è lavorato nel corso delle precedenti legislature. Oggi il riconoscimento della possibilità di portare e avere insieme a sé il bambino in Aula è resa un'occasione anche di conquista - diciamo così - non di spazi di democrazia, ma di spazi fisici dentro quest'Aula che permettono una compresenza, che in passato non era stato possibile realizzare, nonostante si trattasse un obiettivo ricercato e voluto anche da precedenti Presidenze di questa Camera, che pure avevano messo a disposizione delle deputate madri altre opportunità di servizio, probabilmente meno funzionali di quella che oggi si realizza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "302754",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307466_19",
+      "politician_name": "MARROCCO Patrizia",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Un passo di civiltà, una svolta che pone il Parlamento italiano in linea con quello europeo, dove già da anni avviene l'allattamento in Aula. In questo modo si consente una piena partecipazione ai lavori parlamentari e non si sarà più costrette, come madri, a scegliere se restare in Aula o allattare, in un momento delicato come quello del primo anno di vita del bambino. Speriamo che si adeguino non solo tutte le istituzioni ma anche le aziende, sia pubbliche sia private. Questo è veramente un passo fondamentale per la questione legata alla conciliazione lavoro-famiglia e per il lavoro femminile. Quindi, andiamo a sanare un vulnus esistente. Noi facciamo tanti auguri alla collega Gilda, al papà Riccardo e soprattutto diamo un grande benvenuto a Federico, il primo bambino di Montecitorio (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307466",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie Presidente. Colleghi e colleghe, a nome del gruppo Noi Moderati, per il quale la famiglia è un pilastro, diamo il benvenuto a Federico e diamo ovviamente il benvenuto a una onorevole mamma in questo nuovo ruolo straordinario e importantissimo. Penso che oggi sia il momento di esaltare la vita ma anche e soprattutto il ruolo della donna. Un pensiero non può che andare anche a Giulia Tramontano e al suo bambino che non ci sono più (Applausi) . Oggi parliamo di diritto di tornare al lavoro ma anche di essere una presenza attiva, come mamma e come donna, nella vita dei propri figli. Ritengo anche che una riflessione profonda vada fatta sul tema della maternità e sul tema della paternità, perché la famiglia è un bene prezioso. La donna va sostenuta e deve essere libera di rientrare nel mondo del lavoro con i tempi e le forme che ritiene opportuni. Ritengo anche che, come legislatori - qui vicino a me c'è anche l'onorevole Cavo - e come legislatrici, dobbiamo impegnarci soprattutto per quelle donne che sono meno privilegiate di noi e per le quali quindi l'accesso al lavoro diventa veramente difficoltoso. La maternità non deve essere un limite, la maternità non deve essere una rinuncia. Benvenuto Federico! Alla nostra onorevole mamma Gilda tutta la nostra solidarietà anche di donne come me che non hanno figli e non ne possono avere (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro delle Infrastrutture e dei trasporti, il Ministro dell'Università e della ricerca, la Ministra per le Riforme istituzionali e la semplificazione normativa e il Ministro della Giustizia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307585_19",
+      "politician_name": "PRETTO Erik Umberto",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Grazie, Ministro. Il numero degli incidenti automobilistici che si verificano annualmente sulle strade urbane ed extraurbane italiane, malgrado i diversi tentativi di ridurne la portata, non accenna a diminuire in maniera significativa. Emerge, quindi, la necessità di interventi immediati e innovativi sul tema della sicurezza stradale, che il Ministero delle Infrastrutture e dei trasporti sta affrontando in modo organico. In tal senso, i dispositivi elettronici di controllo della velocità, i cosiddetti autovelox, sono certamente strumenti utili per limitare danni e incidenti, ma occorre evitare che si trasformino in una vessazione per gli automobilisti, disciplinandone finalmente l'uso. Si chiede, quindi, quali iniziative di competenza si intendano adottare per regolare l'utilizzo degli autovelox a beneficio della sicurezza stradale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307585",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Ringrazio il Presidente e gli onorevoli colleghi. Il Ministero, che ho l'onore di accompagnare e di guidare da sette mesi, ha avviato da subito un confronto con le amministrazioni competenti e con le associazioni delle vittime della strada per realizzare un pacchetto di misure normative e amministrative finalizzate a migliorare la sicurezza stradale: 3.120 morti registrati l'anno scorso sono un dato indegno di un Paese civile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d307585_19",
+      "politician_name": "PRETTO Erik Umberto",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Signor Ministro, noi siamo pienamente soddisfatti di questa sua risposta. La sicurezza stradale è una questione di primaria importanza per il nostro Paese e le sue parole confermano che il Governo è impegnato a garantirla a tutti i cittadini che utilizzano le nostre strade, anche con una seria riforma del codice della strada, che semplifichi e chiarisca le norme e aumenti le pene per chi commette violazioni, oltretutto prevedendo campagne di sensibilizzazione sul tema. Quindi, prevenzione ed educazione, da un lato, e sanzioni, dall'altro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "307585",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Signor Ministro, nel 2022 sono aumentate del 37 per cento le sanzioni amministrative da codice della strada. Lo ha reso noto il Codacons sulla base dei dati dei comuni. Il suo presidente ha dichiarato che la ripresa della circolazione è aumentata certamente e sui nuovi dati ha inciso la ripresa dopo il COVID, ma i dati dimostrano che permangono gravi criticità nell'uso dell'autovelox. Il comune di Milano è risultato essere il primo per incassi: 151 milioni di euro, di cui 12,9 milioni di incassi proprio per multe dovute ad autovelox. Secondo quanto stabilito dal codice della strada, di questi, 17,3 milioni dovranno essere reinvestiti in acquisto di nuove attrezzature per il contrasto e nuovi controlli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Ringrazio anche lei per l'interrogazione e mi ricollego a quanto detto poco fa. Il problema che si riscontra nelle prassi amministrative quotidiane è che alcuni dei dispositivi utilizzati dai comuni non sono omologati e richiedono una manutenzione costante per preservare gli standard prestazionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Ministro. Ci fa molto piacere che lei abbia messo tra le attività del suo Ministero una priorità come quella che abbiamo esaminato oggi con le due interrogazioni che le sono state rivolte, perché - ha fatto bene a sottolinearlo e noi lo condividiamo - la priorità delle priorità è salvare le vite umane e, purtroppo, quel dato che lei ha citato è ancora drammatico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Su una multa per divieto di sosta - e concludo - di 49,80 euro, 17,88 euro sono per spese di notifica. Con le tecnologie che abbiamo, cosa ci vuole a mandare un' App a un cittadino, dirgli che gli è stata fatta una multa e che la può pagare subito? Questa è la sfida delle sfide, perché, come lei sa, la nostra idea - sua, mia e di tutta la coalizione di centrodestra - è quella che il cittadino sia il protagonista e lo Stato sia al servizio del cittadino. Grazie per il lavoro che fa (Applausi dei deputati del gruppo Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308931_19",
+      "politician_name": "BAKKALI Ouidad",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Signor Ministro, membri del Governo, il sistema aeroportuale è un anello fondamentale per lo sviluppo e la crescita sociale ed economica dei territori dell'intero Paese e, per quanto riguarda la bozza del Piano nazionale aeroporti, che abbiamo in consultazione, poniamo i seguenti quesiti: quale strategia il Governo intende sviluppare con il Piano nazionale aeroporti, relativamente ai processi di privatizzazione degli scali? In che modo intende esercitare il proprio controllo pubblico sui costi e sulle procedure, adottando iniziative di competenza per regolare i rapporti tra enti gestori degli scali, le società di handling , i vettori commerciali di trasporto aereo e l'ente regolatore del sistema, tenendo adeguatamente conto delle direttive europee in tema di concorrenza ed aiuti di Stato?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308931",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308931_19",
+      "politician_name": "BAKKALI Ouidad",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). …e come questo tema impatta rispetto alla mobilità da e verso le isole. Poi, ci sono il tema del caro voli, che sta gravando su famiglie e imprese, il tema della miglior connettività, quindi di un piano di integrazione della logistica intermodale tra i territori…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308931",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Grazie. Il nuovo Piano nazionale degli aeroporti è il frutto di un approfondito confronto con i rappresentanti dei vari operatori del comparto e delle organizzazioni sindacali. Le parole chiave del Piano, che contiamo di approvare entro la fine dell'anno con la collaborazione di tutti, sono interconnessione nazionale e internazionale e strutturazione di reti aeroportuali modulate secondo effettive esigenze di mercato. Particolare attenzione, come lei sottolineava, sarà posta alle esigenze delle aree territoriali più remote, quali le isole, che spesso non hanno accesso a modalità alternative di trasporto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Non siamo per nulla soddisfatti della risposta del Governo. Nella bozza del Piano nazionale aeroporti mancano una visione, una strategia di insieme del sistema degli aeroporti italiani. Il Piano nazionale degli aeroporti dovrebbe, appunto, caratterizzarsi per potenziare e garantire lo sviluppo del trasporto aereo e del sistema aeroportuale, riducendo i divari di mobilità dei territori con particolare attenzione a quelli legati al Mezzogiorno, all'insularità e alla scarsa connettività delle isole. Nel Piano non sono indicate per nulla le risorse messe a disposizione né, come sappiamo, vi è una specifica linea di intervento del PNRR per sostenere la realizzazione. Quindi, signor Ministro, a nostro giudizio, proprio nel tempo che rimane, da adesso all'approvazione del Piano, bisognerà dare concreta risposta anche al reperimento delle risorse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 115
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2023-06-07",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, signor Presidente. Come è noto, il decreto ministeriale n. 180 del 29 marzo 2023 ha sostanzialmente precluso ai docenti precari AFAM la stabilizzazione di cui si parlava e che era nelle previsioni, creando anche disparità di trattamento in questo settore, molto variegato. Quindi, la domanda alla signora Ministra, che ringrazio, è se si intende individuare una procedura per risolvere questo problema. Lo dico anche perché, nell'ultimo decreto sulla pubblica amministrazione, sono stati respinti emendamenti che andavano in questa direzione e, adesso, abbiamo scoperto che, nel decreto-legge n. 51 del 2023, in discussione oggi in Commissione in questa Camera, c'è una proposta emendativa del collega di Fratelli d'Italia Saverio Congedo, il 10.05, che, sostanzialmente, è identico a quelli che sono stati respinti in questi giorni. Quindi, volevamo capire se, nel frattempo, è cambiato qualcosa e se questa interrogazione risulta ormai superata dai fatti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0115",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 115
+      }
+    }
+  ]
+}

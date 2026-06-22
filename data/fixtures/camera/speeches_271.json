@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0271",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-03-27",
+    "title": "Assemblea — Seduta n. 271 del 2024-03-27",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 271
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 96, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1435-A: “Interventi in materia di sicurezza stradale e delega al Governo per la revisione del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285” e delle abbinate proposte di legge nn. 41-96-195-411-412-526-529-578-634-684-686-697-718-865-874-892-985-1030-1218-1258-1265-1303-1398-1413-1483.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, signor Presidente e signor Vice Ministro. Preannuncio il voto contrario della componente di cui faccio parte, che va a certificare, a mio modo di vedere, anche le difficoltà applicative che questo provvedimento andrà a determinare a livello di pianificazione territoriale e di applicazione della norma a livello di amministrazioni comunali. Mi pare che sia una riforma molto annegata o offuscata dall'ideologia, da proclami che abbiamo sentito più volte pronunciare dal Ministro Salvini in televisione su norme che esistono già, ma che vengono comunque riarticolate a seconda del messaggio che si vuole dare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d305733_19",
+      "politician_name": "PASTORINO Luca",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Al di là del voto contrario - e concludo, Presidente -, mi permetto di sottolineare, per l'ennesima volta, come questo provvedimento presenti delle storture e comporterà seri problemi di applicazione da parte delle amministrazioni locali e anche di potenziale e forte difficoltà da parte dei cittadini, abituati ad altre norme ormai consolidate nel tempo (Applausi dei deputati del gruppo Misto-+Europa e di deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "305733",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d305586_19",
+      "politician_name": "SCHULLIAN Manfred",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Grazie, Presidente. In questo provvedimento ci sono molte disposizioni di buonsenso che condividiamo, tra cui alcune la cui approvazione auspichiamo da tanto tempo. Mi riferisco, in particolare, all'articolo 27, comma 2, che consentirà di derogare, tramite un decreto ministeriale, in particolari condizioni, al divieto di edificabilità nelle fasce di rispetto autostradali, cioè i 60 metri, o, all'articolo 25, che consente l'istituzione di zone a traffico limitato territoriali fuori dai centri abitati, negli ambiti di rilevanza culturale e paesaggistica o naturalistica tutelati dall'UNESCO.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "305586",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d306379_19",
+      "politician_name": "DE MONTE Isabella",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Signor Vice Ministro, colleghi e colleghe, siamo alla quarta settimana d'Aula. Ricordo, infatti, che la discussione generale è iniziata il 1° marzo, quindi, sicuramente, con i tempi consueti che ci detta l'Aula, però, al tempo stesso, evidentemente, qualche problemino, forse, anche all'interno della maggioranza c'è stato sul fatto di condividere i contenuti di questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "306379",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Nel mondo di oggi, ogni anno, muoiono 1.300.000 persone a causa di incidenti stradali e 50.000.000 rimangono ferite. Il costo economico degli infortuni del traffico stradale ammonta al 3 per cento del PIL della maggior parte dei Paesi industrializzati. All'interno dell'Unione europea, nel 2022, 20.600 persone hanno perso la vita a causa di un incidente stradale, segnando un aumento del 3 per cento rispetto al 2021. In Italia, nei primi mesi del 2024, sono già decedute 30 persone a causa di un incidente, segnando un indice in costante crescita. A seguito di un incidente stradale, si ricerca subito un colpevole, un deterrente, stanchezza, inesperienza, uso di alcol e stupefacenti, fattori che coinvolgono tutti gli utenti della strada.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, onorevoli colleghe e colleghi, signor Vice Ministro, io ho la sensazione che vi pentirete amaramente di queste modifiche al codice della strada. Abbiamo cercato in tutti i modi di dissuadervi dal fare molte delle scelte che vi ostinate a portare avanti e che non rafforzano affatto i livelli di sicurezza nelle nostre strade e non eviteranno nuove vittime, purtroppo. Per ora non c'è stato nulla da fare, non siamo riusciti a farvi ragionare né a farvi cambiare idea, eppure, sapete bene che le principali cause di morte sono l'alta velocità, la guida distratta, il mancato rispetto degli attraversamenti pedonali e il mancato rispetto della distanza di sicurezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308895_19",
+      "politician_name": "PASTORELLA Giulia",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. La mia forza politica, Azione, valuta sempre nel merito le proposte, che siano del Governo o dell'opposizione, e così abbiamo fatto anche con questo provvedimento. Quindi, il nostro atteggiamento è sempre stato costruttivo e anche quello dei relatori ma, purtroppo, devo annunciare il voto contrario, e sarà convintamente contrario, ahimè. Non siamo solo noi a dirlo, non sono solo le opposizioni a ritenere questo provvedimento inefficace e potenzialmente dannoso ma sono le vittime della strada e le vittime della strada non sono di destra o di sinistra. I sindaci - alcuni sono di destra, alcuni di sinistra - sono tutti molto preoccupati. Quindi, cercherò, in uno spirito sempre costruttivo, di riconoscere quelli che possono essere alcuni meriti di questo provvedimento ma poi, purtroppo, la maggior parte del mio intervento sarà su quello che non funziona, sperando che vada, poi, a essere migliorato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308895",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308865_19",
+      "politician_name": "TOSI Flavio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Ringrazio innanzitutto per il lavoro e per lo sforzo profuso dai relatori, quindi dalla collega Maccanti e dal collega Caroppo (Applausi del deputato Deidda) , che hanno lavorato con grande impegno, insieme al presidente Deidda, perché c'è stato veramente un lavoro di squadra, e credo che vada dato atto dell'impegno perché non era un provvedimento facile da affrontare e da gestire in maniera così analitica e puntuale in tempi così ristretti. Ringrazio anche il Sottosegretario Ferrante e il Vice Ministro Rixi, coloro che hanno collaborato con la Commissione al fine di arrivare a questo risultato, che è un risultato importante. Si può ovviamente vederla in modo diverso, ma, dopo 30 anni, arrivare finalmente a una riforma organica del codice della strada credo sia un risultato importante per quest'Aula e per il Paese (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE e di deputati dei gruppi Fratelli d'Italia e Lega-Salvini Premier) . Ringrazio anche i colleghi delle minoranze perché penso che in Commissione ci sia stato un atteggiamento costruttivo, nel senso che si è cercato tutti di portare un contributo, talvolta magari meno di quello che avremmo voluto. Abbiamo potuto ascoltare i suggerimenti dei colleghi e c'è tutta la parte della delega che non va sminuita, perché quella della delega è una parte dove ci sono dei tempi certi di attuazione, un procedimento più snello, meno farraginoso e meno complesso di quello che stiamo seguendo ora. Delega che poi porterà dei provvedimenti all'attenzione della Commissione, e tutto, in ogni caso, verrà condiviso dai parlamentari di maggioranza e di minoranza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308865",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d307416_19",
+      "politician_name": "CANTONE Luciano",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi siamo arrivati al voto finale sul codice della strada, un provvedimento che incide sulla vita quotidiana di tutti i cittadini italiani. Il contesto è quello del Paese europeo con il più alto numero di vetture private circolanti, dove esiste un problema reale di sicurezza stradale, con un numero di incidenti spaventoso e con un codice della strada esistente che non tutela gli utenti più deboli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "307416",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d302980_19",
+      "politician_name": "MACCANTI Elena",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghi, Vice Ministro Rixi, intervengo con particolare orgoglio, oggi, in quest'Aula, a nome del gruppo della Lega, per dichiarare il nostro “sì” convinto a questo disegno di legge e ringraziare, innanzitutto, il Governo e il Ministro Matteo Salvini, per la determinazione e l'impegno che sta dimostrando, ogni giorno, al Ministero, sul fronte della sicurezza sulle nostre strade.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "302980",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Il nuovo codice della strada, che arriva al voto finale dell'Aula, è una norma spot , che più volte nel corso dell'esame in Commissione e in Aula, non abbiamo esitato a definire lacunosa e contraddittoria. Ci sarebbe piaciuto, signor Presidente, poterci confrontare con l'impegnatissimo Ministro Salvini in quest'Aula, invece constatiamo che, nel lungo iter parlamentare, non ha trovato neanche un attimo per fare una fugace comparsa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308795_19",
+      "politician_name": "RAIMONDO Carmine Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Vice Ministro Rixi, Sottosegretario Ferrante, onorevoli colleghi, il disegno di legge che oggi siamo chiamati ad approvare, dopo un lungo lavoro in Aula e, prima ancora, un lungo lavoro in Commissione, nasce dalla necessità di aggiornare le norme del codice della strada a una realtà che, rispetto al testo del 1992 attualmente in vigore, vede un maggior utilizzo delle strade, un aumento degli utenti e, purtroppo, anche degli incidenti, che spesso, troppo spesso, coinvolgono giovani e giovanissimi. Aspetti che sono stati oggetto di grande approfondimento in occasione dei numerosi tavoli di confronto organizzati dal MIT in vista della presentazione del disegno di legge in Consiglio dei ministri e sui quali anche la Commissione trasporti ha svolto una lunga ed approfondita attività conoscitiva, con decine e decine e decine di audizioni. Voglio per questo, innanzitutto, ringraziare il presidente della Commissione, Salvatore Deidda (Applausi dei deputati del gruppo Fratelli d'Italia), per la grande attenzione che ha dedicato al provvedimento e per aver saputo coinvolgere sia le forze politiche di maggioranza che le forze politiche di opposizione. Voglio ringraziare - ed è doveroso e giusto - i relatori, onorevoli Elena Maccanti e Andrea Caroppo (Applausi dei deputati del gruppo Fratelli d'Italia) , per il grande lavoro che hanno svolto, ma, soprattutto, per la grande passione e la grande competenza con cui hanno trattato la materia. Mi sia consentito anche un ringraziamento al Vice Ministro Bignami, che per noi è stato un prezioso e puntuale punto di riferimento nella nostra interlocuzione con il Governo (Applausi dei deputati del gruppo Fratelli d'Italia) , così come un grazie a tutti i colleghi di Fratelli d'Italia che compongono la Commissione trasporti e, in particolare, alla deputata Gaetana Russo, che è intervenuta nel corso della discussione generale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308795",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Deputato Raimondo, chiedo scusa, la interrompo un attimo, interrompiamo anche il cronometro. Colleghi, dobbiamo fare silenzio, capisco che si sta avvicinando il momento del voto, quindi c'è anche un movimento fisiologico per prendere possesso della propria postazione, però occorre tacere, per cortesia, e consentire al deputato che sta svolgendo la sua dichiarazione di voto di farla in tranquillità. Chiedo scusa, mi sa che non ci siamo capiti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308795_19",
+      "politician_name": "RAIMONDO Carmine Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Dicevo che questo è un provvedimento politico, figlio di una precisa volontà politica, che, a differenza di altri provvedimenti legislativi che, di volta in volta, riguardano diversi ambiti delle nostre vite, questa volta ci riguarda tutti. Da quando la mattina usciamo di casa, fino a quando vi rientriamo la sera, siamo tutti quanti utenti delle nostre strade. Per questo motivo, questa riforma, questo provvedimento, ci riguarda tutti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308795",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308795_19",
+      "politician_name": "RAIMONDO Carmine Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Le cronache e le statistiche degli ultimi anni in tema di incidenti stradali indicavano chiaramente la necessità di una riforma e il Governo non si è fatto trovare impreparato. Spiace che non tutte le forze politiche abbiano colto la necessità di questo provvedimento. Spiace perché i gruppi parlamentari – Presidente, concludo - che da quei banchi oggi contestano e criticano la nostra proposta, quando erano al Governo, e avrebbero avuto la possibilità di intervenire, si sono contraddistinti per politiche lassiste che, nella migliore delle ipotesi, hanno lasciato le cose come stanno e, nella peggiore, hanno contribuito a determinare caos e spesso impunità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308795",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d307219_19",
+      "politician_name": "DEIDDA Salvatore",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Presidente della IX Commissione . Grazie, Presidente. Trovo doveroso ringraziare il Governo, ma mi permetta di ringraziare anche la dottoressa Martuscelli, il dottor Cerase e tutti gli uffici della Commissione della Camera, per il grande lavoro fatto, perché da ottobre a febbraio abbiamo svolto un grande lavoro di esame di questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "307219",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vi erano stati un sequestro e, quindi, una confisca molto importanti nei confronti dei fratelli Pellini. Circa 200 milioni di euro di beni erano stati confiscati nell'ambito della misura di prevenzione che era stata portata avanti, in quanto era stata rilevata la sussistenza dei presupposti relativi, appunto, alla pericolosità per reati di disastro ambientale e per reati di traffico illecito di rifiuti nella Terra dei fuochi (Commenti di deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Collega, fino a prova contraria, sono io a stabilire se l'intervento è pertinente o meno. Ci è stato preannunciato che ci sarà una richiesta di informativa al Governo, quindi, se permette, stia al suo posto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Io vorrei soltanto richiamare una questione di metodo in quest'Aula, perché è la seconda volta, nel giro di un mese, che lo stesso collega, Cafiero De Raho, interrompe, di fatto, i lavori con una richiesta sull'ordine dei lavori per chiamare un Ministro a rispondere in ordine a un'iniziativa della magistratura (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe e di deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Deputato Enrico Costa, lei è un deputato esperto. C'è una richiesta e la Presidenza è tenuta, a termini di Regolamento, ad ascoltarla. Ognuno è libero di fare le proposte che vuole, a patto che si attenga al Regolamento e il deputato Cafiero De Raho lo ha fatto. Dopodiché non possiamo aprire un dibattito su questo. Egli ha fatto una richiesta di intervento sull'ordine lavori, il Governo è presente, l'abbiamo registrata. Al massimo si può dire se si sia d'accordo o meno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d307223_19",
+      "politician_name": "PITTALIS Pietro",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente, intervengo sull'ordine dei lavori. Abbiamo sentito dall'onorevole Cafiero De Raho una richiesta che rappresenta, questa sì, un attacco proditorio contro la magistratura italiana (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE e di deputati dei gruppi Fratelli d'Italia e Lega-Salvini Premier) , perché chiedere l'intervento del Ministro della Giustizia per sindacare un provvedimento della Corte di cassazione è evidentemente un atto che travalica le competenze e le prerogative anche del singolo deputato, soprattutto quando queste richieste pervengono da una parte politica che ha sempre messo la magistratura al riparo da qualunque richiesta, critica e censura. Mi pare davvero strumentale che questa questione possa approdare con leggerezza nelle Aule del Parlamento ed è la ragione per la quale, signor Presidente, noi riteniamo che questa richiesta vada respinta al mittente, non perché il Ministro Nordio non possa venire in Parlamento anche a dare spiegazioni sull'andamento della giustizia italiana ma perché si tratta di un'intromissione inammissibile nell'operato della Corte di cassazione (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE e di deputati dei gruppi Fratelli d'Italia e Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "307223",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avrei auspicato che non si aprisse un dibattito su questo, perché la sede è impropria. Comunque, preciso soprattutto al deputato Enrico Costa, che ha fatto questo tipo di rilievo poco fa, che non abbiamo interrotto alcun provvedimento, perché siamo tra un provvedimento e un altro. Oltretutto, ci stiamo organizzando proprio per capire come gestire il successivo punto all'ordine del giorno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308830_19",
+      "politician_name": "BELLOMO Davide",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Signor Presidente, io credo che veramente qui abbiamo travalicato ogni decenza, perché tutti quanti noi, e a maggior ragione la parte che ha richiesto questo intervento, diciamo che la magistratura e il potere giudiziario sono autonomi e in nessuna maniera possono essere messi in discussione dall'Aula del Parlamento. Questo è quello che sempre ci è stato detto quando abbiamo fatto interventi normativi sulla legislazione vigente. La Corte di cassazione va rispettata non solo quando pronuncia condanne che si ritengono ingiuste ma va rispettata sempre, perché evidentemente ci sono motivazioni per le quali quel sequestro e quelle misure di prevenzione sono stati ritenuti illegittimi (Applausi dei deputati del gruppo Lega-Salvini Premier) . Ognuno può avere la propria idea sugli atti giudiziari e sui fatti, ma se noi oggi chiamiamo il Ministro della Giustizia ogni qualvolta non siamo d'accordo su un provvedimento significa, come ha detto il collega Costa, che questa è forse non la Corte europea ma non so che cosa potrebbe diventare. Noi dobbiamo avere rispetto assoluto. Poi, se i parametri secondo i quali la Corte di cassazione ha annullato un provvedimento non trovano d'accordo il collega De Raho, questi presenterà una norma di legge per cambiare quei parametri, ma noi abbiamo l'obbligo di rispettare le sentenze definitive, perché quella della Corte di cassazione è una sentenza - in questo caso un'ordinanza - definitiva e noi abbiamo l'obbligo di rispettarla, così come più volte ci viene detto quando le sentenze sono definitive. Ci viene addirittura detto che quando sono sentenze di primo grado noi non le possiamo discutere, perché dobbiamo attendere che la magistratura faccia il suo corso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308830",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Presidente, io all'intervento sull'ordine dei lavori unisco anche un richiamo al Regolamento, all'articolo 8. Anch'io trovo sconcertante che chi si è fatto paladino - l'onorevole Cafiero De Raho e il gruppo del quale fa parte l'onorevole Cafiero De Raho - dell'indipendenza della magistratura e ci ricorda, per usare un eufemismo, a ogni piè sospinto che noi dobbiamo rispettarla, addirittura anche nel dibattito quando ci troviamo ad affrontare questioni che riguardano direttamente l'attività della magistratura, e ci spiega, in punto di diritto, che è un vulnus chiedere conto di quello che fa la magistratura, poi ci chieda, come il collega Cafiero De Raho, sostanzialmente di trasformare la Camera dei deputati nel quarto grado di giudizio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Deputato Giachetti, ovviamente io le devo una risposta, prima di passare agli interventi successivi. Le faccio presente che quando, comunque, viene avanzata una richiesta di intervento sull'ordine lavori viene fatta apertis verbis e non c'è nessuna nota scritta e non c'è nessun atto. Quindi, si cita l'argomento generale e sull'argomento generale oggi, come sempre, c'è una certa disponibilità all'ascolto. Quindi, io non posso sapere. Poi, se vogliamo modificare le nostre regole (Commenti del deputato Giachetti) io sono qui per far rispettare anche eventuali variazioni di queste regole. Se vogliamo stabilire che prima di fare un intervento sull'ordine dei lavori bisogna presentare una richiesta scritta e argomentata, allora la Presidenza potrà stabilire anche il merito della proposta. Solitamente, fin qui è sempre accaduto che, una volta stabilito il titolo della richiesta di intervento sull'ordine lavori, si ascolta il collega deputato e poi, successivamente alle sue richieste, si interviene, si corregge e si ascoltano anche gli altri colleghi parlamentari (Commenti dei deputati Giachetti e Marattin) . Se fosse stato diversamente, diversamente si sarebbe atteggiata la Presidenza di turno della Camera dei deputati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d307400_19",
+      "politician_name": "VARCHI Maria Carolina",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Io intervengo per provare a dissipare un po' di confusione che c'è stata su questa richiesta dell'onorevole Cafiero De Raho, perché sembrerebbe che la richiesta - io ho letto, credo, la stessa agenzia che ha letto il collega - verta su una pronuncia della Cassazione. La Corte di cassazione ha annullato un provvedimento poiché questo provvedimento di confisca sarebbe stato depositato oltre il termine di 18 mesi e, dunque, la sentenza di appello viene dichiarata nulla dalla Corte di cassazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "307400",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Noi siamo per il rispetto dell'autonomia della magistratura sempre, siamo per difenderci non dai processi, ma nei processi. Siamo, ovviamente, per il ruolo di questo Parlamento, un ruolo indipendente, che non chiede conto né ai magistrati né alle procure di quello che fanno. È per questo che noi chiediamo un'informativa urgente non al Ministro Nordio, ma alla Presidente del Consiglio. Sentiamo che la Ministra Santanche' oggi ha dichiarato che si è sentita con la nostra Presidente del Consiglio, si è sentita ed è serenissima (Commenti dei deputati del gruppo Fratelli d'Italia) . Così, dopo la richiesta dei giornalisti e delle opposizioni di fare un passo indietro, credo che sia ancora legittimo chiedere che sia opportuno fare un passo indietro dopo quello che è appena successo, cioè il 22 marzo di quest'anno la procura di Milano ha notificato alla Santanche' l'avviso di conclusione dell'indagine per il filone che riguarda la presunta, e dico presunta (Commenti di deputati del gruppo Fratelli d'Italia) , truffa ai danni dell'INPS messa in atto dalla società Visibilia, di cui la Ministra era amministratrice. Tra il 2020 e il 2022 Visibilia, come lei sa, Presidente, avrebbe ricevuto, avrebbe, dall'Istituto nazionale di previdenza sociale 126.000 euro a titolo di cassa integrazione COVID, destinata a 13 dipendenti, i quali, però, avrebbero continuato a lavorare normalmente. Il punto è: la Ministra sapeva o non sapeva di questa truffa ai danni dello Stato? Nelle prossime settimane, leggiamo, dovrebbero chiudersi anche altre inchieste, fra cui quella condotta proprio a Milano che vede la Santanche' indagata per falso in bilancio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. A nome del gruppo di Noi Moderati, chiaramente ci opponiamo a questa richiesta e siamo onestamente meravigliati per due ordini di motivi. Il primo perché viene da un uomo e da un deputato come Cafiero De Raho, che è un magistrato, e che quindi dovrebbe conoscere meglio di tanti altri le regole della magistratura, l'indipendenza della magistratura. Non so se in quest'Aula ci sia mai stato un precedente per una richiesta di informativa su una sentenza, addirittura una sentenza definitiva, ma credo proprio di no. Tra l'altro un'informativa non si capisce per venire a dire cosa, perché è chiaro che il Ministro ci direbbe, giustamente, che lui non può entrare nel merito delle sentenze, così come avviene sempre. E qui, Presidente, mi faccia dire una cosa, è caduto un po' un velo. Il tema non è politico, non riguarda la magistratura, riguarda la cultura. C'è una cultura di questo Paese che ritiene che la politica debba entrare nelle scelte di merito delle sentenze che riguardano una parte politica, che riguardano alcune vicende, e, quando non sono legate alle esigenze di qualcuno, devono essere addirittura discusse. Presidente, questo lo ritengo molto grave, ritengo gravissimo che qualcuno possa pensare che un Ministro, qualunque esso sia, della Giustizia possa venire a giustificare qui dentro una sentenza di un organo indipendente come la magistratura. Oggi ci hanno dimostrato che il tema non è politico, ma è culturale (Applausi dei deputati del gruppo Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha chiesto di parlare, per un richiamo al Regolamento, la deputata Auriemma. Ne ha facoltà. La pregherei di non tornare surrettiziamente sulla discussione che abbiamo celebrato con un intervento per ogni gruppo, perché c'è un intervento per ogni gruppo, non di più. Il suo gruppo ha già parlato, la faccio parlare, ma, se lei torna sull'argomento, le tolgo la parola. Prego.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Per dire soltanto che richiedere l'informativa urgente su un fatto gravissimo (Commenti) è prerogativa dei gruppi parlamentari. È evidente che in quest'Aula il problema è che è stata chiesta dal collega Cafiero De Raho…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, articoli 8 e 14. Non sto andando nel merito, perché è evidente, Presidente, che, nel merito della questione, tutti i colleghi, che sono intervenuti, non sanno nulla, perché non sapete di che cosa si tratta (Applausi dei deputati del gruppo MoVimento 5 Stelle - Commenti dei deputati del gruppo Fratelli d'Italia) !",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Lei sta riaprendo una discussione che abbiamo già celebrato e non sta facendo un richiamo al Regolamento (Commenti dei deputati del gruppo MoVimento 5 Stelle) . Quindi, concluda, la faccio concludere, ma deve concludere, altrimenti le tolgo la parola.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308846_19",
+      "politician_name": "AURIEMMA Carmela",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, sto intervenendo perché è talmente tanto il pregiudizio nei confronti del collega Cafiero che non hanno ascoltato neanche le parole nel merito (Commenti dei deputati dei gruppi Fratelli d'Italia e Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308846",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Allora andiamo avanti. Dovremmo ora passare al progetto di legge in materia di dichiarazione di monumento nazionale di teatri italiani. Tuttavia, il Comitato dei nove della Commissione cultura non ha ancora espresso il prescritto parere sugli emendamenti. Chiedo dunque al presidente della Commissione cultura, il deputato Federico Mollicone, se abbia una proposta su tale questione in merito all'andamento dei lavori dell'Aula. A lei la parola.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d307424_19",
+      "politician_name": "MOLLICONE Federico",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Presidente della VII Commissione . Sì, grazie, Presidente. Chiedo la sospensione per 20 minuti e convoco il Comitato dei nove, proprio per analizzare quei pochi subemendamenti arrivati e formalizzare gli altri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "307424",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Sull'ordine dei lavori, Presidente. Intervengo sull'ordine dei lavori perché, a nome del mio gruppo, vorrei chiedere tre informative. Signor Presidente, sono tutte questioni di particolare importanza e hanno suscitato un dibattito sia all'interno del Paese sia all'interno delle nostre istituzioni. La prima riguarda la lettera del Presidente della Repubblica alla scuola di Pioltello a proposito della decisione di lasciare chiusa la scuola, nella sua autonomia, per consentire la celebrazione dell'ultimo giorno del Ramadan per i ragazzi che sono in quella scuola. C'è stata una lettera del Presidente della Repubblica al direttore della scuola ed è intervenuto con una posizione che era chiaramente, Presidente, molto differente dall'atteggiamento che hanno avuto il Governo e la maggioranza rispetto a quella decisione, quasi delle posizioni contrapposte. È inevitabile per noi avere la presenza del Ministro Valditara che venga a dirci cosa pensa, dopo quello che ha detto anche lui, della lettera e del pensiero del Presidente della Repubblica nei confronti di quella decisione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d300480_19",
+      "politician_name": "GIACHETTI Roberto",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Riguarda una decisione che ha preso l'Autorità sportiva rispetto alla non punibilità di Acerbi che avrebbe pronunciato alcune parole contro l'altro giocatore, Juan Jesus (Applausi dei deputati del gruppo Italia Viva-il Centro-Renew Europe e di deputati del gruppo Lega-Salvini Premier) , per cui, per la prima volta, sostanzialmente, colui che è stato vittima viene colpito e non l'altro. Io chiedo che il Ministro Abodi venga qui a dirci cosa pensa della decisione dell'Autorità sportiva. E questa era la seconda questione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "300480",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del testo unificato delle proposte di legge nn. 982-1214-1347-1584-1639-1677-1685-1754-A: Dichiarazione di monumento nazionale di teatri italiani.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, io credo che sia giusto fare una riflessione preliminare e che, quindi, il luogo regolamentare sia questo, sul complesso degli emendamenti; e faccio un richiamo che non è politico o di parte, ma è al nostro ruolo di legislatori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La formalizzo, ma - ci tengo a sottolinearlo - non con spirito ostruzionistico. Io credo che la Commissione possa individuare una strada compatibile con la definizione di criteri generali e che possa consentire a tutti di essere sulla stessa linea di partenza, perché altrimenti - e chiudo Presidente - noi avremo 46 teatri che hanno già la dichiarazione di monumento nazionale e gli altri che invece dovranno fare la loro strada. La domanda è: perché quei 46 sì e gli altri no?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308884_19",
+      "politician_name": "AMORESE Alessandro",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. Noi siamo contrari al rinvio in Commissione. Questo provvedimento arriva dopo mesi: se siamo qua oggi - ed è un riscontro politico che noi facciamo - è grazie a coloro che, mesi fa, hanno studiato e hanno depositato delle proposte di legge che poi sono state abbinate ed erano d'accordo anche gli altri gruppi. Ci sono stati dei ragionamenti e c'è stato un percorso che ci ha portato oggi, nella giornata nazionale dei teatri, a esprimere anche dei criteri. Quello che il collega Fornaro esprime e sottolinea - e a cui ci esorta - è già presente nel provvedimento che oggi viene in Aula. Nessuno vuole escludere nulla che meriti di essere nominato e riconosciuto come monumento nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308884",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Io credo che la proposta dell'onorevole Fornaro vada accolta e che questo testo debba tornare in Commissione. È una posizione che abbiamo anche esplicitato ora nel Comitato dei nove, nella riunione del Comitato di ieri e in tutte le riunioni della Commissione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d307173_19",
+      "politician_name": "LATINI Giorgia",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Il mio intervento è contro il rinvio perché comunque è stato deciso di portare oggi il provvedimento in Aula dopo un percorso condiviso. È vero che i criteri ci sono e in base a tali criteri anche gli emendamenti dell'opposizione verranno approvati, perché ci sono emendamenti che rientrano in questi criteri; e quindi non c'è una volontà politica di fare distinguo sulle appartenenze di partito, ma c'è una volontà di far rientrare tutti quei teatri che rispettano quei criteri. È ovvio che ci sono emendamenti, maxi emendamenti nei quali sono inseriti teatri che non rispettano questi criteri e quindi dobbiamo esprimere un parere contrario. Però questo è l'inizio. Questo testo unico, che ha messo insieme alcune proposte abbinate, è l'inizio di una progettualità per rendere questi teatri monumenti nazionali e quindi nessun teatro italiano verrà escluso. Ci sono tanti altri teatri della mia regione che hanno i requisiti, che magari non verranno dichiarati oggi monumenti nazionali, ma presto potranno avere questo titolo perché hanno i requisiti richiesti. Quindi, è inutile polemizzare, perché non si esclude nessuno, ma è volontà di inserire tutti i bellissimi teatri che meritano questo riconoscimento di monumento nazionale. Queste sono le motivazioni per cui il nostro voto è contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "307173",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo sul complesso degli emendamenti a questo provvedimento che poteva sicuramente trovarci d'accordo come forza politica, perché crediamo nel ruolo che i teatri e tutti i presidi di cultura possono e devono avere sul nostro territorio nazionale. Anche semplicemente nell'immaginario collettivo sapere che il teatro della propria città è riconosciuto come monumento nazionale crea quel senso di appartenenza, quel senso di cittadinanza che sicuramente aiuta a far maturare comportamenti responsabili, di affetto nei confronti del patrimonio culturale e, quindi, anche di rispetto, di salvaguardia e di tutela.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per un richiamo all'articolo 8, che riguarda anche il suo ruolo. Se non ho capito male - se ho capito male, da deputato semplice, ovviamente ritiro la richiesta -, è stata data, come sempre, una data per la presentazione degli emendamenti su un testo che non conteneva i criteri. Quindi, il sottoscritto ha firmato, con il collega Berruto, una serie di richieste di inserimento in questo elenco per quel che riguarda la regione Piemonte, senza, ovviamente, conoscere i criteri, che non c'erano. Successivamente alla data limite, viene presentato, dal presidente della Commissione, l'emendamento 1.500, che definisce dei criteri: 100 anni. È stato correttamente dato il tempo per i subemendamenti, ma ho appreso dalla collega che ha fatto la dichiarazione di voto contraria - la collega Latini, se non ricordo male - che una serie di emendamenti verrà bocciata perché contengono teatri che non rispondono a questi criteri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Io vorrei associarmi alla richiesta del collega Fornaro sulla riapertura dei termini, perché è del tutto evidente che l'introduzione di questo emendamento della Commissione compromette il corso dei lavori che è stato fatto rispetto a questo provvedimento. Credo che questa discussione che stiamo facendo, senza la disponibilità dei relatori per il rinvio in Commissione, sia ancor più mortificante oggi, proprio perché è la Giornata mondiale del teatro (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) . E, se vogliamo avere rispetto dei nostri teatri e di tutti gli operatori culturali nel nostro Paese e riconoscere il merito di realtà che hanno reso grande l'Italia, io credo che sia davvero opportuno e doveroso riaprire i termini perché possa essere rivisto, con calma e serenità, l'elenco che è stato fatto, come diceva la collega Piccolotti, in maniera del tutto arbitraria, visto che quando è stato predisposto i criteri non erano contenuti, ma si rinviava a un decreto del Ministro la possibilità di introdurne di nuovi, e invece non sia stato possibile fare un ragionamento rispetto a quelli che ci dovessero essere a monte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Signor Presidente, intervengo sullo stesso argomento solo per aggiungere un contributo. L'iter seguito da questo provvedimento è effettivamente un po' anomalo, riassunto anche per il comprensibile e legittimo obiettivo di arrivare oggi con un risultato. Quindi, noi siamo partiti da proposte di leggi singole, che istituivano e qualificavano singoli teatri come monumento nazionale, che poi sono state accorpate; di fronte ai rilievi dell'opposizione in Commissione, che segnalavano l'impossibilità di inserire nuovi teatri, è stato - e lo apprezziamo - formulato dalla maggioranza un articolo che consentirà a nuovi monumenti - creando monumenti di serie A, che ci sono dall'inizio, e monumenti di serie B, che ci saranno dopo -, a nuovi teatri di entrare nella lista.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Faccio questa proposta, ritenendo comunque che l'intervento della deputata Latini fosse di carattere politico e, quindi, la sua risposta in ordine alla proposta di rinvio in Commissione, in rappresentanza della maggioranza, fosse una risposta negativa, argomentata politicamente; purtuttavia, i richiami al Regolamento che si sono susseguiti fin qui aprono scenari che vorremmo approfondire, anche con il sostegno degli uffici, nei prossimi minuti. Quindi, io direi di andare avanti comunque - se siamo d'accordo così - con gli interventi sul complesso degli emendamenti (è iscritto il deputato D'Alessio). Nel frattempo, noi facciamo gli approfondimenti per capire se c'è una risposta più puntuale, che si possa offrire anche sui richiami al Regolamento che sono stati avanzati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Scusi, Presidente, non ho difficoltà a dire che, giustamente, bisogna che gli Uffici si riferiscano alle argomentazioni che sono state prima sviluppate, però mi consenta anche di dire una cosa. Se una fase emendativa riguarda un articolo e un criterio riguarda un altro articolo, non si può andare a posteriori , perché il problema è riferito a un emendamento all'articolo 2, mentre gli elenchi sono sull'articolo 1.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308875_19",
+      "politician_name": "D'ALESSIO Antonio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Signor Presidente, intervengo sul complesso degli emendamenti e anche sul merito, se vogliamo. Io sono molto fiducioso che i colleghi Amorese e Latini facciano un attimo di riflessione, perché qui sono davanti a un bivio: o si forza la mano, anche politicamente, o si accompagna un processo di condivisione, dove si arriva e si fa un punto, anche politico. Quindi, anche politicamente, saranno stati capaci di portare l'Aula all'unanimità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308875",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). No, signor Presidente, in riferimento anche all'intervento del collega Foti, che poneva un passaggio che ha una sua logica - lo dico per gli Uffici -, però il punto è che, così facendo, crolla completamente tutto il provvedimento, questo è il punto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, intervengo anch'io sul complesso degli emendamenti, per rimarcare, in realtà, quanto è stato evidenziato anche dai colleghi. Un elemento in più: è stato dato in Comitato dei nove il parere, tra l'altro, sugli emendamenti dei colleghi, anche dei 5 Stelle, che prevedevano risorse a favore di questo provvedimento e soprattutto dei teatri che vengono riconosciuti, anche perché, oggi, vorremmo celebrare la Giornata del teatro, ma senza risorse e senza strumenti - basterebbe ricordare l'ultima legge di bilancio in materia di cultura - è ben difficile proclamare e festeggiare una giornata solo con una dichiarazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308849_19",
+      "politician_name": "AMATO Gaetano",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Tramite lei, vorrei dire all'onorevole Foti che il mio intervento di poco fa, con un gesto teso a dire che non era così, si riferiva al fatto che - come l'onorevole Foti ricorderà, spero - quando questo provvedimento è stato portato in Commissione per la prima volta aveva solamente il nome di un teatro come riconoscimento di monumento nazionale, non c'era nulla che permettesse di capire secondo quali regole quel teatro potesse essere monumento nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308849",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d50204_19",
+      "politician_name": "FOTI Tommaso",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, io vorrei che fosse chiara una cosa: l'attività emendativa è un'attività emendativa, non possiamo pretendere che gli emendamenti, tra di loro, si possano coordinare, anche perché possono essere presentati con impostazioni del tutto opposte. Quando noi leggiamo l'emendamento della Commissione, che, torno a ripetere, è un emendamento e, quindi, non è nel testo base, il pensare che lo stesso si possa coordinare con elenchi precedenti non ha senso. Dico soltanto il perché: perché se prendessimo per buono solo questo emendamento eventualmente ve ne potrebbe essere uno, che riaprendo i termini, passa da 100 a 80 anni e, quindi, comunque tutti gli elenchi successivi impostati sui 100 non avrebbero senso. Non ci sono precedenti al riguardo, Presidente. Non ci sono precedenti al riguardo perché è impossibile trovare un precedente di questo tipo, perché il coordinamento tra emendamenti non esiste. Esiste un criterio logico che li pone nella loro successione perché non abbiano contraddizione nel momento in cui vengono posti in votazione, ma nel merito non può esistere questo, perché se esistesse questo vorrebbe dire che noi dovremmo fare, sempre e comunque, dei testi blindati. Mi scusi: dove esiste una situazione per la quale noi pretendiamo che si debbano riaprire dei termini in relazione a un emendamento perché questo emendamento, se approvato, andrebbe a escludere eventuali cose o criteri successivi o diversi? Sì, perché l'emendamento della Commissione è chiaro. Quello che ha detto il collega Fornaro è chiaro. Lui dice: la Commissione introduce dei criteri i quali, di fatto, escludono o possono escludere dei teatri che io avevo inserito nell'elenco precedente e che, quindi, non avrei inserito. Questo cosa vuol dire? Dove sta scritto, in qualsiasi regolamento - ma parlo di un quartiere, non della Camera dei deputati -, che l'attività emendativa va coordinata secondo la presentazione degli emendamenti, non per quanto riguarda la logica degli stessi ma il merito degli stessi (Applausi dei deputati del gruppo Fratelli d'Italia) ? Ma se facessimo così non riusciremmo mai a mandare avanti un provvedimento. Io penso, signor Presidente, che, al di là di tutte le legittime osservazioni che si possono fare, la procedura è questa. Poi, se non si è d'accordo nel merito questo è un altro paio di maniche e si possono fare altre valutazioni, ma voler legare una riapertura dei termini a questo emendamento non sta in piedi - scusatemi - sotto il profilo del Regolamento. Se poi si vuole fare una deroga al Regolamento, si vogliono aprire altre fasi e si possono fare altre fasi di consultazione, io non entro nel merito: c'è un Comitato dei nove, c'è una Commissione, e dica la Commissione all'Aula cosa voglia fare, ma non si vada a voler aprire una questione di natura regolamentare perché questa diventa pericolosa sotto tutti i profili, perché costituirebbe un precedente che non ha una logica nei lavori della Camera dei deputati (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "50204",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "È ovvio che non abbiamo anticipato ancora alcun tipo di conclusione a questa conversazione simmetrica. Ha chiesto di parlare sempre su un richiamo al Regolamento il collega Fornaro. Poi ci sono ancora altri interventi. Nel frattempo, comunque, siamo in condizioni di elaborare una risposta finale. Prego, collega Fornaro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). È un richiamo al Regolamento molto breve. Per suo tramite, faccio notare al collega Foti, in via di principio, che quello che lui ha sottolineato ha fondamento se lo applicassimo ad altri provvedimenti. Invito, però, il collega Foti e tutti noi a riflettere sul carattere particolare e unico di questo provvedimento, perché quello che lui ha giustamente sottolineato, cioè l'impossibilità di coordinare emendamenti, ha un tallone d'Achille nel fatto che la Commissione non ha individuato dei criteri, ma, prima di approvare i criteri, ha individuato 48 teatri. Questo è il punto, perché è su quella base che si sono fatti gli emendamenti, perché avrebbe ragione fino in fondo anche su questo provvedimento il collega Foti se, a riprova, questo emendamento 1.500 della Commissione noi lo votassimo subito come primo emendamento e, invece, lo votiamo alla fine e conseguentemente noi abbiamo una incongruità e una difficoltà che sta in questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 271
+      }
+    },
+    {
+      "politician_id": "camera_d308842_19",
+      "politician_name": "ZINGARETTI Nicola",
+      "date": "2024-03-27",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Con uno spirito totalmente costruttivo e per tentare di trovare una soluzione che porti questo Parlamento a un'assunzione di un provvedimento all'unanimità su un tema che ci riguarda tutti, io, però, ritorno sull'esigenza di una scelta politica e di buonsenso, perché questo provvedimento, per la prima volta, quando è arrivato in Commissione, conferiva un titolo dello Stato senza indicare criteri che permettessero di conferire tale titolo. Sulla base di una discussione, è stato successivamente indicato un criterio, i 100 anni, ma intanto gli emendamenti delle opposizioni, senza alcun criterio, sono stati presentati. Oggi noi ci troviamo nella situazione stravagante, che non fa bene ad alcuno - parlo per la mia città - che ci sono emendamenti che chiedono il riconoscimento al teatro Ambra Jovinelli, al teatro Brancaccio, al teatro dell'Opera di Roma, al teatro Quirino di Roma, cioè dei pilastri storici della cultura italiana che, a seconda di questo emendamento, ora farebbero anche parte dei criteri, ma presentati in emendamenti dove, invece, ci sono altri teatri che non hanno questo criterio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0271",
+      "metadata": {
+        "id_persona": "308842",
+        "seduta": 271
+      }
+    }
+  ]
+}

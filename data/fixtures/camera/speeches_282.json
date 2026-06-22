@@ -1,0 +1,721 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0282",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-04-18",
+    "title": "Assemblea — Seduta n. 282 del 2024-04-18",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 282
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 108, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d306189_19",
+      "politician_name": "QUARTAPELLE PROCOPIO Lia",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo sull'ordine dei lavori perché proprio in queste ore si stanno aprendo il G7 dei Ministri degli Esteri e il Consiglio europeo. Siccome non abbiamo avuto informative su questi due appuntamenti, siamo qui a chiedere un'informativa sulla questione che viene discussa in quel consesso, e cioè come i Paesi europei e i Paesi del G7 intendano rispondere alle richieste pressanti da parte ucraina di una fornitura maggiore di sistemi per la difesa dei cieli ucraini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "306189",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Per associarmi in toto alle parole della collega Quartapelle. Lo scorso fine settimana abbiamo visto la grande efficacia che possono avere i sistemi di difesa e di protezione antimissile e antidrone; crediamo sia doveroso per gli ucraini, ma anche nell'interesse dei cittadini europei, garantire - come sembrerebbe stia per fare anche la Germania - sistemi di difesa. Si parla in questo specifico caso semplicemente di sistemi che possono distruggere missili, razzi e droni scagliati contro obiettivi civili e infrastrutture civili. Credo sia doveroso. E quindi mi associo alle parole della collega Quartapelle sia nel criticare il silenzio e l'inazione del Governo, sia nella richiesta di un'informativa su questo tema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1752-A: Conversione in legge, con modificazioni, del decreto-legge 2 marzo 2024, n. 19, recante ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307306_19",
+      "politician_name": "ROSSI Andrea",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Mi rivolgo alla Sottosegretaria per provare a capire se ci sono le condizioni per rivedere il parere del Governo. In quest'ordine del giorno si parla di un problema che riguarda molti comuni della nostra Penisola che hanno in gestione diretta i servizi educativi 0-6 anni. Mi riferisco, in particolare, al problema delle sostituzioni e, quindi, del funzionamento delle scuole dell'infanzia 0-6 anni dei comuni stessi. Su questo tema, devo ammettere e riconoscere, che il Governo, anche sollecitato da un emendamento dei colleghi del Partito Democratico della Commissione cultura, ha dato una parziale risposta perché, con l'articolo 15- bis , è riuscito da un lato a raccogliere le proposte sullo scorrimento delle graduatorie esistenti fino all'anno scolastico 2026-2027 e, nello stesso momento, a rivedere, con un incremento del 40 per cento, il valore dei tetti di spesa del 2009, così come riferito all'attuale tema dei bilanci comunali, con vincoli di spesa per quanto riguarda il costo del personale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307306",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d305757_19",
+      "politician_name": "BOLDRINI Laura",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Solamente Presidente? Allora, signora Presidente - è proprio il caso di dirlo -, le sorprese non finiscono mai. E quindi, di fronte alle sorprese, signora Presidente, bisogna correre a ripari, almeno con un ordine del giorno, visto che il Governo ci ha inflitto l'ennesimo voto di fiducia, l'ennesima fiducia sull'ennesimo provvedimento omnibus . Qui c'è di tutto, è un'insalata mista, dove si è infilata veramente qualsiasi cosa. Ma i decreti-legge non dovevano rispondere ai requisiti di omogeneità? Viene da chiederselo perché in un decreto che, nell'intestazione, parla di PNRR, cioè di ripresa e resilienza, si prevede un aumento di ben 25 milioni di euro per costruire i centri per migranti e richiedenti asilo in Albania. Che cosa c'entra con il PNRR? Niente. Ebbene, per questo, 16 dei 25 milioni di cui si parla vengono tolti poi dal Fondo per le esigenze indifferibili, un Fondo molto importante a cui si attinge per aiutare le persone in caso di disastri naturali, per esempio terremoti e alluvioni. Allora, di provvedimento in provvedimento, i costi di questa operazione dei centri di detenzione per i richiedenti asilo in Albania, che sono pura propaganda, stanno lievitando e non ci sarà da meravigliarsi se arriveremo a 1 miliardo. Ma io mi chiedo: non era meglio, cari patrioti, investirli in Italia, dove il sistema di accoglienza sta collassando, oppure in case, scuole o ospedali o nel sostegno agli stipendi e alle pensioni per aiutare gli italiani a stare meglio, invece che i migranti a stare peggio? Perché questo voi state facendo. Allora, da notizie di stampa, si apprende che, mentre il bando per la gestione dei campi per i richiedenti asilo parlava di aprire i battenti il 20 maggio, qui altro che il 20 maggio, siamo ancora ai sopralluoghi, quindi si prevede di riparlarne dopo l'estate. E allora Presidente, per sintetizzare, il tema di quest'ordine del giorno è il fallimento delle politiche migratorie del Governo di Giorgia Meloni. Dopo un anno e mezzo, la Presidente del Consiglio dovrebbe smetterla di prendersela con i predecessori, è ora che si assuma le proprie responsabilità. E che cosa fa la Presidente Meloni?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305757",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Davvero, non abbiamo capito la contrarietà a quest'ordine del giorno, che chiede di monitorare il settore, di ripristinare risorse su riduzioni significative e spostamenti agli anni successivi, che questo decreto ha portato avanti, utili a tutelare il percorso di transizione ecologica e la protezione dell'ambiente attraverso investimenti nel comparto marittimo. Così, per mettere risorse per costruire centri di accoglienza e di detenzione in Albania, si tagliano 408.000.000, 270 si spostano ad altri anni, per sostenere la resilienza ai cambiamenti climatici delle infrastrutture portuali, nella decarbonizzazione dei trasporti, nella elettrificazione delle banchine. Capite che, con queste decisioni, è veramente difficile aiutare il settore a raggiungere quegli obiettivi che sono stati impostati dall'Unione europea e dalla comunità internazionale a tutela dell'ambiente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intervengo per dichiarazione di voto su questo parere contrario che non capiamo. È incomprensibile, di fronte alla situazione gravissima che c'è in Sicilia, dove, com'è noto, non piove da 9 mesi. A fronte di questa gravissima emergenza, il centrodestra, oltre a professare la negazione della crisi climatica, nel corso di questi anni, non ha messo in campo nessuna adeguata strategia di proposte, risorse, investimenti e soluzioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Grazie, Presidente. Mi rivolgo, da siciliana, all'onorevole Barbagallo, esprimendo condivisione rispetto alle questioni poste dall'onorevole. Ovviamente, il Governo è molto sensibile al tema e io lo sono in particolar modo. Pertanto, ho esaminato attentamente il suo ordine del giorno e, da parte di alcune amministrazioni, ci sono alcune criticità riscontrate. Purtroppo, non può essere accolto totalmente con parere favorevole, però le posso proporre una riformulazione che salverebbe una parte del suo impegno, cioè il primo impegno, che prevede, appunto, di “dare piena attuazione, nei limiti dei vincoli di finanza pubblica, agli interventi previsti dal Commissario straordinario nazionale per la siccità, indicati nella seconda relazione della cabina di regia”. Poi occorrerebbe espungere la quinta, la sesta, la settima, la nona e la decima premessa. Capisco che è una riformulazione sostanziale, però potremmo comunque segnare una bella pagina oggi e condividere un principio rispetto a un'emergenza nei confronti della quale siamo tutti estremamente sensibili.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Non accolgo la riformulazione e faccio anche una breve dichiarazione di voto su un tema che è stato già illustrato dai colleghi dei gruppi del MoVimento 5 Stelle e di Alleanza Verdi e Sinistra. Io apprezzo la sensibilità in questo caso dimostrata dalla Sottosegretaria, una sensibilità sicuramente maggiore rispetto a quella dimostrata dal Ministero dell'Istruzione in questo caso, proprio perché, come è stato già ricordato e per fare una breve cronistoria di quanto avvenuto, lo scorso 15 aprile sono scaduti i contratti del personale ATA e del personale PNRR Agenda Sud assunto dalle scuole. Il decreto PNRR non è riuscito a stanziare le risorse occorrenti per il rinnovo e domenica 14, quindi a poche ore dalla scadenza del contratto, tutti abbiamo salutato - devo dire con un sospiro di sollievo - il comunicato pubblicato sul sito del Ministero dell'Istruzione relativo proprio ai fondi che erano stati trovati per la proroga dei contratti. Il problema è che questi contratti, al momento, non sono stati prorogati. Una nota del Ministero dell'Istruzione ha rinviato al prossimo provvedimento - al primo, tra l'altro - normativo utile per impegnare le risorse occorrenti, ma, in questo momento, quel personale si è visto sbarrare le porte e la possibilità, appunto, di proseguire nel lavoro all'interno delle scuole. Si tratta di un lavoro importante e prezioso e, quindi, anche in questo caso mi verrebbe da dire che, come al solito quando si tratta del Ministero dell'Istruzione, la propaganda fa i conti, ancora una volta, con la realtà. Di fronte ad annunci roboanti - in questo caso, del Ministro - e alla soddisfazione che molti esponenti del Governo hanno espresso rispetto a queste nuove risorse, dobbiamo fare i conti con una realtà in cui quel personale non è, al momento, stato ricontrattualizzato. Non è all'orizzonte il provvedimento - e lo aspettiamo tutti con ansia, devo dire - che dovrà impegnare queste risorse e dovrà finalmente consentire cosa? Una proroga? Una nuova contrattualizzazione? Siamo al 18 aprile e la scuola chiuderà, in realtà, tra poche settimane. Quando avverrà questa nuova contrattualizzazione? Quando e fino a quando? Quando quei dipendenti potranno avere certezza e sicurezza rispetto a quello che è il loro futuro lavorativo? L'organizzazione delle scuole avrà la possibilità di contare sul loro lavoro e sul loro contributo?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308815_19",
+      "politician_name": "BERRUTO Mauro",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signora Presidente. In effetti, questo è un intervento che mi mette alla prova, come quando, da ragazzini, ci si sfidava a non ridere per primi, perché in effetti, se non fosse che il tema, almeno per me, è molto serio, ci sarebbe davvero da ridere.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308815",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308901_19",
+      "politician_name": "MARINO Maria Stefania",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signora Presidente. Anch'io voglio provare, come tanti miei colleghi da due giorni, a far cambiare parere al Governo. Penso che l'unica nostra volontà sia quella di migliorare nell'usare le risorse del PNRR, e nella fattispecie, considerato che questi progetti vengono strutturati in maniera corretta, il settore agroalimentare avrà nel breve periodo la possibilità di essere destinatario di sostegni economici di grande rilevanza. È essenziale, oggi, sottoporre al vostro esame un ordine del giorno di particolare importanza per il settore e la gestione delle risorse pubbliche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308901",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. In questi giorni abbiamo parlato di questo provvedimento nelle varie sfaccettature con molti contributi, soprattutto dal Partito Democratico. Soprattutto in questi ordini del giorno abbiamo cercato di migliorare o comunque di tenere conto anche dei prossimi provvedimenti, perché pensiamo che alcune scelte che avete fatto anche nel lavoro in Commissione non siano state del tutto positive o comunque non abbiano tenuto conto dei reali bisogni del Paese e, soprattutto, del tema della transizione ecologica. Credo molto nello strumento che ci siamo dati, che è quello del PNRR, ma soprattutto credo molto nel piano Transizione 5.0.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308881_19",
+      "politician_name": "FOSSI Emiliano",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, non accetto la riformulazione e chiedo che sia messo al voto e dico due cose. In meno di due mesi, 2 gravi incidenti hanno riportato d'attualità il tema delle morti sul lavoro. Come sappiamo, il 16 febbraio, purtroppo, il crollo di una trave in un cantiere di Firenze ha causato la morte di 5 operai, mentre il 9 aprile 7 lavoratori sono stati uccisi da un'esplosione nella centrale idroelettrica di Bargi, sull'Appennino bolognese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308881",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Grazie, Sottosegretaria, per l'impegno alla riformulazione, ma, politicamente, non posso accoglierla, perché non va nella direzione che io auspico rispetto al voto che chiedo di fare al Parlamento. Non penso affatto che il reperimento delle risorse debba essere condizionato alle compatibilità di bilancio, deve essere fatto, peraltro il Governo e il Ministero delle Infrastrutture si erano impegnati a farlo. Questo è un atto, che presento e metto al voto, che non contiene riferimenti politici, pregiudizi politici o giudizi politici, sta al merito di una questione che per noi è assolutamente importante e prioritaria. La questione di merito, che dunque non intendo alleggerire con una riformulazione, è questa: il sistema tramviario della città di Firenze rappresenta un'infrastruttura di mobilità ecologica, puntuale, veloce, comoda, che riduce il traffico e lo smog e che è utilizzata da milioni di passeggeri ogni anno. I numeri dei passeggeri sono impressionanti, nettamente superiori anche rispetto alle più rose aspettative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308804_19",
+      "politician_name": "CURTI Augusto",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Non accolgo la riformulazione e faccio un breve intervento in dichiarazione di voto, proprio per chiedere un ripensamento al Governo. Quest'ordine del giorno lo definirei un ordine del giorno di dignità, perché, con quest'ordine del giorno, si chiede di stanziare le risorse necessarie a ripristinare gli immobili danneggiati dal sisma del 2022, un sisma che ha colpito in particolar modo il nord delle Marche, segnatamente la città di Ancona, la città di Fano e la città di Pesaro. Voglio anche ricordare che si tratta di un sisma che - dati della Protezione Civile - ha prodotto oltre 500 sfollati e oltre 1.000 edifici lesionati, che, a seguito di sopralluoghi, sono stati dichiarati inagibili.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308804",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie Presidente, per sottoscrivere e fare un breve intervento a nome anche della collega Malavasi. Quella che state respingendo con il “no” a quest'ordine del giorno, è una richiesta di ripristinare, fin dal primo provvedimento utile, le risorse adeguate affinché la salute torni ad essere un diritto fondamentale di tutti. Sì, perché con questo provvedimento, che prevede una serie di misure relative al Sistema sanitario nazionale, voi proponete un taglio drastico di 1,2 miliardi di euro destinati alla messa in sicurezza sismica delle strutture ospedaliere, il cosiddetto programma “Verso un ospedale sicuro e sostenibile”. Ed è l'ennesimo taglio, dopo quello delle case di comunità, che supera il 30 per cento, e quello degli ospedali di comunità, che sono stati tagliati per il 25 per cento. Quindi, noi assistiamo al racconto continuo, da parte del Governo, di una bugia pericolosa, perché riguarda uno dei più importanti diritti costituzionali di cui possono beneficiare i cittadini, cioè il diritto alla salute. Sentiamo ancora dire che va tutto bene, che sono state investite risorse, che altre ne saranno stanziate. Non è, però, così. Questo Governo è, in realtà, responsabile del più grande disinvestimento sulla sanità pubblica che la storia del Paese ricordi. La Premier continua a rassicurare che il suo Governo non sta facendo tagli alla sanità, anzi dichiara che il Fondo sanitario nel 2024 è al massimo storico di sempre. In realtà, però, il leggero aumento previsto per il 2024 è soltanto illusorio, perché è dovuto allo spostamento dei rinnovi contrattuali dello scorso anno. Quindi, dopo le parole, a smentirli sono arrivati i numeri pubblicati dal vostro stesso Governo nel DEF, che è stato censurato. La realtà, quindi, è un'altra e conferma il definanziamento del Sistema sanitario nazionale in atto, con effetti sempre più devastanti sulla qualità del servizio. Ci sono in Italia quasi 2 milioni di italiani che stanno già rinunciando alle cure. Chi può si affida al privato, chi non ce la fa semplicemente non si cura. Dunque, oltre a definanziare il Sistema sanitario nazionale, siete riusciti anche a tagliare le risorse in questo PNRR, nascondendovi dietro la formula della rimodulazione, ma siete stati smentiti dai vostri stessi esponenti. Il 12 marzo, infatti, le regioni italiane, all'unanimità, hanno contestato al Governo l'ennesimo pesante taglio a questi fondi per la sanità: 1,2 miliardi sottratti ai progetti del Piano nazionale complementare, tra cui, dicevamo, il progetto “Verso un ospedale sicuro e sostenibile”. Si tratta di una riduzione di investimenti già programmati, in realtà, del tutto insostenibile, perché non regge nemmeno la vostra giustificazione del rinvio ad altre fonti di finanziamento, in quanto sono già stati impegnati dalle stesse amministrazioni regionali per altri progetti. Parliamo della realizzazione di opere per la messa in sicurezza sismica delle strutture ospedaliere del nostro Paese. È per noi un taglio inaccettabile. Ma è la stessa Corte dei conti, quella che state cercando di depotenziare in ogni modo, che ha certificato questi tagli, che si aggiungono a quelli previsti alla rimodulazione del PNRR sul depotenziamento della medicina territoriale. Con il vostro piano di revisione del PNRR, entro il 2026, ci saranno, dicevamo, il 30 per cento in meno di case della comunità e di ospedali della comunità. State destrutturando una delle Missioni più importanti del PNRR. Il vostro non è un tradimento del Piano nazionale di ripresa e resilienza, è un tradimento degli italiani e delle italiane. Vi chiedevamo, con quest'ordine del giorno che state respingendo, un impegno verso tutti i cittadini e le cittadine, perché quello alla salute è un diritto fondamentale della nostra democrazia e, se diventerà un diritto per pochi, il nostro Paese sarà meno democratico, e questo, almeno a noi, interessa molto (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308912_19",
+      "politician_name": "GIRELLI Gian Antonio",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Confesso che credo incredibile il parere contrario del Governo su un ordine del giorno che chiede semplicemente una cosa: in attuazione alla Missione 6, Componente 2, del PNRR - dove si parla di ricerca scientifica - di affrontare il tema della gestione dei dati sanitari. È, infatti, evidente che noi viviamo un momento di oggettiva difficoltà nel mantenere in vita il Servizio sanitario nazionale. È oggetto anche di un dibattito e di un confronto molto serrato, dove si parla di risorse stanziate, o meglio, non stanziate, da questo Governo, dove si parla di tagli a investimenti previsti, come sulle case della comunità o quant'altro, dove si parla di riorganizzazione della medicina di prossimità. Ma io credo che, al di là di questo, si debba affrontare un aspetto fondamentale per la programmazione del Servizio sanitario futuro, che è l'analisi di contesto: il conoscere su cosa dobbiamo agire e quali sono le previsioni future dei bisogni di sanità del nostro Paese. Ed allora, affrontare il tema, il nodo, dei dati sanitari è assolutamente necessario. Il COVID stesso ci ha manifestato come la mancanza di questi dati ci abbia impedito, per esempio, di cogliere la presenza di polmoniti anomale nei mesi precedenti alla fase acuta della pandemia. Ma cito questo solo come esempio. I dati a cosa servono? Servono per sapere quali sono le involuzioni patologiche della società, comprendere quali sono gli interventi da esercitare in tema di educazione agli stili di vita e all'educazione alimentare, comprendere l'impatto di alcune situazioni ambientali particolarmente compromesse sullo stato di salute di determinate zone per la popolazione. Significa, insomma, riuscire a mettere in fila tutte le attività che devono essere messe in campo da chi ha responsabilità di Governo per impedire che questo avvenga. Se si vuol parlare di One Health , se si vuol parlare di salute, senza dati di cosa stiamo parlando? Il tutto, oltremodo, in un contesto dove questi dati rischiano di essere consegnati, in maniera più o meno trasparente, a enti e a realtà profondamente privati, che nulla hanno a che fare con un interesse pubblico e che rischiano di perseguire altri tipi di finalità. È chiaro, infatti, che sapere che in futuro saremo più ammalati in un determinato settore, può significare, per lo Stato, investire affinché questo non avvenga, per qualcun altro, investire su come mettere a disposizione cure oppure ambienti ospedalieri per trarne un profitto e trasformarlo in un settore economico del futuro. Io credo che dire di “no” a quest'ordine del giorno significhi mettere la testa sotto la sabbia, oppure assecondare un disegno che poco corrisponde all'articolo 32 della Costituzione, al dovere di uno Stato e di un Governo. Chiedo sinceramente al Sottosegretario di rivedere la decisione del Governo. Depositati al Senato e alla Camera esistono già dei progetti di legge che vogliono affrontare questo argomento, equiparando il tema dei dati sanitari e mantenendo la massima sicurezza e la privacy dei cittadini, ci mancherebbe altro, ad altri settori, oltretutto andando a svelare un velo che è persino pietoso laddove, vivendo in un contesto in cui, attraverso questi meccanismi, tutti sanno tutto di noi, facciamo finta che su queste cose strategicamente fondamentali non si possa mettere mano (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308912",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308892_19",
+      "politician_name": "FURFARO Marco",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Accolgo la riformulazione e chiedo di mettere ai voti l'ordine del giorno. Però, vorrei provare a interloquire, tramite la Presidenza, anche con il Governo, perché è chiaro che - se ne facessimo una questione di posizionamento o di bandierina - sarei costretto a rifiutare la riformulazione, cara Sottosegretaria, perché già due mesi fa abbiamo approvato un ordine del giorno simile. Ma sa bene che stiamo parlando di oltre 30 persone, di cui è in ballo la vita e quindi anche un piccolo spiraglio fa sì che ci attacchiamo a questa prospettiva, perché serve una misura di civiltà, perché ci sono interlocuzioni in corso e soprattutto perché noi, qui, sappiamo cos'è l'Aifa, l'Autorità nazionale competente per l'attività regolatoria dei farmaci, quell'organismo che permette a noi e a tutti gli italiani e alle italiane di avere l'accesso ai farmaci e di avere anche farmaci sicuri. Quello che sappiamo meno, magari, è che l'Agenzia italiana del farmaco, rispetto anche ad altre agenzie europee, è sottodimensionata - quella tedesca ha qualche migliaio di dipendenti, mentre la nostra agenzia ha 500 o 600 dipendenti - ma sappiamo ancora meno altre due cose. La prima è che l'Agenzia italiana del farmaco non è un costo, ma è un profitto per l'Italia, perché la professionalità di chi ci lavora fa sì che le aziende farmaceutiche versino delle quote e si avvalgano della professionalità dei dipendenti e dei professionisti facendo avere del profitto ad Aifa, che garantisce l'accesso ai farmaci e la loro sicurezza e fa sì soprattutto, in un Paese in cui oltre 4 milioni di italiani non hanno accesso al Servizio sanitario nazionale per mancanza di soldi, che farmaci estremamente costosi siano accessibili a titolo gratuito. E, in più, c'è un aspetto che la Sottosegretaria immagino saprà benissimo: l'Aifa si è avvalsa di contratti cococo e cocopro e di ogni tipo di contratto precario per aggirare le norme sulla spending review e i blocchi, ma sa altrettanto - credo - che, per oltre 10 anni non sono state fatte assunzioni se non a tempo determinato, perché c'era la necessità solo in un determinato periodo di tempo; le assunzioni sono state prorogate per oltre 10 anni perché l'Aifa ne aveva - e ne ha - estremamente bisogno, come è stato confermato, tra l'altro, dall'ex presidente Palù, in un'audizione al Senato, del 23 dicembre. La Sottosegretaria sa benissimo che ci sono state manifestazioni e che ci sono tuttora interlocuzioni informali con il nuovo presidente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308892",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d35980_19",
+      "politician_name": "CIOCCHETTI Luciano",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Chiedo al collega Furfaro di poter sottoscrivere l'ordine del giorno, anche perché già in altri provvedimenti questa questione è stata posta, con ordini del giorno presentati anche dal sottoscritto e da altri gruppi parlamentari. È un tema centrale, che riguarda il funzionamento di Aifa: sono oltre 13 anni che queste persone lavorano con contratti atipici, i più atipici possibili, e non si è mai riusciti a trovare una formula di stabilizzazione, non si è dato seguito neppure ai concorsi, che, nel frattempo, sono stati fatti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "35980",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Molto brevemente, per appellarmi alla Sottosegretaria, visto che ho apprezzato l'intervento del collega Ciocchetti e che c'è una volontà trasversale, in questo Parlamento. Quindi, rivolgo un invito a superare la riformulazione: “a valutare l'opportunità di”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Mi perdoni, onorevole, il collega Furfaro ha già accettato la riformulazione del Governo, quindi adesso non posso accettare la sua richiesta, ovviamente. Ripeto: il collega, intervenendo, ha accettato la riformulazione del Governo. Se vuole, può continuare il suo intervento, ma non per chiedere alla Sottosegretaria di rivedere ulteriormente una riformulazione che è già stata accettata, a meno che il Governo non ne voglia proporre una nuova.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Mi sembra che ci fosse veramente un appello trasversale delle forze politiche a chiedere un impegno comunque cogente al Governo, ovviamente nei tempi che saranno necessari per organizzare e programmare le assunzioni, e quindi un invito a superare la locuzione che sempre viene utilizzata, che è più blanda forse rispetto alla volontà politica di questo Parlamento (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308780_19",
+      "politician_name": "RICCIARDI Toni",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Mi rivolgo alla Sottosegretaria, suo tramite, Presidente. Resto abbastanza colpito dal parere contrario e cercherò di argomentare, nella speranza che Ella possa cambiare idea o, quanto meno, aprire un varco di sensibilità. C'è un dato del più 19 per cento, che purtroppo non è un dato di crescita economica del Paese che tutti auspicheremmo, però, purtroppo, è il dato comparato dei primi due mesi del 2024 rispetto al 2023 con l'incremento delle morti sul lavoro. Ora, i fatti che si sono susseguiti diventano, purtroppo - lei lo sa meglio di me, Sottosegretaria -, cronaca quotidiana. Questo è un problema atavico di questo Paese, non è un problema che si può, per serietà, ascrivere a una sola fase storica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308780",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . Presidente, giusto un chiarimento, mi sembra doveroso, anche perché il tema è stato affrontato attraverso un confronto ampio che si è svolto in Commissione con la Ministra del Lavoro, Calderone, sugli articoli del decreto riguardanti la sicurezza e la salute sul lavoro. Nel caso di specie, onorevole Toni Ricciardi, purtroppo, non posso accogliere la richiesta di accantonamento, in quanto l'esclusione dell'obbligo di possesso in caso di attestazione SOA, di possesso della patente a crediti, è proprio un tema che è stato già affrontato con le parti sociali e con le associazioni sindacali. Quindi, per questo non posso accogliere la richiesta di accantonamento per un supplemento di istruttoria o di riflessione per una eventuale riformulazione, in quanto il tema è già stato ampiamente affrontato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308856_19",
+      "politician_name": "SARRACINO Marco",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Noi siamo molto preoccupati perché, in effetti, il Governo continua a utilizzare il Fondo sviluppo e coesione per coprire i fallimenti che ci sono in questo momento. Noi, con quest'ordine del giorno, chiediamo semplicemente al Governo di valutare gli effetti negativi dell'applicazione delle norme stabilite proprio da questo Governo. Noi crediamo, Presidente, che serva, in maniera indiscutibile, una seria azione di monitoraggio, altrimenti, soprattutto per il Mezzogiorno, ci troveremo di fronte oltre al danno, anche alla beffa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308856",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307304_19",
+      "politician_name": "PAGANO Ubaldo",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Vede, Presidente, quando fu varato il PNRR sembrava che questo potesse rappresentare il punto di svolta di un Paese che, non solo a causa della pandemia, ma anche a causa di anni in cui non era riuscito a crescere e ad andare oltre gli “zero virgola” che, ogni volta, ci consegnavano, a consuntivo, i dati economici, potesse rimettersi al pari con altri Paesi, e lo faceva su una prospettiva che segnatamente aveva missioni trasversali, di recupero dei divari storici: i giovani, le donne e le aree territoriali differenziate del Paese. Lo faceva, sapendo che queste somme che, come molto spesso viene ricordato, sono anche in parte a debito, potessero servire a fare i compiti a casa una volta per tutte e che, soprattutto, non rappresentassero, per l'ennesima volta, una spesa sostitutiva dei fondi ordinari. Ebbene, dopo un anno e mezzo di Governo del duo Meloni-Fitto, dopo che avete provato a fare un mega-cambiamento di tutte le poste che c'erano nel piano originario, leggendo gli accordi che avete fatto con la Commissione europea, scopriamo che di questi cambiamenti chi fa maggiormente le spese sono le missioni trasversali previste originariamente dal Piano nazionale di ripresa e resilienza. Ad oggi, lo dico con chiarezza, il Ministro Fitto, in audizione su questo decreto, non ha saputo dare risposte esaustive; non esiste un monitoraggio che sia puntuale e attendibile sul rispetto di questi presupposti, su cui era nato il PNRR e su cui noi avevamo ricevuto la parte maggiore di queste risorse a valere sul piano Next Generation EU .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307304",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307304_19",
+      "politician_name": "PAGANO Ubaldo",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Per cui, nel combinato disposto con l'autonomia differenziata, il Centro Nord fa quello che vuole e che gli pare e piace e, invece, nel Centro Sud decidete voi a chi dare le risorse. Non sarà un caso che le uniche regioni oggi rimaste fuori dalla chiusura degli accordi di sviluppo e coesione siano Sardegna, Campania e Puglia. Ma così facendo, fate un torto ai cittadini e non a chi amministra quelle regioni (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307304",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d34580_19",
+      "politician_name": "TABACCI Bruno",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Il parere contrario del Governo non sorprende ed è in linea con le spiegazioni da me già fornite in sede di illustrazione dell'ordine del giorno. I giochi di prestigio contabili e le cosiddette rimodulazioni con il risiko dei fondi aumentano la precarietà degli obiettivi del PNRR da raggiungere. L'Aula ne prenda pure atto con il voto (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "34580",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Allora, giusto un minuto per dire che 240.000 euro ad personam sono un salario minimo legale, credo, di 250 euro l'ora. Non vi ribadiremo le cose che vi abbiamo già detto, ossia che il CNEL, che si è impegnato tanto a respingere il salario minimo legale, ha finalmente dato un salario minimo al suo presidente. Invece, vi diciamo qui e vi sfidiamo a fare una norma non ad personam , per non far sì che quegli enti vengano rappresentati non gratuitamente da aristocratici, lobbisti, ex senatori ed ex parlamentari. Se volete discutere di questo noi ci siamo, ma se volete dare uno stipendio a Brunetta fatelo col vostro voto (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per i Rapporti con il Parlamento . La riformulazione era, sostanzialmente, la seguente: “a valutare l'opportunità di (…) compatibilmente con i vincoli di finanza pubblica”; segue il dispositivo per intero con la riformulazione letta nella seduta di ieri.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io prendo la parola in quest'Aula su quest'ordine del giorno della collega D'Orso per sollecitare, ancora una volta, il Governo e chiedere un'ultima riflessione, perché veramente la situazione delle carceri italiane è allo sbando in questo momento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Non ci stupisce, ovviamente, questo parere contrario e penso che con quest'ordine del giorno si renda molto evidente qual è il vero intento del Governo e di questa maggioranza. Infatti, l'ordine del giorno chiedeva una cosa semplice, cioè un impegno al Governo per assicurare la piena attuazione della legge n. 194 affinché non venisse ristretto o ridotto il diritto delle donne ad avere accesso alla garanzia, ovviamente, dell'interruzione volontaria di gravidanza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Collega Malavasi, ha ragione. Ho richiamato due volte, senza volerla interrompere, l'Aula, ma a questo punto la devo per forza interrompere. Colleghi, il chiasso di quest'Aula durante gli interventi non ci consente di svolgere il dibattito come invece dovrebbe essere svolto. Quindi vi prego di ripristinare il silenzio. Aspetti, collega Malavasi… Bene, prego, collega Malavasi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Mi stavo chiedendo, e quindi ripeto volentieri, che cosa abbiano fatto di male le donne a questo Governo. Avete smantellato “Opzione donna”, avete aumentato l'IVA sui prodotti per l'infanzia, ma anche sugli assorbenti per le donne, avete limitato l'accesso al bonus per le mamme, quindi con un esonero contributivo solamente per le donne che lavorano a tempo indeterminato. Avete tolto i vincoli di occupazione femminile e giovanile dal PNRR, non avete rinnovato il bonus occupazione per i giovani under 36 e per le donne.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308934_19",
+      "politician_name": "MALAVASI Ilenia",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Credo davvero sia molto evidente come per noi i consultori rimangono un luogo importante, laico e pubblico, che vanno potenziati con personale e fondi adeguati, perché sono il luogo più importante e più prezioso per garantire la libertà delle donne nella tutela della loro salute (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308934",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307400_19",
+      "politician_name": "VARCHI Maria Carolina",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Intervengo per esprimere, conformemente al parere del Governo, il voto contrario a quest'ordine del giorno, e desidero, lontano da urla e strepiti, spiegare il perché del voto contrario a quest'ordine del giorno, perché quest'ordine del giorno parte da due equivoci di fondo. Il primo equivoco è contenuto nell'ultimo capoverso della premessa, cioè la convinzione, il pregiudizio nei confronti di talune associazioni del Terzo settore, ritenute, ad avviso di chi ha presentato l'ordine del giorno, in grado di incidere psicologicamente in modo inaccettabile e violento nei confronti delle donne.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307400",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308843_19",
+      "politician_name": "DI BIASE Michela",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Concordo profondamente sull'equilibrio che i legislatori dell'epoca impiegarono nel fare questa legge. Ne è testimonianza l'articolo 9 che inserisce all'interno del testo l'obiezione di coscienza. Non vi è dubbio, frutto di equilibrio, di un grande lavoro, ma, per suo tramite, Presidente, all'onorevole Varchi, la cosa che non si capisce è la seguente: se veramente volete così tanto la piena applicazione della legge n. 194, che è interesse, creda, anche del Partito Democratico, per quale motivo vi sentite di intervenire solo su questo punto a fronte dei tanti che sono completamente disapplicati (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra e del deputato Benzoni) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308843",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Noi voteremo contro questo provvedimento, per due motivi, poi, ascoltando questa discussione sull'ultimo ordine del giorno me ne è venuto in mente un terzo, in realtà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto gli studenti, le studentesse e i docenti del Literargymnasium Rämibühl, di Zurigo, che assistono ai nostri lavori dalle tribune (Applausi) . Ha chiesto di parlare il deputato Romano. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Nel 2021, con il Governo Conte, quando gli italiani hanno sentito parlare per la prima volta di Piano nazionale di ripresa e resilienza, l'Italia era in una fase di ripresa dalla pandemia da COVID-19. Gli italiani, quindi, avevano la necessità di sapere di poter contare su una forza che li avrebbe condotti alla fine del periodo di crisi. Nonostante questa necessità, con riferimento alla conclusione delle trattative per il Piano nazionale di ripresa e resilienza, la maggior parte degli italiani - il 56 per cento - guardava al Piano con una sorta di disincanto: da una parte, riconoscevano la potenzialità del Piano, ma, dall'altra parte, riconoscevano gli ostacoli, soprattutto nella capacità di gestione amministrativa, nella difficoltà della burocrazia, nella possibilità di corruzione e di infiltrazione della criminalità organizzata. A queste perplessità, però, si affiancava un bisogno di credere realmente che una spinta così forte per il nostro Paese potesse creare beneficio, soprattutto per il miglioramento del sistema sanitario, che era andato in crisi dopo la pandemia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d306521_19",
+      "politician_name": "ZARATTI Filiberto",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signora rappresentante del Governo, il PNRR era e poteva ancora essere la più grande occasione del nostro Paese dal dopoguerra. Soltanto il Piano Marshall, nell'immediato secondo dopoguerra, aveva messo a disposizione così ingenti risorse per cambiare il Paese e in quell'occasione dette vita alla rinascita economica, sociale e culturale del nostro Paese. Così poteva essere per il PNRR. In un momento difficile della storia dell'umanità, reduci da una catastrofe come quella del COVID, questi fondi potevano essere la grande occasione per cambiare il Paese, per cercare di intervenire in quelle difficoltà storiche e profonde del nostro sistema produttivo e amministrativo: scegliere di innovare, scegliere di modernizzare, scegliere di cambiare, scegliere di capire fino in fondo cosa significhi oggi combattere i cambiamenti climatici, capire fino in fondo e scegliere la strada della transizione ecologica, per un'altra Italia, per un mondo diverso, per cercare di utilizzare anche le difficoltà dei nostri tempi per creare nuove opportunità di lavoro e per immaginare una nuova società e una nuova solidarietà nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "306521",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto, anche a nome dell'Assemblea, il professor Ira Helfand, cofondatore e copresidente dell'Organizzazione per il disarmo nucleare IPPNW e membro del Board della Campagna internazionale per l'abolizione delle armi nucleari, che hanno entrambe ricevuto il Nobel per la pace, la prima nel 1985, la seconda nel 2017, che sta assistendo ai nostri lavori dalle tribune (Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d306064_19",
+      "politician_name": "SOTTANELLI Giulio Cesare",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Onorevoli colleghi, poco più di un mese fa, la presentazione da parte del Governo della quarta relazione sullo stato di avanzamento del PNRR ci ha purtroppo certificato l'incapacità del sistema Paese di utilizzare questi fondi. Infatti, sono stati spesi fino ad oggi solo il 22 per cento dei fondi totali a disposizione, tenuto conto che la scadenza del Piano prevede che tutti i fondi vengano spesi entro il 2026.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "306064",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307496_19",
+      "politician_name": "PELLA Roberto",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente Ascani, Sottosegretario Siracusano, cari colleghi, il decreto-legge che ci accingiamo a votare introduce ulteriori disposizioni urgenti, finalizzate a garantire l'attuazione del Piano nazionale di ripresa e resilienza, modificando la governance del PNRR e del PNC, ma, soprattutto, incrementando, per gli anni 2024 e 2026, la dotazione economica del Fondo di rotazione per l'attuazione del Next Generation EU Italia, autorizzando quindi la spesa per la realizzazione degli interventi non più finanziati con le risorse del PNRR.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307496",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307496_19",
+      "politician_name": "PELLA Roberto",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Abbiamo portato avanti, anche grazie a un ottimo lavoro con gli ordini del giorno, importanti risposte sui temi dei comuni, in modo particolare quelli piccoli, dove Forza Italia ancora una volta si dimostra il maggior partito che ha sensibilità rispetto al piano strategico nazionale delle aree interne e, soprattutto, allo sviluppo, anche con riferimento all'utilizzo delle risorse destinate alle politiche di coesione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307496",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307234_19",
+      "politician_name": "TORTO Daniela",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Oggi dovremmo essere qui per parlare di come aiutare le famiglie italiane in difficoltà, di come potenziare le nostre realtà produttive, di quanto sia necessario abbattere la povertà assoluta e di come bisogna fare per restituire dignità ai nostri lavoratori. Potremmo parlare anche di sviluppo dell'imprenditoria femminile e giovanile del Mezzogiorno d'Italia, di tutte le regioni, dell'Abruzzo, per esempio, e invece no. Ci costringete a stare in quest'Aula a discutere su un provvedimento che vi siete riscritti a vostro piacimento e che oggi portate a ratifica. Mi dispiace per i colleghi di maggioranza, perché colleghi - lasciatemelo dire - per voi da parlamentari a pigiabottoni è stato veramente un attimo (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307234",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307234_19",
+      "politician_name": "TORTO Daniela",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Finisco, Presidente. Un importante stipendio come ricompensa per avere sbattuto la porta in faccia al lavoro povero. Benvenuti in Italia. Brava Giorgia Meloni, la paladina degli ultimi quando va in campagna elettorale e la madrina degli amici e dei parenti quando si siede a Palazzo Chigi. Il popolo, che è con noi, dice “no” a questa politica falsa, a questa politica ipocrita, e noi oggi siamo qui per onorare quel popolo, che ci chiede di votare contro questo vostro ennesimo fallimento (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307234",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307630_19",
+      "politician_name": "FRASSINI Rebecca",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Presidente, onorevoli colleghi, Sottosegretario Castiello, oggi ci troviamo in quest'Aula per dibattere sul decreto PNRR, un provvedimento molto dirimente, un provvedimento molto complesso, che però ha visto un iter di lavori che ci ritiene assolutamente soddisfatti. E su questo rispondo alla collega Torto, ovviamente, tramite lei, Presidente, però credo ci siano state molte inesattezze, perché, per arrivare a questo provvedimento, in realtà il Governo ha articolato in due fasi proprio il modus operandi .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307630",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308891_19",
+      "politician_name": "ROGGIANI Silvia",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Tante volte, in quest'Aula, abbiamo sentito parlare di Europa, l'abbiamo invocata, è stata attaccata come nemica, è stata indicata come quella che impone, ma non risolve i problemi. Quante volte è risuonata in quest'Aula la parola “Europa”, spesse volte accompagnata da: un'Europa che non fa abbastanza, un'Europa che non c'è, un'Europa lontana dalle cittadine e dai cittadini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308891",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308765_19",
+      "politician_name": "CANNATA Giovanni Luca",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, oggi, con questo provvedimento, il Governo intende perfezionare e revisionare alcuni obiettivi del PNRR, il Piano nazionale di ripresa e resilienza. Si tratta di un provvedimento che guarda, ancora una volta, al futuro con pragmatismo e concretezza, grazie alla capacità del nostro Premier, Giorgia Meloni, e del nostro Ministro Fitto. È bene, però, anche ricordare da cosa parte il PNRR, come nasce il PNRR e cos'è il PNRR. Noi sappiamo benissimo che è un Piano di rilancio per l'economia degli Stati europei e che nasce proprio a seguito della pandemia. L'obiettivo è proprio rilanciare gli Stati, e lo si fa attraverso una serie di denari, di miliardi che vengono ripartiti tra gli Stati, come?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308765",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che, con distinte lettere in data 17 aprile, i presidenti delle Commissioni giustizia e cultura hanno comunicato di trovarsi - in considerazione della sospensione dei lavori delle Commissioni, stabilita dalla Conferenza dei presidenti di gruppo in data 16 aprile - nell'oggettiva impossibilità di concludere l'esame dei progetti di legge n. 30 e abbinate, in materia di reati contro gli animali, e n. 1691, in materia di istituzione della filiera formativa tecnologico-professionale, in tempo utile per consentire l'avvio delle discussioni in Assemblea, attualmente previsto dal vigente calendario dei lavori dell'Assemblea nella seduta di lunedì 22 aprile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 282
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2024-04-18",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Io intervengo sempre perché, troppo spesso, le vittime della criminalità non vengono ricordate e non vengono ricordate neanche con onore. Alfredo Manzoni era un bambino di 8 anni e venne colpito alla schiena durante un agguato a un malavitoso ad Afragola, siamo nel 1973. Un costruttore e grossista di generi alimentari, accusato di un omicidio avvenuto nell'ambito di una faida camorristica è in libertà per insufficienza di prove e, nel pomeriggio del 4 novembre 1973, sta tornando a casa, ad Afragola. Nella palazzina in cui abita l'uomo vive anche una zia di Alfredo e quel giorno Alfredo, vittima innocente, bambino che era andato solo a divertirsi, è in visita dalla zia, insieme ai genitori. Terminata la visita, Alfredo, insieme al babbo e alla mamma, sta per scendere le scale, quando, nello stesso momento, dinnanzi alla palazzina di via Ciampa arriva un'Opel guidata dal figlio del costruttore, di fianco a lui sul seggiolino dei passeggeri c'è un suo amico, mentre il costruttore è seduto dietro. L'Opel si ferma proprio davanti alla palazzina: i tre scendono dall'auto, alle spalle arriva, a gran velocità, una Giulia scura. La vettura procede, poi rallentando improvvisamente la corsa, senza, tuttavia, arrestarsi del tutto. Nello stesso momento, Alfredo si trova con i genitori dinnanzi al portone del palazzo: parlotta con loro e nessuno si accorge che ci sono due macchine, una ferma e l'altra che procede lentamente e che dalla Giulia scura sbucano dal finestrino le canne di due pistole. I killer iniziano a sparare e, in un momento, cade a terra il costruttore, il figlio resta illeso, mentre l'amico viene colpito da un proiettile, al basso ventre. Però a terra, a qualche metro dalla vittima e dal ferito c'è anche un altro corpo ed è proprio quello di Alfredo Manzoni: il piccolo era di spalle quando gli assassini hanno sparato e un proiettile gli si è conficcato nella schiena. Il bambino perde i sensi, ma è ancora vivo. Tenteranno di salvarlo in tutti i modi, viene portato in ospedale, ma le sue condizioni sono disperate. Alfredo sopravvive, ma resta paralizzato, sottoposto a cure e terapie complesse. Purtroppo, le ferite lo porteranno a morire, il 28 maggio 1975, a 10 anni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0282",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 282
+      }
+    }
+  ]
+}

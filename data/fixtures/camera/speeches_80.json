@@ -1,0 +1,175 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0080",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-03-31",
+    "title": "Assemblea — Seduta n. 80 del 2023-03-31",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 80
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 69, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questa interpellanza nasce in seguito ad alcune dichiarazioni che abbiamo ritenuto fuori luogo, sia per il luogo in cui sono avvenute, cioè non in questa sede istituzionale, sia rispetto al tema che è stato posto, cioè, il fatto che sembrerebbe – oggi, lo capiremo da lei e la ringrazio per essere qui a rispondere - che questo Governo abbia intenzione di spegnere lo SPID.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d32500_19",
+      "politician_name": "BUTTI Alessio",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato alla Presidenza del Consiglio dei ministri . La ringrazio, Presidente. Innanzitutto, ci tengo a ringraziare - e lo faccio sinceramente - gli interpellanti, per avermi fornito l'occasione di ritornare su un tema che personalmente giudico centrale e su cui tengo a rassicurare il Parlamento e tutti i cittadini dell'importanza che lo stesso riveste per l'intero Governo. Voglio anche sottolineare l'impegno profuso per garantire che l'identità digitale sia, per tutti i cittadini, non solo sicura, ma anche semplice da utilizzare e, soprattutto, accessibile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "32500",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'interpellanza urgente Antoniozzi e Foti n. 2-00089 (Vedi l' allegato A ) . Chiedo al deputato Antoniozzi se intenda illustrare la sua interpellanza o se si riservi di intervenire in sede di replica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d308909_19",
+      "politician_name": "ANTONIOZZI Alfredo",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Sì, grazie, signor Presidente. Ringrazio il Sottosegretario per la presenza. Intanto, c'è una questione pregiudiziale. Ritenevo che questa interpellanza fosse valutata, forse lo sarà, anche dal Ministero dell'Ambiente, perché si riferisce a questioni legate alla società Sogin, della quale il Ministero dell'Ambiente ha il controllo e l'indirizzo. Ritengo che, naturalmente, il frutto di questa interpellanza e della relativa risposta possa essere poi conosciuto anche dal Ministero competente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "308909",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d308909_19",
+      "politician_name": "ANTONIOZZI Alfredo",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Concludo, Presidente. In conclusione, signor Sottosegretario, siamo qui a chiedere la verifica delle attività amministrative e delle scelte del precedente consiglio di amministrazione che hanno portato alla perdita di bilancio di 10 milioni di euro, ma anche della presente gestione commissariale, che, da quanto ci risulta, non sta portando affatto ad un'accelerazione del decommissioning e a miglioramenti nella gestione corrente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "308909",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d308421_19",
+      "politician_name": "ALBANO Lucia",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Economia e le finanze . Grazie, signor Presidente. Colleghi, con riferimento ai quesiti posti dagli onorevoli interpellanti e, in particolare, per quanto riguarda le vicende che hanno condotto al licenziamento di 4 dirigenti della Società gestione impianti nucleari per azioni Sogin, acquisite le informazioni dalle strutture competenti, si evidenzia che tali provvedimenti sono stati adottati a conclusione di un lungo, articolato e approfondito procedimento di verifica, avviato per ricostruire i processi decisionali, controllare atti e provvedimenti, accertare fatti e comportamenti tenuti nel periodo 2013-2016, nonché i costi sostenuti per l'avvio e la realizzazione della campagna di informazione nazionale in materia di produzione di energia elettrica da fonte nucleare, relativa in particolare alla localizzazione del deposito nazionale dei rifiuti radioattivi. Da tale verifica, svolta da Sogin in particolare dal luglio 2020, con il supporto di una società di consulenza esterna, Ernst & Young, emergevano numerose criticità. Era risultato, tra l'altro, che tale campagna di comunicazione non era stata approvata dal CdA prima del suo avvio ed era stata implementata nonostante non fosse stato rilasciato il nulla osta alla pubblicazione della Carta nazionale delle aree potenzialmente idonee ad ospitare il deposito nazionale. Nella quasi totalità dei casi esaminati, inoltre, le specifiche d'ordine di attivazione dei contratti quadro e i contratti degli affidamenti diretti per le attività pubblicitarie erano stati perfezionati successivamente all'esecuzione delle attività o anche dopo la sospensione della campagna informativa sui media. Successivamente, a gennaio 2021, l'Autorità di regolazione per energia reti e ambiente, ARERA, che provvede a garantire copertura dei costi inerenti alle attività istituzionali di Sogin, avvia la procedura per il riconoscimento dei costi del deposito nazionale, avvalendosi del nucleo speciale beni e servizi della Guardia di finanza, disponendo anche l'effettuazione di una verifica ispettiva, sempre in collaborazione con il nucleo speciale beni e servizi della Guardia di finanza. Poiché già delle prime risultanze di tale ispezione emergeva che tutti i contratti esaminati, scelti a campione, presentavano rilievi relativamente alla fase dell'affidamento o a quella dell'esecuzione, l'Autorità chiedeva a Sogin che l'istanza di rimborso delle spese sostenute afferenti al deposito nazionale fosse accompagnata da una relazione di un soggetto terzo e indipendente, volto alla verifica sistematica del pieno rispetto delle prescrizioni del codice dei contratti pubblici. Il verificatore esterno, nuovamente Ernst & Young, ha controllato tutti i contratti relativi al deposito affidati dal 2010 al 2020 (216 contratti), rilevando vizi di legittimità per 160 di essi, ivi compresi i contratti della comunicazione istituzionale del 2015. Sogin ha pertanto potuto chiedere l'integrale rimborso ad ARERA solo per i contratti risultati legittimi e regolari, procedendo a chiedere il recupero parziale di altri non pienamente rispondenti ai canoni di legge. A dicembre 2021 venivano conseguentemente avviati procedimenti disciplinari nei confronti di 8 dipendenti, all'esito dei quali il consiglio di amministrazione, confortato anche da un parere legale pro veritate contestava loro la responsabilità per i danni sofferti, in relazione alla condotta negligente assunta in occasione delle procedure di gara contestate. Occorre segnalare altresì, oltre all'istruttoria avviata nel gennaio 2021 da ARERA, che nel mese di febbraio 2021 è stato avviato dall'Anac un procedimento di vigilanza sull'attività contrattuale di Sogin Spa, riguardante il medesimo periodo e lo stesso ambito di fattispecie. Lo scorso 8 marzo 2023, come ricordato, Anac ha notificato a Sogin la definizione del procedimento, con la delibera n. 62 del 2023, muovendo numerosi rilievi relativi alla fase di gara e a quella di esecuzione di più contratti stipulati in passato dalla società, evidenziando il mancato rispetto dei principi concorrenziali nel caso degli affidamenti dei servizi comunicativi e pubblicitari, la carenza di adeguata documentazione, a comprova della regolarità delle prestazioni eseguite, e la mancata osservanza delle norme in materia di conflitto di interessi. Nel contempo, Anac ha preso atto favorevolmente delle misure di self cleaning in materia di appalti che Sogin ha adottato successivamente all'emersione delle criticità oggetto di censura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "308421",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d308909_19",
+      "politician_name": "ANTONIOZZI Alfredo",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Sottosegretario. Intanto la ringrazio, per la sua risposta. Evidentemente, gli elementi che hanno costruito la sua risposta sono stati forniti da coloro che, in qualche misura, io ritengo responsabili di quanto sta accadendo in Sogin e, quindi, non potevano che avere questa caratteristica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "308909",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signora rappresentante del Governo, il 20 marzo scorso il Gruppo intergovernativo sui cambiamenti climatici (IPCC) ha pubblicato la sintesi del suo sesto rapporto sulla crisi climatica, dove l'Italia viene indicata tra i Paesi più vulnerabili alle conseguenze degli sconvolgimenti climatici. Durante la conferenza sul clima di Glasgow (COP26), 34 Paesi, tra cui l'Italia, e 5 istituzioni finanziarie pubbliche avevano firmato un accordo che li impegnava a terminare gli investimenti pubblici internazionali nei combustibili fossili entro la fine del 2023. Le strategie fin qui adottate dall'Italia continuano però a confermarsi tra le meno coerenti e rispettose degli impegni presi alla COP26. Purtroppo, il sistema Italia continua a basarsi sul triangolo tra finanza privata, industria fossile e finanza pubblica. Il Governo italiano e la sua Agenzia di credito all'esportazione, SACE, come si legge in un documento pubblicato dall'associazione ReCommon , l'associazione che promuove campagne e iniziative per sottrarre le risorse naturali alla finanza e al mercato, si rimangiano di fatto gli impegni presi alla COP26, continuando a finanziare progetti di carbone, petrolio e gas all'estero almeno fino al 2028. I progetti in fase di valutazione, se realizzati, produrrebbero 3,5 volte le emissioni di CO2 annuali dell'Italia, per un totale di 1,2 miliardi di tonnellate di anidride carbonica. Vale la pena ricordare che SACE si colloca al primo posto in Europa tra i finanziatori pubblici dell'industria fossile. Tra il 2016 e il 2021 SACE ha emesso garanzie per i settori del petrolio e del gas pari a 13,7 miliardi di euro. La strategia italiana prevede l'abbandono del supporto alla filiera del carbone a partire dal maggio del 2021, mentre l'interruzione graduale dei finanziamenti al settore del petrolio è prevista entro il 2024. Ma per il gas il programma è molto diverso. La priorità nel phase-out è stata data alla generazione di energia attraverso i combustibili fossili e alla catena di valore del petrolio. Le altre fasi della filiera del gas saranno gradualmente dismesse alla luce del ruolo che il combustibile può svolgere nella transizione. Grazie a queste eccezioni, SACE può giustificare il suo supporto al settore del gas. Il finanziamento a progetti di centrali elettriche a metano continuerà fino al 2023, mentre l'esplorazione e l'estrazione saranno supportate fino al 2026. Per i progetti di trasporto e stoccaggio, invece, la data ultima non è proprio menzionata perché deve essere ancora definita. Una formula, questa, che sembra voler dire “per sempre”. Come ricorda un articolo del quotidiano Domani del 23 marzo scorso, sembra che questa politica sia un regalo alle multinazionali energetiche e alle istituzioni finanziarie, a cui il Governo italiano fa da sponda per trasformare l'Italia in un hub mediterraneo del gas per rivendere il gas in Europa, non per necessità interne al tessuto produttivo italiano. Giova sottolineare che il presidente del consiglio di amministrazione di SACE è il dottor Filippo Giansante, che è anche membro del consiglio di amministrazione dell'ENI. Peraltro, ENI ha già ricevuto la garanzia di SACE per Coral South , il progetto avviato da ENI per lo sviluppo delle risorse di gas scoperte al largo del Mozambico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d308421_19",
+      "politician_name": "ALBANO Lucia",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per l'Economia e le finanze . Grazie signor Presidente. Saluto il collega. In ottemperanza agli impegni internazionali assunti dall'Italia a favore dell'introduzione di incentivi per le operazioni “verdi” e della sospensione del supporto pubblico al settore dei combustibili fossili a partire dal 2023, in particolare nell'ambito della produzione di energia, SACE Spa ha predisposto, nel corso del 2022, la propria policy sui cambiamenti climatici. In particolare, tali impegni si concretizzano nell'ambito della Dichiarazione sul supporto pubblico internazionale alla transizione verso un'energia pulita, che è stato sottoscritta nell'ambito della COP26 e in seno alla coalizione Export finance for future , iniziativa in cui l'Italia ha aderito nel novembre 2021 e che comprende 10 Paesi, che riconosce il ruolo del sostegno finanziario pubblico alle esportazioni nel promuovere la transizione verso progetti e investimenti compatibili con gli obiettivi dell'accordo di Parigi. La policy di SACE, pertanto, prevede l'introduzione di incentivi per operazioni “verdi” nell'ambito di crediti all'esportazione, al fine di facilitare il sostegno alla transizione ecologica. L'introduzione di incentivi ha l'obiettivo di incrementare nuovi impegni in operazioni di export sostenibili, rendendo più competitiva l'offerta finanziaria per il supporto di progetti con impatto positivo sul clima, in modo da compensare in parte la riduzione delle operazioni in settori non più ammissibili. Parallelamente, pertanto, SACE realizzerà iniziative per accompagnare le aziende nel percorso della transizione energetica. Fra queste iniziative si annoverano eventi di business matching per facilitare l'incontro tra fornitori italiani e acquirenti esteri alla ricerca di tecnologie di qualità; ancora, maggiore flessibilità nella copertura del contenuto di Paesi terzi, facilitando così la partecipazione di aziende italiane a progetti internazionali verdi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "308421",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, signor Presidente. Signora rappresentante del Governo, non sono assolutamente soddisfatto. Il Governo non ha risposto, tra l'altro, alla questione che riguarda il Presidente del CDA di Sace. Gradirei capire la ragione - mi rivolgo anche al signor Presidente che, in questo momento, presiede la Camera - per la quale il Governo ha deciso di non rispondermi riguardo a un conflitto che per noi è abbastanza palese, ovvero il presidente del CDA di Sace è anche membro del consiglio di amministrazione di ENI, ovvero chi deve dare le garanzie economiche è anche il soggetto che poi deve ricevere queste garanzie economiche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 80
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-31",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il Sottosegretario di Stato per i Rapporti con il Parlamento, con lettera in data 30 marzo 2023, ha presentato alla Presidenza il seguente disegno di legge, che è stato assegnato, ai sensi dell'articolo 96- bis , comma 1, del Regolamento, in sede referente, alle Commissioni riunite VI (Finanze) e XII (Affari sociali):",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0080",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 80
+      }
+    }
+  ]
+}

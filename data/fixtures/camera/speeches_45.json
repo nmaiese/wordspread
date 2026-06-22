@@ -1,0 +1,721 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0045",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-01-30",
+    "title": "Assemblea — Seduta n. 45 del 2023-01-30",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 45
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 69, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di cinque e venti minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 785: Conversione in legge, con modificazioni, del decreto-legge 5 dicembre 2022, n. 187, recante misure urgenti a tutela dell'interesse nazionale nei settori produttivi strategici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vorrei fare una veloce illustrazione di questo emendamento. L'emendamento mira a circoscrivere l'ambito di applicazione delle disposizioni contenute nell'articolo 1, ossia il riferimento alle imprese che gestiscono impianti e infrastrutture di rilevanza strategica nel settore della raffinazione degli idrocarburi, società che potrebbero avere rischi di continuità produttiva in conseguenza di sanzioni imposte nell'ambito dei rapporti internazionali tra Stati. Questo è l'oggetto del decreto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308843_19",
+      "politician_name": "DI BIASE Michela",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Francamente, ci aspettavamo un parere favorevole su questo emendamento. Naturalmente, riconosciamo la necessità della continuità produttiva, ma, in questo emendamento, chiediamo semplicemente di garantire i livelli occupazionali, quindi, rimaniamo abbastanza sorpresi dal parere del Governo e auspichiamo che questo parere possa essere rivisto per monitorare e garantire piena occupazione e perché nessuno rischi di perdere il posto di lavoro, pur riconoscendo una situazione complessa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308843",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo emendamento interviene sull'amministrazione temporanea prevista dal decreto che, nel testo, è disposta per diciotto mesi, termine che, sempre secondo il testo, può essere prorogato per ulteriori dodici mesi. Con questo emendamento facciamo una proposta, che a noi pare di buon senso, ossia di consentire la proroga per il tempo necessario a garantire la tutela dell'interesse nazionale, quindi non solo per dodici mesi, ma fino a che effettivamente l'intervento sia utile e necessario per difendere l'interesse stesso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307459_19",
+      "politician_name": "FONTANA Ilaria",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Abbiamo voluto presentare questo emendamento proprio nella logica di coniugare la tutela dell'ambiente con l'interesse produttivo. L'emendamento è volto a precisare che, nell'esercizio dell'amministrazione temporanea, sia garantito il pieno rispetto dei valori limite di emissione, stabiliti dalla normativa dell'Unione europea. Per noi questo emendamento è importante perché è veramente un modo per coniugare la tutela dell'ambiente, che deve essere fondamentale, con l'altrettanto fondamentale interesse strategico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307459",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307334_19",
+      "politician_name": "VINCI Gianluca",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Leggendo questo, come gli altri emendamenti precedenti e successivi, non si può non notare il riferimento al rispetto della normativa vigente: “l'amministrazione temporanea è altresì condotta nel rispetto della legislazione vigente (…)”. Questo non è un emendamento, un emendamento di questo tipo viene chiaramente respinto perché nulla aggiunge. Si è voluto solo presentare un emendamento a prima firma di qualcuno per ottenere eventualmente un voto favorevole o contrario e far perdere un po' di tempo a questa Assemblea. A questo punto, se si voleva veramente intervenire e dare un contributo migliorativo alla norma, si poteva entrare nel merito e presentare un emendamento con il quale modificare la norma. Questo emendamento, di fatto, non modifica nulla circa l'impianto della norma che andiamo ad approvare; è finalizzato, magari, a non far approvare in via definitiva il provvedimento. Come per gli emendamenti che lo hanno preceduto, il voto non può che essere contrario. Noi siamo sempre disponibili ad accettare un confronto su un tema condivisibile o una proposta di miglioramento che possa veramente apportare qualcosa di buono. Gli emendamenti servirebbero a questo, invece intervengo dopo una decina di emendamenti che però sono identici. Quello in esame ne è l'ennesima dimostrazione, vale a dire un emendamento che nulla di migliorativo apporta alla norma. Per questo motivo il nostro voto sarà assolutamente contrario, voteremo contro questo e quegli emendamenti che sono, di fatto, ripetizioni del rispetto della norma. È chiaro che tutti siamo per il rispetto delle norme.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307334",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per ribadire l'importanza di questi emendamenti che abbiamo presentato, che hanno come obiettivo, da un lato, di mantenere coerenza tra l'obiettivo del decreto e la tutela ambientale, dall'altro, di mantenere coerenza tra l'obiettivo del decreto e la tutela dei posti di lavoro. Questo emendamento, nello specifico, chiede sostanzialmente, quando si fa riferimento a piani di riconversione industriale, a piani di investimento, di assicurare la tutela ambientale realizzando impianti ecosostenibili, nonché, come dicevo, la tutela dei livelli occupazionali, prevedendo, ove possibile, proprio a tutela dell'occupazione, l'introduzione del vincolo della clausola sociale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308897_19",
+      "politician_name": "MESSINA Manlio",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, signor Sottosegretario, colleghi, a fronte del ragionamento che abbiamo appena sentito dalla collega Appendino, le chiedo, Presidente, di rivolgere a lei eventualmente il motivo del “no” del gruppo di Fratelli d'Italia. Si parla di coerenza, però, ancora una volta, con questi emendamenti, il MoVimento 5 Stelle dimostra non solo poca coerenza, ma anche poca inventiva nella gestione di un tema assolutamente importante. Parlo di coerenza perché ci hanno ormai fatto capire come, soprattutto sulle tematiche ambientali, oggi dicono A e domani dicono B, in funzione di quello che magari è l'andamento dei sondaggi del momento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308897",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Messina, solo per significare a lei e ai colleghi che tutti gli emendamenti hanno superato il vaglio di ammissibilità; quindi, la Presidenza li ha ritenuti tutti ammissibili. Tutto quello di cui si discute in quest'Aula ha cittadinanza, essendo coerente con il nostro disegno di legge.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signor Presidente. Ho ascoltato, prima, il collega Vinci e, adesso, il collega Messina. Avrei capito questi interventi se fossimo in una situazione di ostruzionismo. Che il principale gruppo parlamentare motivi sostanzialmente il suo voto con un giudizio, non nel merito, ma sul metodo, da parte di colleghi dell'opposizione, francamente è una cosa che lascia un po' stupiti. Non era mai capitato a parti invertite. Soprattutto, è chiaro che, se iniziate con questo tono, dall'altra parte possiamo tranquillamente fare una cosa molto semplice: invece di avere un atteggiamento tranquillo, come quello che stiamo avendo adesso, se volete parliamo tutti, non c'è nessun problema (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista e di deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento, effettivamente, in maniera analoga ai precedenti e ad alcuni anche successivi, prevede che eventuali piani di riconversione industriale assicurino la tutela dell'ambiente, la tutela ambientale. Presidente, capisco che, ogni qualvolta si pronuncia in quest'Aula la parola ambiente o tutela ambientale, ci sia qualcuno dai seggi della maggioranza che si alza indignato, come se fosse un'eresia. Per noi non è un'eresia. Sfido il collega che è intervenuto prima a dirmi in quale parte di questo provvedimento si sancisce il rispetto dell'ambiente rispetto alle altre previsioni che sono contenute nel decreto stesso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento ha per noi una valenza significativa, anche perché introduce una serie di modifiche per quanto concerne il modo di operare, i paletti, il confine entro cui potrà adoperarsi il commissario. In particolare, le modifiche sono finalizzate a tre differenti questioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308843_19",
+      "politician_name": "DI BIASE Michela",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Proprio in virtù dell'importanza del provvedimento che ci accingiamo a votare e in ragione della tutela dell'interesse nazionale del settore degli idrocarburi, con questo emendamento chiediamo che il Governo invii tempestivamente tutti gli atti alle Commissioni parlamentari competenti, al fine di coinvolgere in modo adeguato il Parlamento e, come dicevo, le Commissioni, per essere davvero informati e per capire soprattutto qual è l'iter che si sta seguendo e che si intende portare avanti. Questo, naturalmente, con una cadenza semestrale. Noi rivendichiamo anche e soprattutto, su argomenti così centrali per il nostro Paese, un coinvolgimento attivo del Parlamento, sempre che questo naturalmente non generi un'idiosincrasia da parte delle opposizioni, perché, dagli interventi che stiamo ascoltando, mi pare che ne vedremo delle belle.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308843",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questa proposta emendativa propone di aggiungere l'articolo 1- bis , quindi, è un articolo aggiuntivo. Infatti, il provvedimento interviene per consentire la continuità produttiva di settori strategici e il senso del provvedimento è  esattamente questo, ovvero considerare come asset strategico anche il settore petrolchimico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Molto velocemente, anche questo emendamento pone la questione, che ricordavo precedentemente, della garanzia del mantenimento di un equilibrio sia sul tema occupazionale sia sul tema ambientale e, quindi, prevede che gli eventuali piani di riconversione industriale delle imprese soggette all'esercizio del golden power che vogliano accedere con priorità alle misure del Fondo per la salvaguardia dei livelli occupazionali e la prosecuzione dell'attività di impresa, da un lato, debbano assicurare la tutela ambientale, realizzando impianti ecosostenibili, e, dall'altro, prevedano l'introduzione del vincolo della clausola sociale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . “Impegna il Governo ad adottare le iniziative necessarie affinché siano assicurati, in fase attuativa, i migliori livelli qualitativi della fibra ottica per ottenere elevate prestazioni di connettività”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . Anche qui l'ordine del giorno è accolto con la seguente riformulazione: “a monitorare e a valutare iniziative per assicurare la continuità produttiva e i processi di transizione green , anche ai fini della salvaguardia dell'occupazione”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Accetterei la riformulazione, però chiederei al Governo di chiarire la prima parte, perché non abbiamo capito se sia confermato l'impegno ad acquisire la documentazione relativa alle procedure di vendita e a garantire la trasmissione alle Commissioni parlamentari per valutare se restano confermati o meno gli approvvigionamenti nazionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . In relazione all'ordine del giorno n. 9/785/2 Barbagallo, la riformulazione è così come l'avevo letta - e posso rileggerla - e, dunque, vengono espunti gli altri punti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Accettiamo la riformulazione con lo spirito che, ovviamente, il mantenimento dei livelli occupazionali e la riconversione ambientale non possono non coincidere con i preminenti interessi nazionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Il parere del Governo è contrario su un ordine del giorno che impegna il Governo a riferire periodicamente al Parlamento in merito all'evoluzione dell'operazione di cessione degli impianti Lukoil ISAB di Priolo a GOI Energy. Quindi, a giudizio del Governo, non si dovrebbe far sapere al Parlamento qual è l'evoluzione di questa cessione così delicata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Non procediamo al ritiro, anche perché, francamente, non comprendo l'indicazione del Governo. Si tratta di alcuni punti che, peraltro, in sede di V Commissione, al Senato, sono stati discussi e proprio in quella sede la Commissione ha espresso un parere non ostativo, dopo aver preso atto di questi elementi che noi prevediamo all'interno dell'ordine giorno. Si chiede semplicemente di assicurare, in sede attuativa, che questi impegni siano garantiti. Pertanto, ci stupisce molto l'invito al ritiro e chiediamo che sia posto in votazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . L'ordine del giorno n. 9/785/9 Iaria è accolto, se così riformulato: “impegna il Governo a monitorare e a valutare iniziative per assicurare la continuità produttiva e i processi di transizione green , anche ai fini della salvaguardia dell'occupazione”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Il parere contrario lo trovo veramente molto, molto assurdo. Sicuramente concordiamo sull'esigenza di tutelare le nostre strutture strategiche quando si parla di produzione per lo Stato. Parliamo, quindi, di salvaguardare la parte economica, ma abbiamo già degli esempi in Italia di come abbiamo salvaguardato la parte economica, tralasciando, però, quella ambientale e quella relativa alla tutela della salute dei cittadini; abbiamo l'esempio dell'Ilva di Taranto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307459_19",
+      "politician_name": "FONTANA Ilaria",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Non accetto l'invito al ritiro, non lo comprendo, così come non comprendo l'indicazione del Governo. Questo ordine del giorno - come abbiamo già ribadito nella fase di illustrazione degli emendamenti - sottolinea la necessità di coniugare l'interesse strategico produttivo nazionale con la tematica della tutela ambientale. Ricordiamo, Presidente, e mi piace ricordarlo nuovamente anche in questo momento, che la tutela dell'ambiente è entrata nella nostra Costituzione, tra i principi fondamentali della nostra la Costituzione. La tutela dell'ambiente, così come della biodiversità, degli ecosistemi, nonché il processo di transizione ecologica, sono da considerare interessi strategici nazionali quanto quelli produttivi. Per questo motivo non sono derogabili. Inoltre, la conservazione della specie e degli ecosistemi deve necessariamente intersecarsi con le attività economiche, proprio al fine di assicurare la stabilità della biodiversità e non solo dei livelli di consumo energetico del nostro Paese. Deve esistere, pertanto, un connubio, un equilibrio tra i due processi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307459",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308818_19",
+      "politician_name": "MORFINO Daniela",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, non comprendo il parere contrario del Governo in merito a questo ordine del giorno. Ancora una volta, siamo costretti a denunciare e a sollevarci contro l'azione politica di questo Governo. In questo ordine del giorno esistono rigorosi profili di criticità, nonché di disapprovazione, in merito alla costruzione normativa del decreto-legge al nostro esame. Questo decreto-legge, così come formulato, non basta: è tiepido, è distorto e percorre una via opposta rispetto agli obiettivi del 2030 e del 2050 in materia di decarbonizzazione, Green Deal e tutela dell'ambiente. Quindi, questo è un Governo sordo che, ancora una volta, percorre interessi parziali per gruppi ristretti che, ancora oggi, continuano a generare extraprofitti sulla pelle dei cittadini e sulla disperazione della povera gente e delle piccole e medie imprese. È una norma che non si aggancia alle nuove frontiere energetiche, alla decarbonizzazione e al Green Deal , che sono le uniche vie percorribili per noi e che permettono di ridurre, oltre alle emissioni nocive, anche i consumi dei nostri cittadini. Per questo, Presidente, chiedo che il Governo si impegni ad attuare tutti gli strumenti strategici normativi per avviare il percorso di decarbonizzazione e di attuazione del Green Deal , in linea con le politiche ambientali europee. Quindi invito il Governo a rivalutare il parere (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308818",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308844_19",
+      "politician_name": "CAROTENUTO Dario",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sono semplicemente stupito, perché mi domando come mai il Governo non voglia audire le parti sociali nell'ambito della procedura di valutazione del golden power. Mi sembra un ordine del giorno che poteva essere tranquillamente accolto e invito, quindi, a una riflessione (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308844",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . La riformulazione è la seguente: “impegna il Governo a valutare l'adozione di misure urgenti per affrontare la problematica del depuratore oggi sotto sequestro”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). No, non accetto, signor Presidente. Trovo veramente, mi consenta, fuori luogo che il Governo, rispetto ai provvedimenti che per legge devono essere adottati - non dal Governo in particolare ma che, in generale, devono essere adottati - usi la frase, per ogni ordine del giorno, “a valutare”. No, non si deve valutare, si deve fare, signora sottosegretaria. Sono provvedimenti che derivano dal fatto che - tanto per rendere edotta l'Aula, non penso serva ma lo faccio, signor Presidente - l'area di Siracusa-Priolo-Melilli, chiamata il triangolo della morte, è un'area dove si è verificato il disastro ambientale e sanitario più drammatico della storia della nostra Repubblica. L'inchiesta della procura della Repubblica di Siracusa ha evidenziato come, in questi ultimi quarant'anni, il depuratore di cui stiamo parlando non abbia mai funzionato. Non ha funzionato perché di quella grande quantità di petrolio, che doveva essere trattata e che valeva per i russi della Lukoil, per l'ENI, per i sudafricani della Sasol, hanno fatto quello che gli pareva, ossia hanno buttato a mare oltre 1.500 tonnellate di fanghi, mischiati a inquinanti gravissimi di ogni genere, 2.500 tonnellate di benzene in aria, per non parlare di 77 tonnellate di idrocarburi che sono andati fuori ogni tipo di controllo. Quindi, che il Governo venga in quest'Aula a dire, rispetto a un disastro ambientale e sanitario di questa portata, che valuterà che la legge debba essere applicata per far funzionare un depuratore è incredibile, inaccettabile e, mi si lasci dire, anche indecente nei confronti di quei cittadini e cittadine che stanno pagando e hanno pagato un prezzo drammatico sulla propria salute.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . Ordine del giorno n. 9/785/16 Evi: “impegna il Governo a valutare l'opportunità di adottare tutte le iniziative di favore volte a sostenere la riconversione verde dell'intero polo industriale di cui in premessa, ai fini del suo rilancio”; vengono, quindi, espunti i due punti precedenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). No, io non posso accettare questa riformulazione perché, nei primi due punti, nel primo punto in particolare, si chiedeva di imporre ai soggetti proprietari degli stabilimenti semplicemente di rispettare le regole attuali sulla protezione della salute e dell'ambiente. Questa parte viene completamente espunta dal testo e si parla solo di una riconversione in chiave futura che - ci mancherebbe - va benissimo ed è quello che ovviamente chiediamo e che è necessario fare, ma bisogna partire dall'oggi, richiedendo che chiunque oggi abbia la gestione e la proprietà di questo stabilimento, rispetti fin da subito la normativa ambientale a tutela della salute.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Innanzitutto, intervengo per sottoscrivere l'ordine del giorno del collega Emiliano Fenu. L'articolo 1 di questo provvedimento è relativo ad imprese che gestiscono, a qualunque titolo, impianti nel settore della raffinazione di idrocarburi, un settore in cui l'intervento è stato reso necessario a seguito della guerra in Ucraina, della conseguente crisi e delle misure sanzionatorie sulla Russia da parte dell'Unione europea.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Signor Presidente, onorevoli colleghi, non è più il tempo di scelte timide e di mediazioni infinite. Abbiamo il dovere di dotarci degli strumenti necessari ad affrontare le questioni contingenti. Lo scenario politico, economico ed energetico è radicalmente cambiato il 24 febbraio 2022 quando, con l'invasione dell'Ucraina, la Russia ha scatenato questa guerra inaccettabile nel cuore dell'Europa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "“Grazie” lo dovremmo dire ai colleghi. Intanto, il tempo lo blocchiamo. Quando i colleghi la metteranno nella condizione di intervenire, lei continuerà ad intervenire. Fino a quando ci sarà questo inconcepibile brusio, lei non potrà andare avanti. Quindi, abbia pazienza un attimo, fino a che i colleghi con educazione usciranno o staranno in Aula in silenzio. Poi, potrà andare avanti. Il tempo è bloccato e non andiamo avanti finché - ripeto - non ci sarà silenzio. Prego, onorevole Cavo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Dicevo che è questo il dovere di una politica responsabile: agire tempestivamente e mettere in campo tutte le misure adeguate e necessarie. Questa maggioranza lo sta facendo fin dall'inizio di questa legislatura. Con il decreto Aiuti- quater e con la legge di bilancio abbiamo sostenuto imprese e famiglie contro il caro bollette e inserito misure strutturali per la riduzione dei costi energetici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Il provvedimento d'urgenza che ci apprestiamo a votare, noto anche come decreto Salva ISAB Priolo, è stato emanato dal Governo per tentare di dare una risposta alla situazione dello stabilimento dell'ISAB di Priolo, che fa capo alla russa Lukoil, in difficoltà in conseguenza delle sanzioni e delle misure decise dall'Unione europea nei confronti della Russia - a seguito dell'invasione scellerata dell'Ucraina da parte di Putin -, che hanno rischiato di compromettere la produzione di uno stabilimento del petrolchimico dove viene raffinata una parte importante del greggio utilizzato nel nostro Paese (parliamo di circa il 20 per cento dell'intera produzione nazionale).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Onorevoli colleghi, signori del Governo, il provvedimento in esame, per la verità, non ha suscitato né qui alla Camera né al Senato, dibattiti che abbiano opposto le ragioni della minoranza e della maggioranza in maniera forte come in altre circostanze, segno che, fondamentalmente, l'estensione dello strumento che serve a tutelare l'interesse nazionale nell'ambito del libero mercato trova d'accordo le nostre forze. Piuttosto, il provvedimento ha costituito l'ennesimo banco di prova per interrogare, almeno, le opposizioni su quale sia il reale approccio del Governo di fronte alle politiche economiche del nostro Paese. Ci interroghiamo continuamente, anche in base al dibattito che la quotidianità ci pone, sulla richiesta di un fondo sovrano europeo e su rapporti equilibrati con l'Unione europea sul PNRR. Ci domandiamo, cioè, se siamo di fronte a un'eterogenesi dei fini o piuttosto a una conversione sulla via di Damasco. Non è una domanda di poco conto, perché è importante, per il funzionamento della democrazia, capire quali siano le intenzioni del Governo, dopo che ha utilizzato una campagna elettorale per manifestarne di tutt'altro stampo. A una prima lettura di questo decreto, in realtà, sembrava di trovarvi intenzioni fortemente nazionalistiche, con la presenza di quel passaggio “con ogni mezzo”. Poi, rileggendolo bene, ci abbiamo forse visto intenzioni draghiane: era più un richiamo nazionale al whatever it takes . Per questo è sfuggito quel “con ogni mezzo”, che è stato emendato dal Senato. Dovremmo in qualche modo istituire il premio “il draghino d'oro”, da assegnare al Presidente del Consiglio ogni volta che riuscirà ad emendare se stessa, la sua se stessa del passato, quell'immagine imprigionata nello specchio della sala delle donne a cui sovente ci richiamiamo, premio che, dal nostro punto di vista, culminerà con “il drago d'oro”, il giorno in cui, come siamo certi, questa maggioranza andrà a ratificare anche il MES. Poco importa quando i risultati affermano senza ombra di dubbio la centralità del mercato e lasciano spazio per la libera iniziativa e l'afflusso di capitali, anche stranieri, nell'interesse dello sviluppo, della crescita e della sicurezza italiani. La realtà, dunque, non ha lasciato Palazzo Chigi con l'ultima cerimonia della campanella. Ce ne compiacciamo e sembra qui di ritornare indietro addirittura fino al 2012, quando fu Mario Monti, da liberale, a inaugurare lo strumento del golden power che, in questi anni, è stato sottoposto a numerose modifiche e che la furia di quel “a qualsiasi costo” ci ha fatto temere per un momento che lo si volesse trasformare in un capolavoro di masochismo di un Governo che cerca in tutti i modi di mettere tra le proprie fauci una preda nazionalista. Fortunatamente, nei fatti, lo stesso Governo o desiste o si scopre piuttosto fiacco e sdentato per rincorrere ciò che a lungo ha raccontato al Paese. Usciamo, allora, da questa polemica, basata più sulle dichiarazioni che sui fatti, polemica a cui non possiamo sottrarci, perché ancora rappresenta una questione centrale - come dicevo - per la democrazia, cioè conoscere quali siano le reali intenzioni e capacità di chi si presenta agli elettori e ottiene la maggioranza, per venire al tema di merito che questa vicenda pone. Colleghi, anche i numeri delle crescenti notifiche delle operazioni soggette a golden power degli ultimi anni ci devono indurre a domandarci con quali politiche economiche il nostro Stato intenda attrezzarsi per vincere le sfide dell'attrattività dei capitali, dell'innovazione, della competitività e della maggiore produttività del nostro sistema economico. In assenza di serie politiche economiche, il rischio che oggi abbiamo evitato si riaffaccerà inevitabilmente, riproponendo la vostra pericolosa propaganda che vede l'Europa come nemico, il mercato come vile e iniquo, le statalizzazioni o nazionalizzazioni come uniche soluzioni al problema della sicurezza. Sono aspetti che, già quando appartenevano alla retorica della minoranza e vi hanno contraddistinto nella vigliacca aggressione del Governo Draghi, hanno penalizzato il Paese e che ne costituirebbero un durissimo colpo, se dovessero riaffacciarsi come abiti per un Governo che ancora non ci ha fatto capire come intenda procedere dentro la crisi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d306214_19",
+      "politician_name": "SQUERI Luca",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Presidente, onorevoli colleghi, il provvedimento che ci apprestiamo a votare è stato adottato dal Governo, in continuità con altri provvedimenti, in considerazione delle conseguenze emerse dalla crisi energetica. Si tratta, nello specifico, di una seria e tempestiva risposta all'assoluta emergenza determinata dalle sanzioni economiche successive allo scoppio della guerra russo-ucraina che hanno rischiato, da un lato, di determinare il blocco della produzione di uno stabilimento del petrolchimico di Priolo, all'interno del quale viene raffinato oltre il 20 per cento del greggio utilizzato in Italia, e, dall'altro, di determinare un vero e proprio dramma occupazionale che avrebbe interessato migliaia di lavoratori di quelle imprese e dell'indotto all'interno di quel contesto territoriale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "306214",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Rappresentante del Governo, gentili colleghe e colleghi, il decreto-legge 5 dicembre 2022, n. 187, reca misure urgenti a tutela dell'interesse nazionale nei settori produttivi strategici e nasce da una situazione urgente e contingente. Lo sappiamo bene: è nel nostro interesse garantire la continuità produttiva delle imprese che gestiscono, a qualunque titolo, gli impianti e le infrastrutture di rilevanza strategica nel settore della raffinazione di idrocarburi. Io credo che nessuno in quest'Aula possa contestarne la necessità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307686_19",
+      "politician_name": "ANDREUZZA Giorgia",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Rappresentanti del Governo, onorevoli colleghi, a fronte di una crisi energetica che ha ormai raggiunto livelli insostenibili per le famiglie e soprattutto per le imprese, oggi più che mai, occorre intervenire per garantire la sicurezza degli approvvigionamenti delle reti e degli impianti, sicurezza che deve essere assicurata dalle imprese che gestiscono gli impianti e le infrastrutture di rilevanza strategica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307686",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d302746_19",
+      "politician_name": "PELUFFO Vinicio Giuseppe Guido",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Colleghi deputati, rappresentante del Governo, abbiamo affrontato la fase di conversione di questo decreto-legge nella consapevolezza dei tempi strettissimi, prima della decadenza, del lavoro approfondito, svolto da maggioranza e opposizione al Senato, e del carattere di urgenza che rivestono le norme previste a tutela dell'interesse nazionale in settori produttivi strategici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "302746",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308877_19",
+      "politician_name": "ROSSI Fabrizio",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, onorevoli colleghi, il decreto che andiamo ad approvare oggi assume una grande rilevanza in termini politici e fattuali per la nostra Nazione e su questo concentrerò il mio intervento, annunciando il voto favorevole di Fratelli d'Italia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308877",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Secondo le intese intercorse tra tutti i gruppi, interrompiamo a questo punto la seduta, che riprenderà nella giornata di domani, a partire dalle ore 9,30, con il seguito della discussione delle proposte di legge sull'istituzione di una Commissione parlamentare di inchiesta sul fenomeno delle mafie e sulle altre associazioni criminali, anche straniere, e sull'istituzione di una Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Ieri sera, ancora una volta, un giovanissimo lavoratore delle piattaforme digitali di soli 23 anni è morto proprio in questa città, investito da un bus di linea, proprio qua, in piazza dei Re di Roma, nella capitale. Gravissime le ferite causate dallo scontro. Per gli operatori del 118, ahimè, non c'è stato niente da fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Il secondo fronte, è di tutelare la dignità e i diritti dei lavoratori e delle lavoratrici delle piattaforme digitali, abolendo soprattutto il cottimo. La piazza in cui è avvenuto l'incidente è nota per la sua pericolosità: le macchine percorrono in velocità la rotatoria e gli attraversamenti non sono ben segnalati; lungo i bordi della piazza, inoltre, si fermano decine di automobili in seconda fila. Dobbiamo mettere le persone al centro delle nostre città, delle politiche urbane di viabilità, dobbiamo cambiare le città, le strade, il sistema della mobilità, gli stili di vita e di guida, per fermare la crisi climatica e gli incidenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Da agosto, 660 mila persone, considerate occupabili e che attualmente percepiscono il reddito di cittadinanza, come sappiamo tutti, non potranno più percepirlo. Però, queste persone avrebbero diritto, in questi mesi, ad essere formate per il loro reinserimento nel mercato del lavoro e per potersi evidentemente mantenere una volta che non riceveranno più il reddito di cittadinanza. Ebbene, Presidente, di giovedì, in una trasmissione, a Piazzapulita, è stato riferito, come dati del Ministero del Lavoro, che questi corsi di formazione non partiranno prima di questa estate. Evidentemente - non facciamo fatica a immaginarlo - non è semplice formare questi percettori di reddito di cittadinanza, di cui circa il 70 per cento ha un titolo di scuola media e con competenze non allineate al mercato del lavoro. Pertanto, noi vogliamo - e la chiediamo con forza - un'informativa urgente della Ministra Calderone, affinché venga qui in Aula a spiegare come intende permettere a queste persone, considerate occupabili, di non tornare immediatamente in uno stato di povertà, una volta che non avranno più questo sussidio, e come intende programmare questi corsi di formazione, dato che la competenza è peraltro regionale (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, onorevoli colleghi, circa due mesi fa incontrai il questore di Napoli e il dirigente di Polizia della stazione di Portici-Ercolano, in provincia di Napoli. In quell'occasione manifestai preoccupazione per l' escalation criminale che si stava verificando nei territori alle falde del Vesuvio. Bombe carta, fenomeni collegati alla “banda del cric”, come soprannominata dalla stampa locale, aggressioni ad opera di baby-gang , rapine e spari in pieno giorno stanno mettendo a repentaglio la sicurezza e l'incolumità dei cittadini. Segnalai la presenza di pochi uomini e mezzi; tuttavia, nonostante gli sforzi tesi a combattere i fenomeni criminosi da parte delle Forze dell'ordine, che ringrazio per il lavoro giornaliero che svolgono tra mille difficoltà, ad oggi, continua a esistere un importante problema relativo alla sicurezza pubblica, con particolare riferimento ai comuni di Portici e di Ercolano, che non può essere sottovalutato. La grandezza geografica dei due territori e il numero esiguo delle Forze dell'ordine a disposizione fanno sì che non si riesca a coprire l'estensione territoriale dei due comuni che contano insieme oltre 100 mila abitanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308854_19",
+      "politician_name": "CARAMIELLO Alessandro",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, se mi dà altri dieci secondi… Quindi, dopo questo mio intervento, seguirà un'interrogazione scritta all'attenzione del Ministro dell'Interno per chiedere quali iniziative il Ministro, per quanto di competenza, intenda porre in essere per riaffermare la piena legalità nei comuni di Portici e di Ercolano, stante la necessità di garantire un miglioramento della percezione di sicurezza da parte dei cittadini, e, come ultimo punto, se il Ministro non ritenga opportuno, di concerto con il prefetto e il questore di Napoli, garantire una maggiore presenza di Forze dell'ordine all'interno dell'area che comprende i due comuni (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308854",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307634_19",
+      "politician_name": "DORI Devis",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Voglio portare qui, in Aula, il ricordo del professore Antonio Palma, presidente dell'Istituto Poligrafico e Zecca dello Stato, che stamattina è venuto a mancare. Il professor Palma è stato un grande giurista, docente universitario, in particolare di istituzioni di diritto romano, ma soprattutto è stato un uomo di grande cultura, come aveva dimostrato anche nel ruolo di presidente del Conservatorio San Pietro a Majella di Napoli.  Io lo conobbi qui, alla, Camera, in audizione, in sede di Comitato per la legislazione e in pochi minuti riuscì a lanciare alcuni spunti illuminanti, che poi divennero il nucleo concettuale di una mia proposta di legge sulla chiarezza del linguaggio normativo. Porgo pertanto le condoglianze ai familiari, agli amici, agli studenti che l'hanno avuto come docente e ai dipendenti e ai collaboratori dell'Istituto Poligrafico e Zecca dello Stato che hanno potuto apprezzare anche il suo spessore umano (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307634",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307360_19",
+      "politician_name": "SASSO Rossano",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Intervengo per esprimere la mia solidarietà alla famiglia dell'imprenditore agricolo che, purtroppo, qualche giorno fa, ha deciso di togliersi la vita nella mia regione, la Puglia. Alla base di questo drammatico gesto ci sarebbero motivazioni economiche, scadenze, le ennesime cartelle esattoriali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307360",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, onorevoli colleghe e onorevoli colleghi, è il pomeriggio del 28 gennaio 1983 quando Germana Stefanini viene bloccata nel proprio appartamento e interrogata da due uomini e una donna del Nucleo per il potere proletario armato, gruppo legato alle Brigate rosse. La sua sola colpa - una donna di 57 anni - è quella di lavorare come vigilatrice al reparto femminile del carcere di Rebibbia. Era addetta al controllo dei pacchi nelle carceri (prima aveva lavorato nell'orto). Le mettono a soqquadro la casa, appendono un drappo al muro e iniziano un processo proletario per ricevere più informazioni possibili sul penitenziario. Finito l'interrogatorio viene portata in strada, caricata nel bagagliaio di un'auto e colpita con un colpo alla nuca.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 45
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2023-01-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). La ringrazio, signor Presidente. Colleghi, sono a riportare all'attenzione dell'Aula il percorso a ostacoli sempre più difficile, tra lunghe liste d'attesa e open day e con tempi e disagi inaccettabili per i cittadini, per il rilascio dei passaporti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0045",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 45
+      }
+    }
+  ]
+}

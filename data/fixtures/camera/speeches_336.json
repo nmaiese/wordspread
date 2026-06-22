@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0336",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2024-07-30",
+    "title": "Assemblea — Seduta n. 336 del 2024-07-30",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 336
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 87, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1937-A: Conversione in legge, con modificazioni, del decreto-legge 29 giugno 2024, n. 89, recante disposizioni urgenti per le infrastrutture e gli investimenti di interesse strategico, per il processo penale e in materia di sport.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d306379_19",
+      "politician_name": "DE MONTE Isabella",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( IV-C-RE ). Grazie, Presidente. Signor Sottosegretario, colleghi e colleghe, siamo giunti al voto finale, ma vorrei rimarcare alcuni aspetti che hanno caratterizzato già il voto di fiducia. È difficile condividere un provvedimento così eterogeneo, perché siamo andati dalle concessioni al ponte sullo Stretto, da contributi dati alle fondazioni liriche, al processo penale e al diritto sportivo. Quindi, in questo, senso abbiamo già un limite, perché, in realtà, un provvedimento dovrebbe essere caratterizzato da una sua omogeneità. Per questa ragione, ritengo di procedere articolo per articolo, proprio per avere almeno un filo conduttore dato dall'ordine degli articoli stessi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "306379",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Presidente, onorevoli colleghi e colleghe, il decreto Infrastrutture che ci accingiamo a votare è molto più di un insieme di norme tecniche, è un passo concreto verso lo sviluppo, la modernizzazione e la crescita dell'Italia; un decreto complesso, animato anche da un vivace confronto. Al nostro Paese servono infrastrutture moderne ed efficienti, sicure, rispettose dell'ambiente e sostenibili. Per realizzarle dovevamo prevedere, necessariamente, non solo investimenti strategici, che daranno impulso alla nostra economia, ma anche un efficientamento della macchina amministrativa, della burocrazia, in particolare quella commissariale, e della giustizia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, signor Presidente. Colleghi, Governo, devo dire che questo decreto Infrastrutture contiene un po' la qualunque: dalle concessioni autostradali ai commissari straordinari - un proliferare nei numeri che, devo dire, prima o poi, sostituirà anche il Parlamento -, alla capacità tecnica e amministrativa della Laguna di Venezia, alla Fondazione lirico sinfonica del Teatro Petruzzelli, alle disposizioni in materia di TPL, agli interventi di bonifica nel sito di Cogoleto-Stoppani, al Comitato per lo sviluppo della cattura dello stoccaggio di CO2, al rifinanziamento del Polo universitario di ingegneria di Genova, alle misure per il sostegno alla presenza delle imprese italiane nel continente africano, alle modifiche del codice di procedura penale e poi - un po' la Cenerentola - si parla anche di sport.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Cerco di velocizzare. Ieri sera, mi ci sono messa davvero con interesse su questi ordini del giorno. Dicevo milioni e milioni di euro. Abbiamo capito che gli ordini del giorno sono un qualcosa che non si nega a nessuno, un contentino che ogni parlamentare può portare al territorio, però poi, per serietà, queste opere in qualche maniera dovrebbero essere realizzate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d302080_19",
+      "politician_name": "BONELLI Angelo",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Signor Presidente. Signor rappresentante del Governo, questo decreto ancora una volta dimostra la vostra totale distanza dai problemi del Paese. È come se voi foste decontestualizzati perché l'Italia in questo momento vive in una drammatica emergenza. Io non la chiamerei più “emergenza”, la definirei un elemento strutturale legato alla crisi climatica e alla siccità, alle drammatiche immagini che purtroppo ci vengono riproposte di anno in anno. Ecco, di fronte a un qualcosa che non è emergenza e che voi eravate nella condizione di poter prevedere, avete emanato un decreto che oggi ponete all'attenzione del Parlamento, della Camera dei deputati, per la sua conversione in legge.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "302080",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307248_19",
+      "politician_name": "MAZZETTI Erica",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Sottosegretario Ferrante, colleghi, con questo decreto abbiamo voluto dare un riordino ad alcuni settori inerenti ad infrastrutture strategiche sul territorio nazionale e, in alcuni casi, alla governance per la gestione e la nuova realizzazione, con il sacrosanto principio del risultato: sì, perché noi vogliamo che le opere vengano realizzate e quelle esistenti mantenute.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307248",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Colleghe, colleghi e Sottosegretario Ferrante presente, a dire il vero, io, per la prima volta, ho pensato: che bello, potrò votare favorevolmente a un provvedimento di questo Governo, perché si parla di decreto-legge urgente Infrastrutture, in un momento in cui è così urgente intervenire sui tratti della Salerno-Reggio Calabria che soffrono e soffrono le persone che vanno in vacanza, a causa di un deragliamento di un treno merci avvenuto tre settimane fa. Ancora, la settimana scorsa, treni alta velocità al Nord, con ritardi di ben oltre 100 minuti. Per non parlare di tutti i disagi a livello aeroportuale nel momento di punta turistica. Come no? Parlerà, sicuramente, il decreto-legge, di infrastrutture acquedottistiche e irrigue, per dare risposte in termini di siccità o per aiutare i siciliani che sono senz'acqua. Invece, proprio no, perché mi sbagliavo di grosso: questo è un decreto-legge omnibus , che ha poco a che fare con le infrastrutture.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308942_19",
+      "politician_name": "PIZZIMENTI Graziano",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Presidente, Sottosegretario, onorevoli colleghi, le disposizioni contenute in questo decreto-legge sono per noi rilevanti e di estrema importanza, perché sbloccano opere indispensabili e, da tanti anni, attese, che rischiavano di rimanere incompiute nel tempo a causa, per esempio, dell'aumento dei prezzi e della complessità dell'iter burocratico. Pertanto, nei vari articoli possiamo trovare moltissime opere che saranno finanziate e sburocratizzate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308942",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308894_19",
+      "politician_name": "SIMIANI Marco",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Care colleghe e cari colleghi, il DL Infrastrutture è l'ennesimo decreto spot di Salvini. L'Italia, infatti, ha un gap infrastrutturale da risolvere, per quanto riguarda il trasporto sia passeggeri sia merci su rotaia, sul TPL, sulla rete idrica, sulle strade, sui ponti, sulle carceri. Il provvedimento in esame poteva essere lo strumento per risolvere molti problemi ed è, invece, l'ennesimo carrozzone vuoto del Governo Meloni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308894",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308768_19",
+      "politician_name": "LAMPIS Gianni",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Quest'Aula si accinge, ormai, ad approvare in via definitiva un provvedimento normativo che, sin dalla sua prima stesura, è apparso ampio, eterogeneo, ma certamente caratterizzato da quell'impegno quotidiano che, costantemente, il Governo di Giorgia Meloni e la maggioranza di centrodestra da quasi 2 anni garantiscono, forti del mandato popolare ricevuto dagli italiani (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308768",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308768_19",
+      "politician_name": "LAMPIS Gianni",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Mi chiedo quanti di voi, che hanno servito le istituzioni locali, i comuni, le province e le regioni, sanno che non è una novità, che questa modalità è sempre esistita e che è la più veloce per dare risposte concrete sulle eterne incompiute che in questo Paese sono presenti (Applausi dei deputati del gruppo Fratelli d'Italia) . È un provvedimento in cui abbiamo inserito altre reti viarie, dove problemi annosi hanno incancrenito i procedimenti amministrativi. Parliamo della Sassari-Olbia e di tanti altri casi che certamente hanno trovato all'interno di questo provvedimento una loro attenzione necessaria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308768",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308768_19",
+      "politician_name": "LAMPIS Gianni",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). …anche in questo caso il collega dei 5 Stelle. Ribadisco che la nostra storia può testimoniare che fra questi banchi i voti sono stati sempre spesi non per interessi di parte o di partito, perché per noi, per Fratelli d'Italia, in ogni momento sono sempre venuti prima l'Italia e gli italiani (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308768",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307162_19",
+      "politician_name": "CAIATA Salvatore",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Intervengo per esprimere la forte preoccupazione per quello che stiamo vedendo succedere in queste ore in Venezuela. È un giorno triste per quel Paese, è un giorno triste per la democrazia, è un giorno triste per la trasparenza. Non si può rimanere indifferenti rispetto alle scene di chi scende nelle strade e nelle piazze per chiedere il rispetto della democrazia e di un risultato elettorale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307162",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307162_19",
+      "politician_name": "CAIATA Salvatore",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Colleghi, credo che trenta secondi di silenzio a un Paese che è dilaniato (Applausi dei deputati del gruppo Fratelli d'Italia) in questo momento nel suo più profondo sentimento, che è quello della democrazia, li dobbiamo tutti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307162",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AZ-PER-RE ). Grazie, Presidente. Mi unisco al collega, anzi, lo ringrazio di avere puntualmente posto la questione, avremmo fatto lo stesso. La situazione, all'indomani delle elezioni in Venezuela, ci preoccupa. Abbiamo avuto modo di fare, come gruppo Azione-PER, una conferenza stampa per segnalare l'allarme. È di queste ore la notizia della preoccupazione delle opposizioni, del quadro complesso, dal punto di vista dell'ordine pubblico, che riguarda sicuramente la comunità italiana, così numerosa, presente in Venezuela, ma evidentemente riguarda in generale lo stato di salute di una democrazia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d302902_19",
+      "politician_name": "PORTA Fabio",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente, per avere ricordato che io ero già intervenuto ieri tempestivamente su questo tema, quindi non voglio ripetermi. Voglio soltanto associarmi alle preoccupazioni espresse dai colleghi che sono intervenuti, ribadire quanto il gruppo del Partito Democratico sia sensibile non soltanto alla comunità italiana che vive in Venezuela, ma anche alla democrazia di un Paese che è messa a dura prova da una consultazione elettorale che lascia ancora dubbi e perplessità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "302902",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307151_19",
+      "politician_name": "BILLI Simone",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Anche noi, Presidente, raccogliamo la denuncia delle opposizioni venezuelane, raccogliamo la loro voce e il loro grido e chiediamo un'informativa urgente del nostro Ministro degli Affari esteri Tajani. Esprimiamo la vicinanza alla comunità venezuelana, ma anche alla comunità italiana in Venezuela. Vi ricordo che sono milioni gli oriundi italiani in Venezuela e circa 150.000 gli italiani iscritti all'AIRE in quel Paese. Che sia fatta luce su quello che sta succedendo in questo Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307151",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge n. 1930-A: Conversione in legge, con modificazioni, del decreto-legge 25 giugno 2024, n. 84, recante disposizioni urgenti sulle materie prime critiche di interesse strategico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308926_19",
+      "politician_name": "COLOMBO Beatriz",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ) , Relatrice . Grazie, Presidente. L'articolo 1 del disegno di legge di conversione, nel disporre al comma 1 la conversione in legge del decreto-legge, dispone, al comma 2, l'entrata in vigore della stessa il giorno successivo alla sua pubblicazione in Gazzetta Ufficiale . In particolare, a seguito delle modifiche apportate in sede referente, il decreto-legge risulta composto da 18 articoli, suddivisi in tre Capi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308926",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d309140_19",
+      "politician_name": "FERRARA Antonio",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghi, ci troviamo oggi a discutere di un tema di estrema importanza per il futuro del nostro Paese e dell'intera Unione europea: la gestione delle materie prime critiche. Questo tema è centrale non solo per il nostro sviluppo economico, ma anche per la nostra capacità di affrontare le sfide globali, come la crisi climatica e i conflitti internazionali. La situazione che viviamo è drammatica e complessa e richiede una risposta articolata e lungimirante, che il Governo di centrodestra, con il decreto-legge n. 84 del 2024 non è riuscito a fornire.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "309140",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d309140_19",
+      "politician_name": "FERRARA Antonio",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). La crisi climatica sta accelerando, con effetti devastanti sull'ambiente e sulla società: gli eventi meteorologici estremi, l'innalzamento del livello del mare e la perdita della biodiversità sono solo alcune delle conseguenze che stiamo già affrontando. A questo si aggiungono i conflitti internazionali, che destabilizzano intere regioni, aggravano le crisi umanitarie e creano interruzioni nelle catene di approvvigionamento globali. In questo scenario, il tema delle materie prime critiche assume un'importanza strategica. Le materie prime critiche sono indispensabili per l'economia dell'Unione europea e per una vasta gamma di tecnologie necessarie per i settori strategici, come l'energia rinnovabile, il digitale, l'aerospaziale e la difesa. Tuttavia, l'Europa è storicamente dipendente dall'importazione di queste materie, il che la rende vulnerabile a interruzioni nelle forniture e a fluttuazioni dei prezzi. Per far fronte a questa sfida, la Commissione europea ha emanato, nel marzo scorso, il Critical Raw Materials Act (CRMA), un regolamento che fissa obiettivi al 2030, per garantire che la UE possa contare su catene di valore forti, resilienti e sostenibili per le materie prime critiche. Il CRMA si propone di rafforzare tutte le fasi della catena del valore e delle materie prime critiche europee, diversificare le importazioni per ridurre le dipendenze strategiche, migliorare le capacità di monitorare e mitigare i rischi di interruzioni nella fornitura e migliorare la circolazione e la sostenibilità. Questi obiettivi sono essenziali per garantire la competitività dei settori produttivi a livello nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "309140",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307686_19",
+      "politician_name": "ANDREUZZA Giorgia",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Sottosegretario, onorevoli colleghi, discutiamo oggi in Aula un tema fondamentale in questo contesto storico per il sistema produttivo e la competitività del nostro Paese e dell'Europa. Oggi l'Italia è fortemente dipendente dalle importazioni di materie prime critiche. Questi materiali essenziali per molti settori industriali provengono principalmente da Paesi extra Unione europea, spesso soggetti a instabilità politica o economica, creando una vulnerabilità strategica. Con questo decreto si procede all'applicazione del recente regolamento UE 2024/1252, che ha l'obiettivo di garantire all'Unione europea un approvvigionamento sicuro e sostenibile di materie prime critiche, data la loro importanza per il funzionamento del mercato interno. La normativa deriva dall'evidente necessità di diminuire la dipendenza da Paesi terzi nell'approvvigionamento di materie prime e sento di poter dire che, probabilmente, in questo processo siamo anche notevolmente in ritardo. Esistono una serie di materie prime, non energetiche e non agricole, che sono considerate critiche dal momento che rivestono una grande importanza economica e sono esposte a un rischio di approvvigionamento molto elevato, spesso causato da un'alta concentrazione dell'offerta in pochi Paesi terzi. Da diversi anni queste materie prime, cosiddette rare, hanno assunto un ruolo fondamentale nella realizzazione della transizione verde e digitale, ma anche il loro utilizzo in applicazioni in campo sanitario, della difesa, dell'aerospazio e nei prossimi decenni la domanda sarà destinata ad aumentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307686",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308783_19",
+      "politician_name": "DI SANZO Christian Diego",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, colleghi, rappresentante del Governo, il disegno di legge che portiamo oggi in Aula riguarda il decreto di approvvigionamento delle materie critiche di interesse strategico, una materia su cui l'Unione europea è già intervenuta con il Critical Raw Materials Act . Del resto, l'Unione europea ormai prosegue un percorso iniziato da un decennio, che persegue un efficiente utilizzo delle risorse naturali proprie e promuove un approccio allo sfruttamento delle materie prime in tutto il mondo che abbia le caratteristiche di sostenibilità ambientale e sociale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308783",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308850_19",
+      "politician_name": "SCHIANO DI VISCONTI Michele",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Presidente, colleghe, colleghi. Con il presente disegno di legge, il Governo sottopone alle Camere, per la conversione in legge, il decreto-legge 25 giugno 2024, n. 84, recante disposizioni urgenti sulle materie prime critiche di interesse strategico. Pleonastico aggiungere che ci troviamo di fronte a un testo di importanza fondamentale per gli interessi energetici e produttivi nazionali. Tuttavia, in linea generale è opportuno menzionare che trattasi di una materia di enorme rilevanza, sotto molteplici punti di vista. Pertanto, è necessario partire da un'analisi sistemica dell'intero impianto motivazionale alla base del testo. La domanda di materie prime critiche è destinata ad aumentare nei prossimi decenni, in quanto indispensabili per un'ampia gamma di settori strategici della filiera industriale, tra cui le energie rinnovabili, l'industria digitale, i settori della sanità e della mobilità elettrica. L'Unione europea dipende quasi esclusivamente dalle importazioni e risulta, quindi, esposta a elevati rischi nella catena di approvvigionamento connessa alle materie prime critiche. Si consideri, a titolo esemplificativo, che l'Unione europea acquista il 97 per cento di magnesio in Cina, le terre rare, da cui si ottengono i magneti permanentemente utilizzati nelle turbine eoliche e nei veicoli elettrici, sono raffinate esclusivamente in Cina. Il 63 per cento del cobalto mondiale utilizzato nelle batterie è estratto nella Repubblica democratica del Congo, mentre il 60 per cento è raffinato in Cina.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308850",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie Presidente. Colleghi e colleghe, signora Sottosegretaria, sappiamo bene che l'approvvigionamento e la filiera dell'economia circolare, relativa alle materie prime critiche di interesse strategico, per come definita nel regolamento (UE) 2024/1252 dell'11 aprile 2024, giocheranno un ruolo fondamentale nella prospettiva della transizione energetica ed ecologica e ne condividiamo lo spirito, così come valutiamo molto positivamente le ricadute occupazionali ed economiche, che possono scaturire dall'applicazione del provvedimento in discussione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Le materie prime hanno un ruolo importante. Non ci sarebbe un modello economico senza risorse naturali prese dal nostro ecosistema. Il capitale naturale - perché così è chiamato - è un capitale critico, perché è finito. La biocapacità del pianeta è costante, abbiamo una serie di stock di metalli e minerali che non possono essere rinnovati, quando si esauriscono. E così non resta nulla per le generazioni future. Motivo per cui, anche quando parliamo di combustibili fossili, dobbiamo decarbonizzare, ossia diminuire il loro utilizzo, non solo perché la combustione è un processo chimico irreversibile, ossia non torna indietro, produce CO2 e acqua, ma anche perché i giacimenti non sono eterni e le quantità disponibili si esauriscono. Dunque, conviene decarbonizzare per iniziare a trovare delle alternative all'uso di combustibili, che muovono il mondo e sono la base del nostro modello economico, che un domani dovrà continuare ad esistere anche senza di loro. Ma, appunto, il mondo dovrà camminare con energie rinnovabili o con quello che riusciremo ad inventarci.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307822_19",
+      "politician_name": "L'ABBATE Patty",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Allora, diciamolo a casa: questo Governo sta rubando ai nostri figli nel voler prendere, raschiare il fondo del barile, prendere tutto ora e subito, lasciando solo inquinamento e paesaggi devastati. Non avranno nemmeno voce in capitolo i nostri giovani - attenzione -, perché non sono coinvolti nelle decisioni, come ora le associazioni ambientaliste non sono coinvolte nei processi decisionali, non sono ascoltate. Tagliate i processi partecipativi, perché? Perché dobbiamo semplificare, ma è assurdo semplificare, quando, poi, queste persone saranno lì, dietro ai cancelli, dietro alle barricate a dirvi che state facendo qualcosa di sbagliato. Allora perché non ragionare con loro prima? Noi niente, facciamo tutto il contrario.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307822",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308824_19",
+      "politician_name": "APPENDINO Chiara",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo perché, Presidente, vogliamo chiedere al Governo, al Ministro Fitto, di venire a rendere comunicazioni in quest'Aula sullo stato di attuazione del PNRR con voto di risoluzioni, come è avvenuto già a marzo perché, vede Presidente, noi non ci possiamo accontentare di un'informativa nelle Commissioni congiunte di domani. Perché, vede, io posso anche capire l'imbarazzo con cui Fitto dovrebbe venire in Aula, a fronte delle menzogne che si sono dette, a cui si aggiungono le più recenti della Presidente Meloni proprio sul tema del PNRR, però - io non so se è chiaro a questa maggioranza, per noi lo è - il PNRR, Presidente, non è una cosa come tante altre, il PNRR è una rivoluzione, perché di questo si tratta. Se non credete a me, io invito i colleghi e le colleghe a uscire dal palazzo e andare a chiedere, ad esempio, ai milioni di cittadini che ogni giorno hanno a che fare con la sanità al collasso, con gli ospedali che non funzionano, con le difficoltà delle liste d'attesa, ecco chiedete a loro cos'è la possibilità di costruire 1.300 nuove case di comunità, chiedete loro cosa significano, ad esempio, 400 nuovi ospedali di comunità o vedere spese disponibili per miliardi per acquistare apparecchi per nuove TAC.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308824",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Intervengo per chiedere, in quest'Aula, l'intervento urgente del Ministro Pichetto Fratin, che si è già espresso su quanto sto per ricordare proprio a tutte le deputate e i deputati. Già, perché questa mattina leggiamo, da una nota della provincia autonoma di Trento, che è stata data esecuzione al decreto firmato ieri notte dal presidente Fugatti. Presidente, mi faccia dire, non è tanto l'omicidio e l'assassinio premeditato, come hanno detto in tanti; siamo davanti a un presidente che si comporta come un fuorilegge. Ma quale sceriffo? Si è preso due ordinanze sospese dal TAR, le ha annullate di notte e ha fatto un'ordinanza per evitare qualsiasi ricorso. Per abbattere chi? Un criminale internazionale? Osama Bin Laden? Parliamo di un'orsa con cuccioli che hanno ancora bisogno della sua protezione. Parliamo di un'orsa. E c'è qualcuno che qui gioca a fare lo sceriffo, pensando di mandare la Forestale a uccidere di prima mattina, per evitare la legge. Io lo dico, come il Ministro ha provato in qualche modo a insinuare, a tutti voi: ma è possibile che l'uomo, che l'amministrazione si trova a dover usare questi sotterfugi, perché non trova altre soluzioni? Ma com'è possibile? Lo chiediamo visto che, in pochi minuti, quella Forestale, di prima mattina, è arrivata lì, proprio perché quell'animale ha un radiocollare, che bisogno c'era, Presidente? Glielo chiedo. Se non per mostrare lo scalpo, anzi la pelle dell'orsa. Ma non vi fate schifo? Ma non è vergognoso quello che vi ho appena descritto? Ma non è da fuorilegge? È matto col botto. E non lo dico solo perché sono un deputato. Fugatti è un matto col botto e dovrebbe vergognarsi di quello che ha fatto (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d302754_19",
+      "politician_name": "BRAGA Chiara",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Alle tante pagine terrificanti che si sono scritte in questi anni di guerra ai nostri confini, sabato se ne è aggiunta un'altra: una strage ai danni di bambini. Dodici ragazzini drusi sono stati uccisi in un campo di calcio sulle alture del Golan e diciassette sono rimasti feriti e lo sono ancora, in condizioni gravi. Sono ragazzini identici, in tutto e per tutto, ai nostri bambini e adolescenti, che riempiono le loro giornate di spensieratezza rincorrendo un pallone. Una tragedia immane per le loro famiglie, in un'area mai veramente pacificata, conquistata militarmente e poi annessa a Israele quasi cinquant'anni fa. Molti dei drusi hanno rifiutato la cittadinanza israeliana, come nel caso delle famiglie di quei dodici ragazzi; hanno solo documenti di residenza. È una tragedia nella tragedia - lo sappiamo - perché l'attacco ha aperto un nuovo e pericoloso fronte nella guerra israelo-palestinese. Soprattutto, ha aperto il rischio, la possibilità di un' escalation incontrollabile in un'area che è già una polveriera. Sarebbe stato, infatti, un razzo di Hezbollah, di fabbricazione iraniana, a colpire il campo da calcio, passando inosservato attraverso le difese, senza che Iron Dome lo abbattesse e con le sirene d'allarme scattate all'ultimo minuto prima dell'esplosione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "302754",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307716_19",
+      "politician_name": "CATTOI Vanessa",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente, per avermi dato l'opportunità di rispondere, sull'ordine dei lavori, in merito a quanto è stato sollevato dal collega Grimaldi. Reputo veramente inaccettabile, all'interno di quest'Aula, sentire proferire parole, nei confronti di un presidente di provincia, come il presidente Fugatti, quali “fuorilegge” e “assassino”. Perché, allora, non ci si rende conto della situazione in cui vertono i cittadini trentini che hanno diritto di vivere in totale sicurezza il proprio territorio (Commenti) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307716",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Grimaldi, se parlo io, non parla lei. Se no, non riesco a parlare. Onorevole Cattoi, siccome siamo sull'ordine dei lavori, volevo pregarla, per l'appunto, di restare su quello. Colleghi, sulle richieste di informativa urgente da parte dei Ministri Fitto, Pichetto Fratin e Tajani, ovviamente, la Presidenza si farà carico di riferire per avviare i contatti con il Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1930-A: Conversione in legge, con modificazioni, del decreto-legge 25 giugno 24, n. 84, recante disposizioni urgenti sulle materie prime critiche di interesse strategico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308926_19",
+      "politician_name": "COLOMBO Beatriz",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie, Presidente. Se me lo consente, esprimerei parere contrario su tutte le proposte emendative contenute nel fascicolo n. 1 dell'Assemblea, ad eccezione dell'emendamento 2.100 della Commissione, nonché dell'articolo aggiuntivo 9.01001 Dondi, sui quali esprimo parere favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308926",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo emendamento inserisce, tra gli obiettivi generali e i principi del decreto in questione, la promozione e la prevenzione dei rifiuti e l'aumento del riutilizzo e della riparazione di prodotti e componenti con un pertinente potenziale di recupero di materie prime critiche. Ciò perché, come abbiamo visto nel regolamento europeo, che in teoria è già entrato in vigore in tutti i 27 Paesi, questo è uno dei focus principali di quel regolamento. Abbiamo, però, un'infinità di normative europee che stanno andando in quella direzione, dalla riparazione, al recupero, all' ecodesign e, visto che avete fatto un decreto-legge (pertanto d'urgenza), chiediamo che questo emendamento venga inserito in una parte fondamentale dell'articolo 1 di questo decreto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308783_19",
+      "politician_name": "DI SANZO Christian Diego",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Con questo emendamento cerchiamo di includere un importante tema, quello sulle materie di scarto e il riciclo da rifiuti e scarti produttivi, che questo decreto - con nostra sorpresa devo dire - ha completamente trascurato. In un Paese povero, come il nostro, di materie prime e di siti minerari, una speciale attenzione dovrebbe invece essere dedicata al tema del riciclo e del recupero, proprio con l'intento di creare un'economia sostenibile, in linea con gli obiettivi dell'Unione europea sulla transizione verde, che erano anche inclusi nel regolamento europeo ma dimenticati in questo decreto. Manca, ad esempio, il tema del recupero dalle discariche, su cui insisteremo anche con altri emendamenti, una vera disciplina organica sul recupero di apparecchiature elettroniche …magari, Presidente, un pochino di silenzio…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308783",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha ragione, perché è un po' come Rossini: quando Rossini suona c'è il crescendo. Se noi al primo emendamento cominciamo a fare questo baccano, di qua alla terza pagina non ci sentiremo più. Quindi, colleghi, per favore. Aspetti, aspetti che torni il silenzio. Vede che è facile. Prego, onorevole Di Sanzo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308783_19",
+      "politician_name": "DI SANZO Christian Diego",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Il decreto-legge, così come concepito, risulta impostato a rispondere solo agli obiettivi europei che sono limitatamente all'estrazione primaria e non presenta iniziative specifiche finalizzate al raggiungimento dei target , previsto, per l'approvvigionamento di materie prime, mediante riciclo da rifiuti e scarti produttivi. Proprio con questo emendamento cercavamo di porvi rimedio. Pochi giorni fa il Ministro Urso, in occasione della presentazione del progetto RigeneRare, del gruppo Iren, per il recupero e il riutilizzo delle materie prime critiche dei metalli preziosi, ha definito l'Italia come un Paese all'avanguardia nel settore del riciclo, però di questo tema vi siete completamente dimenticati e non si trova traccia in questo decreto, dimenticandovi di fatto di una strategia di chiusura del ciclo per le materie critiche primarie, di cui questo Paese - nella nostra opinione - non può fare a meno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308783",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, l'emendamento chiede - come si legge dall'articolato - di promuovere la diffusione o la produzione di materiali, che possano anche sostituire le materie prime strategiche nelle tecnologie strategiche.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Abbiamo sottolineato, sia durante il dibattito in Commissione, sia durante la discussione sulle linee generali, che uno dei limiti maggiori di questo decreto è il fatto di esautorare completamente le regioni e le province autonome dai processi decisionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d301463_19",
+      "politician_name": "ORLANDO Andrea",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, intervengo per ribadire le ragioni di questo emendamento, che sostanzialmente eviterebbe un paradosso, cioè, la stessa maggioranza, che porta avanti l'autonomia differenziata, interviene in una materia come questa, bypassando completamente le regioni per interventi che incidono in modo significativo sul loro territorio. Chiediamo che siano coinvolte, che ci sia la possibilità di un'interlocuzione a carattere formale, a prescindere da ciò che si deciderà rispetto alla Conferenza. Peraltro, la scelta di intervenire in questo modo è abbastanza illusoria, perché è del tutto evidente che, nel momento in cui si vanno a prevedere interventi, come quelli previsti dal decreto il territorio, avrà la sua voce, la esprimerà, manifesterà il modo attraverso il quale ritiene che dovrà essere utilizzato il proprio patrimonio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "301463",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, anche con questo emendamento, cerchiamo di restituire alle regioni e alle province autonome il ruolo che a loro compete. Dunque, chiediamo che, nel caso dei progetti sulla terraferma, la determinazione del Comitato sia adottata “d'intesa con” la regione interessata e non solo “sentita”. Questo proprio per restituire alle nostre regioni il ruolo che compete loro in questi delicati procedimenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, abbiamo inteso proporre questo emendamento, perché va benissimo la definizione e il riconoscimento di progetti strategici e prevedere che questi abbiano chiaramente la qualità di progetto di pubblico interesse nazionale e di opere che sono di pubblica utilità, indifferibili e urgenti, ma riteniamo importante esplicitare, all'interno di questo testo, che tutto ciò deve essere subordinato al rispetto degli obblighi ambientali in materia di valutazione di impatto ambientale e di valutazione di incidenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questo emendamento interviene sul terzo comma dell'articolo 2, che prevede che i progetti di pubblico interesse nazionale trasformino le opere e gli interventi in opere di pubblica utilità, indifferibili e urgenti, ma andando in deroga a tutti gli strumenti di pianificazione e alle norme dello Stato. Abbiamo sottolineato le criticità e le problematiche che si possono generare nel momento in cui gli enti territoriali non sono coinvolti nei processi e nel momento in cui le deroghe si ripercuotono su ambiti potenzialmente fragili dal punto di vista idrogeologico, ambientale o archeologico. Quindi, con questo emendamento, proponiamo di sopprimere le ultime parole dell'articolo, proprio per tutelare ancora una volta i nostri territori, per restituire per quanto possibile competenze agli enti territoriali e, soprattutto, per evitare che questi interventi potenzialmente utili possano trasformarsi in provvedimenti dannosi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. È di tutta evidenza che questo provvedimento abbia numerose criticità e molte carenze in materia ambientale. Non interviene neppure sul fronte del riciclo, benché il Ministro Urso, alla stampa, dichiari l'esatto contrario. Cito una dichiarazione tra le tante, comparsa qualche giorno fa su Il Sole 24 Ore : possiamo essere il Paese più all'avanguardia nel riciclo. Va bene, siamo qui, porti avanti un provvedimento. Questo non è di certo un provvedimento che faccia fare un passo in avanti al Paese nel riciclo, però, spazi di miglioramento ce ne sono e qualcosa, forse, si potrebbe ancora fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d301463_19",
+      "politician_name": "ORLANDO Andrea",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, intervengo per ribadire le ragioni della presentazione di questo emendamento che, sostanzialmente, vuole estendere l'attività di recupero dei materiali alle discariche che sono state abbandonate. Credo che faccia parte di un obiettivo ragionevole di economia circolare e, naturalmente, anche di un modo di guardare al rifiuto come un possibile elemento che può diventare materia prima.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "301463",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d306417_19",
+      "politician_name": "LAI Silvio",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. L'articolo 3 di questo decreto riguarda l'istituzione del Punto unico nazionale di contatto. È anche un nome nuovo per le modalità amministrative e richiama anche, come sigla, altri piani molto più noti e strategici rispetto alle amministrazioni locali. Tuttavia, le questioni che vogliamo affrontare con questo emendamento riguardano il fatto che qualunque soggetto voglia fare richiesta di un titolo abilitativo all'estrazione di materie prime critiche strategiche presenta la domanda al Punto unico di contatto; da quel momento in poi i territori interessati vengono a sapere di queste richieste e della loro entità soltanto, praticamente, a procedura conclusa. Si tratta di un pericoloso dato, perché spesso - per chi non lo sappia proviamo anche a ricordarlo - i titoli abilitativi all'estrazione di materie prime critiche strategiche riguardano ambiti territoriali di decine e decine di ettari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "306417",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questo emendamento è volto a evitare che si ripetano gli scempi del passato. Infatti, nel decreto non è assolutamente previsto che gli interventi ammessi siano seguiti da un piano di dismissione e di ripristino ambientale. Vorremmo evitare che, come appunto è successo nel passato, i nuovi insediamenti minerari o le cave che verranno autorizzate possano diventare luoghi di abbandono pieni di rifiuti, com'è accaduto con tutti i siti che sono stati abbandonati, sino a 30 anni fa. Quindi, confidiamo che questo emendamento possa essere recepito proprio a salvaguardia dei nostri territori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Questo emendamento, che ha sempre a che fare con l'articolo 3, sul Punto unico nazionale di contatto, in particolar modo riguarda i termini massimi per il rilascio dei titoli abilitativi all'estrazione di materie prime critiche strategiche. Sui tempi noi vogliamo specificare e puntualizzare - così come chiede appunto il regolamento europeo, che in questo provvedimento state inserendo in maniera veramente frastagliata e frammentaria, creando molta confusione - che le valutazioni di impatto ambientale non rientrano nei tempi che vengono qui indicati per il rilascio dei titoli abilitativi, che, secondo questo provvedimento, non devono superare i 18 mesi. Questo è importante perché è evidente che i procedimenti di valutazione ambientale possono e devono comportare un uso di tempo per fare le dovute valutazioni e anche per garantire quella partecipazione del pubblico a decisioni che riguardano, evidentemente, progetti che hanno a che fare con i territori e, quindi, con un coinvolgimento degli stessi. Noi vogliamo ribadire questo e riteniamo che sia un emendamento assolutamente di buon senso, che invito i colleghi a votare e ad approvare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Devo dire che è sorprendente il parere contrario della relatrice e del Governo su questo emendamento, perché richiama esattamente quello che prevede il regolamento. Noi abbiamo sottolineato il fatto che le autorizzazioni di questi provvedimenti mandino in deroga gli strumenti di pianificazione, ritenendo gli interventi di pubblica utilità. Chiediamo semplicemente che questa dichiarazione di pubblica utilità sia sottoposta a VIA e VIncA, proprio per garantire la sicurezza e la salute pubblica in primo luogo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Intervengo su questo emendamento, perché è particolarmente importante. Intende sopprimere la possibilità di estrazione mineraria nei fondali marini, considerato il danno ambientale conseguente alla devastazione derivante da questa attività. Ebbene, noi consideriamo che questo danno è ampiamente più rilevante rispetto a un eventuale beneficio legato all'approvvigionamento della materia prima. È notorio, infatti, che queste pratiche siano particolarmente dannose per l'ambiente. L'estrazione mineraria e le condotte correlate all'estrazione potrebbero spazzare via interi ecosistemi marini e le specie che vi abitano, potrebbero intaccare, in modo irreversibile, ecosistemi unici e che giocano un ruolo chiave negli equilibri del Pianeta. Per questo motivo sarebbe auspicabile discutere del come fermare le estrazioni a mare, piuttosto che fare il contrario. Per questo motivo chiediamo la soppressione del comma 8, con l'obiettivo, naturalmente, di precludere l'estrazione mineraria dai fondali marini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Se i colleghi sono d'accordo, chiedo di poter sottoscrivere questo emendamento. Anche il gruppo di Alleanza Verdi e Sinistra è totalmente contrario all'autorizzazione dei progetti di estrazione nei fondali marini e per questo abbiamo presentato una serie di emendamenti, che chiedono di evitare l'estrazione e di fare progetti di ricerca e autorizzare, eventualmente, i progetti di estrazione nel caso in cui saranno valutati minimi gli effetti su questi importanti hotspot di biodiversità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Questo emendamento segue quello che è stato anticipato già dal collega Cappelletti. Chiediamo di inserire, ai fini di tutela dell'ambiente e dell'ecosistema, il titolare del progetto di cui ovviamente al comma 1, ricadente all'interno del perimetro delle aree marine e costiere, a qualsiasi titolo protette per scopi di tutela ambientale, in virtù di leggi nazionali, regionali o in attuazione di atti di convenzione dell'Unione europea e internazionali, unitamente alla documentazione di cui alla Parte II, Titolo III, del decreto legislativo 3 aprile 2006, n. 152, che è tenuto a presentare una descrizione delle ubicazioni alternative tecnicamente appropriate, corredate dal motivo per il quale non sono considerate ubicazioni appropriate per il progetto. Questo perché, anche qui, stiamo chiedendo a questo Governo di tutelare le aree marine protette, come tra l'altro è stabilito nel regolamento. È vero che il Governo, in Commissione, ci ha detto più volte che c'è già il regolamento e non è necessario specificarlo. Ma allora, se tutto questo è già nel regolamento e se i regolamenti europei sono già recepiti dagli Stati, ci dovete spiegare per quale motivo avete fatto un decreto d'urgenza. Veramente non si capisce il motivo, se non per fare l'ennesimo comitato, con l'ennesimo “poltronificio” annesso. Se è vero che il regolamento, ripeto, già c'è, allora dovreste assolutamente votare a favore e accettarlo, perché non stiamo chiedendo cose estranee, ma stiamo chiedendo cose assolutamente pertinenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo è un emendamento particolarmente interessante, perché prevede l'applicazione di una competenza regionale in materia ambientale. Può sembrare anche banale e l'articolo 3, per fare un po' mente locale, è quell'articolo che nel provvedimento prevede come si realizzi il processo di rilascio dei titoli abilitativi all'estrazione di materie prime, oggetto di questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Il fatto di voler bypassare la verifica di impatto ambientale e la verifica di incidenza è uno dei fattori maggiormente critici di questo provvedimento, che, come abbiamo detto, rischia di trasformare opportunità in disastri. Questo perché? Perché entro il 24 marzo 2025 devono essere completate tutte le procedure per la redazione della Carta mineraria da parte dell'ISPRA e, quindi, non si può perdere tempo a fare tutte le verifiche che il codice dell'ambiente - e anche lo stesso regolamento - prevede.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d308221_19",
+      "politician_name": "PAVANELLI Emma",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questa proposta emendativa chiediamo che entro 180 giorni dalla conversione in legge di questo decreto venga attuata una strategia nazionale per l'economia circolare e che, ovviamente, all'interno ci siano le integrazioni - rispetto a quella del 2006 -, rispetto al regolamento dell'Unione europea del 2024 e rispetto a quello del Parlamento europeo e del Consiglio di aprile 2024. Questo perché? Perché crediamo debba essere ampliata la circolarità della nostra economia, come abbiamo detto più volte anche in Commissione e come è stato detto in discussione generale dai miei colleghi. Dobbiamo puntare su una strategia a medio e a lungo termine da parte del nostro Paese, per aumentare la raccolta, lo smistamento e la circolarità dei materiali primi e secondi, che sono fondamentali per i nostri imprenditori, così come abbiamo sentito durante le audizioni e come hanno sostenuto i consorzi, dicendoci che è molto importante aumentare il recupero di questi materiali. Questo lo hanno detto i consorzi RAEE, i riciclatori dei pannelli fotovoltaici, e persino Confindustria ha detto che dobbiamo puntare su questo, che dobbiamo fare politiche per una maggiore raccolta e un maggiore recupero per far sì che le nostre imprese inizino a utilizzare le normative sull' ecodesign . Pertanto, è necessaria una riduzione dell'utilizzo di questi materiali, ma è necessario anche implementare l'uso delle materie riciclate. Questo è quello che ci hanno detto tutti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "308221",
+        "seduta": 336
+      }
+    },
+    {
+      "politician_id": "camera_d302856_19",
+      "politician_name": "DE MICHELI Paola",
+      "date": "2024-07-30",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Gli emendamenti che abbiamo presentato fino ad ora vanno nella direzione di migliorare questo provvedimento, per la consapevolezza dell'esigenza che c'è, in Europa e in Italia, di raggiungere l'obiettivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0336",
+      "metadata": {
+        "id_persona": "302856",
+        "seduta": 336
+      }
+    }
+  ]
+}

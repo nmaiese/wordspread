@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0072",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-03-21",
+    "title": "Assemblea — Seduta n. 72 del 2023-03-21",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 72
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 72, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d302748_19",
+      "politician_name": "ROCCELLA Eugenia",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra per la Famiglia, la natalità e le pari opportunità . Grazie Presidente. Ringrazio particolarmente l'onorevole Antoniozzi per aver richiamato l'attenzione su un episodio del gennaio scorso, quando una famiglia con un bambino piccolo sarebbe stata invitata a uscire da un locale di Taormina, in quanto l'ingresso sarebbe stato precluso ai minori di 12 anni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "302748",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308909_19",
+      "politician_name": "ANTONIOZZI Alfredo",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Signor Ministro, grazie per la sua risposta assolutamente esauriente. Grazie per la sollecitudine con cui questo è avvenuto, grazie per aver colto che la questione non era limitata solamente al fatto accaduto - con riferimento al quale prendiamo atto delle scuse, naturalmente, e questo è un fatto positivo - ma per aver colto che il tema è molto più ampio. E, se di per sé questo fatto accaduto, comunque, è stato un fatto increscioso, ho voluto cogliere questa occasione perché si parlasse dell'infanzia, si parlasse dei bambini, si parlasse della famiglia, qui, nel Parlamento, nel luogo deputato ad assumere la responsabilità delle decisioni. Ringrazio il professor Marziale, Garante per l'infanzia e l'adolescenza della Calabria, che ha sollecitato questo intervento. Come dicevo, il fatto di per sé non è un fatto grave, ma lo può diventare, perché alimenta certamente una coscienza sbagliata rispetto al tema dei bambini, della natalità e della famiglia, fulcro della società intorno alla quale, a cerchi concentrici, si allarga la società medesima. Episodi del genere non devono accadere, ma per un fatto di crescita sociale e morale del nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308909",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'interpellanza Forattini ed altri n. 2-00001 (Vedi l' allegato A ) . Chiedo alla deputata Forattini se intenda illustrare la sua interpellanza o se si riservi di intervenire in sede di replica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308916_19",
+      "politician_name": "FORATTINI Antonella",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Intendo illustrarla anche perché è un'interpellanza datata ottobre, quindi ne vorrei ripercorrere un po' la cronistoria. È stata depositata all'indomani della mia nomina qui a parlamentare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308916",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d302762_19",
+      "politician_name": "MOLTENI Nicola",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Interno . Grazie, Presidente. Signor Presidente, onorevoli deputati, gli onorevoli interpellanti chiedono al Governo di assumere iniziative al fine di integrare le risorse attualmente stanziate per i progetti in materia di rigenerazione urbana per l'anno 2022, con l'obiettivo di finanziare tutte le richieste presentate dai comuni e dichiarate ammissibili.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "302762",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308916_19",
+      "politician_name": "FORATTINI Antonella",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Sottosegretario. Fa piacere il fatto che il Governo abbia a cuore i progetti di rigenerazione urbana e quindi abbia posto l'attenzione al fatto di poter recuperare risorse per soddisfare le richieste che sono arrivate dai comuni, e anche il fatto di valutare la possibilità di rimodulare il criterio della vulnerabilità. Non sfugge a nessuno, infatti, che le risorse su questi progetti sono parecchie, perché c'è un bisogno conclamato di ridare un volto alle aree degradate delle nostre città e occorre portare nelle periferie nuova edilizia popolare, cosa della quale oggi stanno soffrendo molte città: comuni capoluogo, ma non solo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308916",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . Grazie Presidente, grazie onorevole interrogante. Con l'atto in parola si chiede di conoscere quali iniziative il Governo intenda adottare a presidio della competitività, della produzione e del mantenimento dei livelli occupazionali dello stabilimento ex Sevel di Atessa, di fondamentale importanza per il territorio della regione Abruzzo. In proposito, sottolineo che in data 14 febbraio scorso si è tenuto, presso la sede del Ministero delle Imprese e del made in Italy un tavolo di confronto tra il Governo, Stellantis e le organizzazioni sindacali. I lavori del citato incontro hanno riguardato, come auspicato anche dall'onorevole interrogante, la verifica del piano industriale Dare Forward 2030 di Stellantis, in Italia e all'estero, e i temi dello sviluppo, del rilancio e della salvaguardia dei livelli occupazionali dello stabilimento Sevel di Atessa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Do contezza della consapevolezza del Sottosegretario che ha risposto, perché ne conosco il radicamento territoriale - è abruzzese come me -, quindi, ho visto uno sforzo di volontà nel descrivere fotograficamente la situazione. Il punto che manca, per il quale intervengo e utilizzo questo tempo, è mettere proprio i termini all'interno di un'agenda che precisi le cose da fare.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307750_19",
+      "politician_name": "BARACHINI Alberto",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato alla Presidenza del Consiglio dei ministri . Grazie, Presidente. Con riferimento all'interrogazione in oggetto, che concerne lo stato di avanzamento delle iniziative volte a sostenere il comparto termale e la ripresa delle Terme di Montecatini, faccio presente, in via preliminare, che il Ministero del Turismo ha sempre mostrato grande attenzione, anche nel Governo precedente, alle problematiche inerenti al turismo termale. Per quanto concerne le iniziative volte a sostenere la ripresa delle Terme di Montecatini, la questione è estremamente delicata, stante la situazione in cui versa attualmente la società Terme di Montecatini Spa, e coinvolge più attori, in primis , la regione Toscana e il comune di Montecatini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307750",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307151_19",
+      "politician_name": "BILLI Simone",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Ringrazio il Sottosegretario per l'impegno e l'attenzione su questo importante comparto, in particolare per la regione Toscana e ancora più in particolare per Montecatini. Continuiamo nell'impegno, è importante rilanciare questo comparto, non solo, come ha detto lei, Sottosegretario, per la regione Toscana e per Montecatini, ma per tutta l'Italia. Sono tante le terme e i centri termali in tutta Italia. Bisogna fare di più per rilanciare questo settore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307151",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . Grazie, Presidente. Onorevole interrogante, rispondo a nome del Ministero dell'Ambiente e della sicurezza energetica. In merito a quanto rappresentato dall'interrogante, appare opportuno premettere che questo Ministero concretizza le proprie funzioni, in materia di prevenzione e mitigazione del rischio idrogeologico, attraverso atti di programmazione e finanziamento di interventi strutturali proposti dalle regioni e dalle province autonome. Viceversa, non ha competenza nell'intervenire durante le situazioni di emergenza, come definite dal vigente codice della Protezione civile. Per la definizione del Piano degli interventi di mitigazione del rischio idrogeologico, a valere sulle risorse di bilancio del MASE, si applicano i criteri e le procedure dettate dal DPCM 27 settembre 2021, recante aggiornamento dei criteri, delle modalità e dell'entità delle risorse destinate al finanziamento degli interventi in materia di mitigazione del rischio idrogeologico. In particolare, il richiamato DPCM, nell'allegato 1, suddivide la procedura di selezione degli interventi in cinque specifiche fasi tra loro consequenziali. La prima fase consiste nell'inserimento da parte delle regioni della richiesta di finanziamento all'interno della piattaforma web ReNDiS, che consente il caricamento sia dei documenti progettuali sia di informazioni sulla classificazione dell'area in termini di pericolosità/rischio e sulla tipologia ed entità degli elementi esposti a rischio. Una volta validato dalle regioni, l'intervento passa alla seconda fase, in cui la competente Autorità di bacino distrettuale valuta l'intervento in termini di compatibilità con gli strumenti pianificatori vigenti, in relazione al rischio da frana (Piano di assetto idrogeologico) e al rischio da alluvioni (Piano di gestione del rischio da alluvioni) nonché valuta l'incidenza delle opere previste in progetto sulla mitigazione della pericolosità o del rischio idraulico ed idrogeologico rispetto alle aree interessate. Ottenuto tale parere, la terza fase contempla la generazione automatica, da parte del sistema ReNDiS, per ciascuna amministrazione territoriale, di un elenco di interventi ordinati per punteggio, ovvero la graduatoria regionale delle richieste di finanziamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308788_19",
+      "politician_name": "RUBANO Francesco Maria",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Onorevoli colleghi, signor Sottosegretario, sono particolarmente soddisfatto dei dati che, in nome e per conto del Ministero dell'Ambiente, lei ci ha illustrato e che noi abbiamo recepito in quest'Aula. Sono soddisfatto perché abbiamo preso atto che, a dicembre scorso, il Governo ha erogato alla regione Campania circa 17 milioni di euro per interventi di messa in sicurezza relativi al rischio di dissesto idrogeologico. Sono soddisfatto, ancora, perché prendiamo atto di ulteriori attività in via di definizione, le quali genereranno ulteriore erogazione di finanziamento alla regione Campania sempre su questo tema.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308788",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308788_19",
+      "politician_name": "RUBANO Francesco Maria",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Quindi, dobbiamo contare i morti, poi sapremo assegnare le opportune responsabilità, perché non è fondamentale, non è esclusivo in uno stato di diritto avere una tessera di partito in tasca per vedere riconosciuti i propri diritti, la tutela della vita. Questa sarà la mia battaglia e quella sicuramente del centrodestra (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308788",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . Grazie, Presidente. Grazie all'onorevole interrogante. Anche a quest'interrogazione rispondo per il Ministero dell'Ambiente e della sicurezza energetica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Signora Sottosegretaria, la popolazione di Ciampino ha urgente necessità di azioni di risanamento dell'inquinamento acustico prodotto dal locale aeroporto. Nel 2014 l'aeroporto di Ciampino fu oggetto del caso EU Pilot 6876/14 ENVI, nell'ambito del quale la Commissione europea ha chiesto chiarimenti sull'applicazione della direttiva 2011/92/UE.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d309060_19",
+      "politician_name": "BERGAMOTTO Fausta",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato per le Imprese e il made in Italy . Grazie, Presidente e grazie, onorevole Colucci. Con decreto ministeriale n. 345 del 18 dicembre 2018 è stato approvato il piano degli interventi di contenimento e abbattimento del rumore prodotto dall'infrastruttura aeroportuale, predisposto dal gestore Aeroporti di Roma Spa, che ha individuato le azioni di mitigazione acustica più idonee al raggiungimento dell'obiettivo del risanamento, che consiste nel garantire il rispetto dei limiti normativi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "309060",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, signora Presidente. Signora Sottosegretaria, la ringrazio per la risposta, della quale tuttavia non posso dirmi soddisfatto, e cercherò di illustrare le ragioni. Per poterlo fare, è necessario ripercorrere, pur brevemente, i punti salienti di questa vicenda, peraltro da lei ricordati puntualmente. Va ricordato che l'aeroporto Pastine di Ciampino, con i suoi livelli di inquinamento acustico, rappresenta il primo caso in Italia di approvazione del Piano degli interventi di contenimento e abbattimento del rumore da parte del Ministero dell'Ambiente, ai sensi del decreto ministeriale 29 novembre 2000, con il quale sono stati introdotti i criteri per la predisposizione dei piani degli interventi di contenimento e abbattimento del rumore. L'iter di approvazione del decreto è stato lungo e articolato e siamo molto orgogliosi, con il Ministro Sergio Costa, di essere riusciti a portare avanti quel provvedimento pur tra mille difficoltà e ostacoli, perché ritenevamo importante riuscire ad approvare una norma di tutela per la salute della cittadinanza esposta all'impatto acustico dell'aeroporto. Il procedimento istruttorio ha visto il coinvolgimento del Ministero, della regione Lazio, dell'ISPRA, dell'ARPA Lazio e dei comuni interessati. A conferma della resistenza incontrata, ricordo che il decreto ministeriale di approvazione fu oggetto di ricorso al TAR e al Consiglio di Stato da parte dei principali operatori di volo coinvolti, oltre che dal gestore aeroportuale, ma possiamo dire - e lo diciamo con un pizzico di soddisfazione - che la sentenza n. 6976 del 2021 del Consiglio di Stato, peraltro da lei ricordata, ha definitivamente sancito la validità del decreto ministeriale in tutti i suoi aspetti, rendendo cogente il Piano degli interventi di contenimento e abbattimento del rumore dell'aeroporto di Ciampino e confermando la prevalenza dell'interesse alla salute dei cittadini. Perché l'aeroporto di Ciampino rappresenta un caso particolare? Perché in passato detto aeroporto, che ricade nell'ambito territoriale ricompreso tra i comuni di Roma, Ciampino e Marino, non aveva mai rappresentato una preoccupazione per gli abitanti. Infatti, fino al 1998, in qualità di aeroporto militare aperto al traffico civile, era interessato prevalentemente da voli militari o istituzionali, con un numero limitato di voli cosiddetti charter .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 72, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Poiché nel corso della seduta potranno aver luogo votazioni mediante procedimento elettronico, decorrono da questo momento i termini di preavviso di 5 e 20 minuti previsti dall'articolo 49, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione delle mozioni Foti, Candiani, Rossello, Tirelli ed altri n. 1-00071 (Seconda ulteriore nuova formulazione) , Francesco Silvestri ed altri n. 1-00084 , Zanella ed altri n. 1-00085 e Serracchiani ed altri n. 1-00089 concernenti iniziative di competenza in relazione alla vicenda nota come \"Qatargate\" (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato alla Presidenza del Consiglio dei ministri . Grazie, Presidente. Intanto volevo preliminarmente scusarmi con i colleghi per il ritardo, ma purtroppo avevo un impegno contestuale in Commissione, che è stato ritardato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato alla Presidenza del Consiglio dei ministri . No, finisce così. Questa è la riformulazione completa, finisce così. Invece, sul terzo punto del dispositivo il parere è favorevole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Per il futuro, mentre le riformulazioni riferite agli impegni sono ovviamente riferite a punti numerati, e quindi è molto più facile seguire, quando il Governo riformula dei paragrafi delle premesse sarebbe opportuno, per il futuro, che almeno dia l' incipit iniziale del paragrafo a cui si fa riferimento, oppure modifichiamo le impostazioni e diamo a ogni paragrafo un numero, perché altrimenti, francamente, è molto difficile seguire.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Volevo chiedere alla Presidenza, laddove i pareri del Governo siano tra di loro contrastanti, cioè laddove passasse la mozione Foti, che è una chiara strumentalizzazione dell'inchiesta giudiziaria, se non fosse precluso il primo punto della proposta del Partito Democratico, dove si chiede di operare affinché si eviti ogni forma di strumentalizzazione a fini politici. Perché o passa la mozione Foti o ci si impegna a non strumentalizzare l'inchiesta. Vorrei soltanto capire questo profilo dalla Presidenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d301577_19",
+      "politician_name": "DELLA VEDOVA Benedetto",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-+EUROPA ). Grazie, Presidente. Noi, come +Europa, non parteciperemo al voto di queste mozioni per una ragione molto semplice. Io prendo la mozione della maggioranza, a prima firma Foti, che nelle premesse a un certo punto dice: “fermo restando il diritto alla presunzione di innocenza nei confronti delle singole persone coinvolte fino ad eventuale condanna definitiva e al pieno rispetto delle garanzie per gli imputati, impegna il Governo (…)”, ma impegna il Governo a cosa? Come si può impegnare il Governo rispetto a fattispecie penali che, ovviamente, sono individuali? Non ci sono fattispecie penali collettive o presunte, sono fattispecie penali, reati che se fossero stati commessi sarebbero reati individuali. Se voi scrivete: “fermo restando il diritto alla presunzione di innocenza”, allora ci fermiamo qui, cari colleghi, aspettiamo le autorità giudiziarie belghe e, magari, discutiamo sulla modalità con cui questa inchiesta viene condotta da parte delle autorità competenti belghe se vogliamo discuterne, discutiamo ad esempio della carcerazione preventiva a cui è sottoposta la ex Vicepresidente del Parlamento, Eva Kaili, in carcere da mesi, una mamma con bambini piccoli, discutiamo di questo, ma non possiamo discutere, partendo dal presupposto che violiamo e, cari colleghi, violate quello che dite in premessa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "301577",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308785_19",
+      "politician_name": "CAVO Ilaria",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Presidente, onorevoli colleghi, signori del Governo, ciò che colpisce e fa riflettere di quanto sta emergendo nel cosiddetto “Qatargate”, non è l'insieme di responsabilità individuali, che solo la magistratura potrà accertare, ma l'ipotesi di un sistema che sta inquinando l'istituzione Parlamento europeo e il suo funzionamento. Siamo garantisti da sempre e a maggior ragione quando a essere imputato è un esponente di un altro partito, ancor di più se questo partito fa parte della minoranza parlamentare. Dunque, qui non vogliamo discutere delle accuse mosse, ci auguriamo che tutti i coinvolti siano in grado di dimostrare la loro estraneità ai fatti, ma di certo non accettiamo che le eventuali colpe che saranno accertate possano in qualche modo offuscare l'immagine del nostro Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308785",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, colleghe e colleghi, è notizia proprio di oggi che il Presidente di FederPetroli ha appena incontrato l'ambasciatore del Qatar proprio qui, in Italia, cui ha espresso la vicinanza dell'indotto dell'Oil&Gas italiano al Qatar, Paese strategico del Golfo Persico per le politiche energetiche internazionali, e che ha ringraziato per l'importante contributo che il Qatar sta portando nello sviluppo dei progetti petroliferi e nello sfruttamento dei giacimenti di gas, che vedono le maggiori aziende italiane e partecipate di Stato coinvolte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Signor Presidente, abbiamo inaugurato, nel silenzio generale, una prassi, una consuetudine, molto pericolosa, quella di utilizzare indagini della magistratura, atti giudiziari, misure cautelari, perquisizioni, sequestri come fondamenta, come basi esclusive per un atto di indirizzo al Governo. Basta leggere la mozione Foti per comprendere questo: la premessa è tutta una cornice legata ad un procedimento penale in corso. E ripeto le parole: in corso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Colleghi, quanto è avvenuto a Bruxelles dal 9 dicembre scorso si profila come uno degli scandali di maggiore dimensione che abbiano mai riguardato il Parlamento europeo. Utilizzare la parola scandalo non significa, però, almeno per Forza Italia, voler utilizzare vicende giudiziarie, che al momento sono ancora in fase di indagine, per strumentalizzazioni politiche, perché si tratta di un metodo che non ci appartiene.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato alla Presidenza del Consiglio dei ministri . Grazie, Presidente. Devo fare una precisazione sulla mozione Zanella ed altri n. 1-00085 , perché ho omesso di riferire la riformulazione del terzo punto dell'impegno. Per cui, lo ripeto da capo. Sul primo punto del dispositivo il parere è favorevole con la seguente riformulazione: “a mettere in campo la massima collaborazione alle indagini della procura federale belga e ad ogni altra azione volta alla ricostruzione di quanto accaduto”. Quindi, si chiede di espungere le parole da “anche” fino a “Paesi”. Sul secondo punto del dispositivo il parere è favorevole. Sul terzo punto del dispositivo bisogna eliminare la parte finale, a partire dalle parole “con particolare riguardo” sino alla fine del periodo, quindi, dalle parole “con particolare riguardo” fino a “incompatibilità”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307722_19",
+      "politician_name": "SCUTELLA' Elisa",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. La sconcertante vicenda cosiddetta “Qatargate” ha svelato un possibile intreccio corruttivo che riguarda una delle istituzioni più importanti - stiamo parlando di altissimi livelli, del Parlamento europeo - inficiandone così il buon nome e la credibilità. Se noi derubricassimo questa vicenda a un fatto che poteva accadere, a un fatto come un altro, commetteremmo un grave errore: quello di creare dei precedenti. Tutto quello che è successo è inaccettabile: le ipotesi sono quelle di associazione a delinquere e di corruzione. Alcuni Stati avrebbero influenzato le decisioni politiche ed economiche del Parlamento con ingenti somme di denaro e regali nei confronti di soggetti terzi che rivestono determinati ruoli all'interno del Parlamento europeo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307722",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d306349_19",
+      "politician_name": "CANDIANI Stefano",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). La ringrazio, Presidente. Facciamola breve e partiamo direttamente dagli impegni che chiediamo al Governo: La nostra mozione “impegna il Governo, nelle competenti sedi europee, a sostenere ogni iniziativa utile al contrasto della corruzione e a una necessaria regolamentazione delle attività di lobby ”. Come si può non essere d'accordo su un'affermazione così importante? Poi “impegna il Governo ad agire nelle sedi opportune e, se del caso, secondo le procedure previste dalla giurisdizione belga, al fine di costituirsi come parte civile nel procedimento penale in essere per salvaguardare e tutelare l'immagine dell'Italia nel contesto internazionale”. Forse qualcuno non se ne sarà accorto, ma noi abbiamo avuto un danno da quelle situazioni, un danno di credibilità, che deve essere ripristinata e fa bene il Parlamento a impegnare il Governo in tale direzione. Infine, la mozione “impegna il Governo ad aggiornare il Parlamento in merito agli sviluppi della vicenda di cui in premessa”, proprio per evitare strumentalizzazioni e che una situazione che ci ha creato imbarazzo possa, invece, essere esterna ed estranea rispetto al dibattito parlamentare. Ebbene, Presidente, questi non sono impegni per i quali mancare alla votazione o ai quali sottrarsi - come abbiamo sentito in qualche intervento precedente -, ma sono impegni in relazione ai quali procedere alla votazione e dare un chiaro e pieno mandato al Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "306349",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d302794_19",
+      "politician_name": "MORASSUT Roberto",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Le indagini in corso presso il Parlamento europeo su casi di corruzione di alcuni esponenti politici non hanno prodotto nel Partito Democratico alcuna incertezza nel chiedere da subito un passo indietro alle responsabilità pubbliche delle persone coinvolte e che vi fosse, da parte della magistratura, un'azione immediata per accertare i fatti ed assumere tutte le decisioni conseguenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "302794",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307457_19",
+      "politician_name": "TRANCASSINI Paolo",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, onorevoli colleghi, rappresentante del Governo, con questa mozione parliamo del più grande scandalo del Parlamento europeo, 16 perquisizioni, 8 arresti di personaggi tutti legati al mondo della sinistra, un milione e mezzo di denaro contante sequestrato; tutto questo per tacere sui diritti umani. Quindi, veramente un grandissimo scandalo: le ipotesi di reato sono corruzione, riciclaggio, associazione a delinquere. Fratelli d'Italia e il centrodestra su questo grandissimo scandalo chiedono l'attenzione del Parlamento e chiedono l'approvazione di una mozione che, Presidente, devo sinteticamente ricordare. Ne ho sentite tante in queste dichiarazioni di voto e sono molto sorpreso perché, in realtà, sfido i colleghi a trovare errato sostenere ogni iniziativa utile al contrasto della corruzione, che è il nostro primo punto. Al secondo punto si chiede di verificare, secondo la giurisdizione belga, la possibilità di costituirsi parte civile. Non si capisce perché, se lo può fare il Partito Democratico, non lo possa fare il Governo - questo è veramente un paradosso - per salvaguardare l'immagine dell'Italia (Applausi dei deputati del gruppo Fratelli d'Italia) . Poi abbiamo chiesto di essere aggiornati sul più grande scandalo della storia del Parlamento europeo. Vede, Presidente, quanto alla centralità del Parlamento, lo abbiamo detto tante volte, non è che il Parlamento è centrale quando bisogna fare inciuci di palazzo e siamo una democrazia parlamentare per quel motivo. Noi siamo sempre una democrazia parlamentare e, quindi, con buona pace del Partito Democratico, noi chiediamo di essere aggiornati su questa vicenda. Però non le nascondo che sono molto, molto sorpreso da quello che ho ascoltato, al punto di dover rivedere l'intervento che in qualche modo avevo preparato. La prima sorpresa me la dà l'onorevole Della Vedova, che ci chiede di aspettare le sentenze per costituirci parte civile. Leggermente tardiva la costituzione di parte civile dopo una sentenza (Applausi dei deputati del gruppo Fratelli d'Italia) ! Quindi, diciamo che - anche dal tono da professore - noi lo invitiamo a ripassare gli elementi fondamentali del diritto. Ma sono molto sorpreso anche dall'intervento dell'onorevole Morassut, il collega e amico Morassut, che ho trovato molto eccitato e molto accalorato; penso che sia la conseguenza della sconfitta nel derby , voglio pensare questo e non altro. È un paradosso che il Partito Democratico condanni l'accaduto - lo ha fatto anche con toni forti - e rivendichi il diritto di potersi costituire parte civile - ci sono dei passaggi forti anche nella mozione dell'allora segretario Letta - e che il primo punto della mozione del Partito Democratico, però, sia impegnarsi a non strumentalizzare. Vorrei capire, innanzitutto, che cos'è la strumentalizzazione. Ma una volta che mi venisse spiegato nei particolari, noi lezioni di questo tipo dai campioni del mondo della strumentalizzazione non ne prendiamo (Applausi dei deputati del gruppo Fratelli d'Italia) . Il Partito Democratico è ridotto ai minimi termini perché ha smesso di scrivere programmi, di parlare con la gente, di fare le campagne elettorali come vanno fatte, perché ha soltanto inseguito le strumentalizzazioni in questi anni. Voi vi siete buttati famelici sulla strage di Cutro, senza avere la capacità di condannare “senza se e senza ma” i mercanti di morte; voi strumentalizzate una festa di compleanno (Applausi dei deputati del gruppo Fratelli d'Italia) ; voi strumentalizzate la vita privata, come avete fatto con il candidato Rocca ma vi è andata malissimo; voi strumentalizzate l'abito della Presidente del Consiglio. Onorevole Morassut, ricordo un suo post memorabile sugli abiti scuri quando la Presidente del Consiglio è andata a giurare. Insomma, ce n'è davvero tanta di strumentalizzazione da parte del vostro partito, strumentalizzazione dalla quale non avete nemmeno tenuto indenni i minori, perché ricordo la pessima pagina della strumentalizzazione del viaggio a Bali della Presidente del Consiglio con la propria figlia. Allora è divertente, Presidente, come una parte politica possa fare tutto, possa strumentalizzare tutto, e un'altra parte politica no, l'altra parte politica deve tacere. Si arriva al paradosso per cui, come relatore della legge di bilancio, sono costretto a subire ore di interventi, anche notturni, perché elevare il tetto del contante a 5.000 euro significava fare sponda ai mafiosi, ai camorristi, agli spacciatori (Applausi dei deputati del gruppo Fratelli d'Italia) , e oggi troviamo esponenti del Partito Democratico con le borse piene di soldi e noi dobbiamo tacere. Noi non possiamo dire una parola, perché altrimenti strumentalizziamo la vicenda.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307457",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308829_19",
+      "politician_name": "DALLA CHIESA Rita",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie Presidente e grazie colleghi. Vorrei soltanto ricordare - ma immagino già lo sappiate - che oggi è la Giornata della memoria delle vittime di mafia, di tutte le mafie. Stamattina a Milano, in piazza Duomo, c'erano 50.000 persone e qui, a Montecitorio, continua a esserci la mostra. Tutto ciò è importantissimo, perché nel 2017 quest'Aula ha promosso questa Giornata della memoria. Credo che oggi tutti ci dobbiamo stringere alle famiglie che hanno subìto un lutto così forte (Applausi - Il Presidente si leva in piedi e, con lui, l'intera Assemblea e i membri del Governo) . Sono 1.069 le famiglie (Applausi) , sono tante e, stamattina, sono stati detti i nomi in piazza Duomo, uno per uno, nel silenzio generale . Grazie, questo è il vostro abbraccio a queste persone, grazie davvero (Generali Applausi) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308829",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, essendosi concluso solo pochi minuti fa il dibattito al Senato, sospendo a questo punto brevemente la seduta, in attesa dell'arrivo del signor Presidente del Consiglio dei ministri - che appare imminente - che procederà alla consegna del testo delle Comunicazioni in vista della riunione del Consiglio europeo del 23 e 24 marzo 2023.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "La seduta è ripresa, ma comunico all'Assemblea che la sospendo nuovamente, fino alle ore 16,15, in quanto ci è stato comunicato che il signor Premier è in arrivo e occorre qualche minuto ancora. Chiedo scusa: il signor Presidente del Consiglio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d302103_19",
+      "politician_name": "MELONI Giorgia",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Presidente del Consiglio dei ministri . La ringrazio, Presidente. Solo per consegnare il testo delle comunicazioni che ho reso questa mattina al Senato in vista della riunione del Consiglio europeo prevista per i prossimi giovedì e venerdì, sul quale, ovviamente, rimando al dibattito previsto per domani mattina. Vi ringrazio (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE)) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "302103",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Grazie, signor Presidente del Consiglio dei ministri. Prendo atto della consegna del testo delle comunicazioni da lei rese nella giornata odierna al Senato della Repubblica in vista del Consiglio europeo del 23 e 24 marzo 2023, che saranno pubblicate integralmente in calce al resoconto della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi, collega, colleghe, rappresentante del Governo, non è semplicissimo intervenire su un disegno di legge delega al Governo, che ha subìto diverse problematiche di compressione del dibattito, perché alla Camera è arrivato blindato e sono stati rifiutati tutti gli emendamenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi e colleghe, in quest'emendamento si parla di progetti di vita indipendente e autodeterminata. Noi sappiamo che la normativa sovrastante, sotto il profilo della disabilità, è rappresentata dalla Convenzione ONU per i diritti delle persone con disabilità, ratificata nel 2009, dalla Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, dalla Carta dei diritti fondamentali dell'Unione europea del 2007 ma, soprattutto, dalla nostra grande Costituzione, agli articoli 2, 3, 4, 32, 34 e 38.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Presidente, parlo a lei, ma mi voglio riferire al vicepresidente che ha or ora comunicato l'invito al ritiro degli emendamenti. Devo dire che questi emendamenti sono arrivati in Aula in un numero molto ridotto e, tuttavia, noi, rispetto a un dibattito che sarebbe stato anche molto più lungo e articolato, almeno sugli emendamenti che riteniamo centrali vogliamo dire la nostra, sapendo che abbiamo poche speranze - ciò va detto - che questo nostro intervento vada allo scopo e raggiunga l'obiettivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Rispetto alla promozione degli interventi idonei a contrastare i fenomeni della solitudine e della deprivazione relazionale delle persone anziane, indipendentemente dal luogo ove si trovino a vivere, l'emendamento prevede apposite attività di ascolto, di supporto psicologico e alla socializzazione, anche con il coinvolgimento attivo e diretto delle formazioni sociali, del volontariato, del servizio civile universale e degli enti del terzo settore.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307210_19",
+      "politician_name": "DI LAURO Carmen",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Quest'emendamento vuole sancire un principio sacrosanto, ossia il diritto della persona anziana di poter scegliere, sempre e liberamente, dove e con chi vivere e dove ricevere, in caso di necessità, le giuste cure. Succede, infatti, purtroppo, che, per le più svariate circostanze, a volte, ci si trovi costretti a cambiare abitazione, spesso con un peggioramento dell'umore, con un decadimento cognitivo e, di conseguenza, anche fisico. Di questo, si parla anche nella Carta europea dei diritti e delle responsabilità delle persone anziane, precisamente all'articolo 2, dove possiamo leggere: “Qualora nell'invecchiamento ci si trovi a dover dipendere dall'aiuto e dalla cura di altri, permane il diritto a fare le proprie scelte di vita e al rispetto della libera volontà”. Si evince, quindi, la necessità di incoraggiare le persone anziane a fare le proprie scelte, esprimere la propria volontà, i propri desideri ed opinioni. Infatti, la Carta dichiara che: “Hai diritto a che le tue opinioni desideri e scelte siano rispettate, anche se non sei in grado di comunicarle in modo facile. Hai diritto ad essere consultato e a prendere parte a qualsiasi decisione che ti riguarda. Hai diritto a scegliere il luogo di vita che si adatta ai tuoi bisogni, sia nella tua abitazione, che in una residenza di cura”. È, quindi, per noi sacrosanto ribadire questo concetto ed è quello che stiamo esprimendo attraverso quest'emendamento (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307210",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie Presidente. È stato evidenziato, praticamente da tutti i soggetti auditi, che il vulnus principale di questo provvedimento risiede proprio nell'assenza di ulteriori risorse, nella precisazione, più volte ripetuta, dell'invarianza finanziaria. La disposizione che si emenda, ad esempio, prevede che il miglioramento delle condizioni materiali e di benessere psicosociale delle famiglie degli anziani fragili o non autosufficienti e di tutti coloro i quali sono impegnati nella loro cura avvenga mediante un'allocazione più razionale ed efficace delle risorse disponibili, a legislazione vigente. Invece, con l'emendamento, prevediamo un incremento strutturale delle risorse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghe e colleghi, quest'emendamento è, dal nostro punto di vista, assolutamente qualificante, perché è vero che nel disegno di legge si parla di monitoraggio, ma non si parla sostanzialmente della valutazione dei risultati degli erogatori che rivelino gli esiti dei trattamenti forniti all'utente in termini di esiti di salute. Quello che noi proponiamo è che si vada non solo, quindi, a monitorare, ma anche a valutare, finalmente, con tecniche e metodologie rigorose, gli esiti degli interventi che vengono fatti e i soggetti che erogano. In un emendamento successivo - che mi asterrò di nuovo dall'illustrare - si chiede anche che le valutazioni le facciano direttamente gli utenti, quindi, in questo caso, gli anziani, perché quando lo Stato eroga denaro è giusto che misuri e che controlli che questo denaro sia speso virtuosamente, nell'interesse della collettività (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. In quest'emendamento, effettivamente, anche in Commissione ho colto positivamente la disponibilità della maggioranza ad adottare un ordine del giorno che rimedi al fatto che è equivoco, nella legge, che il Piano per la non autosufficienza della persona anziana possa addirittura sostituire il Piano generale della non autosufficienza, non garantendo, quindi, adeguata tutela anche ai soggetti non autosufficienti che non sono anziani. Il rilevamento di questo equivoco è stato condiviso da tutti i membri della Commissione. È stato detto che rimedieremo con un ordine del giorno - spero che questo avvenga, naturalmente - che abbiamo presentato noi, ma penso anche la stessa maggioranza. Quindi, da questo punto di vista, è un emendamento che va in quella direzione e probabilmente si trasformerà in ordine del giorno, ma ci sembrava assolutamente doveroso che rimanesse agli atti l'equivocità dell'articolo di legge.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Siamo all'articolo 3, in cui vengono dettati i criteri in materia di invecchiamento attivo, promozione dell'inclusione sociale e prevenzione della fragilità. L'emendamento propone che si tenga in considerazione quanto è emerso dalla Conferenza della Commissione economica per l'Europa delle Nazioni Unite (UNECE), che si è tenuta a Roma dal 15 al 17 giugno del 2022 e che ha riunito ben 365 partecipanti e 44 delegazioni nazionali, con oltre 30 Paesi presenti a livello ministeriale, nonché rappresentanti di organizzazioni europee internazionali, ricercatori, persone anziane e organizzazioni non governative che le rappresentano. Mi limito a riportare i tre principali obiettivi indicati dalla Dichiarazione di Roma dell'anno scorso, 2022: promuovere un invecchiamento attivo e sano per tutto il corso della vita (la cosa mi interessa!); garantire l'accesso all'assistenza a lungo termine e il sostegno ai caregiver e alle famiglie; integrare l'invecchiamento per far crescere una società adatta a tutte le età. E noi sappiamo bene quanto in Italia gli over 65 ormai rappresentino una percentuale molto importante della popolazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307210_19",
+      "politician_name": "DI LAURO Carmen",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. In quest'emendamento ritroviamo, se vogliamo, un richiamo all'articolo 3 della nostra Carta costituzionale, quando si parla di rimuovere tutti gli ostacoli che impediscono il pieno sviluppo della persona umana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307210",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Quest'emendamento vorrebbe incentivare il valore della famiglia. Si parla sempre dell'importanza della famiglia, di questo nucleo così significativo rispetto alla tenuta delle relazioni, nei contesti sociali. Allora, in tema di non autosufficienza degli anziani, si cerca di prevedere misure fiscale in favore degli ascendenti che si prendono cura di uno o più nipoti, al fine di consentire agli intermedi, ai genitori di questi ultimi, di svolgere la propria attività lavorativa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307210_19",
+      "politician_name": "DI LAURO Carmen",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Troppo spesso, ci si dimentica che una percentuale significativa di persone e dei loro familiari non autosufficienti vive in condizioni di grave disagio sociale ed economico. Molto spesso, vivono addirittura al di sotto della soglia di povertà. Quindi, in questo contesto, crediamo sia fondamentale garantire l'accesso ai percorsi di invecchiamento attivo anche agli anziani in condizioni di fragilità, non solo tramite l'erogazione di contributi, ma anche attraverso la creazione di opportunità di accesso ai vari ambiti di invecchiamento attivo, sfruttando le caratteristiche specifiche del territorio e, non da ultimo, favorendo anche lo sviluppo delle competenze digitali tra le persone anziane.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307210",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Una delle qualità significative di questo disegno di legge è il fatto finalmente di lavorare attentamente, o comunque dare una delega al Governo perché lo faccia, sulla questione dell'invecchiamento attivo, che è una grande capacità che abbiamo di misurare la resilienza delle persone anziane. Tuttavia, abbiamo il vulnus dell'assenza di finanziamenti. In questo caso, chiediamo non il denaro, ma che venga istituito un fondo per il finanziamento di progetti in favore dell'invecchiamento attivo. Lavorare e prevedere fondi e finanziamenti per l'invecchiamento attivo, significa anche investire in rigenerazione urbana attraverso misure di silver cohousing .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307210_19",
+      "politician_name": "DI LAURO Carmen",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Come abbiamo già evidenziato, in questo testo mancano riferimenti sostanziali alla figura del caregiver . È un'occasione mancata, come abbiamo detto, dal momento che sappiamo bene che durante la scorsa legislatura erano stati compiuti, invece, numerosi sforzi per arrivare a un accordo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307210",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308835_19",
+      "politician_name": "CIANI Paolo",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Anche se è piuttosto chiaro che non riusciremo ad apportare alcun miglioramento a questa norma, ci terrei a sottolineare il motivo di quest'emendamento, perché in questo comma la legge parla di offerta progressiva della possibilità di accedere a una valutazione multidimensionale e l'emendamento parlava di sistematicità di accesso alla valutazione multidimensionale per gli anziani ultraottantenni. In questi anni ci sono stati in Italia diversi progetti e programmi sperimentali sulla presa in carico, sulla valutazione e sul monitoraggio degli anziani ultraottantenni, che hanno dimostrato risultati molto importanti, non solo per il contrasto all'isolamento sociale, pensiamo ad alcuni anziani che muoiono nella dimenticanza di tanti, perché nessuno li va a cercare, ma pensiamo anche ai tanti accessi impropri ai pronto soccorso degli anziani ultraottantenni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308835",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307210_19",
+      "politician_name": "DI LAURO Carmen",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. La disposizione in esame prevede che sia disposta la possibilità, per la persona di età superiore a 80 anni e per la persona anziana affetta da patologie croniche suscettibili di aggravarsi con l'invecchiamento e che determinino il rischio di perdita dell'autonomia, di accedere a una valutazione multidisciplinare delle sue capacità e dei suoi bisogni - e questo è un passaggio molto importante - da effettuare nell'ambito dei PUA, da parte di équipe , per l'appunto, multidisciplinari, sulla base della segnalazione dei medici di medicina generale, della rete ospedaliera, dei comuni e degli ATS.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307210",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307210_19",
+      "politician_name": "DI LAURO Carmen",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Nel provvedimento in esame si parla di un riordino delle risorse. Di fatto, non sappiamo se ci saranno tagli, non sappiamo dove e come queste risorse verranno allocate. In pratica, il Governo potrà disporre direttamente di una nuova regolamentazione delle risorse finanziarie, senza passare attraverso un vero e proprio iter parlamentare. Dal momento che parliamo di risorse destinate a persone in condizioni di fragilità, visto che il rischio è che vengano intaccate e svuotate norme importanti, che hanno costituito pilastri fondamentali nella gestione della disabilità e nel contrasto delle diseguaglianze sociali, la nostra preoccupazione è estrema. Per questo, nell'emendamento, chiediamo che le risorse non vengano toccate (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307210",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. In quest'emendamento, ai fini di una più efficiente gestione delle risorse, chiediamo che si preveda l'esplicita introduzione di un unico centro di spesa e di responsabilità, nell'ambito della gestione dei livelli essenziali delle prestazioni sociali. Oltre a sapere che i centri unici di spesa garantiscono risparmi e meno sprechi, in questo caso a noi sta particolarmente a cuore, perché può rappresentare comunque un argine importante al rischio delle diseguaglianze regionali. È un aspetto significativo, a maggior ragione se si paventa il rischioso atteggiamento di voler perseguire l'autonomia differenziata che rischia davvero di aumentare fortemente le disuguaglianze nel territorio nazionale tra le varie regioni. Quindi, l'emendamento, dal punto di vista contenutistico, va anche in questa direzione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). L'emendamento propone, nell'ottica di garantire coerenza e armonizzazione tra i LEPS (livelli essenziali di prestazioni sociali) e i LEA (livelli essenziali di assistenza), che il sistema nazionale per la popolazione anziana non autosufficiente individui e coordini i livelli essenziali di erogazione degli interventi sanitari e di quelli sociali, considerati indispensabili. Si propone anche che, in relazione a ogni gruppo di livelli essenziali, siano definiti contenuti, parametri e standard che qualifichino e definiscano ogni singolo livello essenziale, tenuto conto dell'articolazione statale, regionale e locale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 72
+      }
+    },
+    {
+      "politician_id": "camera_d307210_19",
+      "politician_name": "DI LAURO Carmen",
+      "date": "2023-03-21",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con quest'emendamento si chiede di inserire nella delega l'adozione di un sistema di monitoraggio volto a garantire l'attribuzione della residenza - in realtà già obbligatoria per legge - per le persone senza fissa dimora. L'iscrizione all'anagrafe comunale è un diritto soggettivo, riconosciuto dal nostro ordinamento a tutti i cittadini che ne hanno facoltà. Ogni comune, per il tramite del proprio ufficio anagrafe, tiene il registro delle posizioni dei singoli, delle famiglie e delle convivenze e registra le posizioni relative alle persone senza dimora che hanno stabilito in quel comune il proprio domicilio. L'iscrizione all'anagrafe comunale è importantissima in quanto consente di fare richiesta anche della tessera sanitaria e, dunque, consente di accedere alle prestazioni sanitarie e sociosanitarie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0072",
+      "metadata": {
+        "id_persona": "307210",
+        "seduta": 72
+      }
+    }
+  ]
+}

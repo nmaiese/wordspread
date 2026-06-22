@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0056",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-02-22",
+    "title": "Assemblea — Seduta n. 56 del 2023-02-22",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 56
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro delle Infrastrutture e dei trasporti, il Ministro della Giustizia e il Ministro per la Pubblica amministrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308871_19",
+      "politician_name": "GHIO Valentina",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Signor Ministro, con questa interrogazione siamo a chiedere intendimenti rispetto a un tema molto importante, come quello degli aeroporti strategici e della compagnia Ita. Il Governo ha ripreso il percorso per la privatizzazione della società per azioni, rivedendo integralmente, con decreto del Presidente del Consiglio dei ministri del 22 dicembre 2022, le modalità di dismissione della partecipazione pubblica attraverso una cessione delle quote, anche di minoranza, in più fasi e prevedendo l'afflusso dei proventi ricavati dalla vendita direttamente a Ita come aumento di capitale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308871",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Signor Presidente, onorevoli colleghi, preliminarmente - lei lo saprà meglio di me - sottolineo che il dossier Ita è gestito da un altro Ministro e da un altro Ministero. È sul tavolo del Ministero dell'Economia e delle finanze, però rispondo per quanto di mia personale e limitata competenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Prendiamo atto della risposta del Governo e non possiamo non notare che, sulla vicenda Ita-Lufthansa, come già accaduto negli ultimi giorni a proposito del superbonus e del taglio delle accise, il Governo Meloni ha cambiato completamente idea rispetto alle affermazioni e alle promesse della campagna elettorale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302980_19",
+      "politician_name": "MACCANTI Elena",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Signor Ministro, il numero degli incidenti stradali in Italia ci consegna, purtroppo, un quadro drammatico e preoccupante: aumentano i morti sulle strade extraurbane, ma aumentano anche quelli sulle strade urbane. In Italia, muore un pedone ogni 14 ore. In queste prime settimane del 2023, sono già 78 i pedoni investiti mortalmente, più di 300 nel 2022, per lo più persone anziane e soggetti fragili; sono, invece, giovanissime le vite spezzate tra le lamiere durante i fine settimana: 150 dall'inizio dell'anno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302980",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Grazie per l'interrogazione, a cui rispondo da Ministro delle Infrastrutture e dei trasporti e da padre. Ovviamente non sto ad aggiungere dati a dati sulle mortalità fra pedoni, ciclisti, utenti del monopattino, utenti incolpevoli, che sono più della maggioranza di coloro che perdono la vita per colpa della distrazione - stando buoni - altrui. Cosa stiamo facendo? Innanzitutto, stiamo lavorando su due fronti: sul fronte educazione, educazione stradale vera, stiamo lavorando con il Ministro dell'Istruzione per portare l'educazione stradale in maniera costante sui banchi degli studenti, dando anche un punteggio premiale sulla patente al conseguimento della stessa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302980_19",
+      "politician_name": "MACCANTI Elena",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Signor Ministro, a nome del gruppo della Lega, ma anch'io da mamma, da donna, da figlia, la ringrazio davvero per l'impegno che sta attuando, ripeto, sin dall'inizio del suo mandato per fermare questa strage di vite umane. Saremo al suo fianco, la sosterremo in ogni iniziativa che vorrà intraprendere e la sosterremo, soprattutto, in quello che ha annunciato: una riforma finalmente organica del codice della strada, perché, nella precedente legislatura - il gruppo della Lega lo ha denunciato e combattuto con forza -, il Parlamento ha legiferato in modo decisamente schizofrenico su questo tema, con interventi spot , sino a meritare, addirittura, il richiamo del Capo dello Stato. Penso, ad esempio, all'equiparazione tra monopattini e biciclette, introdotta con un blitz in manovra finanziaria durante il Governo giallo-rosso, penso alle cosiddette case avanzate, al bonus dei monopattini introdotto nel cosiddetto decreto Rilancio. Insomma, una vera e propria giungla di norme, per lo più, dobbiamo dirlo, ideologiche, che, in assenza di regole certe, ha trasformato le nostre città in un far west . Perché - lo dico pensando ad alcuni sindaci di alcune grandi città italiane - disegnare una striscia sull'asfalto non significa certo realizzare una pista ciclabile (Applausi dei deputati del gruppo Lega-Salvini Premier) , non significa incentivare la mobilità dolce, ma significa soltanto mettere a repentaglio l'incolumità di pedoni, di automobilisti e, soprattutto, di ciclisti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302980",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308869_19",
+      "politician_name": "MARI Francesco",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Questa interrogazione riguarda un'altra grande, grave forma di precarietà, quella abitativa, di cui si parla poco, ma che, soprattutto, sembra scomparsa dai radar del Governo, visto che nella legge di bilancio il Governo ha azzerato le risorse del Fondo nazionale per il sostegno all'accesso alle abitazioni e il Fondo destinato agli inquilini morosi incolpevoli, che erano, in realtà, gli unici ammortizzatori sociali esistenti su questa materia e alleviavano una condizione di difficoltà che riguarda migliaia e migliaia di famiglie. Ricordo solamente che, ogni anno, partecipano ai bandi comunali milioni di cittadini italiani con redditi bassi ed è assolutamente prevedibile che, visto che questo dato è in crescita, noi avremo anche dal punto di vista degli sfratti, dati in crescita già nella verifica del 2022.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308869",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Grazie. Mi è assolutamente chiaro il tema dell'emergenza casa, tanto che dal primo mese di insediamento stiamo lavorando perché, nell'arco della legislatura, mi auguro con il contributo dei deputati e dei senatori, abbia vita un nuovo piano casa a livello nazionale. Non è più con un intervento sporadico, una tantum , o con bonus che si può risolvere un problema che, come lei ricordava, riguarda milioni di famiglie. Milano e Roma, per citare due grandi città, devono poter essere vissute non solo da chi se lo può permettere, ma anche da chi sceglie, per lavoro, per studio o per necessità, di vivere in queste città.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308869_19",
+      "politician_name": "MARI Francesco",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Ministro, mentre mettete fino all'approccio una tantum , ci sono 40.000 famiglie con la sentenza di sfratto. Questo è il dato che abbiamo di fronte. Togliere le risorse per tutto il 2023, nell'attesa di un piano, è una scelta fortissima e molto dura. Sembra quasi che consideriate fannulloni anche quelli che non possono comprare una casa o quelli che non sono capaci di trovare un lavoro. Siamo di fronte ad un dato molto preoccupante dal punto di vista sociale e lo dobbiamo leggere anche in combinato disposto con la fine del reddito di cittadinanza, perché gli occupabili che perderanno il reddito nel corso di quest'anno perderanno anche quel diritto all'integrazione al contributo alloggiativo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308869",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308797_19",
+      "politician_name": "SEMENZATO Martina",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Ministro, i 25 miliardi di euro destinati dal PNRR allo sviluppo delle infrastrutture per l'alta velocità e l'alta capacità ferroviaria sono indubbiamente una grande opportunità di rilancio per tutto il Paese. Noi crediamo nelle grandi opere e che lo sviluppo delle infrastrutture sia fondamentale per unire l'Italia dal Nord al Sud, creando posti di lavoro e opportunità di crescita economica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308797",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Grazie. Vorrei innanzitutto ricordare che il Ministero delle Infrastrutture e dei trasporti è responsabile, nell'ambito PNRR, di 57 tra traguardi e obiettivi, di cui 47 investimenti e 10 riforme. Per quanto riguarda gli investimenti a cui lei faceva cenno in ambito ferroviario, RFI rappresenta il principale soggetto attuatore di questi investimenti con circa 24 miliardi di euro: alta velocità al Sud, alta velocità al Nord, connessioni diagonali, potenziamento linee regionali, piano stazioni, sicurezza ferroviaria e altro. Tutti questi investimenti, ovviamente, richiedono procedure europee di gara, in aderenza al codice dei contratti pubblici. Nel secondo semestre 2022, la società RFI ha bandito 44 gare per un valore complessivo di oltre 10 miliardi di euro. Ad oggi risultano aggiudicate 10 gare, per complessivi 3 miliardi di euro, e 2 di queste gare, per complessivi 1,6 miliardi, sono state aggiudicate a raggruppamenti temporanei di impresa, cui partecipa la società Webuild Italia. Nel 2023 RFI dovrà svolgere ulteriori 55 procedure di affidamento per le opere PNRR per altri 3,8 miliardi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d300447_19",
+      "politician_name": "LUPI Maurizio",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente, e grazie, signor Ministro. Lei sa quanto l'intera coalizione di centrodestra ed il gruppo Noi Moderati siano sensibili a questi temi. Come ha appena ricordato, l'investimento in infrastrutture ha un doppio valore: quello di superare un gap fondamentale nel collegamento tra i territori per rendere competitiva la nostra impresa e quello di creare valore aggiunto, come lei ha ricordato, dando lavoro e producendo ricchezza. E' inoltre fondamentale l'impostazione che lei ha dato - che condividiamo - ed era lo scopo dell'interrogazione che le abbiamo rivolto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "300447",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308762_19",
+      "politician_name": "BENVENUTI GOSTOLI Stefano Maria",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, numerosi e drammatici incidenti verificatisi sulla A14 rendono sempre più urgente la messa in sicurezza del tratto autostradale tra Abruzzo e Marche. Proprio a causa dei mortali incidenti, il 2022 è stato battezzato l'anno nero della A14 e, purtroppo, il 2023 non è partito meglio.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308762",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Grazie. Come lei ricordava, abbiamo subito convocato al Ministero, lo scorso 9 febbraio, i presidenti delle regioni e la società Autostrade per l'Italia, perché stiamo lavorando per aprire cantieri, però vogliamo avere strade evidentemente moderne e sicure. È già in calendario, per settimana prossima, il 27 febbraio, il tavolo sicurezza permanente A14. Gli obiettivi sono: diminuire fisicamente l'impatto dei cantieri attraverso l'incremento delle lavorazioni, anche in orario notturno; ridurre gli scambi di carreggiata; differire gli interventi per evitare il congestionamento della rete; incentivare l'opera di sensibilizzazione degli automobilisti sulla sicurezza stradale; migliorare la segnaletica di tutti i cantieri aperti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308805_19",
+      "politician_name": "BALDELLI Antonio",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Illustrissimo, signor Presidente, impiegherò solamente pochi istanti del tempo che mi è stato concesso, in quanto il Ministro Salvini è stato pienamente esaustivo e lo ringrazio a nome mio e a nome delle comunità del territorio da cui provengo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308805",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Signor Ministro Nordio, noi la interroghiamo su un tema di cui oggi non si parla molto. Si parla di tutte altre questioni, ma questo, secondo noi, è un tema centrale nello svolgimento del suo ruolo di Guardasigilli.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d301541_19",
+      "politician_name": "COSTA Enrico",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Signor Ministro, lei ha pronunciato la parola “correttivi”; non vorrei che il termine correttivi si traducesse in “rallentamenti”, soprattutto perché - lei lo ha detto - ha affidato la questione all'ufficio legislativo del Ministero e l'ufficio legislativo del Ministero, per la quasi totalità, è composto da magistrati fuori ruolo, ossia tutti soggetti che dovrebbero essere ridotti, colpiti da questa riforma del CSM. Ora, il fatto che vogliano autodichiararsi cessati, come da norma di legge lo vedo un po' dubbio. Nell'intervento che ho fatto in occasione delle sue dichiarazioni programmatiche, avevo detto: signor Ministro, lei avrà molti che cercheranno di rallentare il suo operato; nella sua maggioranza, e lo abbiamo visto, l'ANM, e lo abbiamo visto, la struttura ministeriale, e lo vedremo, perché, se si continueranno ad assumere fuori ruolo nel Ministero - come si sta facendo, basta consultare il bollettino ufficiale del Ministero della Giustizia -, è evidente che questi rallenteranno, poiché loro risponderanno ad una logica diversa; abbiamo nella pancia dell'Esecutivo persone che fanno parte dell'ordine giudiziario, è una sorta di contraddizione in termini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "301541",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Signor Ministro, lo scorso 15 febbraio lei, qui in Aula, ha affermato che il documento contenente le conversazioni tra il Cospito e i due boss di camorra e 'ndrangheta , conversazioni svelate dall'onorevole Donzelli, non è atto coperto da segreto. Ma, signor Ministro, l'articolo 3 del decreto ministeriale n. 115 del 1996 inserisce tra i documenti che non sono accessibili tutte le relazioni di servizio, le informazioni, gli altri atti e documenti la cui conoscenza pregiudichi l'ordine e la sicurezza degli istituti penitenziari e l'attività di prevenzione e contrasto della criminalità organizzata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia . Grazie, signor Presidente. Grazie a lei, onorevole, per la domanda. Breve riassunto: ho già riferito a questa onorevolissima Assemblea la natura dell'atto che è stato oggetto di contestazione. Aggiungo che la classificazione della natura - segreta, riservata, riservatissima o altro - per legge appartiene all'autorità che forma il documento e, quindi, spetta al Ministero, come abbiamo fatto, definire la qualifica degli atti dei quali si sta parlando. Su questi abbiamo già risposto e la rilevata apposizione della dicitura “limitata divulgazione”, di cui si è parlato l'altra volta, rappresenta una formulazione che, di per sé, è inidonea a connotare il documento che è stato trasmesso come atto classificato; quindi, è una mera prassi amministrativa interna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308933_19",
+      "politician_name": "CAFIERO DE RAHO Federico",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, grazie. Certamente, la collega non ha detto questo, non certamente chi viene colto da informativa deve essere revocato, ma deve essere revocato chi tiene un comportamento scorretto, che viola la legge. E ci meravigliamo, per la verità, Ministro che lei dica che l'atto viene, in concreto, di volta in volta, come dire catalogato nell'ambito di una certa categoria. Esiste la categoria in astratto e l'atto va ricondotto a quella categoria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308933",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302867_19",
+      "politician_name": "BERGAMINI Deborah",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Signor rappresentante del Governo, la Costituzione italiana prevede che i concorsi siano lo strumento per accedere all'impiego pubblico salvaguardando il principio di imparzialità, ma la storia del nostro Paese ci dice che non sempre questo è avvenuto. Anzi, i concorsi hanno fama di essere procedure lunghe, complesse e farraginose, spesso disordinate, spesso molto parziali. Questo produce, fra i tanti effetti, anche quello di scoraggiare i giovani, le professionalità giovani dall'avvicinarsi all'impiego pubblico come un'opportunità lavorativa. Ciò avviene in un momento in cui la nostra macchina pubblica è alle prese con il grande sforzo di digitalizzare i servizi. Occorrerebbero, quindi, competenze, preparazioni e professionalità nuove e giovani. Chiedo, dunque, al rappresentante del Governo che cosa l'Esecutivo intenda fare, quali azioni intenda intraprendere per rendere i concorsi più efficienti, più brevi e più meritocratici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302867",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307492_19",
+      "politician_name": "ZANGRILLO Paolo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per la Pubblica amministrazione . Grazie, Presidente. Onorevoli deputati, ringrazio l'onorevole interrogante per l'opportunità che mi viene data di illustrare le azioni che intendiamo intraprendere per rendere le procedure concorsuali più rapide e attrattive per i giovani. Consentitemi, intanto, di rappresentare alcuni dati. Dopo il blocco del turnover e l'uscita dalla pandemia, la ripresa delle attività concorsuali per l'accesso alla pubblica amministrazione ha segnato, proprio grazie alla digitalizzazione delle procedure, una durata media dei concorsi che è passata dai 786 giorni delle procedure bandite nel 2019 ai 189 giorni, nel 2021, fino ai 169 giorni, nel 2022. Quindi, siamo passati, sostanzialmente, dall'essere il fanalino di coda in Europa ad un allineamento con la miglior media europea. A queste offerte di lavoro da parte delle amministrazioni centrali, stando ai dati che sono in nostro possesso, è stata rilevata una media di 102 candidature per ogni posto assegnato. Questo, ripeto, per le amministrazioni centrali. Per quanto attiene agli enti locali e alle amministrazioni diverse da quelle centrali il rapporto è pari a 84 candidature per ogni posto messo a concorso. Per soddisfare il fisiologico turnover della pubblica amministrazione, ricordo che vi abbiamo inserito 157.000 persone nel 2022 e quasi altrettante, cioè 156.400, intendiamo inserirne nell'anno in corso. Questi dati dimostrano quanto sia necessario lo svolgimento di procedure concorsuali organizzate in modo efficiente e in linea con la durata dei concorsi già svolti fino ad oggi, ancorché con procedure semplificate. È proprio in questa prospettiva di efficienza che si colloca l'utilizzo del portale inPA, che è attivo dal gennaio di quest'anno per le amministrazioni centrali e lo sarà, dal mese di giugno, anche per gli enti territoriali. È un portale nel quale sono pubblicati, in modalità digitale, i bandi dei concorsi, le comunicazioni relative alle diverse fasi concorsuali, gli avvisi di mobilità e anche la selezione di professionisti ed esperti. Proprio sull'utilizzo di questo portale e, più in generale, sullo svolgimento delle procedure concorsuali è in definizione lo schema di regolamento di modifica della disciplina dei concorsi, in merito al quale abbiamo avviato una fattiva collaborazione con il Consiglio di Stato e saranno chiamate ad esprimersi anche le Commissioni parlamentari competenti. La digitalizzazione delle procedure istruttorie di svolgimento delle prove concorsuali è l'unica strada che ci consentirà di valorizzare il capitale umano e di rendere la pubblica amministrazione davvero attrattiva per le giovani generazioni. Voglio rassicurare che su questa materia è all'esame dei miei uffici un insieme di proposte finalizzate a ridurre i tempi morti delle procedure concorsuali, per coniugare trasparenza e imparzialità, che, come sapete, sono criteri che devono connotare l'operato della pubblica amministrazione, con tempi certi da dare ai candidati che intendono misurarsi con i concorsi nel pubblico impiego. Si tratta di un intervento prioritario sul quale intendo intervenire con urgenza, garantendo a tal fine che questo percorso consenta di condividere un dialogo con il Parlamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307492",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302867_19",
+      "politician_name": "BERGAMINI Deborah",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Ringrazio il rappresentante del Governo per una risposta che ci fa senz'altro ben sperare in termini di un miglioramento del rapporto complessivo fra amministrazione pubblica e cittadini italiani. Sono due gli elementi che spiccano nella risposta del Ministro Zangrillo. Il primo è che il Ministro Zangrillo ci dice che va avanti rapidamente il processo di digitalizzazione di tutti i servizi pubblici e, in effetti, anche i concorsi sono un servizio pubblico. Sottolineo sempre la raccomandazione che questo processo di digitalizzazione sia comprensivo anche delle generazioni meno giovani, dunque con minore dimestichezza con i mezzi digitali, che non devono assolutamente restare indietro. Il secondo elemento è che c'è una strategia chiara del Governo, una vera e propria priorità, per fare un salto culturale. Per molti, ancora oggi, l'impiego pubblico equivale al posto fisso ma questa logica non può funzionare e, soprattutto, non può funzionare più in questi tempi. Occorrono dunque un turnover importante e nuove competenze, occorre sviluppare meccanismi di motivazione e anche di senso di appartenenza che consentano all'amministrazione pubblica un forte recupero di efficienza e di efficacia e che aiutino a riscrivere un patto tra servizio pubblico e cittadini che funzioni e che faccia sentire tutelati questi ultimi (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302867",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Solo per formulare una richiesta in quest'Aula e dirci la verità. Per comprendere quanto, secondo noi, inadeguato e improvvisato sia stato l'intervento del Governo sul superbonus aiuterebbe l'esempio di Roma. Nella capitale si fermerà, infatti, la riqualificazione di alcune migliaia di alloggi di edilizia popolare nelle vituperate periferie di Tor Bella Monaca, Spinaceto, Casal Bruciato e in molte altre ancora. Come avrà sentito, il Governo vuole procedere a una profonda revisione del superbonus che, in buona sostanza, porterà vantaggi solo a chi può permettersi di anticipare i soldi per le ristrutturazioni; per gli altri, zero. Inoltre, le modifiche non tengono conto della direttiva sulla casa green , che esiste e che pone un grande tema nazionale che il Governo pare rimuovere. Proprio su questo strumento, sul superbonus, su quello che si sta dicendo e sui numeri, forse, sarebbe bene che questa discussione, invece di avvenire sulle pagine dei giornali e nelle dirette TV, fosse affrontato in quest'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d306398_19",
+      "politician_name": "FORNARO Federico",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Per associarmi alla richiesta del collega Grimaldi e anche, approfittando della sua presenza, per cogliere proprio questo ragionamento, questa riflessione su questi temi, che sono assolutamente centrali e, troppo spesso, poi, si finisce per parlarne fuori da quest'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "306398",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Sarà mia cura informare il Ministro per i rapporti con il Parlamento della richiesta di informativa urgente da voi rivoltami, che peraltro fa seguito anche ad un'analoga richiesta effettuata nella seduta di ieri da parte del MoVimento 5 Stelle.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 73, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge, già approvato dal Senato, n. 888: Conversione in legge, con modificazioni, del decreto-legge 29 dicembre 2022, n. 198, recante disposizioni urgenti in materia di termini legislativi. Proroga di termini per l'esercizio di deleghe legislative.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307902_19",
+      "politician_name": "STEGER Dieter",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Presidente, colleghe e colleghi, ancora una volta siamo chiamati a votare un decreto Milleproroghe, uno strumento legislativo che dovrebbe, semmai, essere utilizzato solo in via eccezionale. È un provvedimento che, in un ordinamento maturo e completo, non dovrebbe neanche esistere, invece in Italia è diventato uno strumento indispensabile per dare stabilità a norme importanti in tutti i settori vitali del Paese, dalla sanità al sociale, dalla scuola alla giustizia e all'economia. Tutto, per l'incapacità di Parlamento, Governo e anche pubblica amministrazione di garantire questa stabilità. E quindi, in assenza di stabilizzazione e di programmazione normativa, il Milleproroghe corre annualmente in soccorso a prorogare i termini di vigenza di disposizioni senza le quali si paralizzerebbero interi comparti pubblici e il funzionamento di settori essenziali per imprese, lavoratori e cittadini. E noi dobbiamo votare questo provvedimento senza poter minimamente incidere per migliorarlo. Per l'ennesima volta, in questo Parlamento, si impone il mono al bicameralismo. Condanniamo questo modo di procedere e ricordiamo in quest'Aula le parole pronunciate dal Presidente della Repubblica dopo l'approvazione di una legge di bilancio di alcuni anni fa, quando invitava tutte le forze politiche a rispettare il ruolo e le prerogative del Parlamento. Un Parlamento che, fino a prova contraria, è composto da due rami con eguali diritti e doveri. Un procedimento legislativo non può dirsi di certo soddisfacente, se tutte le volte una delle due Camere è chiamata a ratificare con la fiducia quello che l'altra, con grande fatica, ha approvato in prima lettura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307902",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, Presidente. Io ruberò pochissimo tempo a questa affollatissima Aula per annunciare il voto favorevole del nostro gruppo Noi Moderati alla fiducia richiesta dal Governo su questo provvedimento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308810_19",
+      "politician_name": "GRIMALDI Marco",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Colleghe e colleghi, ancora un rinvio, di un anno, prima della messa a gara rispetto ai termini stabiliti dal DL Concorrenza e pretesi, tra l'altro, dalla Commissione europea per garantire proprio quel meccanismo cardine dell'Unione neoliberale, la concorrenza. Scostumati, ma alla luce del sole. Beh, con 7 imprenditori candidati alle ultime elezioni, il fondatore del Papeete a Strasburgo, una bella pattuglia di lobbisti nelle due Camere, che chiameremo per i giornalisti il “ Twiga team ”, la destra al Governo si sente liberista in autunno, in inverno e primavera, però difende i beni comuni d'estate, quando si parla, di fatto, dei suoi amici. Il fatto è precisamente che quei beni non sono comuni, non ora, mentre dovrebbero esserlo e a venire difeso non è il made in Italy , ma una categoria potente, quanto molto piccola. La Ministra del Turismo, Daniela Santanche', crede che perdere una delega e cedere le sue quote del Twiga Beach di Forte dei Marmi all'amico Flavio Briatore e al compagno Dimitri Kunz d'Asburgo Lorena sia sufficiente per sgomberare il campo da conflitti di interesse. Perciò, eccola lì, in prima fila, a insistere per ulteriori proroghe per le concessioni balneari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308810",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d306064_19",
+      "politician_name": "SOTTANELLI Giulio Cesare",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Onorevoli colleghi, membri dell'Esecutivo, il Governo ha posto la fiducia su uno strumento legislativo, cosiddetto Milleproroghe, che dovrebbe - cito la Corte costituzionale - “intervenire con urgenza sulla scadenza di termini il cui decorso sarebbe dannoso per interessi ritenuti rilevanti dal Governo e dal Parlamento”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "306064",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d302867_19",
+      "politician_name": "BERGAMINI Deborah",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Rappresentante del Governo, colleghi, prima di entrare nel merito di questo provvedimento, intendo fare un chiarimento relativo al collocamento del Presidente Berlusconi e di Forza Italia in politica estera, fin dall'inizio della nostra storia politica che ammonta ormai a quasi trent'anni fa. Collocamento che, con grande linearità e grande coerenza, è sempre stato nel campo dell'Occidente, dell'Europa, del solido filo-atlantismo, della difesa dello Stato di diritto e delle regole del diritto internazionale (Applausi dei deputati del gruppo Forza Italia-Berlusconi Presidente-PPE) ; è sempre stato nel campo dell'intelligenza, senza condizioni e senza ripensamenti. La nostra storia e i provvedimenti che abbiamo votato, anche in tempi molto recenti, parlano per noi. C'è molto chiaro chi è l'aggredito e chi è l'aggressore nella carneficina tra Ucraina e Russia. Ci sono molto chiari le ragioni e i torti di questa guerra. È per questo che con dispiacere sono costretta a fare presente che non ci può essere spazio per fraintendere il sincero auspicio a fare tutto il possibile a favore della pace (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE e Fratelli d'Italia) , con l'inaccettabile sostegno delle ragioni dell'aggressore. Non ci difetta la lucidità per comprendere la differenza fra questi due aspetti e siamo certi che non difetti neppure al Presidente Zelensky. Comunque, l'abbiamo voluta chiarire un'altra volta (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE e Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "302867",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Signora Presidente, colleghe e colleghi deputati, rappresentante del Governo. Presidente, mi rivolgo subito a lei e le chiedo: potrò parlare, oggi, senza essere interrotto dalla maggioranza o subirò ancora tentativi di censura (Applausi dei deputati del gruppo MoVimento 5 Stelle) ? E, allora, se mi è concesso di parlare, lo dico subito: siamo indisponibili a votare la fiducia sul decreto-legge Milleproroghe. Occorre il confronto parlamentare. Dobbiamo poter discutere, emendare, migliorare i provvedimenti e ciò non solo perché questo monocameralismo di fatto non è conforme alla Costituzione, ma anche perché siamo qui per lavorare, non per percepire stipendi (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308841_19",
+      "politician_name": "COLUCCI Alfonso",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Fate chiacchiere da bar (Applausi dei deputati del gruppo MoVimento 5 Stelle) ! Ciò è drammatico, perché non siamo al bar, siamo in Parlamento. E, poi, manca la necessaria riflessione sulla politica di coesione 2014-2020. Occorre la proroga di almeno 6 mesi per definire e portare a gara tutti i progetti inseriti nel Piano di sviluppo e coesione, con intere opere già pronte a partire, che dovranno restare ferme in attesa della ricognizione e dell'approvazione dei Piani di sviluppo e coesione 2021-2027, Piani, ad oggi, non completati per l'inerzia del Ministero competente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308841",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308918_19",
+      "politician_name": "OTTAVIANI Nicola",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, signor Presidente. Credo che, ancora una volta, il dibattito che si registra all'interno della nostra Aula parlamentare debba essere necessariamente adattato e alimentato a seconda degli input che provengono nel corso della discussione e delle dichiarazioni di voto. Ho ascoltato alcuni dei gruppi di minoranza - perché mi piace definirla minoranza e non opposizione precostituita e preconcetta, perlomeno questo è il nostro approccio alla democrazia parlamentare - ricordare come questa, quella del cosiddetto Milleproroghe, sia un'esperienza che sembrerebbe promanare esclusivamente dal centrodestra. Voglio ricordare, per esegesi e, quindi, anche per dare un minimo di certezza alla storia di questo dibattito parlamentare, che la prima ipotesi, la prima vera e propria legge di conversione del decreto-legge Milleproroghe risale addirittura al 2001 e di certo non è attribuibile a quella che poteva essere un'unica maggioranza politica. Non solo, per ironia della sorte - mi riferisco a quando, in precedenza, il gruppo MoVimento 5 Stelle faceva riferimento all'autonomia differenziata - è proprio nel 2001 che viene inserita all'interno della nostra Costituzione, all'articolo 17, lettera m) , la riforma di quella autonomia differenziata che oggi vogliono demonizzare: nel 2001 (Applausi dei deputati del gruppo Lega-Salvini Premier) . Non solo, pensate un po' la legge del contrappasso a che cosa ci porta: quell'inserimento, nel 2001, fu soltanto la fine di un percorso iniziato nel 1999, con la bicamerale di un signore che si chiamava D'Alema e che non era iscritto al centrodestra, essendo il Presidente del Consiglio (Applausi dei deputati del gruppo Lega-Salvini Premier) . A questa sorta di ennesimo approccio del doppiogiochismo e del doppiopesismo, tale per cui, se le riforme le fa una parte, sono riforme super partes e, se sono proposte dal centrodestra, diventano riforme di basso profilo, non crede più nessuno. Stiamo parlando di una desuetudine sotto il punto di vista della ricostruzione delle novità del dibattito parlamentare che di certo appassionano pochi. Probabilmente, ciò che dà fastidio è che, ancora una volta, è stato utilizzato da parte del centrodestra uno strumento che può anche essere improprio, quello del Milleproroghe, per arrivare a centrare obiettivi che erano inseriti all'interno del programma di Governo su cui si sono espressi i cittadini, non quattro anni fa, ma appena quattro mesi fa. A che cosa ci stiamo riferendo? Alla proroga dello scorrimento delle graduatorie delle Forze dell'ordine, 2.000 unità. Però, se si parla di sicurezza, quest'ultima non è un concetto filosofico o epicureo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308918",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d306412_19",
+      "politician_name": "GUERRA Maria Cecilia",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Questo Milleproroghe è in primo luogo un'occasione mancata. Poteva essere utilizzato per iniziare a sciogliere alcuni dei tanti nodi lasciati aperti da una legge di bilancio assolutamente inadeguata alla situazione, ma non è stato così.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "306412",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308787_19",
+      "politician_name": "GIORGIANNI Carmen Letizia",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Onorevole Presidente, colleghi, nella discussione generale di ieri ho già toccato svariati temi che richiamerò per sommi capi nel seguito. Vorrei però, innanzitutto, esprimere un'osservazione - anche se non lo vedo in Aula - che ho appuntato a proposito delle considerazioni proposte ieri dal collega Giachetti che lamentava un monocameralismo di fatto, recriminando sull'occasione persa con la riforma costituzionale respinta nel 2016 dagli italiani. Senza pretendere di esprimere, qui, una posizione organica e ufficiale sul miglior disegno istituzionale, a nome di Fratelli d'Italia, vorrei attenuare il rimpianto un po' distratto di Giachetti, facendo notare che con 2 Camere, quand'anche una sola di esse per volta riesca ad incidere attivamente sui provvedimenti, a parità di tempo, è possibile, comunque, dedicare il doppio dello studio e dell'attenzione all'esame dei provvedimenti rispetto a quanto sarebbe possibile con una sola Camera dotata di piena facoltà legislativa (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308787",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che, consistendo il disegno di legge di un solo articolo, non si procederà alla votazione dell'articolo unico, ma, dopo l'esame degli ordini del giorno, si procederà direttamente alla votazione finale, a norma dell'articolo 87, comma 5, del Regolamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vorrei richiamare l'attenzione di tutti su questo ordine del giorno, a mia prima firma, che riguarda le norme sulla magistratura onoraria introdotte con la legge di bilancio per il 2022. In quella legge di bilancio abbiamo stabilito che i magistrati onorari, in servizio alla data di entrata in vigore della legge Orlando, possano essere confermati a domanda fino al compimento del settantesimo anno di età e, ai fini della conferma, dovranno accedere a procedure valutative da tenersi con cadenza annuale. La prima procedura valutativa, che riguarda coloro che hanno maturato già oltre 16 anni di servizio, è già stata avviata e addirittura sono già pervenute le prime comunicazioni di conferma all'esito della procedura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307370_19",
+      "politician_name": "GIULIANO Carla",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo sull'ordine del giorno n. 9/888/82 da me presentato relativo ad una questione che riguarda moltissimi uffici giudiziari e che potrebbe in futuro paralizzarne l'attività. In molti uffici giudiziari mancano i dirigenti generali di prima fascia: mancano oppure sono in procinto di andare in pensione, maturando i requisiti di anzianità contributiva o di anzianità anagrafica, o entrambi, nel corso del 2023. La loro assenza comporta la paralisi totale di tutte le attività amministrative, di gestione amministrativa e contabile degli uffici giudiziari. Vi sono alcuni uffici giudiziari, tra cui quelli del mio circondario, il tribunale di Foggia, che addirittura hanno un solo dirigente amministrativo per entrambi gli uffici, per la procura presso il tribunale, cioè la procura della Repubblica, e per il tribunale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307370",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307478_19",
+      "politician_name": "RUFFINO Daniela",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Nell'ordine del giorno mio e del nostro gruppo parliamo della norma che concede ulteriori due mesi agli enti locali per l'aggiudicazione dei lavori e per il rispetto degli obiettivi del PNRR per la messa in sicurezza, la ristrutturazione, la riqualificazione o anche la costruzione di edifici di proprietà comunale, destinati ad asili nido, scuole dell'infanzia e, comunque, servizi alla famiglia. Il Piano nazionale di ripresa e resilienza si pone inoltre degli obiettivi. Ad esempio, importantissimi sono l'incremento dell'offerta formativa, il contrasto alla dispersione scolastica e una migliore conciliazione dei tempi lavorativi per le famiglie che incentivi l'occupazione femminile.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307478",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307360_19",
+      "politician_name": "SASSO Rossano",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. L'ordine del giorno, che sto per illustrare in quest'Aula, riguarda la nostra comunità scolastica. Riguarda la comunità scolastica tutta, sia nella componente studentesca sia in quella dei lavoratori, e, nello specifico, la sicurezza nell'ambiente di lavoro e di apprendimento e la relativa copertura assicurativa, che, ahimè, ancora oggi è penalizzata da un vuoto normativo che il Governo deve assolutamente colmare. L'assicurazione contro gli infortuni e le malattie professionali dei docenti e degli studenti, infatti, è ancora regolata da un decreto del Presidente della Repubblica, che risale a circa sessant'anni fa, al 1965, che disciplina esperienze ormai anacronistiche. Questa disposizione non è aggiornata alle nuove esigenze, alle molteplici attività programmate dalle scuole del sistema nazionale di istruzione e formazione, alle attività della formazione professionale e degli ITS Academy. La frequenza di drammatici eventi, in cui alcuni nostri ragazzi hanno perso la vita durante i tirocini formativi e i percorsi per le competenze trasversali e l'orientamento ci impongono di garantire che la tutela assicurativa sia la più aggiornata, sicura e più ampia possibile. Da legislatori e soprattutto da genitori, siamo obbligati a rendere la scuola preventivamente un luogo più sicuro, sia in classe sia dove avviene l'alternanza scuola-lavoro. Nella malaugurata - davvero malaugurata - ipotesi di ulteriori incidenti e disgrazie per un nostro studente, non possiamo più tollerare che possa accadere ciò che è avvenuto alla famiglia di Giuliano, un giovane studente morto lo scorso 16 settembre, durante l'alternanza scuola-lavoro, ovvero non possiamo più tollerare che lo Stato - lo Stato! - non abbia corrisposto alla famiglia un risarcimento, perché Giuliano non era inquadrato come lavoratore. Questo lo trovo indegno. E anche se nessun risarcimento - tra l'altro neanche richiesto dai genitori di Giuliano - potrà mai cancellare il dolore per una perdita simile, in uno Stato civile questo vuoto normativo non può più essere tollerato. La norma, infatti, Presidente, va assolutamente cambiata e, come Lega, insieme al Ministro dell'Istruzione del merito e al Ministro del Lavoro, siamo impegnati in questo senso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307360",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307851_19",
+      "politician_name": "NISINI Tiziana",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Il mio ordine del giorno riguarda il lavoro in somministrazione. Di fatto, riguarda le agenzie del lavoro, che da più parti vengono indicate come quel comparto che può aiutare anche lo Stato e il Ministero del Lavoro nelle politiche attive, quelle di cui il nostro Paese ha bisogno.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307851",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308840_19",
+      "politician_name": "CASO Antonio",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Con questo ordine del giorno non voglio tanto soffermarmi sulla proroga delle concessioni balneari contenuta in questo atto, e neanche sui ritardi dell'applicazione della direttiva Bolkestein, né, tanto meno, sul fatto che avete deciso, di fatto, di ignorare la pronuncia del Consiglio di Stato, come anche i rischi e le sanzioni da Bruxelles. E non voglio neanche sottolineare quanto - è questo è noto a tutti - sono irrisori i ricavi dai canoni demaniali rispetto, invece, agli enormi profitti generati dalle attività e, quindi, nemmeno parlare dei mancati incassi per lo Stato. Non voglio neanche ricordare che, di fatto, le numerose proroghe disposte negli anni hanno portato a un risultato abbastanza chiaro, ossia una silenziosa, ma costante privatizzazione di fatto delle spiagge. La situazione è complessa, lo sappiamo tutti, occorre attenzione, ma quello che, secondo me, occorre principalmente è una nuova visione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308840",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308902_19",
+      "politician_name": "BARBAGALLO Anthony Emanuele",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Con l'ordine del giorno n. 9/888/29 chiediamo al Governo di rimuovere gli ostacoli che in questo momento stanno impedendo concretamente al Ministero delle Infrastrutture e dei trasporti di erogare il cosiddetto mare bonus . Nonostante la misura sia stata finanziata fino al 2026, in questo momento ci sono due ostacoli: il primo è quello del parere della Commissione europea, che prevedeva l'erogazione di queste risorse esclusivamente fino ad agosto del 2022, e quindi è un primo ostacolo che il Ministero è chiamato a rimuovere; il secondo è che c'è questa istruttoria, particolarmente farraginosa, degli uffici, che devono valutare beneficiari, aiuti, modalità e procedure, anche per mezzo di un concessionario, che sta arrecando notevoli problemi. Inutile dire che si tratta di una misura che ha avuto grande apprezzamento e grandi ritorni. Se il Ministero non espleta questa attività di definizione delle procedure nel più breve tempo possibile, rischiamo di vanificare quella che è stata una stagione di sostegno a questo settore, culminata poi nella legge di bilancio del 2022 con una serie di iniziative, come i 471 milioni per l'ultimo miglio degli scali nazionali, per l'elettrificazione delle banchine portuali con 700 milioni e gli 800 milioni per il rinnovo del naviglio. Sono misure che, nel tempo più difficile, quello del COVID e della ripresa dopo il COVID hanno consentito alle imprese, alle aziende, ai lavoratori del settore un adeguato ristoro. Non possiamo perdere questa occasione,  quindi, con questo ordine del giorno, invitiamo caldamente il Governo a finanziare ed erogare concretamente il mare bonus , che è uno strumento assolutamente apprezzato non soltanto dalle associazioni di categoria, ma unanimemente, in tutto il Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308902",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308872_19",
+      "politician_name": "ALIFANO Enrica",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Allora, siamo in materia di giustizia. C'è questa norma del comma 8 dell'articolo 8 del Milleproroghe che interviene, tra l'altro, sul giudizio in Cassazione e, di fatto, richiama la disciplina emergenziale, che prevedeva il giudizio cartolare in Cassazione anche per i giudizi per i quali era prevista la pubblica udienza. Nel frattempo, è intervenuta la riforma Cartabia che, invece, ha modificato totalmente la disciplina. Si pone, tra l'altro, un difetto di coordinamento tra la disciplina stabilita dal decreto Ristori che adesso viene prorogata al 30 giugno 2023 - parliamo sempre dei giudizi in Cassazione - e la riforma Cartabia. Tale contrasto è stato risolto solo recentemente - non so se il rappresentante del Governo lo sa - dal primo presidente della Corte di cassazione. La stessa Cassazione non riusciva a comprendere quale norma si dovesse applicare ai giudizi per i quali era prevista l'udienza tra il 1° gennaio 2023 e il 30 giugno 2023. C'è una relazione, un bel report , sul sito della Corte di cassazione - la relazione n. 8 dell'8 febbraio 2023, quindi recentissima - che poneva proprio questi dubbi interpretativi, che sono tanti e non si limitano al giudizio per Cassazione. Infatti, sono tanti anche quelli che riguarderanno il giudizio di cognizione di primo grado.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308872",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d306352_19",
+      "politician_name": "CAPPELLETTI Enrico",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. L'ordine del giorno n. 9/888/68 ha per oggetto il FIR, il Fondo indennizzo risparmiatori, rispetto al quale sono già intervenuto più di una volta in quest'Aula. Il provvedimento in esame, il Milleproroghe, proroga anche l'attività della commissione tecnica per l'esame delle domande e l'ammissione all'indennizzo da parte di questo Fondo, del FIR. La questione centrale - Presidente, per suo tramite mi rivolgo naturalmente al Governo - non è tanto questa, ma il fatto che la proroga della commissione tecnica serve per la distribuzione degli ulteriori 500 milioni che sono l'avanzo, non ancora distribuito, del FIR previsto dalla norma che l'ha istituito. Della somma stanziata di 1.575 milioni, infatti, risultano oggi distribuiti circa 1.000 milioni; quindi, c'è un residuo, appunto, di 500 milioni. Il sottoscritto aveva già presentato in legge di bilancio un ordine del giorno in cui si invitava il Governo a dare attuazione ad una legge, che è già legge dello Stato, che impone, fino al completamento ed esaurimento del Fondo, di procedere alla distribuzione anche delle rimanenze. A quell'ordine del giorno il Governo diede parere contrario, tant'è che non venne accolto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "306352",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Questo ordine del giorno è molto importante, secondo me, perché - sto parlando della mia terra, la Sardegna - tratta di un argomento molto particolare che credo non tutti conoscano. Esso è finalizzato a valorizzare e a tutelare un fenomeno oggetto di studi scientifici, in quanto è un fenomeno unico al mondo. La Sardegna, per la sua posizione chiave nel Mediterraneo, rappresenta un'arena di studio ideale per biologi, evoluzionisti, genetisti e archeologi. L'isolamento che è stato imposto dalla geografia e il basso numero di abitanti rendono l'isola un laboratorio di genetica a cielo aperto. Perché è così importante investire nella ricerca e nello studio del patrimonio genetico? È importante per tutti, è importante perché, citando uno studio demografico degli studiosi Pes e Poulain sulla longevità umana, pubblicato da Experimental Gerontology, è emerso che nella provincia di Nuoro, in particolare, nei paesi montani della subregione Barbaricina della Barbagia di Ollolai, c'è l'area con la maggior concentrazione di centenari al mondo. Per questo è stata classificata come una delle cinque zone blu presenti in tutto il mondo. Ogni 100.000 europei, ci sono 8 persone che vivono, grosso modo, fino a cento anni; in Sardegna, invece, le persone che superano i 100 anni sono 22 ogni 40.000. Sono dati rilevanti, se si tiene conto che l'intera popolazione dell'isola è costituita da poco più di mezzo milione di persone. Il segreto - lo si sta studiando perché ancora non si capisce come mai siamo così anziani e così longevi - della vita straordinariamente lunga risiede nella mancanza genetica di un enzima, il G6PD, correlata al fatto che gli isolani sono stati sempre molto isolati. Il G6PD è il glucosio-6-fosfato deidrogenasi, un enzima proteico che serve a catalizzare i processi biologici e a stabilizzarli. Non sto qui a farvi la lezione di scienze perché è il tema è un po' complicato. Però, la mancanza di questo enzima ha fatto sì che gli abitanti di quella zona della Sardegna raggiungessero un'età altissima. Soprattutto, non sono vecchi ma sono uomini e donne di 110 anni, non voglio dire aitanti, ma quasi. L'età sembra quasi che si sia fermata. Oltre a questo, naturalmente la longevità dipende dal clima, dall'aria pulita e ovviamente dal cibo. Pensate che molti di loro hanno detto che non hanno mai assaggiato prodotti di importazione perché preferiscono le ricette e i prodotti locali come il latte di capra, che previene i problemi cardiaci, il pane carasau, che chi frequenta la Sardegna conosce, che riduce il rischio del diabete, l'orzo e le mandorle. Chi di voi non ha mai mangiato gli amaretti sardi (Applausi dei deputati del gruppo MoVimento 5 Stelle) ? Son fatti con le mandorle e le mandorle normalizzano la pressione sanguigna. La Sardegna, insomma, non è soltanto il mare. Oltre a ciò, gli studi dimostrano che la Sardegna rappresenta un'anomalia nel panorama genetico europeo, perché l'80 per cento dei genomi mitocondriali dei sardi provengono esclusivamente dal patrimonio materno e appartengono a rami genetici che non si trovano in nessun altro posto del mondo, se non nella nostra isola.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Un attimo soltanto, taglio. Questi studi che ho cercato di portare all'attenzione dell'Aula - perché è importante che noi sappiamo anche queste cose - possono essere osservati solo in Sardegna. La Sardegna può essere ancora un'incubatrice per studiare questo fenomeno, che vengono a studiare da tutto il mondo, vengono dalla Svezia! Per questo motivo fa invidia al mondo, perché non è mica poco trovare l'elisir di lunga vita in Sardegna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307863_19",
+      "politician_name": "PELLEGRINI Marco",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. La legge di bilancio che è stata approvata lo scorso dicembre, quindi la legge di bilancio per il 2023, ha prorogato al 30 giugno 2023, ovviamente con il consenso degli interessati e per il personale in servizio al 31 dicembre 2022, la durata della ferma dei medici e degli infermieri militari reclutati negli anni 2020 e 2021 con un concorso straordinario in relazione all'emergenza scoppiata per la pandemia da COVID-19. Questa disposizione si era resa necessaria al fine di poter continuare ad avvalersi di questo personale in possesso di specifica esperienza acquisita e maturata sul campo, così da non disperdere le risorse che erano state impiegate per la selezione dello stesso personale, per il suo addestramento, per il suo equipaggiamento e anche in prospettiva di un ulteriore rafforzamento della campagna vaccinale. Tra il 2020 e il 2021 sono stati arruolati complessivamente 220 ufficiali medici con il grado di tenente e 370 sottufficiali infermieri con il grado di maresciallo, in servizio temporaneo con delle ferme della durata di un anno. La legge delega 5 agosto 2022, n. 119, ha delegato al Governo la possibilità di incrementare l'organico, non superiore a 10.000 unità, anche con riferimento ai medici e al personale delle professioni sanitarie, proprio per corrispondere alle accresciute esigenze in circostanze di pubblica calamità e, comunque, nelle circostanze di straordinaria necessità e urgenza, e quindi adottando la necessaria disciplina di adeguamento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307863",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308770_19",
+      "politician_name": "GIAGONI Dario",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, signor Presidente. Intervengo per illustrare l'ordine del giorno n. 9/888/18 , che impegna il Governo a non tardare nell'emanazione del decreto, con riferimento a quanto citato all'articolo 1, comma 893, della legge 30 dicembre 2021, n. 234, per il contenimento della diffusione del Coraebus undatus , un coleottero, quindi parassita, che colpisce le sugherete. In particolar modo, giusto per illustrare anche in termini geografici, l'area che viene colpita è quella del nord est della Sardegna, la Gallura. In Gallura, luoghi come Calangianus, Luras e Tempio Pausania sono le capitali del sughero, sono le nostre campagne, sono quelle che hanno dato e continuano a dare posti di lavoro. C'è una tradizione dietro. Chiunque di voi, quando è a tavola tra amici o al bar, apre una bottiglia di vino, quella piccola cosa che si chiama tappo. Dietro a quel tappo c'è tanto lavoro, c'è tanto sudore e c'è dietro, come ho detto prima, una grande tradizione. Il sughero da noi viene lavorato in diversi modi, viene usato anche per coibentare. Il sughero viene estratto nel mese di maggio e quindi, come gruppo Lega, chiediamo al Ministro di valutare l'opportunità, con l'avvicinarsi del mese di maggio, di emanare il decreto nell'immediato, in modo tale da andare a tutelare un prodotto che, purtroppo, viene danneggiato per colpa di questo coleottero che crea e scava cunicoli lunghi 2 metri in verticale, comportando un deprezzamento del sughero di quasi il 75 per cento. Quindi, questo intervento da parte del Governo è fondamentale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308770",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308820_19",
+      "politician_name": "CARMINA Ida",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghi, l'articolo 10, al comma 10- ter , di questo decreto, in considerazione dello straordinario aumento del numero di sbarchi di migranti dell'anno 2022, assegna un contributo al comune di Lampedusa pari a 2 milioni e mezzo di euro di spesa corrente per l'efficientamento dalle entrate proprie. Intanto, vi do una notizia: in questi due mesi dall'entrata in vigore del decreto ONG, gli sbarchi, nel mese di gennaio, sono quasi raddoppiati, nel mese di febbraio - ad oggi, 22 febbraio 2023 - siamo già a 7.704, a fronte di 2.439 del febbraio dello scorso anno, quindi addirittura triplicati, secondo i dati dello stesso Ministero dell'Interno-Dipartimento per le libertà civili e l'immigrazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308820",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308781_19",
+      "politician_name": "ONORI Federica",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ).  Presidente, gentili rappresentanti del Governo, colleghe e colleghi, sono felice di poter illustrare, sia pure brevemente, la ratio alla base del presente ordine del giorno, affinché il Governo, come spero, possa accogliere questo nostro contributo a beneficio di numerosi cittadini italiani. L'impegno è semplice: si chiede al Governo di adottare con urgenza, nel prossimo provvedimento utile, misure volte a prorogare per l'anno 2023 l'esenzione dall'imposta di bollo relativa all'emissione dei certificati anagrafici digitali già prevista per il 2021 e il 2022, ai sensi dell'articolo 62, comma 3, quinto periodo, del codice dell'amministrazione digitale. Perché questa proroga non può in alcun modo essere considerata né banale né tantomeno marginale?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308781",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307402_19",
+      "politician_name": "SIRACUSANO Matilde",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretaria di Stato alla Presidenza del Consiglio dei ministri . Il Governo esprime parere favorevole sull'ordine del giorno n. 9/888/1 Colombo, sull'ordine del giorno n. 9/888/2 Malavasi parere favorevole con riformulazione. Sostituire l'impegno con il seguente: “a valutare l'opportunità, compatibilmente con i vincoli di finanza pubblica, di individuare misure per favorire la collaborazione tra i comuni e gli enti pubblici e privati finalizzata al benessere dei minorenni e al contrasto alla povertà educativa”. Sull'ordine del giorno n. 9/888/3 Braga parere favorevole con riformulazione, che consiste nel sostituire l'impegno con il seguente: “a valutare l'opportunità di aggiornare le convenzioni in essere con il Milan Center for Food Law and Policy”. Sull'ordine del giorno n. 9/888/4 Faraone parere favorevole con riformulazione. Sostituire nell'impegno le parole: “ad adottare” con le seguenti: “a valutare”. L'ordine del giorno n. 9/888/5 Gadda è accolto come raccomandazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307402",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Interrompiamo, a questo punto, l'esame degli ordini del giorno. Come convenuto nella riunione della Conferenza dei presidenti di gruppo del 15 febbraio scorso, nella seduta di domani, giovedì 23 febbraio, avranno luogo, a partire dalle ore 9,30, la votazione degli ordini del giorno, le dichiarazioni di voto finale e la votazione finale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307591_19",
+      "politician_name": "FONTANA Lorenzo",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il Presidente del Senato ha trasmesso alla Presidenza il seguente disegno di legge, che è assegnato, ai sensi dell'articolo 96- bis , comma 1, del Regolamento, in sede referente, alla X Commissione (Attività produttive):",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307591",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d308861_19",
+      "politician_name": "GHIRRA Francesca",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Onorevoli colleghe e colleghi, ho chiesto di intervenire a fine seduta per portare all'attenzione di quest'Aula il problema della continuità territoriale nelle isole maggiori e, in particolare, in Sardegna. Come sapete, la Sardegna, da anni, soffre per la discontinuità aerea e marittima, in barba al principio, riconosciuto dalla normativa europea e dalla nostra Costituzione, del diritto alla libertà di movimento di cittadine e cittadini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "308861",
+        "seduta": 56
+      }
+    },
+    {
+      "politician_id": "camera_d307302_19",
+      "politician_name": "ASCARI Stefania",
+      "date": "2023-02-22",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. A Parma, nei primi giorni di febbraio, 31 lavoratori sono stati sospesi e poi licenziati per aver scioperato in solidarietà a un collega colpito da una sanzione disciplinare. Personalmente, ho partecipato al presidio permanente dei lavoratori davanti al cancello del magazzino Kamila, presso cui opera la cooperativa MD Service . I lavoratori hanno denunciato e mi hanno raccontato di essere stati licenziati a seguito di uno sciopero indetto dal sindacato ADL Cobas e, dunque, in violazione dell'articolo 40 della Costituzione, ma mi hanno raccontato che, negli anni, sarebbero stati sottoposti a condizioni di lavoro pessime, ricatti, punizioni, abusi di potere, discriminazioni razziali, ritmi di produttività disumani, mancato riconoscimento del sindacato, della malattia e degli infortuni; in due parole, caporalato industriale, un fenomeno gravissimo che la mia regione, l'Emilia Romagna, conosce bene. Ho già presentato un'interrogazione parlamentare alla Ministra del Lavoro per sapere quali iniziative intenda adottare per verificare quanto accaduto. Infatti, se tutte queste circostanze dovessero essere confermate, si tratterebbe di un gravissimo caso di licenziamento collettivo ingiustificato e di violazione dei diritti del lavoro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0056",
+      "metadata": {
+        "id_persona": "307302",
+        "seduta": 56
+      }
+    }
+  ]
+}

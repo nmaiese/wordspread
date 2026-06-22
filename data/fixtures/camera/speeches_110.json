@@ -1,0 +1,721 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0110",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-05-29",
+    "title": "Assemblea — Seduta n. 110 del 2023-05-29",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 110
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 62, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signor Presidente. Ho chiesto di intervenire per un titolo allarmante, per una notizia allarmante. Ormai dobbiamo, purtroppo, ricorrere alle anticipazioni della stampa, più che alle informazioni che ci arrivano dal Governo: “PNRR, meno mense e asili”. Pochi giorni fa, il quotidiano la Repubblica - e non solo quel quotidiano - ha dato notizia di una proposta di revisione che il Ministro dell'Istruzione, Valditara, avrebbe consegnato al Ministro Fitto in merito a questo lungo, complesso e, purtroppo, finora silenzioso lavoro - almeno per quanto riguarda le informazioni e gli aggiornamenti che arrivano in queste Aule -  intorno agli obiettivi del Piano nazionale di ripresa resilienza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Intervengo molto brevemente. Il gruppo di Alleanza Verdi e Sinistra si associa alla richiesta della deputata Manzi e del Partito Democratico per un'informativa qui in Aula del Ministro Valditara: ci è sembrata una richiesta non solo ragionevole, ma assolutamente fondata, perché si tratta di fondi e di progetti fondamentali per la battaglia contro la dispersione scolastica, che dovrebbe essere uno degli obiettivi prioritari di questo Governo e del nostro Paese. Aggiungo che, naturalmente, si tratta di problematiche che impattano in maniera molto forte sull'occupazione delle donne e anche sulle famiglie, perché parliamo di mense e di asili, quindi di misure che, proprio ora che c'è questo grande dibattito sulla natalità, dovrebbero essere considerate assolutamente prioritarie.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per sostenere la richiesta della collega Manzi di un'informativa urgente del Ministro Valditara; riteniamo anche noi, come MoVimento 5 Stelle, che sia fondamentale avere un chiarimento sugli sforzi che il Governo intende fare per garantire che non vengano vanificati tutti gli investimenti che, con tanta difficoltà, sono stati concretizzati all'interno del PNRR per la lotta alla dispersione scolastica e alla povertà educativa. I temi delle mense e degli asili nido sono fondamentali, perché ovviamente garantiscono la genitorialità, la possibilità, soprattutto per i giovani, di mettere su famiglia, ma garantiscono anche presidi di accesso fondamentali al tempo pieno nelle scuole, istituto che - come sappiamo - manca in moltissime regioni del nostro Paese e viene assicurato solo ad una minoranza dei nostri studenti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del testo unificato delle proposte di legge nn. 596-659-952-991-A: Disposizioni in materia di ordinamento delle professioni pedagogiche ed educative e istituzione dei relativi albi professionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308786_19",
+      "politician_name": "CANGIANO Gerolamo",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie Presidente e onorevoli colleghi. La proposta di cui oggi avviamo la discussione in Aula interviene in materia di ordinamento delle professioni pedagogiche ed educative, con una duplice finalità. La prima è quella di introdurre finalmente una disciplina organica e compiuta delle figure dell'educatore sociopedagogico e del pedagogista, sotto il profilo definitorio, delle funzioni e dei requisiti di accesso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308786",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308852_19",
+      "politician_name": "PATRIARCA Annarita",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Governo, onorevoli colleghi, le trasformazioni tecnologiche, socio-economiche e ambientali globali hanno generato un cambiamento epocale in questi ultimi anni, caratterizzato da crescenti disuguaglianze, degrado ambientale, ingiustizie e una crisi generale di sfiducia nel progresso. In questo contesto è fondamentale riflettere sul ruolo e la complessità delle professioni educative, per affrontare consapevolmente i cambiamenti culturali, anche in vista della transizione ecologica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308852",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, signor Presidente. Le proposte di legge, quest'oggi in Aula, giungono al termine di un importante e proficuo lavoro che la VII Commissione della Camera ha condotto, coinvolgendo sia maggioranza che opposizione, tanto nella fase delle audizioni che in occasione dell'esame degli emendamenti, pochi giorni fa, in Commissione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308921_19",
+      "politician_name": "MIELE Giovanna",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente, e grazie ai colleghi e alle colleghe presenti. Sono lieta di essere qui a presentare una legge che era attesa da troppi anni. Alla VII Commissione sono state assegnate 4 proposte di legge sul tema, perché è di tutta evidenza come sia la maggioranza sia l'opposizione avvertissero l'esigenza di valorizzare, finalmente, le professioni pedagogiche ed educative, istituendo un ordine professionale e il relativo albo. Offrire una cornice normativa alle professioni dei pedagogisti e degli educatori socio-pedagogici è una battaglia non più procrastinabile e, proprio per questo, abbiamo lavorato in tempi strettissimi per arrivare ad un testo condiviso, che oggi arriva all'esame dell'Aula.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308921",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308858_19",
+      "politician_name": "CHERCHI Susanna",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Presidente, onorevoli colleghi e onorevoli colleghe, dopo un lavoro intenso, che ha coinvolto tutte le forze politiche presenti nella Commissione di cui faccio parte, la VII, siamo finalmente giunti all'esame della Camera di questo provvedimento, atteso da diversi anni, più volte presentato, seppure in diversi termini, nella scorsa legislatura, ma che, per vari motivi, non è mai riuscito a terminare l'iter parlamentare. Infatti, il testo unificato delle proposte di legge che ci apprestiamo ad esaminare è finalizzato a dare finalmente un riconoscimento ordinistico a tutti quei professionisti che, in ambito pedagogico ed educativo, hanno da sempre svolto la propria professione, con passione e competenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308858",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308812_19",
+      "politician_name": "PERISSA Marco",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, Sottosegretario, onorevoli colleghe e onorevoli colleghi, siamo arrivati ad un momento abbastanza importante che riguarda, come già anticipato dai colleghi in precedenza, il riconoscimento di figure professionali attraverso l'istituzione di un loro albo; nei prossimi giorni ci accingeremo a votare un testo unificato di proposte di legge che definisce l'istituzione di un albo professionale e, quindi, il riconoscimento delle loro competenze e per questo mi associo ai ringraziamenti già precedentemente espressi dai colleghi che hanno parlato prima di me nei confronti di tutti coloro che hanno lavorato, in questa e nelle precedenti legislature, per riuscire a raggiungere questo importante obiettivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308812",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente. Onorevoli colleghi, signori del Governo, il provvedimento oggi all'esame di quest'Aula risponde a un'esigenza molto avvertita nella complessità del nostro tempo, un tempo che, per apparente paradosso, vede il moltiplicarsi delle reti educative e il complicarsi delle interrelazioni, ma anche un bisogno, spesso inevaso, di profondità. È un tempo che vede i nostri giovani e giovanissimi bombardati da una molteplicità di stimoli, ma anche vittime di rumorose solitudini, e gli operatori del settore gravati da sempre maggiori responsabilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. In questi mesi e settimane, sempre di più, siamo posti a confronto con una situazione di emergenza, anche come onda lunga dell'esperienza della pandemia e dello spaesamento generale che essa ha creato in tutti. Leggiamo sui media - non da ultimo stamattina, quando abbiamo visto la terribile notizia di una professoressa che è stata ferita da un alunno con un'arma da taglio; e colgo l'occasione per esprimere tutta la mia solidarietà al corpo insegnante, alla professoressa colpita e a tutta la comunità educante della scuola di Abbiategrasso - e riscontriamo nella vita sociale e collettiva del Paese tanto disagio, fragilità e vulnerabilità degli adolescenti e dei giovani più in generale, ma anche di persone di tutte le età e inseriti in tanti contesti, da quello della famiglia e della scuola, a quello dei territori, a quello dell'ormai vasto universo dei social , che è un vero e proprio contesto, con una sua realtà molto di impatto sulle vite di tutti e di tutte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della proposta di legge, già approvata dal Senato, n. 912: Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica dominicana, con Allegato, fatto a Roma il 14 febbraio 2019.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie, Presidente. Onorevoli colleghi e rappresentante del Governo, la proposta di legge in esame - come ha ben detto il Presidente - è già stata approvata in prima lettura dal Senato lo scorso 21 febbraio. Rientra nell'ambito degli accordi volti al rafforzamento della cooperazione culturale del nostro Paese ed è finalizzata all'intensificazione dei rapporti cinematografici e audiovisivi con la Repubblica dominicana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308784_19",
+      "politician_name": "DI GIUSEPPE Andrea",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Onorevoli colleghi, Governo, il provvedimento n. 912 riguarda la ratifica dell'Accordo tra l'Italia e la Repubblica dominicana, recante la possibilità di collaborare per la coproduzione cinematografica. In particolare, questo Accordo rappresenta un elemento di collaborazione tra il Ministero della Cultura e la Direzione generale del cinema della Repubblica dominicana. L'aspetto molto rilevante - come riporta l'articolo 2 della presente convenzione - riguarda il fatto che le coproduzioni realizzate saranno considerate come opere nazionali in entrambe le parti. Inoltre, per la realizzazione delle stesse, sarà necessario avere il consenso delle autorità di entrambi gli Stati. Grazie a questo Accordo sarà possibile offrire a un Paese terzo le nostre eccellenze nel campo cinematografico.  Reputo questa convenzione un tassello molto importante per esportare la cultura cinematografica italiana nel mondo, una cultura che - da cittadino residente negli Stati Uniti - è stata ed è ancora oggi un elemento di eccellenza e di orgoglio del programma del cinema mondiale. Il personale tecnico e artistico che potrà beneficiare di questa convenzione permetterà di diffondere quella parte dell'Italia anche nella Repubblica dominicana e, a sua volta, permetterà a uno Stato a migliaia di chilometri di distanza da noi di conoscere la bellezza cinematografica del nostro Paese. Concludo auspicando che questa importante iniziativa possa essere solo l'inizio di altre rilevanti convenzioni a supporto del mondo cinematografico e, in generale, dell'arte italiana nel mondo, che è stata - lo ricordo a tutti - profondamente colpita dalla pandemia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308784",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della proposta di legge, già approvata dal Senato, n. 915: Ratifica ed esecuzione dell'Accordo di cooperazione culturale, scientifica e tecnologica tra il Governo della Repubblica italiana e il Governo dello Stato plurinazionale di Bolivia, fatto a La Paz il 3 marzo 2010.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Grazie, Presidente. Onorevoli colleghi, rappresentante del Governo, come ha ben detto il Presidente, la proposta in esame è già stata approvata dal Senato. Essa ripropone, in modo pressoché identico, il testo del disegno di legge di ratifica presentato dal Governo nel corso della XVIII legislatura. Il testo oggi al nostro esame differisce rispetto a quel testo limitatamente all'articolo 3 del disegno di legge, in quanto, nel corso dell'esame del provvedimento al Senato, si è provveduto ad aggiornare la copertura finanziaria relativa all'attuazione di talune norme dell'Accordo. L'intesa, ricordo, sostituisce il precedente accordo culturale, firmato il 31 gennaio 1953, nonché l'accordo scientifico sottoscritto nel giugno 2002, ma non ratificato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Gardini, ovviamente, autorizzato al deposito della relazione e la ringrazio anche per questo. Ha facoltà di intervenire la Sottosegretaria di Stato alla Presidenza del Consiglio dei ministri, dottoressa Giuseppina Castiello, che rinuncia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308784_19",
+      "politician_name": "DI GIUSEPPE Andrea",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Il disegno di legge in esame riguarda la ratifica dell'Accordo di cooperazione culturale, scientifica e tecnologica del 2010 tra Italia e Bolivia. Tale Accordo, destinato a sostituire un precedente intesa del settore risalente al 1953, si propone di fornire un quadro giuridico e una base finanziaria, necessari allo sviluppo dei rapporti tra Italia e Bolivia negli importanti settori della cooperazione culturale, scientifica e tecnologica, al fine di rinsaldare e intensificare ulteriormente i legami di amicizia già esistenti e di migliorare il quadro complessivo delle relazioni bilaterali. Si potranno, in particolare, implementare nuove forme di collaborazione nel settore culturale, scientifico e tecnologico dello sport e dei diritti umani e dare ulteriore stimolo a quelle esistenti, come ad esempio nel settore della collaborazione interuniversitaria. A mio avviso, si riscontra una relativa importanza dell'articolo 4 del presente Accordo, con il quale si prevede la possibilità per le parti di chiedere la partecipazione di organismi internazionali al finanziamento dei programmi e dei progetti, promossi nell'ambito delle forme di cooperazione individuati nell'Accordo, nonché di promuovere progetti multilaterali nell'ambito dei programmi dell'Unione europea e di altri organismi internazionali che si riferiscono alla cultura, alla scienza e alla tecnologia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308784",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della proposta di legge, già approvata dal Senato, n. 916: Adesione al Protocollo addizionale alla Carta europea dell'autonomia locale sul diritto di partecipare agli affari delle collettività locali, fatto a Utrecht il 16 novembre 2009.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307151_19",
+      "politician_name": "BILLI Simone",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie Presidente, grazie Sottosegretario Castiello. Auspico una rapida approvazione del disegno di legge di ratifica. Ricordo che la Carta europea dell'autonomia locale appare pienamente in linea con le prescrizioni dell'articolo 5 della Costituzione, secondo il quale la Repubblica, nel riconoscere e promuovere le autonomie locali, adegua i principi ed i metodi della sua legislazione alle esigenze dell'autonomia e del decentramento. Ricordo che rappresenta il culmine di oltre vent'anni di lavoro a livello intergovernativo in seno al Consiglio d'Europa, in tema di partecipazione democratica a livello locale, iniziato con la firma della Carta europea delle autonomie locali. In definitiva serve per aumentare e facilitare la partecipazione democratica a livello locale. Presidente, chiedo di consegnare la relazione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307151",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Billi, chiaramente è autorizzato  - e la ringrazio per questo - a depositare la relazione. Ha facoltà di intervenire la Sottosegretaria di Stato alla Presidenza del Consiglio dei ministri, dottoressa Castiello, che rinuncia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Sarò molto breve perché nel contesto odierno voglio soltanto esprimere il giudizio estremamente positivo rispetto a questo Protocollo addizionale alla Carta europea dell'autonomia locale sul diritto di partecipare agli affari delle collettività locali. Come ha detto bene il relatore, si tratta di un rafforzamento della vita democratica rispetto agli enti locali e al diritto di tutti i cittadini di partecipare, in qualità di elettori o di candidati, e via dicendo. Intervengo soltanto per esprimere un parere positivo su quanto è stato fatto e stiamo facendo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della proposta di legge, già approvata dal Senato, n. 913: “Ratifica ed esecuzione del Protocollo emendativo dell'Accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica di Armenia sull'autotrasporto internazionale di passeggeri e di merci, firmato il 7 agosto 1999, fatto a Jerevan il 31 luglio 2018” e dell'abbinato disegno di legge n. 964.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307688_19",
+      "politician_name": "COIN Dimitri",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Come appena detto, la proposta di legge in esame è già stata approvata in prima lettura al Senato (lo scorso 21 febbraio). Il suo contenuto è identico a quello di un disegno di legge di iniziativa governativa presentato l'8 marzo. La relazione al disegno di legge chiarisce che la modifica al testo dell'Accordo era stata richiesta espressamente da parte italiana, durante una riunione di una commissione mista, tenutasi a Jerevan nell'ottobre 2015, al fine di assicurare una maggiore flessibilità per gli operatori del trasporto stradale delle merci che dispongono di parti veicolari costituiti anche da veicoli trainanti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307688",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Grazie, onorevole Coin. Ovviamente è autorizzato al deposito della relazione, e di questo la ringrazio. Ha facoltà di intervenire la Sottosegretaria, dottoressa Castiello, che rinuncia. È iscritta a parlare la deputata Gardini. Ne ha facoltà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, onorevoli colleghi, rappresentante del Governo, solo per esprimere soddisfazione per questa ratifica ed esecuzione del Protocollo emendativo dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica di Armenia sull'autotrasporto internazionale di passeggeri e di merci. È qualche anno che lo aspettiamo perché l'Accordo è stato firmato il 7 agosto 1999, come ricordava il relatore, mentre il Protocollo emendativo è stato fatto a Jerevan il 31 luglio 2018. Quindi, salutiamo con favore questi emendamenti, che hanno proprio l'intenzione di facilitare, regolare e aumentare l'efficienza del trasporto stradale internazionale di passeggeri e di merci, e quindi ci complimentiamo che finalmente si arrivi alla ratifica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della proposta di legge, già approvata dal Senato, n. 914: Ratifica ed esecuzione delle seguenti Convenzioni: a) Convenzione sulla salute e la sicurezza dei lavoratori, n. 155, fatta a Ginevra il 22 giugno 1981, e relativo Protocollo, fatto a Ginevra il 20 giugno 2002; b) Convenzione sul quadro promozionale per la salute e la sicurezza sul lavoro, n. 187, fatta a Ginevra il 15 giugno 2006.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. Brevemente, la proposta di legge in esame reca l'autorizzazione alla ratifica e all'esecuzione di due Convenzioni, la n. 155 del 1981 e la n. 187 del 2006, di cui una con annesso Protocollo. Sono provvedimenti che si inseriscono nell'ambito dell'azione dell'Organizzazione internazionale del lavoro. Un provvedimento che è stato già approvato dal Senato il 21 febbraio scorso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Presidente, onorevoli colleghi, rappresentante del Governo, solo per dire che questo è un tema straordinariamente sensibile, che sta a cuore a tutti noi, perché obiettivo di queste Convenzioni è proprio contribuire a prevenire gli infortuni sul lavoro e le malattie professionali e garantire un ambiente di lavoro sicuro e salubre.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge n. 974: “Ratifica ed esecuzione del Protocollo emendativo dell'Accordo di collaborazione in materia radiotelevisiva fra il Governo della Repubblica italiana e il Governo della Repubblica di San Marino, con Allegato, del 5 marzo 2008, fatto a Roma il 27 settembre 2021” e dell'abbinata proposta di legge n. 853.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice. Signor Presidente, colleghi deputati, rappresentante del Governo, in premessa segnalo anch'io che il disegno di legge in esame, di iniziativa del Governo e adottato come testo base, ha un contenuto identico all'abbinata proposta di legge d'iniziativa parlamentare a prima firma Formentini, fatta eccezione per l'articolo 3.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308784_19",
+      "politician_name": "DI GIUSEPPE Andrea",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Il disegno di legge governativo n. 974, abbinato con la proposta di legge parlamentare dei deputati Formentini ed altri n. 853, da cui differisce nell'articolo 3, apporta una serie di emendamenti all'Accordo di collaborazione in materia radiotelevisiva tra Italia e Repubblica di San Marino del 5 marzo 2008, entrato in vigore il 7 dicembre 2015.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308784",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307151_19",
+      "politician_name": "BILLI Simone",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Presidente, Sottosegretaria, volevo ricordare che questo provvedimento di legge nasce da un'iniziativa legislativa assunta dalla Lega, una proposta di legge presentata dall'onorevole Formentini, che ringrazio, avente ad oggetto lo stesso contenuto di un disegno di legge della scorsa legislatura - l'A.C. 3417 - che era stato approvato nel corso della seduta del 22 marzo 2022 dalla Commissione affari esteri e comunitari di questo ramo del Parlamento. Durante l'iter della proposta di legge svoltosi in Commissione, il Governo ha chiesto ed ottenuto l'abbinamento di un proprio analogo provvedimento che, poi, è stato adottato come testo base. Pertanto, auspico che questa collaborazione bilaterale possa proseguire, come ha già detto anche la relatrice, l'onorevole Gardini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307151",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 62, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione della mozione Caso ed altri n. 1-00139 concernente iniziative volte al superamento delle criticità relative al fenomeno del \"caro affitti\" per gli studenti fuori sede (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307564_19",
+      "politician_name": "ORRICO Anna Laura",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Onorevoli colleghe e colleghi, la mozione del MoVimento 5 Stelle a prima firma del collega Caso che oggi vi illustrerò, mai come in questo momento storico nel nostro Paese, è pertinente, poiché l'accesso al diritto allo studio, riferito in particolar modo ai livelli più alti dell'istruzione, è fortemente compromesso da una serie di fattori contingenti, sui quali è assolutamente necessario intervenire, in modo da consentire, in maniera omogenea su tutto il territorio nazionale, la possibilità di formarsi, come è previsto dall'articolo 34 della nostra Costituzione, che recita testualmente: “I capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi”. Purtroppo, le famiglie italiane, sempre più frequentemente non riescono a sostenere i costi per supportare adeguatamente le legittime ambizioni dei propri figli e la protesta che, in queste ultime settimane, ha animato e, giustamente, agitato i tantissimi studenti fuori sede delle nostre principali città universitarie sulla piaga del caro affitti è solo uno degli indici di problematicità della vicenda. Difatti, la disponibilità di risorse finanziarie è divenuta un fattore determinante nell'accesso all'istruzione superiore e universitaria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307564",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d305771_19",
+      "politician_name": "MANZI Irene",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, signor Presidente. Vorrei iniziare, colleghi e colleghe, questo mio intervento con parole non mie, ma con quelle di Mattia, uno studente universitario della mia regione, le Marche, che poche settimane fa, come tanti ragazzi e ragazze in Italia, ha montato una tenda davanti all'università e lo ha fatto per sollecitare l'attenzione del Governo e delle istituzioni su un tema importante e urgente come quello del diritto allo studio, più in generale, e del caro affitti, in questo caso. “Diritto alla casa è diritto allo studio” dice Mattia. “Studiare non può essere soltanto un privilegio di pochi. È una discriminazione sociale inaccettabile per tutte quelle persone e per tutte quelle famiglie, soprattutto, che già fanno tanti sacrifici per arrivare a fine mese e sono doppiamente colpite da costi spropositati. Gli scaricabarile non servono a nulla. Molto è già stato fatto e troppo è ancora da fare. Ora è il momento di dare una risposta politica concreta a questa condizione”.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "305771",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307406_19",
+      "politician_name": "RAFFA Angela",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Colleghi, il caro affitto è un problema a cui dobbiamo dare una risposta immediata. Le proteste degli studenti in queste settimane hanno portato all'attenzione pubblica una situazione grave, che merita un intervento incisivo. Noi del MoVimento 5 Stelle riteniamo fortemente carenti le azioni messe in campo dal Governo per fronteggiare l'attuale situazione, perché sono insufficienti e lente.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307406",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308883_19",
+      "politician_name": "LA PORTA Chiara",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie Presidente e onorevoli colleghi. Le criticità relative al caro affitti per gli studenti fuori sede, soprattutto per coloro che arrivano dalle aree interne o montane, e in generale relative al diritto allo studio sono tematiche prioritarie per l'Esecutivo. Lo sono sempre state per il partito che mi fregio di rappresentare su questi banchi e, ancora prima, per il movimento giovanile di cui sono vicepresidente e per Azione universitaria, movimento universitario che ho rappresentato per quattro anni come eletta all'interno dell'ateneo fiorentino.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308883",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308816_19",
+      "politician_name": "PICCOLOTTI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Innanzitutto, dico “finalmente”, perché c'è voluta la vicepresidente di Gioventù nazionale, che ha appena parlato, per ammettere che un problema c'è, che gli studenti italiani hanno sulle spalle il peso di affitti insostenibili e che devono pagare affitti altissimi a causa della speculazione immobiliare che sta facendo ammalare tutte le grandi città italiane. Dico questo “finalmente” e poi, però, vengono le note dolenti, perché la deputata, vicepresidente di Gioventù nazionale , La Porta ha detto, sì, che il problema esiste, però poi ha detto che gli studenti, che stanno protestando, ingannano gli italiani, poiché il problema c'è da sempre e loro, invece, stanno protestando solo oggi, che c'è un Governo di destra. Mi dispiace che abbia detto ciò, perché essendo un esponente di un'organizzazione giovanile - anch'io da giovane ho fatto la portavoce di un'organizzazione giovanile nazionale - dovrebbe ben sapere che in tutte le piattaforme di tutte le organizzazioni studentesche e di tutti i sindacati studenteschi sono circa vent'anni che si cita il caro affitti e si chiedono misure che possano, in qualche modo, aiutare ad affrontare il problema. Quindi, il lato problematico della questione non è in carico agli studenti, che hanno sempre protestato e protestano anche oggi, semplicemente con una formula diversa, che ha forse più attenzionato la discussione della politica, ma è in capo ai Governi. Veniamo al tema delle proposte, perché io credo che molte delle misure di cui abbiamo ascoltato siano sostanzialmente acqua fresca. È acqua fresca, per esempio, dire che risolviamo il problema riducendo la tassazione locale applicata dai comuni, oppure che risolviamo il problema cancellando la Tari per chi ha un affitto più lungo di 6 mesi o che riduciamo la questione se sostanzialmente mettiamo in mano, come sta facendo il Governo, alle grandi società immobiliari del Paese milioni e milioni di euro, senza avere in cambio alcun posto letto stabile e per il futuro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308816",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308817_19",
+      "politician_name": "STEFANAZZI Claudio Michele",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Signor Presidente, colleghi, rappresentante del Governo, nel momento più buio della pandemia, il Recovery Plan è stato un vero e proprio raggio di luce, che ha tenuto viva la speranza in tutti noi e ha sancito un passo in avanti significativo per l'intera Europa, che è quello del debito comune, che, fino a quel momento, sembrava essere una chimera. Ha dato una direzione a una comunità in panne, disorientata, in difficoltà, che rischiava di vedere ciascuno dei suoi membri ritrarsi nel proprio egoismo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308817",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307447_19",
+      "politician_name": "SILVESTRI Francesco",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Quanto sta accadendo sul PNRR ci preoccupa altamente, perché non passa un giorno in cui non si veda un Ministro contraddire un altro Ministro o, addirittura, se stesso, oppure in cui il Governo non cerchi di incolpare qualche altro organo. Dapprima, è stato il presidente Conte, troppo meritevole di aver portato troppi fondi, troppi soldi da investire, poi è stato il turno degli enti locali e, adesso, è il turno, invece, della Corte dei conti. Lo spettacolo che si sta dando sarebbe anche comico, se non fosse che gli effetti ricadono sulla vita reale delle persone che, ovviamente, hanno subito un percorso difficilissimo per uscire dalla pandemia. Questi soldi, lo ricordiamo, servono a fare in modo che il Paese possa ripartire proprio dalle radici di quegli sforzi che il Paese ha fatto. Il punto è che l'Europa ci sta dicendo, con tutti i mezzi, che si sta stancando di questa incompetenza, fa trapelare il fatto che potrebbero anche rimandare la terza rata. Siamo in un momento in cui stanno sfuggendo alcune progettualità, tra tante quella, ad esempio, sugli asili nido, i quali potrebbero vedere momentaneamente rimandata una parte sostanziale di investimenti. Ricordiamo che lo spazio pubblico degli asili nido, in questo Paese, copre il 26 per cento e, quindi, abbiamo bisogno di queste risorse per aumentare le strutture. Lo stesso vale per tutta la parte relativa ai pendolari, alle strutture che servono a riqualificare e a migliorare la vita delle persone proprio nella loro quotidianità. La stessa questione riguarda anche il nostro sistema sanitario nazionale. Per voi questa è stata l'occasione per mettere su un teatrino, il tribunale di una Commissione COVID che è al limite tra il patetico e ridicolo. Per voi, questa è un'occasione per fare un processo al presidente Conte, forse perché non vi piace quel rapporto che il presidente ha stabilito con gli italiani in un momento difficile, mentre sarebbe potuta essere un elemento di assoluta analisi su quello che non ha funzionato durante la pandemia. Invece, avete messo su un bel momento per analizzare solamente le tappe fatte dal presidente, escludendo completamente l'analisi per quanto riguarda l'impatto territoriale; quindi, via la parte dei territori. Anche qui, si è mancato di sensibilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307447",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d308896_19",
+      "politician_name": "QUARTINI Andrea",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Abbiamo presentato questa mozione, perché la preoccupazione è davvero significativa, da parte nostra, rispetto a quello che potrebbe succedere sul più imponente e più importante finanziamento che la nostra Nazione ha la possibilità di utilizzare da sempre, fondamentalmente da sempre. Si parla di più di 200 miliardi, dei 209 miliardi previsti per la Next Generation EU , lo ripeto 209 miliardi; per il PNRR, 192 miliardi: 122 sono prestiti a tassi veramente concorrenziali, 70 sono a fondo perduto. Quindi, è un'impresa straordinaria dal punti di vista delle possibilità di investimento, di fare operazioni virtuose e di vincere anche tante diseguaglianze che sono presenti all'interno del nostro Paese in termini di gap Nord-Sud e non è accettabile che possano essere sprecate.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "308896",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d34580_19",
+      "politician_name": "TABACCI Bruno",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Saluto i rappresentanti del Governo. L'onorevole Stefanazzi ha svolto prima una pregevole illustrazione della mozione, richiamando, tra l'altro, la svolta europea sul debito comune, che sta alla base dell'iniziativa del Next Generation EU , di cui il PNRR è la traduzione italiana.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "34580",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente, colleghi deputati e rappresentante del Governo. Ho ascoltato attentamente gli interventi come, caro Presidente, avevo letto attentamente le mozioni. Devo dire che una cosa mi sorprende: sono settimane, mesi che continuiamo a sentire le stesse richieste, le stesse confuse analisi, le stesse domande e sono settimane, mesi che continuiamo a dare le risposte. Devo dire che anche l'ultimo intervento, di venerdì scorso, del Ministro Fitto al Festival dell'Economia a Trento ha fornito tutte le risposte corrette sulla reale situazione dell'Italia rispetto al PNRR e sulla reale situazione del dialogo, sereno, tranquillo e normale che sta avvenendo tra l'Italia e la Commissione europea. Però, sembra che ci siano - Goethe diceva che “parlare è un bisogno, ascoltare è un'arte” - molti bisogni, forse nella ricerca di una stima o di un'autoaffermazione che si stenta a trovare, e poca arte. Noi abbiamo passato da tempo quell'età infantile nella quale, se l'adulto ci pone 5 volte la stessa domanda, passiamo dal “sì” convinto al “no” convinto o, viceversa, dal “no” convinto al “sì” convinto; ci possono fare la domanda 5, 10, 100 volte e avranno 5, 10 o 100 volte la stessa veritiera risposta. Quindi, io mi ritrovo qui - sarò sintetica - a dare le stesse risposte, che vogliono essere una rassicurazione, non solo per le opposizioni, ma soprattutto per i cittadini italiani, che possono restare confusi da questo dialogo che sembra tra sordi. Ripeto: il Governo e la maggioranza che lo sostiene stanno lavorando in modo molto responsabile per far sì che ogni euro venga speso nel modo più utile e più efficace, al fine di raggiungere gli obiettivi in modo autentico, mentre, nelle vostre parole, trovo la voglia di mettere l'Italia in un angolo, che non riscontro nel dialogo con la Commissione europea. Si continua a ripetere di questa raccomandazione che la Commissione ha fatto affinché i Paesi presentino i loro piani entro il 30 aprile. Ha fatto una raccomandazione: come anche nella mozione è scritto, se la si legge - io l'ho letta nel dettaglio - la data legale è il 31 agosto ed è quella che noi abbiamo sempre avuto come obiettivo, ripeto, il 31 agosto. Allora, entro il 30 aprile, che è una data - lo ripeto e lo riconosce anche chi scrive la mozione - “raccomandata”, solo 4 Paesi hanno presentato il Piano; adesso, a fine maggio, si è aggiunto il Portogallo, quindi a fine maggio sono 5 su 27 i Paesi che hanno presentato il Piano. Ora, se noi calcoliamo che il PNRR italiano ha una mole non paragonabile a quella degli altri Paesi - perché noi abbiamo 220 miliardi, mentre il Paese che viene dopo di noi, che mi sembra sia la Spagna, ne ha 69 di miliardi - capiamo che forse l'Italia ha ben donde per non essere stata proprio la prima a consegnare il compito scritto in una data raccomandata - quindi, intermedia - mentre la data legale è quella del 31 agosto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d300469_19",
+      "politician_name": "ZANELLA Luana",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Innanzitutto, attraverso di lei, vorrei dire al collega che mi ha preceduta che siamo contro la dittatura e contro ciò che sta avvenendo - mi riferisco, segnatamente, al problema che, anche oggi,  è stato affrontato dall'Associazione magistrati della Corte dei conti - sulle espressioni di vero attacco alla magistratura contabile espresse da questo Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "300469",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307922_19",
+      "politician_name": "COSTA Sergio",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Non essendovi altri iscritti a parlare, dichiaro chiusa la discussione sulle linee generali. Chiedo alla Sottosegretaria Castiello se il Governo intende intervenire o si riservi di farlo successivamente. Si riserva.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307922",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice . (Relazione – A.C. 915 ​). Illustre Presidente, colleghi Deputati, rappresentante del Governo, la proposta di legge in esame, già approvata dal Senato, ripropone in modo pressoché identico il testo del disegno di legge di ratifica presentato dal Governo nel corso della XVIII legislatura, esaminato ed approvato dall'Assemblea del Senato nella seduta del 20 aprile 2021, che non ha completato il proprio iter di approvazione parlamentare a causa della conclusione anticipata della legislatura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307151_19",
+      "politician_name": "BILLI Simone",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . (Relazione – A.C. 916 ​). Illustre Presidente, colleghi Deputati, rappresentante del Governo, il provvedimento in esame, di iniziativa parlamentare, è stato approvato dal Senato il 21 febbraio 2023 e riprende il contenuto di un disegno di legge analogo, presentato dal Governo nella precedente legislatura che non poté terminare il suo iter parlamentare per la conclusione anticipata della legislatura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307151",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307688_19",
+      "politician_name": "COIN Dimitri",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . (Relazione – A.C. 913 ​ e abb.). Illustre Presidente, colleghi Deputati, rappresentante del Governo, la proposta di legge in esame è già stata approvata in prima lettura dal Senato lo scorso 21 febbraio ed il suo contenuto è identico a un disegno di legge di iniziativa governativa presentato l'8 marzo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307688",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d307456_19",
+      "politician_name": "BATTILOCCHIO Alessandro",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . (Relazione – A.C. 914 ​). Illustre Presidente, colleghi Deputati, rappresentante del Governo, la proposta di legge in esame reca l'autorizzazione alla ratifica e all'esecuzione di due Convenzioni (di cui una con Protocollo) adottate nell'ambito dell'Organizzazione internazionale del lavoro, l'Agenzia delle Nazioni Unite che si occupa di promuovere il lavoro dignitoso e produttivo in condizioni di libertà, uguaglianza, sicurezza e dignità umana per uomini e donne.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "307456",
+        "seduta": 110
+      }
+    },
+    {
+      "politician_id": "camera_d301558_19",
+      "politician_name": "GARDINI Elisabetta",
+      "date": "2023-05-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatrice . (Relazione – A.C. 974 ​ e abb.). Illustre Presidente, colleghi Deputati, rappresentante del Governo, in premessa, segnalo che il disegno di legge in esame, d'iniziativa del Governo e adottato come testo base, ha un contenuto identico all'abbinata proposta di legge di iniziativa parlamentare, a prima firma Formentini (C. 853 ​), fatta eccezione per l'articolo 3.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0110",
+      "metadata": {
+        "id_persona": "301558",
+        "seduta": 110
+      }
+    }
+  ]
+}

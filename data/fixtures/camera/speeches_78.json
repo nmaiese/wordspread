@@ -1,0 +1,799 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0078",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-03-29",
+    "title": "Assemblea — Seduta n. 78 del 2023-03-29",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 78
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 68, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca la discussione del disegno di legge n. 889-A: Conversione in legge, con modificazioni, del decreto-legge 16 febbraio 2023, n. 11, recante misure urgenti in materia di cessione dei crediti di cui all'articolo 121 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. In Commissione, i lavori sono stati molto ordinati, nella consapevolezza che questo potesse servire a risolvere il problema degli incagliati, per cui molti italiani stanno aspettando, privati e aziende. Siamo arrivati, purtroppo, allo scadere di quei lavori senza averlo risolto.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Grazie a lei, anche per aver contenuto il suo intervento. Sono presenti soggetti che potrebbero aderire alla sua proposta? Non mi pare ci siano persone in Aula che intendano recepirla. Dunque, cedo la parola al relatore, deputato Andrea De Bertoldi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307918_19",
+      "politician_name": "DE BERTOLDI Andrea",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore. Grazie, Presidente. È davvero un piacere per me prendere la parola a conclusione dei lavori in Commissione, che hanno visto protagonista il Parlamento. Come si suol fare, Presidente, quando si inizia un intervento e si ringraziano tante persone, credo che lo farò anche io oggi, ma non per prassi. È un ringraziamento che, davvero, viene dal cuore. Ringrazio, prima di tutti, ovviamente, il presidente della Commissione, che, oltre un mese fa, ha voluto investirmi del ruolo di relatore su un provvedimento così importante. È un ringraziamento che, con grande sincerità, estendo a tutti i membri della Commissione finanze, i quali hanno saputo e voluto accogliere l'appello che il primo giorno ho rivolto loro, chiedendo trasversalità e l'impegno di tutti per apportare modifiche migliorative a un decreto che certamente riveste un importante e pesante significato, come vedremo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307918",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308828_19",
+      "politician_name": "MATERA Mariangela",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, signor Presidente. Onorevoli colleghi e colleghe, il testo in discussione prevede misure urgenti in materia di crediti di imposta nel settore edilizio ed energetico. Il provvedimento, com'è noto, in particolare agli addetti ai lavori, è stato notevolmente ampliato in Commissione finanze, a seguito dell'esame parlamentare in sede referente, che ha migliorato l'impianto iniziale. Sono stati, infatti, introdotti nel testo 5 nuovi articoli e diversi commi aggiuntivi, sia all'articolo 1 che all'articolo 2, a testimonianza dello spirito collaborativo del Parlamento e del Governo, nei riguardi di un provvedimento che coinvolge tantissime imprese e famiglie del Paese.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308828",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308913_19",
+      "politician_name": "BENZONI Fabrizio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Onorevoli colleghi, oggi una lunga discussione su un provvedimento che conosciamo, un tema annoso e molto conosciuto nel nostro Paese e sul quale il relatore De Bertoldi ha, in qualche modo, sottolineato bene quali siano gli spunti, le ragioni e gli obiettivi di un dibattito che oggi ci terrà a lungo in quest'Aula. È un dibattito che, però, spesso confonde due aspetti, quello del superbonus e dei bonus edilizi e quello relativo alla cessione dei crediti, dimenticandosi come sia il combinato disposto di queste due misure ad aver creato così tanti problemi rispetto al nostro Paese e ai conti pubblici.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308913",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308790_19",
+      "politician_name": "BICCHIELLI Pino",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente, onorevoli colleghi, rappresentante del Governo. Arriverà il giorno in cui la storia dei cosiddetti superbonus andrà raccontata per intero, perché è la storia di come non si amministra, è la storia di come non si legifera, è la storia di come non si governa; è una storia di improvvisazione al potere, è una storia di incompetenza nella cabina di pilotaggio del Paese. È la storia, signor Presidente, di come una misura nata pur con buone intenzioni, e che avrebbe in effetti potuto rilanciare un settore strategico e il suo enorme indotto, abbia finito con il creare una voragine immane nei conti dello Stato, e, dunque, nelle tasche dei cittadini, con il riguardare in concreto pochi immobili, per lo più di proprietà di persone abbienti e senza necessità di ristrutturazione, con il mettere in crisi lo stesso settore che avrebbe dovuto risollevare. Un capolavoro che non sarebbe riuscito così bene neanche se lo si fosse studiato apposta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308790",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Siamo alle prese con un argomento che, a mio avviso, non riusciamo a “de-liberare” oggi, nel senso che potremmo anche adottare la misura che riguarderà la nostra agenda dei lavori ma la radice semantica di “deliberare” vuol dire liberare, su questo argomento, il massimo della virtù che ci toccherebbe. Sono convinto che noi, oggi, non riusciremo a “de-liberare”, esattamente come si impone per la gravità e la consistenza della situazione. Sono contento che a presiedere i lavori di quest'Aula ci sia lei, non perché io faccia una scelta di campo circa le sue simpatie culturali ma perché ci risulta che lei abbia fatto studi impegnati di architettura e anche riflessioni sul degrado, sulle fragilità, sulle manchevolezze di alcune porzioni di territorio urbano e metropolitano e questo mi fa richiamare all'attenzione una città speciale come Roma. Quindi, abbiamo tutte le condizioni per avere attenzione, concentrazione, appropriatezza, per usare parole che possano indurre alla riflessione quest'Aula nel momento nel quale dovrà “de-liberare”, che non è soltanto un atto burocratico, non è acqua piovana su una grondaia a valle dell'attività istruttoria di Ministeri, ragionerie e uffici che, magari, assumono più la postura della medicina difensiva che la postura di un'istruttoria che genera, generativa del meglio possibile sull'argomento che ci sta impegnando.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Voi sapete quanto costa un metro quadrato di impalcatura? Secondo me non lo sapete. Qui, hanno fatto un sondaggio anni fa, un monitoraggio, un test di resistenza, diciamo così, rispetto all'ingannevolezza di alcune sostanze e quel test creò antipatia. Mi farebbe piacere chiedere ai tanti che hanno deliberato se sanno quanto costa un metro quadrato di impalcatura. L'impalcatura non può restare lì fissamente, non è un guardiano del faro, un guardiano del fallimento. Abbiamo organizzato, con procedimento legittimato dallo Stato, la cattura delle abitazioni attraverso le impalcature.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307782_19",
+      "politician_name": "D'ALFONSO Luciano",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Luigino Bruni oggi tiene una giornata speciale a Tor Vergata sulla crisi di relazione nella città contemporanea. Nella città contemporanea ci sono stalattiti, che contengono dentro di sé delle anagrafiche di vita, ma non ci sono spazi che consentono la prossimità relazionale. Non c'è la città, se non c'è la prossimità relazionale. E la prossimità relazionale deriva anche da abitazioni sicure, che risparmiano energeticamente, che non mettono sul lastrico e che non inducono di notte ad andare fuori di casa, se c'è una reazione, magari anche conseguente al cambiamento climatico. Da Sarno in poi abbiamo capito che i cambiamenti climatici non sono solo affari di convegnistica, ma sono affari anche della notte, del giorno. Vi prego, colleghi, troviamo la via per fare in modo che questa norma trovi capacità di funzionamento. La norma realizza la linea virtuosa della condotta collettiva. Noi a questo siamo chiamati. Il Partito Democratico ha tenuto una condotta non scenografica, non rivoltosa, non fastidiosa, non “giamburraschesca” in Commissione, ma siamo capaci anche di fare questo. Io vengo dalla terra di Pannella, ho dato la cittadinanza onoraria a Pannella e ho contribuito alla laurea in ragione dell'onore, poiché egli ha portato merito alla democrazia italiana (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista e di deputati del gruppo Misto) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307782",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307475_19",
+      "politician_name": "GUSMEROLI Alberto Luigi",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Onorevoli colleghe e colleghi, il tema ci riguarda tutti ed ha a che fare con una serie di parole molto importanti. In primo luogo, l'onestà intellettuale. Il secondo punto è l'importanza della scrittura della legge. L'importanza, perché vedremo che è proprio la scrittura della legge uno dei temi che deve, in qualche modo, riguardarci tutti e, soprattutto, guardare al futuro, oltre che alla risoluzione del passato. Ma noi dobbiamo anche avere a che fare e tenere in forte considerazione il tema dell'esperienza. Perché? Perché, come in qualche modo sappiamo tutti, quasi nessuno ritiene, credo, con onestà intellettuale, che questa legge sia stata scritta bene. L'esperienza conta, conta fortemente. Allora, cominciamo dall'onestà intellettuale. Bisogna avere l'onestà intellettuale di dire che - io non li tengo distinti - superbonus, cessione dei crediti e sconti in fattura, ma io dico anche tutti gli altri bonus edilizi, sono in qualche modo stati utili per la crescita del nostro Paese. Questa è onestà intellettuale. I bonus edilizi esistono dal 1998 e dal 1998 hanno sortito forti effetti. I bonus delle ristrutturazioni erano deducibili in dichiarazioni dei redditi dal 1998, prima nella misura del 34 per cento, poi del 41 per cento, poi del 50 per cento; poi, si sono sommati altri bonus edilizi, ecobonus, sisma bonus , eccetera, ed è arrivato anche il tempo del superbonus 110 per cento. Anche qui, con onestà intellettuale, bisogna dire che, in un periodo post pandemico e di crisi economica, ci stava anche un'operazione, limitata nel tempo, di superbonus; tant'è vero che noi stessi, in un periodo in cui non c'erano 9 miliardi di truffe e 19 miliardi di crediti incagliati, abbiamo chiesto che quantomeno durasse fino alla fine della crisi economica, quindi un anno in più. Però, con la stessa onestà intellettuale, dobbiamo dirci altro. Mi rifaccio alle parole che ha detto prima l'onorevole D'Alfonso, secondo il quale sarebbe stato meglio fare l'80 per cento, non sarebbe cresciuto il costo delle materie prime. Certo, poteva essere, ma poteva essere anche il 110 per cento. A me piace avere onestà intellettuale. Però, dobbiamo dirci che la legge è stata scritta male e di fretta. Questo è l'altro tema forte: non si possono scrivere le leggi male e di fretta. Se un giornale come Italia Oggi titola “Il 110 % modificato 33 volte”, di cui 19 volte il superbonus e 14 volte la cessione del credito e lo sconto in fattura (Il deputato Gusmeroli mostra la prima pagina del quotidiano Italia Oggi) , noi dobbiamo chiederci, se abbiamo onestà intellettuale, se quella legge sia stata scritta bene o male. Se abbiamo onestà intellettuale, diciamo che quella legge è stata scritta male (Applausi dei deputati del gruppo Lega-Salvini Premier) . Dobbiamo dirlo perché, se non facciamo almeno un mea culpa su questa scrittura della legge, noi litigheremo, ed è sbagliato per il Paese litigare. Noi abbiamo infatti necessità di trovare una soluzione per chi ha fatto legittimo affidamento - parliamo di imprese e di famiglie - su una norma di legge che abbiamo scritto male. Per la verità, non è che l'abbiamo scritta tutti, è stata scritta in un periodo storico - con onestà intellettuale torno a dire che poteva starci, ma è stata scritta male - in cui erano al Governo il PD, il MoVimento 5 Stelle, Italia Viva e LeU.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307475",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307790_19",
+      "politician_name": "DELL'OLIO Gianmauro",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io avevo elencato un po' di punti e scritto un discorso, ma chiaramente, dopo i vari interventi, come spesso accade ho dovuto buttare tutto e ricominciare da zero perché, dopo quello che è stato detto in Aula, è doverosa, da parte mia, una spiegazione o almeno un controllo su quello che è stato detto, in particolare su ciò che è stato detto dal relatore, il collega De Bertoldi, che è anche commercialista, e anche dall'onorevole Gusmeroli. In sintesi, ha detto: quanto alla genesi, parliamo di dati oggettivi, abbiamo ereditato una serie di cose. Ha poi detto che abbiamo ereditato frodi per 9 miliardi. Però, cominciamo a fornire i dati oggettivi, cioè che le frodi sul superbonus sono pari a circa 450 milioni, cioè lo 0,7 per cento di tutti i crediti d'imposta (Applausi dei deputati del gruppo MoVimento 5 Stelle) . Tutte le altre frodi riguardano altri bonus edilizi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307790",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto gli studenti e gli insegnati del liceo scientifico Don Bosco Village School di Milano, che assistono ai nostri lavori dalle tribune (Applausi) . Puntualizzo il fatto che sono presenti tutti i deputati interessati alla discussione generale, perché oggi non ci sono votazioni e, quindi, interverranno in questo dibattito. Abbiamo bisogno di una pausa tecnica, quindi sospendo la seduta per pochi minuti. La seduta è sospesa.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308882_19",
+      "politician_name": "SALA Fabrizio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Signor Presidente, signor Sottosegretario, onorevoli colleghi, arriviamo in un momento del dibattito di questo decreto-legge con molto lavoro già effettuato, con un grande lavoro svolto da parte della Commissione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308882",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308760_19",
+      "politician_name": "MANES Franco",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( MISTO-MIN.LING. ). Grazie, signor Presidente. Egregie colleghe ed egregi colleghi, ci troviamo finalmente, forse, a concludere un iter importante di un decreto-legge che ha causato forte preoccupazione nel mondo imprenditoriale, delle libere professioni e per tanti onesti cittadini, non certo, invece, per quella parte della nostra società che ha agito in maniera delinquenziale, commettendo reati e un danno infinito al settore edilizio italiano.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308760",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308857_19",
+      "politician_name": "BORRELLI Francesco Emilio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Vorrei aprire il mio intervento da capogruppo del mio gruppo in Commissione finanze, Alleanza Verdi e Sinistra, ringraziando per il lavoro svolto dal presidente Osnato, dal relatore De Bertoldi, da tutti i componenti e anche, ovviamente, dal Sottosegretario Freni, che è qui presente in Aula. Indipendentemente dalle posizioni diverse, si è lavorato in un clima di dialogo e, quindi, non di inimicizia e pregiudizi, che è uno dei grandi limiti in generale della politica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308857",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308833_19",
+      "politician_name": "CONGEDO Saverio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Sottosegretario, colleghe e colleghi, in apertura di questo intervento credo sia doveroso, da parte mia, sottolineare un dato, evidenziato anche negli interventi di tanti colleghi degli altri gruppi che mi hanno preceduto, ovvero il lavoro qualificato e lo spirito costruttivo che hanno caratterizzato i lavori della VI Commissione (Finanze), grazie alla conduzione del presidente Osnato, all'importante attività che ha svolto il nostro relatore, il collega De Bertoldi, e al contributo qualificato che è arrivato dal Governo, con la presenza in Commissione del Sottosegretario Freni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308833",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308833_19",
+      "politician_name": "CONGEDO Saverio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). …l'iniziativa - mi avvio alla conclusione, grazie, Presidente - di una società privata, che con il suo CEO si è resa disponibile a mettere in piedi un sistema veicolo per poter assorbire questi crediti. Concludo, Presidente, nel dire questo: il risultato raggiunto è quello che, in realtà, Fratelli d'Italia e tutti noi avremmo voluto? Probabilmente no. Da patrioti avremmo voluto fare di più e di meglio in questa situazione per il Paese, però credo di avere la consapevolezza che è stato fatto tutto quanto fosse nelle possibilità di questa maggioranza (Applausi dei deputati del gruppo Fratelli d'Italia) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308833",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307803_19",
+      "politician_name": "FEDE Giorgio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Eccoci qui, oggi siamo ancora a parlare per l'ennesima volta della cessione dei crediti e dei bonus sull'edilizia. Per l'ennesima volta perché, è inutile ricordarlo, da quando noi abbiamo proposto questa misura, che è stata innovativa, che ha lanciato l'economia italiana a livelli…",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307803",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Le chiedo scusa, deputato Fede, la interrompo soltanto per pochi secondi perché mi sono dimenticato di salutare gli studenti e gli insegnanti della Scuola secondaria di primo grado Ovidio di Sulmona, che assistono ai nostri lavori dalla tribuna (Applausi) . Poiché gli interventi in discussione generale sono lunghi, temo che poi se ne sarebbero andati e non avremmo potuto fornire il nostro gradito benvenuto. Grazie, a lei la parola.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307803_19",
+      "politician_name": "FEDE Giorgio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Riparto da capo perché la presenza dei ragazzi, che ringrazio, è importante, e spero che siano appassionati al dibattito che facciamo in quest'Aula. Qui parliamo di futuro e, quindi, forse i ragazzi sono proprio il centro di quest'intervento. Parliamo di futuro perché parliamo di un mondo che sta andando verso il cambiamento climatico, verso una serie di incertezze che minano la fiducia degli italiani e anche dei nostri giovani, e noi dobbiamo lavorare per migliorarlo. Questo è lo spirito che ha mosso queste nostre norme sul superbonus, sui bonus edilizi e sulla cessione dei crediti, per dare nuove opportunità a una Nazione che era ferma e stagnante, colpita gravemente dalla pandemia. Infatti, dobbiamo anche contestualizzare il momento in cui questa norma è nata. Nel momento in cui l'Italia era vuota, ferma, inchiodata da un virus che ci ha colpito e ci ha fatto molto male, noi, fra le prime Nazioni in Europa, abbiamo avuto la forza e il coraggio di pensare a una norma innovativa. Una norma talmente innovativa, Presidente, che, per rilanciare l'economia in questo momento gravissimo, ha portato a risultati che non si vedevano da 35 anni e a un PIL mai visto. Al di là delle chiacchiere, dei teatrini, delle polemiche di parte e strumentali, alla fine contano i numeri e contano le azioni. Il nostro PIL è stato nel 2021 del 6,7 per cento, nel 2022 del 3,9 per cento; complessivamente, un 10,6 per cento in due anni, che è stato un risultato incredibile, nel momento peggiore. Oggi le stime del Governo Meloni ci preannunciano un futuro fatto di decimali, dello 0,6 per cento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307803",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d301436_19",
+      "politician_name": "RAMPELLI Fabio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Allora, abbiamo 15 minuti di tempo: potremmo svolgere un ultimo intervento. Se il relatore accetta - mi riferisco al deputato Santillo -, può intervenire per 15 minuti, altrimenti rinviamo alla riapertura, alle 16. Benissimo, rinviamo alla riapertura.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "301436",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca lo svolgimento di interrogazioni a risposta immediata, alle quali risponderanno il Ministro della Giustizia, il Ministro della Difesa, il Ministro delle Infrastrutture e dei trasporti e la Ministra del Lavoro e delle politiche sociali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308880_19",
+      "politician_name": "GIANASSI Federico",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Signor Ministro, abbiamo appreso, con stupore e sconcerto, che Fratelli d'Italia ha presentato una proposta di legge per abrogare il reato di tortura, cancellando gli effetti della legge del 2017 attraverso la quale, seppur con ritardo, l'Italia si era conformata agli obblighi internazionali che impongono agli Stati nazionali di prevedere all'interno del proprio ordinamento nazionale l'autonomo reato di tortura. Si tratta di un'iniziativa parlamentare gravissima perché in contrasto con gli obblighi internazionali, con principi di civiltà e con le esigenze di tutela delle vittime. È, inoltre, un'iniziativa in contrasto con gli indirizzi programmatici che lei, signor Ministro, ha presentato dinanzi alla Commissione giustizia e in quest'Aula, laddove ha ricordato l'impegno, suo e del Governo, ad adottare in tempi brevi il codice dei crimini internazionali, dei quali la tortura fa parte.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308880",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308798_19",
+      "politician_name": "NORDIO Carlo",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Giustizia .  Grazie, signor Presidente e grazie all'onorevole interrogante. Posso rispondere, senza “se” e senza “ma”, che il Governo non ha alcuna intenzione di abrogare il reato di tortura. Come già ho avuto occasione di spiegare l'11 gennaio di quest'anno, vi è soltanto un aspetto tecnico che deve essere rimodulato per una ragione molto semplice, cioè che il reato di tortura, così com'è strutturato, ha delle carenze tecniche di specificità e tipicità che devono connotare la struttura della norma penale. L'impossibilità di modificare e la volontà ferma del Governo di tener fermo il reato di tortura sono determinate da una ragion pura e da una ragion pratica: la ragion pura è l'ottemperanza a quanto è stato stabilito dalle norme internazionali; la ragion pratica è proprio una ragione di coerenza, dato che questo è un reato particolarmente odioso e abbiamo tutte le intenzioni di mantenerlo, le ha chi vi parla e le ha il nostro Governo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308798",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307374_19",
+      "politician_name": "SERRACCHIANI Debora",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Ministro le devo dire che non solo non ci ha convinto ma ci ha anche preoccupato. Credo che queste carenze tecniche lei le debba chiarire soprattutto – per suo tramite, Presidente, chiederei di spiegarlo al Ministro – al gruppo Fratelli d'Italia che ha presentato una proposta di legge che abroga il reato di tortura. Lo abroga, Ministro, elimina l'articolo 613- bis . Inoltre, elimina l'articolo 613- ter , cioè l'istigazione alla tortura, per sostituirlo con la previsione di una circostanza aggravante comune. Ciò significa, Ministro, che noi non mettiamo assolutamente in dubbio l'onorabilità delle Forze dell'ordine; non hanno bisogno di questo vostro aiuto, perché quella onorabilità è senza ombra di dubbio la base sulla quale quelle donne e quegli uomini tutti i giorni fanno il loro dovere. Quello che invece serve, Ministro, è ricordarci che siamo in un contesto internazionale. Pertanto, non solo non può essere abrogato il reato di tortura, perché ci sono valanghe di provvedimenti internazionali che ci ricordano che non possiamo farlo, ma le chiediamo anche, Ministro, di chiarire a Fratelli d'Italia quali sono le carenze tecniche perché, se va avanti quella proposta di legge, il reato viene abrogato e, se il reato viene abrogato, accade esattamente il contrario di ciò che lei stesso e anche il Ministro Crosetto, che le siede accanto, e il  Ministro Tajani ci avete detto non più tardi del novembre scorso, nel corso di un Consiglio dei ministri, cioè che eravate intenzionati ad approvare un codice contro i crimini internazionali.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307374",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307447_19",
+      "politician_name": "SILVESTRI Francesco",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Intervengo per chiedere conto al Ministro dell'evidente contrasto che c'è tra le parole del Presidente del Consiglio e quelle proprio del Ministro. Il Presidente del Consiglio, il 21 marzo, ha definito puerile la propaganda di chi racconta che l'Italia starebbe spendendo soldi per mandare armamenti in Ucraina, sottraendoli di fatto alle tante necessità dei nostri cittadini. Però lei, Ministro, il 25 gennaio aveva dichiarato che quello che abbiamo dato in questi mesi all'Ucraina è un aiuto che in qualche modo ci impone di ripristinare le scorte che servono per la difesa nazionale. Il punto è: a chi dei due dobbiamo credere? Soprattutto, Ministro, Le chiedo: cosa intende dire quando ci dice che dobbiamo immaginare davanti a noi una guerra lunga? Visto che l'esercito ucraino non ha le possibilità di affrontare una guerra così lunga, ci sta implicitamente dicendo che potrebbe esserci una disponibilità del Governo a inviare le nostre truppe sul campo (Applausi dei deputati del gruppo MoVimento 5 Stelle) ?",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307447",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d300356_19",
+      "politician_name": "CROSETTO Guido",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Difesa . Grazie, Presidente. Un accenno all'ultima: no, l'Italia non ha alcuna intenzione di inviare truppe sul campo. I quesiti posti dall'onorevole interrogante, che ringrazio, investono diversi aspetti sui quali mi preme fare la necessaria chiarezza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "300356",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d300356_19",
+      "politician_name": "CROSETTO Guido",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro della Difesa. Ho finito. Anche in questo caso, le componenti cedute al fine della vita operativa sarebbero state oggetto di programmi di ammodernamento e rinnovamento a prescindere dall'esigenza ucraina.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "300356",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307926_19",
+      "politician_name": "CONTE Giuseppe",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Signor Presidente, signor Ministro, onorevoli colleghi. Signor Ministro, abbiamo seguito la sua risposta. Cerca di rendere conciliabile quello che è inconciliabile. Si sofferma sulla lettera, interpretando il pensiero della Meloni, dicendo che si riferiva solo al decreto. Ci vuol far credere che l'invio previsto in questo decreto non abbia un impatto sul livello di sicurezza del nostro sistema di difesa e non richieda, comunque, in prospettiva, come ha detto, un ripristino più complessivo delle nostre scorte per quanto riguarda gli arsenali militari.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307926",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307926_19",
+      "politician_name": "CONTE Giuseppe",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Perché non venite qui, nel santuario della democrazia, a dirci se e quali sono i limiti? Perché state portando l'Italia in guerra. Rispettate la nostra Costituzione (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307926",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308802_19",
+      "politician_name": "GRIPPO Valentina",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Signor Ministro, la interroghiamo su un tema che riguarda la tutela di un'infrastruttura strategica del Paese e la possibilità stessa di rispettare gli obiettivi del Piano nazionale di ripresa e resilienza che, come noto, prevede di garantire entro il 2026 una connettività Internet a 1 gigabit al secondo per circa 7 milioni di indirizzi e, soprattutto, di colmare il digital divide che affligge il Paese, in particolare nelle aree più interne e periferiche, anche a favore della competitività delle imprese, su cui lei più volte è intervenuto. La rete Tim, com'è noto, è la principale infrastruttura nazionale di trasmissione dati per la pubblica amministrazione, per i privati e per le imprese, e, come noto, è attualmente in vendita al fine di ridurre il forte indebitamento di Tim.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308802",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti. Ringrazio per il quesito e rispondo volentieri, non essendo mia la competenza e, quindi, portando qui competenze di altri Ministeri, di cui porto i pareri che mi sono stati dati per iscritto, perché il MIT su questo c'entra zero. Comunque, per il Governo è importante realizzare una rete delle telecomunicazioni a copertura nazionale, che consenta all'Italia di raggiungere gli obiettivi che si è prefissata. La questione della rete unica rappresenta una priorità nazionale. Per questo sono al vaglio del Governo soluzioni che tengano conto sia degli interessi delle parti in gioco che degli aspetti occupazionali. Stiamo parlando di più di 40.000 dipendenti e penso che questo sia un patrimonio di professionalità che sta a cuore a tutto il Parlamento, tenendo anche conto dell'esigenza di mantenere il controllo pubblico dell'infrastruttura di rete, quale asset strategico soggetto ai vincoli del gestore pubblico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d306382_19",
+      "politician_name": "DEL BARBA Mauro",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Grazie, Presidente. Ringrazio il Ministro per la risposta, anche per essersi fatto, a quanto dice, portavoce di colleghi che hanno maggiori competenze. Per la verità, il Governo si dovrebbe raffrontare con le due Camere, in quanto non siamo certo noi a scegliere gli interlocutori e, come è avvenuto in passato, gli uffici di questa Camera stabiliscono quali sono i Ministeri competenti. Speriamo che questo disorientamento non rispecchi una poca attenzione del Governo, ma lei ci ha rassicurato al riguardo, dicendoci che il Governo sta seguendo con attenzione e rispetto delle dinamiche di mercato. Questo è quello che volevamo sentire.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "306382",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308942_19",
+      "politician_name": "PIZZIMENTI Graziano",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Signor Ministro, la regione Friuli-Venezia Giulia è interessata da tempo da un notevole aumento del traffico di persone e soprattutto di merci. A tale traffico, in larga parte di attraversamento, si aggiunge quello della mobilità interna. Il porto di Trieste in questo caso ha un ruolo molto particolare e rappresenta una grande opportunità per lo sviluppo della logistica della regione, ma anche di tutto il Paese; ulteriori interventi sulla sua capacità infrastrutturale ne accentuerebbero ulteriormente il ruolo di centro nevralgico del commercio marittimo internazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308942",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308942_19",
+      "politician_name": "PIZZIMENTI Graziano",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). …con correlato effetto positivo sulla sicurezza delle aree urbane. Si chiede, pertanto, signor Ministro, quali sono gli investimenti programmati sia per le infrastrutture strategiche sia per il sistema dei trasporti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308942",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti. Grazie. Ringrazio per il quesito perché mi consente di ribadire l'impegno assunto dal Ministero delle Infrastrutture per dare risposte concrete a una delle regioni più produttive d'Europa, quale il Friuli-Venezia Giulia.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308942_19",
+      "politician_name": "PIZZIMENTI Graziano",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( LEGA ). Grazie, Presidente. Chiaramente ringrazio il Ministro, ma soprattutto mi confortano le sue parole, perché, al di là delle cifre, che sono ingenti, c'è una temporalità su quello che potrebbe succedere nei prossimi anni, per lavori, come ha detto giustamente lei, che sono fermi da decenni e soprattutto attesi da parte della popolazione e della città di Udine, in particolare per quanto riguarda il nodo, perché attraversa e taglia la città in due zone completamente diverse l'una dall'altra. Si tratta, quindi, di maggior sicurezza e di maggior tranquillità da parte dei cittadini. La Lunetta di Gorizia, poi, il porto di Trieste e tutte queste infrastrutture rendono il sistema Friuli-Venezia Giulia, con tre porti e quattro interporti, un hub importante non solo per la regione, ma io penso per tutta l'Italia, soprattutto per quanto riguarda il trasporto di merci e di persone per il Nord Est dell'Europa (Applausi dei deputati del gruppo Lega-Salvini Premier).",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308942",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Presidente. Signor Ministro, voglio fare una premessa, prima di illustrare la nostra interrogazione. Il gruppo Noi Moderati è favorevole alla costruzione del ponte e sostiene convintamente questo Governo e l'azione del suo Ministro delle Infrastrutture e dei trasporti.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d302741_19",
+      "politician_name": "SALVINI Matteo",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro delle Infrastrutture e dei trasporti . Ringrazio l'interrogante, partendo dall'assunto che, se ci sono ritardi infrastrutturali in Sicilia, in Calabria e nel Mezzogiorno, non è colpa né del ponte, che non c'è, né di Salvini, che è al Ministero da 5 mesi (Applausi dei deputati del gruppo Lega-Salvini Premier) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "302741",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d300369_19",
+      "politician_name": "ROMANO Francesco Saverio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( NM(N-C-U-I)-M ). Grazie, signor Ministro. Ci confortano, ancora una volta, le sue parole. Dobbiamo, però, tenere conto che l'alta capacità e l'alta velocità sono due cose completamente diverse. Quindi, noi invitiamo la signoria vostra ad essere, da questo punto di vista, assolutamente determinato nell'indicare a un ente importante qual è Ferrovie dello Stato, che ha progettisti importanti, a vedere che tra Palermo e Catania c'è una pianura, non ci sono gallerie, non ci sono montagne, e che, quindi, se anziché un binario ne facciamo due e da alta capacità, facciamo alta velocità, collegando al resto d'Italia, questo le andrà ancora più a merito. La ringraziamo per quanto farà.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "300369",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308851_19",
+      "politician_name": "SCHIFONE Marta",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Signor Ministro, il Governo Meloni, con il decreto Carburanti, ha istituito un Fondo, con dotazione pari a 100 milioni di euro, finalizzato a riconoscere un buono da utilizzare per l'acquisto di abbonamenti per i servizi di trasporto locale e nazionale. Una misura di sostegno, questa, che è stata molto apprezzata, specie dalla platea dei potenziali beneficiari, fra cui studenti, lavoratori pendolari e, comunque, più in generale, le fasce di reddito inferiori ai 35.000 euro, a cui è rivolto lo strumento.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308851",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d309044_19",
+      "politician_name": "CALDERONE Marina Elvira",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra del Lavoro e delle politiche sociali . Grazie, signor Presidente. Ringrazio gli onorevoli interroganti, che chiedono al Governo chiarimenti sullo stato di attuazione del cosiddetto bonus trasporto pubblico. La misura, infatti, rappresenta un sostegno a favore dei cittadini che usufruiscono dei servizi pubblici di trasporto ed è erogata attraverso un Fondo istituito presso il Ministero del Lavoro e delle politiche sociali. Si tratta, quindi, di un aiuto tangibile che il Governo ha voluto assicurare a coloro che rientrano tra le fasce di reddito più basse.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "309044",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308903_19",
+      "politician_name": "MASCARETTI Andrea",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FDI ). Grazie, Presidente. Grazie, signor Ministro, dato che la risposta ci trova soddisfatti. Trova soddisfatto il gruppo di Fratelli d'Italia, perché il bonus trasporti a breve potrà essere richiesto dai cittadini. Si tratta di un aiuto tangibile, che sappiamo essere molto apprezzato, che il Governo ha voluto garantire a quei cittadini che hanno un reddito più basso e che è ampiamente utilizzato dai giovani. Infatti, tra i cittadini che hanno già utilizzato questo tipo di aiuto sono stati ben il 27 per cento, su 2.700.000 utilizzatori, i giovani con meno di 19 anni e, addirittura, il 50 per cento i giovani con meno di 30 anni. Dunque, è una misura utile per tutti coloro che studiano o lavorano e per farlo utilizzano i mezzi di trasporto pubblico locale, i treni regionali, gli interregionali o il servizio ferroviario nazionale. Signor Ministro, penso, ad esempio, alla mia regione, la Lombardia, dove 268.000 cittadini hanno potuto usufruire di questo bonus e penso alla mia città, Milano, dove 242.000 cittadini hanno potuto utilizzare, per viaggiare con ATM, questo bonus .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308903",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "La deputata Evi - onorevole, se vuole anche da seduta, non si preoccupi, ci mancherebbe - ha facoltà di illustrare l'interrogazione Mari ed altri n. 3-00291 (Vedi l' allegato A ) , di cui è cofirmataria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308893_19",
+      "politician_name": "EVI Eleonora",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Signora Ministra, nel 2022 abbiamo visto un'inflazione record e nel 2023 resterà alta, purtroppo, in base agli scenari e secondo i dati che abbiamo di fronte. Al contrario, i salari sono rimasti stagnanti. Il Global wage report 2022-2023 dell'Organizzazione internazionale del lavoro vedeva il nostro Paese maglia nera tra i venti dell'OCSE, essendo i nostri salari più bassi del 12 per cento rispetto al 2008. Oggi più di un lavoratore su dieci si trova in situazione di povertà e l'effetto dell'inflazione è stato devastante, quindi, su stipendi e pensioni che vedono, da un lato, nessuna indicizzazione e, dall'altro lato, anche ritardi nei rinnovi contrattuali e spesso si assiste a rinnovi che prevedono adeguamenti non in linea con l'aumento dei prezzi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308893",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308869_19",
+      "politician_name": "MARI Francesco",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( AVS ). Grazie, Presidente. Signora Ministra, non è sufficiente la sua risposta di fronte al dramma delle famiglie e dei lavoratori italiani. Non è soltanto questione di contrattazione, è questione di politiche economiche, di politiche pubbliche. Non si può risolvere una situazione come quella che abbiamo di fronte attraverso i sostegni alle famiglie. Ben venga lo stimolo alla chiusura di tanti contratti ancora aperti ma, per quanto riguarda le imprese di questo Paese, purtroppo quella indicata non è la cura, quella è la malattia. Da anni, ormai, affidiamo alle imprese, al sostegno alle imprese la possibilità di far crescere la ricchezza in questo Paese e, di conseguenza, il reddito delle lavoratrici e dei lavoratori.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308869",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308879_19",
+      "politician_name": "TENERINI Chiara",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). Grazie, Presidente. Buonasera, Ministro. Premetto che il sistema pensionistico italiano, a valle di numerosi interventi che negli ultimi anni si sono susseguiti, necessita di un complessivo riordino e di una razionalizzazione che consenta un dialogo semplificato per tutti gli assicurati fra le rispettive gestioni assicurative. Si consideri inoltre che qualsiasi iniziativa di riforma in campo previdenziale necessita di un'attenta analisi degli incrementi della spesa pubblica, mantenendo un equilibrio fra la necessità di favorire il ricambio generazionale e il contenimento dei costi generati da nuovi anticipi pensionistici. Si tenga altresì conto dell'oggettiva necessità di rilanciare il ruolo della previdenza complementare che, con l'incremento delle pensioni calcolate con il sistema contributivo, svolge un ruolo cruciale di potenziamento del reddito pensionistico rispetto agli assegni erogati dal primo pilastro. Posto infine che particolare importanza rivestono i meccanismi di staffetta generazionale, al fine di favorire l'ingresso dei giovani nel mondo del lavoro senza disperdere il patrimonio di competenze dei più anziani, con una cooperazione virtuosa fra Stato e imprese per favorire il ricambio generazionale, chiedo di sapere quali iniziative il suo Ministero abbia intenzione di mettere in campo per monitorare la spesa previdenziale presente e futura ed analizzare i vari scenari possibili di intervento nel sistema pensionistico, anche tenendo conto dei trend demografici e occupazionali nel medio e nel lungo periodo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308879",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d309044_19",
+      "politician_name": "CALDERONE Marina Elvira",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministra del Lavoro e delle politiche sociali . Grazie, signor Presidente. Ringrazio l'onorevole Tenerini per il quesito posto, che mi consente di aggiornare il Parlamento sulle iniziative che il Ministero del Lavoro e delle politiche sociali intende assumere per monitorare la spesa previdenziale e analizzare i vari possibili scenari di intervento nel sistema pensionistico.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "309044",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d308879_19",
+      "politician_name": "TENERINI Chiara",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( FI-PPE ). La ringrazio per la risposta, signor Ministro. Ritengo importante l'adozione di un approccio pragmatico allo scopo di monitorare, in modo costante, coerente e sistematico, il rapporto tra la spesa pensionistica e le risorse statali. Un approccio al difficile problema delle pensioni non può avvenire se non attuando un modello che preveda a monte un'analisi accurata del contesto entro cui operare e in tal senso esprimo il mio apprezzamento per l'istituzione dell'Osservatorio per il monitoraggio, creato per analizzare, appunto, l'impatto della spesa previdenziale, la revisione del sistema pensionistico, con particolare riguardo ai sistemi di prepensionamento volti a garantire un efficace ricambio generazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "308879",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla ripresa pomeridiana della seduta sono complessivamente 72, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307892_19",
+      "politician_name": "SANTILLO Agostino",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Va bene, Presidente. Allora, vorrei partire, esimi colleghi e colleghe, dal manifestare tutta la mia comprensione per i colleghi di tutte le forze politiche che in questo percorso di conversione in legge del decreto-legge Cessione dei crediti hanno fatto il possibile e, direi, anche di più, per cercare di trovare delle soluzioni condivisibili. Però, ahimè, rispetto a quello che ho ascoltato stamattina in quest'Aula, è stato un po' come nascondere la polvere sotto al tappeto, perché di questo si tratta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307892",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307804_19",
+      "politician_name": "FENU Emiliano",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie Presidente. Anch'io prima di iniziare, come hanno fatto anche altri colleghi, desidero ringraziare il relatore, l'onorevole De Bertoldi, il presidente Osnato e tutti i colleghi di maggioranza e opposizione per il lavoro che insieme abbiamo svolto in Commissione, un lavoro di riscrittura di una norma che aveva necessità di essere riscritta. Lo abbiamo fatto in parte; però, se l'abbiamo fatto, evidentemente, la norma era sbagliata (Applausi dei deputati del gruppo MoVimento 5 Stelle) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307804",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Colleghi, prima di andare avanti, salutiamo gli studenti e i docenti dell'Istituto di istruzione superiore Federico Meneghini di Edolo, in provincia di Brescia (Applausi) , che oggi seguono i nostri lavori dalle tribune. Benvenuti alla Camera dei deputati.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ha facoltà di replicare il relatore, deputato Andrea De Bertoldi che, avendo esaurito il tempo a disposizione, eventualmente potrà svolgere, se ritiene, un brevissimo intervento. Prendo atto che rinuncia alla replica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307918_19",
+      "politician_name": "DE BERTOLDI Andrea",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Relatore . Grazie, Presidente. La Commissione, preso atto dei contenuti del parere espresso dalla Commissione bilancio sul decreto-legge n. 11 del 2023 relativo alla cessione dei crediti, chiede all'Assemblea un breve rinvio in Commissione del provvedimento, al solo fine di recepire la condizione formulata sul testo, che riguarda l'articolo 1, comma 1, lettera a ), capoverso 1- sexies. Quanto alla durata della sospensione dei lavori dell'Assemblea, Presidente, ritengo sufficiente un'ora, anche tenendo conto dei tempi necessari per la stampa dei relativi testi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307918",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Come convenuto in sede di Conferenza dei presidenti di gruppo, in assenza di obiezioni, la proposta di rinvio in Commissione del provvedimento, nei termini precisati dal relatore - dunque, un'ora - si intende approvata.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d307328_19",
+      "politician_name": "MARATTIN Luigi",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( A-IV-RE ). Presidente, sta avvenendo qualcosa di peculiare, anche perché l'accordo in Conferenza dei presidenti di gruppo mi risulta sia antecedente alla trasmissione di questa nota della Ragioneria che diventa ora motivo di richiesta di rinvio in Commissione.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "307328",
+        "seduta": 78
+      }
+    },
+    {
+      "politician_id": "camera_d50115_19",
+      "politician_name": "GIORGETTI Giancarlo",
+      "date": "2023-03-29",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro dell'Economia e delle finanze . Signor Presidente, onorevoli deputati, a nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 889-A/R: Conversione in legge, con modificazioni, del decreto-legge 16 febbraio 2023, n. 11, recante misure urgenti in materia di cessione dei crediti di cui all'articolo 121 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, nel testo approvato dalla Commissione a seguito del rinvio deliberato dall'Assemblea.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0078",
+      "metadata": {
+        "id_persona": "50115",
+        "seduta": 78
+      }
+    }
+  ]
+}

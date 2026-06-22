@@ -1,0 +1,357 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0595",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2026-01-16",
+    "title": "Assemblea — Seduta n. 595 del 2026-01-16",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 595
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 80, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta in corso (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d308818_19",
+      "politician_name": "MORFINO Daniela",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Sottosegretario, intanto la ringraziamo per la sua presenza in Aula, per rispondere alla nostra interpellanza. Ci aspettavamo la presenza dei Ministri competenti. A onore del vero, il Ministro Abodi ieri ci ha telefonato e ci ha comunicato che non poteva venire, quindi ringraziamo anche lui per questa gentilezza, ma ci aspettavamo la presenza del Ministro dell'Economia e delle finanze o del Ministro per gli Affari europei, il PNRR e le politiche di coesione: evidentemente avevano altro da fare che venire a rispondere a questa interpellanza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "308818",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Onorevole Morfino, lo sa perfettamente, conoscendo i Regolamenti come me, che è il Governo che poi risponde alle interpellanze ed è importante - e guai se non fosse così - che il Governo sia presente. Quindi, ascoltiamo la risposta del Sottosegretario di Stato, Nicola Molteni, prego.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d302762_19",
+      "politician_name": "MOLTENI Nicola",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Interno . Grazie, Presidente. Ringrazio gli onorevoli interroganti per darmi l'opportunità di fare da subito chiarezza sul caso in esame che attiene a un tema a me particolarmente caro come quello della riqualificazione sociale, soprattutto con riferimento ai territori caratterizzati da una maggiore vulnerabilità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "302762",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307388_19",
+      "politician_name": "D'ORSO Valentina",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Io ringrazio il Sottosegretario Molteni anche per la dovizia di particolari, però non mi posso ritenere soddisfatta. O meglio, prendo atto che, per il Governo, a quanto pare, è legittimo utilizzare una struttura commissariale che è stata istituita dal Governo stesso e profumatamente anche pagata - tutto lo staff , la struttura ha dei costi, costi che abbiamo visto stanziare nel decreto Caivano che l'ha istituita - per realizzare interventi e progetti estranei al perimetro e alle finalità che le sono state attribuite, appunto, dalla legge istitutiva. Perché vede, ricordiamo un po', anche per chi magari ci sta ascoltando, la cornice normativa che potrebbe giustificare, anzi, che giustifica l'esistenza stessa della struttura commissariale e i suoi interventi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307388",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d302762_19",
+      "politician_name": "MOLTENI Nicola",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Interno . Grazie, Presidente. Gli onorevoli interpellanti richiamano l'attenzione sulla mancata convocazione da parte del presidente del consiglio comunale di Bareggio di una seduta aperta del consiglio comunale riguardante il tema della TARI locale. La questione è seguita dalla Prefettura di Milano che ha avviato una fitta interlocuzione con l'amministrazione comunale sulla quale mi soffermo in sintesi.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "302762",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d308891_19",
+      "politician_name": "ROGGIANI Silvia",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). La ringrazio, Sottosegretario. Tuttavia, mi corre l'obbligo di dire che tra il 17 dicembre e il 16 gennaio, 10 giorni li moltiplichiamo per 3… benissimo che la prefettura abbia chiesto il 17 dicembre di fare la convocazione entro dieci giorni. Ma siamo al 16 gennaio, quindi, io me la aspetto, dopo che questa discussione è arrivata in quest'Aula, dopo che anche lei ha ribadito che intanto la richiesta era legittima. Mi ha fatto molto piacere che lei abbia ricostruito tutta la vicenda, perché penso che questa ricostruzione fatta da lei - che io non ho fatto - racconti bene quanti cavilli siano stati adottati, del tipo: no, ma questo non riguarda il locale, riguarda il nazionale. Tra l'altro, mi viene da dire - ora cercherò una parola più corretta di quella che mi verrebbe, su cui mi sto censurando - con la collaborazione del segretario comunale - uso questa, mi sono censurata sull'altra - che forse, invece, avrebbe semplicemente dovuto sostenere la richiesta dei consiglieri comunali ai sensi dell'articolo 39 del TUEL e raccomandare che non bisogna avere paura dei momenti di confronto pubblico, lo dicevo anche prima. Quindi, mi auguro, adesso, dal momento che abbiamo fatto questa discussione nell'Aula del Parlamento, che arrivi finalmente la convocazione, che avrebbe già dovuto essere arrivata. Se non arriva la convocazione nella giornata odierna - perché oggi c'è stata qui la discussione, sono passati quasi 30 giorni - da parte del presidente del consiglio comunale, mi auguro che la prefettura svolga il suo ruolo. Per noi è molto importante; è molto importante che si possa sapere di contare sul fatto che, nel momento in cui qualcuno si arroga dei diritti che non ha o di interpretare in un modo scorretto le leggi, ci sia lo Stato (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) , in questo caso rappresentato dalla prefettura, che garantisce che le leggi invece vengano rispettate. Contiamo su di lei (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "308891",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'interpellanza urgente De Maria e Bonafe' n. 200745 (Vedi l' allegato A ) . Chiedo al deputato De Maria se intenda illustrare la sua interpellanza o se si riservi di intervenire in sede di replica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d305698_19",
+      "politician_name": "DE MARIA Andrea",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Presidente, Sottosegretario. Sappiamo tutti di questo evento terribile accaduto nella stazione di Bologna, il 5 gennaio, quando il capotreno Alessandro Ambrosio è stato assassinato in maniera terribile e violenta. I casi di violenza contro il personale ferroviario non sono, purtroppo, una novità. Sono un problema endemico, presente a Bologna come in tante aree del territorio nazionale, più volte denunciato dai sindacati di categoria. Questo omicidio rappresenta indubbiamente un tragico e terribile salto di qualità. Per l'omicidio di Ambrosio è già stato arrestato Marin Jelenic, anzi voglio qui ringraziare, ancora una volta, le Forze dell'ordine per la loro azione investigativa, per avere assicurato il presunto responsabile di questo delitto terribile alla giustizia. Peraltro, si tratta di una persona che aveva già compiuto, da quello che abbiamo letto dai mezzi di informazione, diversi atti violenti ed era stato più volte fermato e identificato.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "305698",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d302762_19",
+      "politician_name": "MOLTENI Nicola",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Interno . Grazie, Presidente. Grazie, onorevole De Maria. A nome del Governo, del Ministro dell'Interno e a titolo personale, esprimo, anche in quest'Aula parlamentare, profondo cordoglio e vicinanza ai familiari di Alessandro Ambrosio, ucciso a Bologna il 5 gennaio scorso.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "302762",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d305698_19",
+      "politician_name": "DE MARIA Andrea",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Sinceramente, no, Presidente, nel senso che io mi aspettavo di comprendere come mai questo provvedimento di allontanamento non è stato attuato e di questo nella risposta del Sottosegretario non ho trovato niente. Ovviamente condivido il richiamo, che abbiamo tutti, al cordoglio per l'assassinio di Ambrosio, la solidarietà ai familiari e ai suoi colleghi di lavoro, come l'impegno a contrastare le situazioni di illegalità, ma a me non interessava un discorso generale, ad esempio, sui CPR, su cui, poi, verrò con alcune considerazioni. L'interpellanza era molto specifica e qui non mi è stata data una risposta, cioè come mai questo provvedimento di allontanamento dal Paese non è stato realizzato. Il provvedimento non è stato attuato e questa persona era libera di girare per le stazioni del Paese pur avendo - come lo stesso Sottosegretario ha ricordato - un alto tasso di pericolosità, perché era stato più volte identificato, fermato, aveva compiuto atti violenti, mi pare, anche devastato un supermercato, era stato fermato perché aveva un coltello. Diciamo che, sul tema che ho posto, non c'è stata una risposta.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "305698",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Onorevoli colleghe e onorevoli colleghi, Sottosegretario Molteni, rappresentante del Governo, questa interpellanza urgente, che abbiamo immediatamente presentato insieme a tanti colleghi del Partito Democratico, muove dalla fortissima emozione che abbiamo provato a poche ore dall'inaccettabile omicidio nei confronti di Alessandro Ambrosio, un ragazzo di 34 anni, dipendente di Trenitalia, brutalmente ucciso nel parcheggio intorno alla stazione di Bologna.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d302762_19",
+      "politician_name": "MOLTENI Nicola",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Sottosegretario di Stato per l'Interno . Presidente, l'onorevole Casu pone la questione della sicurezza nelle grandi città, con particolare riguardo alle zone poste a ridosso delle stazioni ferroviarie, facendo riferimento ai gravissimi e recenti episodi di Bologna e di Roma Termini.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "302762",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d308600_19",
+      "politician_name": "CASU Andrea",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Purtroppo non posso essere assolutamente soddisfatto di questa risposta, seppure nella parte finale si è cercato di citare almeno - e di questo ringraziamo il Governo -l'esistenza del protocollo. Quindi almeno un elemento l'abbiamo assunto: che il Governo è consapevole che questo protocollo esista. Non si può, a distanza ormai di oltre tre anni da quando è stato sottoscritto questo protocollo, continuare a parlare delle misure che dovevano essere intraprese nello stesso modo in cui si parlava quando è stato scritto e siglato il protocollo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "308600",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'interpellanza urgente Filippin ed altri n. 2-00749 (Vedi l' allegato A ) . Chiedo alla deputata Ferrari se intenda illustrare l'interpellanza di cui è cofirmataria o se si riservi di intervenire in sede di replica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d301559_19",
+      "politician_name": "VALENTINI Valentino",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministro delle Imprese e del made in Italy . Grazie. Onorevoli colleghi, il Governo ha già espresso la propria posizione nell'ambito dell'istruttoria golden power sulla strategicità dello stabilimento di Acciaierie Valbruna di Bolzano. Attualmente, il MIMIT è in attesa di comunicazioni ufficiali da parte della provincia autonoma di Bolzano sull'esito dell'avviso pubblico, scaduto ieri, nonché sulle relative valutazioni che l'ente intenderà intraprendere, che si auspica siano coerenti con quelle già espresse dal nostro Dicastero sull'importanza di questo tipo di produzione per il Paese, anche in virtù delle sinergie con lo stabilimento di Acciaierie Valbruna di Vicenza.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "301559",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Ne approfitto per salutare le studentesse, gli studenti e i professori dell'Istituto comprensivo 1° Pontecorvo, che arrivano da Pontecorvo, in provincia di Frosinone, cha assistono ai nostri lavori dalle tribune (Applausi). Siamo così pochi perché è una seduta dedicata alle interpellanze, dunque, sono presenti solo i deputati che interpellano il Governo. Non perché facciamo la settimana corta. Ecco, solo per questo motivo.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d308834_19",
+      "politician_name": "FERRARI Sara",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( PD-IDP ). Grazie, Presidente. Difficilmente posso essere soddisfatta perché la risposta è semplicemente: stiamo attendendo le informazioni dalla provincia autonoma di Bolzano. Avrei avuto piacere di sentirmi dire che, stabilito l'interesse strategico nazionale della produzione, che viene effettuata da Acciaierie Valbruna a Bolzano e a Vicenza, il Governo, a questo punto, attende le risposte per aprire un tavolo di confronto stabile nel quale accompagnare la risoluzione di questo accordo, nato con un contenzioso, perché abbiamo visto che c'è stata l'impugnativa del bando, andato deserto, ora quindi siamo in una fase nuova. Quindi, certamente, si apre una trattativa, una negoziazione tra la provincia autonoma di Bolzano e l'azienda, a cui speriamo partecipino anche le organizzazioni sindacali, magari in un tavolo gestito, ospitato, organizzato dal Ministero, che possa accompagnare una risoluzione che sia interessante per tutti; interessante nel senso che vada incontro agli interessi - che non sono solo del territorio di Bolzano, del territorio di Vicenza - dei lavoratori di quelle zone geografiche, interessi evidentemente socio-economici delle nostre due regioni, provincia autonoma di Bolzano e regione Veneto, ma che abbia, stante l'interesse strategico nazionale, un appoggio, la solidarietà, con uno sforzo nel trovare una soluzione che incontri gli interessi più generali di un comparto strategico. E, quindi, interessi anche europei rispetto al contributo che l'Italia può dare all'autonomia energetica e produttiva dell'Unione europea.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "308834",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Passiamo all'interpellanza urgente Barzotti ed altri n. 200746 (Vedi l' allegato A ) . Chiedo alla deputata Barzotti se intenda illustrare la sua interpellanza o se si riservi di intervenire in sede di replica.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Nella notte tra l'8 e 9 gennaio un lavoratore di 55 anni di Brindisi, che lavorava presso un cantiere connesso ai Giochi olimpici di Milano-Cortina, ha avuto un malore e ha perso la vita. Faceva il vigilante, uno di quei lavori poveri, che ancora esistono e che fanno purtroppo parte del nostro sistema Paese. Uno di quei 100.000 lavoratori della vigilanza privata, che dovrebbero trovare attenzione normativa e, invece, si trovano spesso e volentieri in condizioni di sfruttamento e precarietà. Prima di tutto mi permetta di manifestare le nostre condoglianze, di tutto il MoVimento 5 Stelle, alla famiglia del lavoratore che è morto sul posto di lavoro, di manifestare tutta la nostra solidarietà e di mandare un abbraccio sincero. Questa morte, Presidente, è un po' il simbolo delle contraddizioni del nostro Paese: mentre Pietro lamentava condizioni di lavoro proibitive, precarie, l'ennesimo contratto a termine, turni di lavoro massacranti, freddo incredibile, inadeguatezza dei dispositivi di protezione individuale, l'uscita dal gabbiotto dove lavorava ogni due ore per verificare le condizioni del cantiere, la fiamma olimpica accende e attraversa tutto il nostro Paese dandogli lustro.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d301559_19",
+      "politician_name": "VALENTINI Valentino",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Vice Ministro delle Imprese e del made in Italy . Grazie, Presidente. Onorevoli colleghi, desidero innanzitutto esprimere, anche a nome del Governo, profondo cordoglio e sincera vicinanza alla famiglia del signor Pietro Zantonini, la cui tragica scomparsa ha colpito l'intera comunità nazionale.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "301559",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Saluto la seconda aliquota di studentesse, studenti e professori dell'Istituto comprensivo 1° Pontecorvo, di Pontecorvo, in provincia di Frosinone, che assistono ai nostri lavori dalle tribune (Applausi) . Grazie per essere alla Camera dei deputati. Stiamo concludendo la seduta dedicata alle interpellanze e, quindi, per questo, oggi l'Aula è sostanzialmente vuota.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d308001_19",
+      "politician_name": "BARZOTTI Valentina",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "( M5S ). Grazie, Presidente. Vice Ministro, non mi posso ritenere assolutamente soddisfatta per la risposta, per tantissimi motivi, primo fra tutti perché non è la prima volta che, di fronte a drammi che occorrono nel mondo del lavoro, io sento il Governo dire che ci sarà la massima collaborazione istituzionale. Penso, ad esempio, all'ultima occasione per quanto riguarda quello che è accaduto al lavoratore di Siena nell'ambito del test del carrello presso la PAM, dove, appunto, c'è stato il licenziamento, annullato poi in tribunale. Bisogna sempre aspettare che i lavoratori vadano e si facciano giustizia da soli presso le aule di tribunale. Quindi, qui, io vorrei ben capire in che cosa consiste la vostra collaborazione istituzionale, perché, per quanto mi riguarda, sono soltanto belle parole.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "308001",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto che, con distinte lettere in data 14 e 15 gennaio 2026, i presidenti delle Commissioni Affari sociali e Lavoro hanno manifestato l'esigenza - sulla quale hanno convenuto i rappresentanti dei gruppi delle Commissioni medesime - di posticipare ad altro calendario l'avvio della discussione in Assemblea, attualmente previsto dal vigente calendario dei lavori a partire da lunedì 19 gennaio, delle seguenti proposte di legge proposte di legge: proposta di legge n. 2319 ​, recante riconoscimento della cardiomiopatia quale malattia invalidante e disposizioni per la diagnosi, la cura e l'assistenza delle persone che ne sono affette; proposta di legge n. 2 ​ e abbinate, recante misure a sostegno della maternità e della paternità.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Avverto infine che, nell' allegato A al resoconto stenografico della seduta odierna, sarà pubblicata l'organizzazione dei tempi per l'esame del disegno di legge recante legge annuale sulle piccole e medie imprese e per l'esame della mozione concernente iniziative in materia previdenziale (Vedi l' allegato A ) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    },
+    {
+      "politician_id": "camera_d307130_19",
+      "politician_name": "MULE' Giorgio",
+      "date": "2026-01-16",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che sarà iscritta all'ordine del giorno della seduta di martedì 20 gennaio 2026 l'assegnazione, in sede legislativa, della seguente proposta di legge, della quale la sotto indicata Commissione, cui era stata assegnata in sede referente, ha chiesto, con le prescritte condizioni, il trasferimento alla sede legislativa, che proporrò alla Camera a norma del comma 6 dell'articolo 92 del Regolamento:",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0595",
+      "metadata": {
+        "id_persona": "307130",
+        "seduta": 595
+      }
+    }
+  ]
+}

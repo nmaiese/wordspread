@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "camera_sten_19_sed0102",
+    "source": "Camera dei Deputati",
+    "chamber": "camera",
+    "legislature": "19",
+    "source_type": "chamber_speech",
+    "document_type": "Resoconto stenografico dell'Assemblea",
+    "date": "2023-05-15",
+    "title": "Assemblea — Seduta n. 102 del 2023-05-15",
+    "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0102",
+    "raw_text": "",
+    "metadata": {
+      "seduta": 102
+    }
+  },
+  "interventions": [
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-05-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Comunico che, ai sensi dell'articolo 46, comma 2, del Regolamento, i deputati in missione a decorrere dalla seduta odierna sono complessivamente 71, come risulta dall'elenco consultabile presso la Presidenza e che sarà pubblicato nell' allegato A al resoconto stenografico della seduta odierna (Ulteriori comunicazioni all'Assemblea saranno pubblicate nell' allegato A al resoconto della seduta odierna) .",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0102",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 102
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-05-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Il Ministro per i Rapporti con il Parlamento, con lettera in data 10 maggio 2023, ha presentato alla Presidenza il seguente disegno di legge, che è stato assegnato, ai sensi dell'articolo 96- bis , comma 1, del Regolamento, in sede referente, alle Commissioni riunite I (Affari costituzionali) e V (Bilancio):",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0102",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 102
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-05-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "L'ordine del giorno reca il seguito della discussione del disegno di legge n. 1067-A: Conversione in legge, con modificazioni, del decreto-legge 31 marzo 2023, n. 35, recante disposizioni urgenti per la realizzazione del collegamento stabile tra la Sicilia e la Calabria.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0102",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 102
+      }
+    },
+    {
+      "politician_id": "camera_d307774_19",
+      "politician_name": "CIRIANI Luca",
+      "date": "2023-05-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": ", Ministro per i Rapporti con il Parlamento . Grazie, Presidente. Onorevoli deputati, a nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 1067-A: “Conversione in legge, con modificazioni, del decreto-legge 31 marzo 2023, n. 35, recante disposizioni urgenti per la realizzazione del collegamento stabile tra la Sicilia e la Calabria”, nel testo approvato dalle Commissioni.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0102",
+      "metadata": {
+        "id_persona": "307774",
+        "seduta": 102
+      }
+    },
+    {
+      "politician_id": "camera_d305704_19",
+      "politician_name": "ASCANI Anna",
+      "date": "2023-05-15",
+      "context": "Assemblea",
+      "source_type": "chamber_speech",
+      "text": "Secondo quanto previsto dal vigente calendario dei lavori dell'Assemblea, a seguito della posizione della questione di fiducia sull'articolo unico del disegno di legge n. 1067-A: “Conversione in legge, con modificazioni, del decreto-legge 31 marzo 2023, n. 35, recante disposizioni urgenti per la realizzazione del collegamento stabile tra la Sicilia e la Calabria” (scadenza: 30 maggio 2023) , nel testo delle Commissioni, la votazione per appello nominale avrà luogo nella seduta di domani, martedì 16 maggio, a partire dalle ore 12, previe dichiarazioni di voto a partire dalle ore 10,30.",
+      "source_url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=assemblea&tipoDoc=stenografico&idSeduta=0102",
+      "metadata": {
+        "id_persona": "305704",
+        "seduta": 102
+      }
+    }
+  ]
+}
